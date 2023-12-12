@@ -119,12 +119,12 @@ if __name__ == "__main__":
         return input_texts[id]
         # print(df.iloc[id].to_dict())
 
-    ids = list(range(len(input_texts)))
+    
     # st.title('DEMO')
 
-    count = 0
+    # count = 0
     put_markdown('## Hello there')
-    process = True
+    # process = True
     # if 'clicked' not in st.session_state:
     #     st.session_state.clicked = False
     # def click_button():
@@ -135,66 +135,95 @@ if __name__ == "__main__":
     reject_i = []
 
 
-    def Onclick(x):
-        global accept_i
-        accept_i.append(x.split()[-1])
-        return x
+    # def Onclick(x):
+    #     global accept_i
+    #     accept_i.append(x.split()[-1])
+    #     return x
 
     # while True:
         # if st.session_state.clicked:
     # print("VAOOOOOO", count)
 
-    for i, id in enumerate(ids[:10]):
-        st.subheader(f"This is profile {i}")
-        st.text(print_profile(id))
-        if st.checkbox(f"Accept {i}", key=f"Accept {count} {i}"):
-            accept_i.append(i)
-        elif st.checkbox(f"Reject {i}", key=f"Reject {count} {i}"):
-            reject_i.append(i)
-    if len(accept_i) > 0 or len(reject_i) > 0:
-        print("accept_i", accept_i)
-        print("reject_i", reject_i)
+    # for i, id in enumerate(ids[:10]):
+    #     st.subheader(f"This is profile {i}")
+    #     st.text(print_profile(id))
+    #     if st.checkbox(f"Accept {i}", key=f"Accept {count} {i}"):
+    #         accept_i.append(i)
+    #     elif st.checkbox(f"Reject {i}", key=f"Reject {count} {i}"):
+    #         reject_i.append(i)
+    # if len(accept_i) > 0 or len(reject_i) > 0:
+    #     print("accept_i", accept_i)
+    #     print("reject_i", reject_i)
 
-    id2score = {}
-    for i in accept_i:
-        id = ids[i]
-        scores, sorted_ids = dense_searcher.search(np.expand_dims(all_embeddings[id], axis=0), len(input_texts))
-        for id, score in zip(sorted_ids[0], scores[0]):
-            if id not in id2score:
-                id2score[id] = score
-            else:
-                id2score[id] += score
+    # id2score = {}
+    # for i in accept_i:
+    #     id = ids[i]
+    #     scores, sorted_ids = dense_searcher.search(np.expand_dims(all_embeddings[id], axis=0), len(input_texts))
+    #     for id, score in zip(sorted_ids[0], scores[0]):
+    #         if id not in id2score:
+    #             id2score[id] = score
+    #         else:
+    #             id2score[id] += score
 
-    for i in reject_i:
-        id = ids[i]
-        scores, sorted_ids = dense_searcher.search(np.expand_dims(- all_embeddings[id], axis=0), len(input_texts))
-        for id, score in zip(sorted_ids[0], scores[0]):
-            if id not in id2score:
-                id2score[id] = score
-            else:
-                id2score[id] += score
+    # for i in reject_i:
+    #     id = ids[i]
+    #     scores, sorted_ids = dense_searcher.search(np.expand_dims(- all_embeddings[id], axis=0), len(input_texts))
+    #     for id, score in zip(sorted_ids[0], scores[0]):
+    #         if id not in id2score:
+    #             id2score[id] = score
+    #         else:
+    #             id2score[id] += score
 
-    id2score = sorted(id2score.items(), key=lambda item: -item[1])
-    ids = [x[0] for x in id2score]
+    # id2score = sorted(id2score.items(), key=lambda item: -item[1])
+    # ids = [x[0] for x in id2score]
 
 
-    ids = []
+    
     def Onclick(x):
-        global accept_i
-        accept_i.append(x.split()[-1])
+        global accept_i, reject_i
+        if x.startswith("Accept"):
+            accept_i.append(int(x.split()[-1]))
+        elif x.startswith("Reject"):
+            reject_i.append(int(x.split()[-1]))
         return x
 
     def Apply(x):
-        global ids
-        print(accept_i)
+        global ids, accept_i, reject_i
+
+        if len(accept_i) > 0 or len(reject_i) > 0:
+            id2score = {}
+            for i in accept_i:
+                id = ids[i]
+                scores, sorted_ids = dense_searcher.search(np.expand_dims(all_embeddings[id], axis=0), len(input_texts))
+                for id, score in zip(sorted_ids[0], scores[0]):
+                    if id not in id2score:
+                        id2score[id] = score
+                    else:
+                        id2score[id] += score
+
+            for i in reject_i:
+                id = ids[i]
+                scores, sorted_ids = dense_searcher.search(np.expand_dims(- all_embeddings[id], axis=0), len(input_texts))
+                for id, score in zip(sorted_ids[0], scores[0]):
+                    if id not in id2score:
+                        id2score[id] = score
+                    else:
+                        id2score[id] += score
+            id2score = sorted(id2score.items(), key=lambda item: -item[1])
+            ids = [x[0] for x in id2score]
+        
+
         accept_i = []
+        reject_i = []
         L = []
-        for i in range(num):
-            L.append(["text", f"This is number {i}"])
+        
+        for i, id in enumerate(ids):
+            L.append(["text", f"This is profile {i}"])
+            L.append(["text", print_profile(id)])
             L.append(['buttons', put_buttons([f'Accept {i}', f'Reject {i}'], onclick=Onclick)])
-        L.append(["text", f"DMMMMMMM {accept_i}"])
+        
         put_table(L)
         return x
 
-
+    ids = list(range(len(input_texts)))
     put_buttons(["APPLY"], onclick=Apply)
