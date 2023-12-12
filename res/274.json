@@ -1,0 +1,861 @@
+{
+    "summary": "As a Software Engineer at VMware, I specialize in back-end development for the Guided Network Troubleshooting (GNT) team, driving innovation and delivering high-quality software solutions. I have submitted research work on factorizing the domain knowledge in anomaly detection, and conducted a research project on various models for this purpose, such as FB Prophet and ARIMA. I have also designed and developed back-end features based on ML/AI for Deep Scan analysis, which enables automated root cause analysis for network issues. Additionally, I have designed and developed public REST APIs for GNT, and mentored newly joined developers. \n\nI have over six years of experience in working with Java-based applications and designing and developing micro-services. I have previously worked at Oracle and Micro Focus, where I have implemented terraform interfaces, MARS service, DB backup automation, Resource Principal feature, command line interfaces, user migration script, and analytics framework, among others. I have also volunteered to solve AWS public cloud bugs in VMware's product. I hold a B.E. degree in Electronics and Communications Engineering from SJCE Mysuru, and I have obtained multiple certifications, such as Certified SAFe® 4 Practitioner, Statement of Accomplishment from DataCamp, and Building APIs with Swagger and the OpenAPI Specification from LinkedIn Learning. I am a motivated, optimistic team player with an eye for details, and I aim to work in an organization that provides enough opportunities to use my technical skills for the growth of the organization as well as mine.\n\nBeyond work, I enjoy trekking, bike riding, and spending time with friends.",
+    "industryName": "Computer Software",
+    "lastName": "Bhat",
+    "locationName": "India",
+    "student": false,
+    "geoCountryName": "India",
+    "geoCountryUrn": "urn:li:fs_geo:102713980",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 4,
+        "day": 21
+    },
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Vinayak",
+    "entityUrn": "urn:li:fs_profile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:105307040"
+    },
+    "geoLocationName": "Bengaluru, Karnataka",
+    "location": {
+        "basicLocation": {
+            "countryCode": "in"
+        }
+    },
+    "headline": "VMware Member Of Technical Staff | Innovative Problem Solver | Customer-Centric Solutions | Delivering Excellence Since 2017",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQErivyac00BbQ/profile-displayphoto-shrink_",
+    "img_99_100": "100_100/0/1635160274105?e=1707955200&v=beta&t=lRk9wc51n8Plg2LGks-jw2obACuheYVM_gpqP2iw4EU",
+    "img_199_200": "200_200/0/1635160274105?e=1707955200&v=beta&t=uWp_C1BdTBrDPU8ftjysxJCd2ceIrcNGtf77UeujrkY",
+    "img_337_337": "800_800/0/1635160274105?e=1707955200&v=beta&t=qywUnNALXhLYhM2hc0tZvqATdJ0QEMR2ZpY4MMpaZKY",
+    "profile_id": "ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM",
+    "member_urn": "urn:li:member:461371303",
+    "public_id": "vbhat1",
+    "experience": [
+        {
+            "locationName": "Bengaluru, Karnataka, India",
+            "entityUrn": "urn:li:fs_position:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,1917574982)",
+            "geoLocationName": "Bengaluru, Karnataka, India",
+            "geoUrn": "urn:li:fs_geo:105214831",
+            "companyName": "VMware",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "description": "Experienced software developer(R&D) at VMware Aria Operations for Networks, specializing in back-end development for the Guided Network Troubleshooting (GNT) team. Committed to driving innovation and delivering high-quality software solutions.\n\n- Submitted research work to factorize the domain knowledge in anomaly detection\n- Conducted a research project on Anomaly Detection using various models such as FB Prophet, ARIMA, etc.\n- Design and developed backend features based on ML/AI for Deep Scan analysis to do the automated root cause analysis \n- Designed and developed public REST APIs for GNT\n- Mentoring newly joined developers\n- Volunteered to solve AWS public cloud bugs in the product",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Member Of Technical Staff - P3",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2988",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQExT0dPXHVRcg/company-logo_"
+        },
+        {
+            "locationName": "Bangaon Area, India",
+            "projects": [
+                "urn:li:fs_project:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,33436959)"
+            ],
+            "geoUrn": "urn:li:fs_geo:100851729",
+            "companyName": "Oracle",
+            "description": "Worked as a micro-service developer in the Database as a Service(DBaaS) organization.\n- Implemented terraform interfaces for DBaaS operations\n- Designed and implemented MARS(Management, Analytics and Reporting Service)\n- Worked on a model to automate the DB backup to safeguard the sensitive data\n- Worked on Resource Principal feature to improvise the security of the product\n- Developed various workflows for DBaaS operations",
+            "title": "Member Technical Staff - IC2",
+            "companyUrn": "urn:li:fs_miniCompany:1028",
+            "entityUrn": "urn:li:fs_position:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,1565951053)",
+            "geoLocationName": "Bangaon Area, India",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "region": "urn:li:fs_region:(in,6615)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHYCgYovUuPtQ/company-logo_"
+        },
+        {
+            "locationName": "Bangalore",
+            "projects": [
+                "urn:li:fs_project:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,33550820)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,1061466744)",
+            "geoLocationName": "Bangalore",
+            "companyName": "Micro Focus (formerly HP / Hewlett Packard Enterprise)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2017
+                }
+            },
+            "description": "Worked as an R&D Engineer at Data Protector, a backup and recovery solution.\n\n- Implemented command line interfaces for user management operations\n- Introduced user migration script to migrate the legacy user to identity server\n- Improved product security\n- Developed backend APIs for reporting\n- Developed ETL jobs for handling data for reporting feature of the product\n- Developed analytics framework for visualising the data collected by the telemetry server\n- Improvised customer experience by automating disaster recovery steps",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Systems/Software Engineer",
+            "companyUrn": "urn:li:fs_miniCompany:11501011",
+            "honors": [
+                "urn:li:fs_honor:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,1928991466)"
+            ],
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFSc67wX6OrjA/company-logo_"
+        },
+        {
+            "locationName": "Bengaluru Area, India",
+            "projects": [
+                "urn:li:fs_project:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,32913118)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,913879811)",
+            "geoLocationName": "Bengaluru Area, India",
+            "companyName": "ISRO Satellite Centre",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "description": "- Developed a mathematical model for behaviour of tornadoes and Cyclones.\n- Simulated the mathematical model on MATLAB for satellite testing",
+            "title": "Project Trainee"
+        }
+    ],
+    "education": [
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,1551837326)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,879455874)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,879476112)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,879499155)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,879512452)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,879539523)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,879578436)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,32060524)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,32113026)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,32278167)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,32344125)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,32458959)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,32576422)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,32615020)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,232652704)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,232694963)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,232723927)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,232798331)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,232861653)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,232939931)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,232999403)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,233027780)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,233084290)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,233129932)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,233171297)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,233290125)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,233322329)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,233405278)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,233445952)",
+                "urn:li:fs_course:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,233460658)"
+            ],
+            "projects": [
+                "urn:li:fs_project:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,33287877)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,314581041)",
+            "grade": "CGPA 9.36",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "degreeName": "Graduate",
+            "schoolName": "SJCE Mysuru",
+            "fieldOfStudy": "Electronics and Communications Engineering"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Kannada",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Scaled Agile Inc",
+            "name": "Certified SAFe® 4 Practitioner",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "displaySource": "youracclaim.com",
+            "url": "https://www.youracclaim.com/badges/51ce194b-2de8-4a3d-8caa-df0a3bd7a0a0/linked_in_profile"
+        },
+        {
+            "authority": "DataCamp",
+            "name": "Statement of Accomplishment ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3227175",
+                "entityUrn": "urn:li:fs_miniCompany:3227175",
+                "name": "DataCamp",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630577190840/datacampinc_logo?e=1710374400&v=beta&t=M4ihjefbeiBtH3MaXjv6Hy1GFqPwhwY-3Aoi5lrbw5s",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630577190840/datacampinc_logo?e=1710374400&v=beta&t=sYfsSksTEfsz8amOmLrlirLSwQKNYwtu7j-qJJY43Os",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630577190840/datacampinc_logo?e=1710374400&v=beta&t=U8J34-Pn5v-spb6yh3JqsVlZBkUE46gsq2CJUf0NwHI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                    }
+                },
+                "universalName": "datacampinc",
+                "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                "trackingId": "CGylMzP0SViFGi5nv12ZkQ=="
+            },
+            "displaySource": "datacamp.com",
+            "companyUrn": "urn:li:fs_miniCompany:3227175",
+            "url": "https://www.datacamp.com/statement-of-accomplishment/track/a0e9091b80b4982feff6a8d8667f0868195e27a7"
+        },
+        {
+            "authority": "LinkedIn Learning",
+            "name": "Building APIs with Swagger and the OpenAPI Specification",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "ARQBLbYDQ9hRoOlkgt_f35Y-aj4c",
+            "company": {
+                "objectUrn": "urn:li:company:72770449",
+                "entityUrn": "urn:li:fs_miniCompany:72770449",
+                "name": "LinkedIn Learning",
+                "showcase": false,
+                "active": false,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630561118836?e=1710374400&v=beta&t=t47Tmnf9WuL3cPAZW3vn3ELPfFglgya4FklBNjaO7DQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630561118836?e=1710374400&v=beta&t=oiJjK7HTfNlFm1umLzQh80D22uQrrLfkmhuDRSFcU0g",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630561118836?e=1710374400&v=beta&t=fFUEgOeDYutkEbu2OynVHVdV-Ny75NdV2GkSqKl6vAE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEoKJWiP3zR7A/company-logo_"
+                    }
+                },
+                "universalName": "linkedineducation",
+                "dashCompanyUrn": "urn:li:fsd_company:72770449",
+                "trackingId": "MOOPoPFgRc2AcRWIFAUAlQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:72770449"
+        },
+        {
+            "authority": "LinkedIn Learning",
+            "name": "Creating Your First Spring Boot Microservice",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "AYmxKlDI6j2C4eicaRlfiKR_j923",
+            "company": {
+                "objectUrn": "urn:li:company:72770449",
+                "entityUrn": "urn:li:fs_miniCompany:72770449",
+                "name": "LinkedIn Learning",
+                "showcase": false,
+                "active": false,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630561118836?e=1710374400&v=beta&t=t47Tmnf9WuL3cPAZW3vn3ELPfFglgya4FklBNjaO7DQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630561118836?e=1710374400&v=beta&t=oiJjK7HTfNlFm1umLzQh80D22uQrrLfkmhuDRSFcU0g",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630561118836?e=1710374400&v=beta&t=fFUEgOeDYutkEbu2OynVHVdV-Ny75NdV2GkSqKl6vAE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEoKJWiP3zR7A/company-logo_"
+                    }
+                },
+                "universalName": "linkedineducation",
+                "dashCompanyUrn": "urn:li:fsd_company:72770449",
+                "trackingId": "tid0wMPZQeiVnKn29fDdJQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:72770449"
+        },
+        {
+            "authority": "LinkedIn Learning",
+            "name": "Extending, Securing, and Dockerizing Spring Boot Microservices",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "AcxDHAz2JIzJOIQ0Wn1IhaP1AvZ0",
+            "company": {
+                "objectUrn": "urn:li:company:72770449",
+                "entityUrn": "urn:li:fs_miniCompany:72770449",
+                "name": "LinkedIn Learning",
+                "showcase": false,
+                "active": false,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630561118836?e=1710374400&v=beta&t=t47Tmnf9WuL3cPAZW3vn3ELPfFglgya4FklBNjaO7DQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630561118836?e=1710374400&v=beta&t=oiJjK7HTfNlFm1umLzQh80D22uQrrLfkmhuDRSFcU0g",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630561118836?e=1710374400&v=beta&t=fFUEgOeDYutkEbu2OynVHVdV-Ny75NdV2GkSqKl6vAE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEoKJWiP3zR7A/company-logo_"
+                    }
+                },
+                "universalName": "linkedineducation",
+                "dashCompanyUrn": "urn:li:fsd_company:72770449",
+                "trackingId": "n5QinIeARuSh59EF7NlOAg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:72770449"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Linear Algebra for Machine Learning and Data Science",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "NA7P48CTB4BX",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "FcR4/wcwT0+22Pit5u/JTA=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/NA7P48CTB4BX"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Calculus for Machine Learning and Data Science",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "HA9P44TSBK6G",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "M/YAwc5PSp6pVlFLQl4CWQ=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/HA9P44TSBK6G"
+        }
+    ],
+    "volunteer": [],
+    "honors": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,1061466744)",
+            "description": "In recognition of various contributions towards the Data Protector 10.03 release.",
+            "title": "Certificate of Appreciation",
+            "issueDate": {
+                "month": 3,
+                "year": 2018
+            },
+            "issuer": "Balaji Venkatraman"
+        }
+    ],
+    "projects": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,1565951053)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Vinayak",
+                        "lastName": "Bhat",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM",
+                        "occupation": "VMware Member Of Technical Staff | Innovative Problem Solver | Customer-Centric Solutions | Delivering Excellence Since 2017",
+                        "objectUrn": "urn:li:member:461371303",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1697689903282?e=1707955200&v=beta&t=MKhTvhrJZl0MJgDszXlB_3cbn3F45ovRaeWwN_0fENU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1697689903282?e=1707955200&v=beta&t=WsjiLxnRrU0F-_P3c9j2QZ8yiEL5xSbkMlsG60g2-Bw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQEzgoJbsMkZxQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "vbhat1",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 99,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1635160274105?e=1707955200&v=beta&t=lRk9wc51n8Plg2LGks-jw2obACuheYVM_gpqP2iw4EU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 199,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1635160274105?e=1707955200&v=beta&t=uWp_C1BdTBrDPU8ftjysxJCd2ceIrcNGtf77UeujrkY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 337,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1635160274105?e=1707955200&v=beta&t=l86XvSMoVE4ImyDJqVOVzJpqhnmUCPAgDIpnzRkciO0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 337
+                                    },
+                                    {
+                                        "width": 337,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1635160274105?e=1707955200&v=beta&t=qywUnNALXhLYhM2hc0tZvqATdJ0QEMR2ZpY4MMpaZKY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 337
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQErivyac00BbQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "EUyqplToT72Chl9IsveW1g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,33436959,323434410)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "description": "A dockerized user-management service integrated with MySQL.\nCheck out the README file in the project for more detail.",
+            "title": "User Management Service",
+            "url": "https://github.com/VinayakNBhat/user-management"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,1061466744)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Vinayak",
+                        "lastName": "Bhat",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM",
+                        "occupation": "VMware Member Of Technical Staff | Innovative Problem Solver | Customer-Centric Solutions | Delivering Excellence Since 2017",
+                        "objectUrn": "urn:li:member:461371303",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1697689903282?e=1707955200&v=beta&t=MKhTvhrJZl0MJgDszXlB_3cbn3F45ovRaeWwN_0fENU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1697689903282?e=1707955200&v=beta&t=WsjiLxnRrU0F-_P3c9j2QZ8yiEL5xSbkMlsG60g2-Bw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQEzgoJbsMkZxQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "vbhat1",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 99,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1635160274105?e=1707955200&v=beta&t=lRk9wc51n8Plg2LGks-jw2obACuheYVM_gpqP2iw4EU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 199,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1635160274105?e=1707955200&v=beta&t=uWp_C1BdTBrDPU8ftjysxJCd2ceIrcNGtf77UeujrkY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 337,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1635160274105?e=1707955200&v=beta&t=l86XvSMoVE4ImyDJqVOVzJpqhnmUCPAgDIpnzRkciO0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 337
+                                    },
+                                    {
+                                        "width": 337,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1635160274105?e=1707955200&v=beta&t=qywUnNALXhLYhM2hc0tZvqATdJ0QEMR2ZpY4MMpaZKY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 337
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQErivyac00BbQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "EUyqplToT72Chl9IsveW1g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,33550820,323433674)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "description": "Python implementation that extracts data from JSON files and visualizes the same using Python native packages. The project is still being worked on.",
+            "title": "Data Analytics",
+            "url": "https://github.com/VinayakNBhat/data-analytics"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,314581041)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Vinayak",
+                        "lastName": "Bhat",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM",
+                        "occupation": "VMware Member Of Technical Staff | Innovative Problem Solver | Customer-Centric Solutions | Delivering Excellence Since 2017",
+                        "objectUrn": "urn:li:member:461371303",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1697689903282?e=1707955200&v=beta&t=MKhTvhrJZl0MJgDszXlB_3cbn3F45ovRaeWwN_0fENU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1697689903282?e=1707955200&v=beta&t=WsjiLxnRrU0F-_P3c9j2QZ8yiEL5xSbkMlsG60g2-Bw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQEzgoJbsMkZxQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "vbhat1",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 99,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1635160274105?e=1707955200&v=beta&t=lRk9wc51n8Plg2LGks-jw2obACuheYVM_gpqP2iw4EU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 199,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1635160274105?e=1707955200&v=beta&t=uWp_C1BdTBrDPU8ftjysxJCd2ceIrcNGtf77UeujrkY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 337,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1635160274105?e=1707955200&v=beta&t=l86XvSMoVE4ImyDJqVOVzJpqhnmUCPAgDIpnzRkciO0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 337
+                                    },
+                                    {
+                                        "width": 337,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1635160274105?e=1707955200&v=beta&t=qywUnNALXhLYhM2hc0tZvqATdJ0QEMR2ZpY4MMpaZKY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 337
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQErivyac00BbQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "EUyqplToT72Chl9IsveW1g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,33287877,323432698)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "description": "A Home Automation System(HAS) was implemented using Google Firebase connected Android application. I got an opportunity to learn Android application development in this project.\nDeveloped this cloud-connected application and integrated the Raspberry PI controller on-site to control electronic appliances. It was an IoT project done as part of the partial fulfilment of the academic year.",
+            "title": "HAS using cloud connected Android application."
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,913879811)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Vinayak",
+                        "lastName": "Bhat",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM",
+                        "occupation": "VMware Member Of Technical Staff | Innovative Problem Solver | Customer-Centric Solutions | Delivering Excellence Since 2017",
+                        "objectUrn": "urn:li:member:461371303",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1697689903282?e=1707955200&v=beta&t=MKhTvhrJZl0MJgDszXlB_3cbn3F45ovRaeWwN_0fENU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1697689903282?e=1707955200&v=beta&t=WsjiLxnRrU0F-_P3c9j2QZ8yiEL5xSbkMlsG60g2-Bw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQEzgoJbsMkZxQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "vbhat1",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 99,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1635160274105?e=1707955200&v=beta&t=lRk9wc51n8Plg2LGks-jw2obACuheYVM_gpqP2iw4EU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 199,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1635160274105?e=1707955200&v=beta&t=uWp_C1BdTBrDPU8ftjysxJCd2ceIrcNGtf77UeujrkY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 337,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1635160274105?e=1707955200&v=beta&t=l86XvSMoVE4ImyDJqVOVzJpqhnmUCPAgDIpnzRkciO0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 337
+                                    },
+                                    {
+                                        "width": 337,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1635160274105?e=1707955200&v=beta&t=qywUnNALXhLYhM2hc0tZvqATdJ0QEMR2ZpY4MMpaZKY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 337
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQErivyac00BbQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "EUyqplToT72Chl9IsveW1g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM,32913118,323432682)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABt_96cBfdziTOavEoUTWNNzUc9D8ibxngM"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "description": "Designed a mathematical for detecting Cyclones and Tornadoes in satellite. \nMATLAB implementation to visualize the data received in the satellite was also done as part of this project.",
+            "title": "Mathematical Model for Cyclones and Tornadoes"
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "summary": "I am backed with consulting experience in establishing security and controls to protect core business applications and assets of fortune 500 clients across industries,including Technology Media and Telecommunications, Consumer & Industrial Products, Automotive,Power& Utilities sectors, Food & Beverage and Pharmaceutical/Life Sciences. \n\nConsistently work my best to lead and deliver security requirements in the ever so dynamic SAP environments.  As a seasoned security consultant with business acumen, I bring the following  to the table.\n \n•Strong understanding and working knowledge of SAP S/4 HANA, HANA DB FIORI & ECC Authorizations and GRC Access controls from a business impact perspective and technical feasibility.\n\n•Immense business knowledge, innovation and insight to create distinctive value for clients\n\n•Setting direction and mobilize resources around shared goals while managing team dynamics to create an inclusive environment.\n\n•Result oriented; intervention, owning and driving multitude of issues to closure.\n\n•Keen eye to details and wider horizon that looks beyond the initial envisage that helps in delivering greater value to clients and improve relations overall.\n\nHave been part of 12 large-scale S/4 Hana implementations/transformations thus far across variety of sectors.\n\nCore Competencies: SAP ERP Security Implementation, ECC(R/3) Security. SAP GRC Access Control 10.1, SAP HANA Database, SAP Fiori, SAP User Administration, SAP Upgrades, SAP CRM Security, GUI Scripting, SAP Business Process Risk and Controls ,ITGC controls , Security Compliance and AMI, integration with ECC.",
+    "industryName": "Information Technology & Services",
+    "lastName": "Bhargav",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Shashank",
+    "entityUrn": "urn:li:fs_profile:ACoAABWTy34Bfgb3H0nlgk4OAhF7iQhGejt2aX0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102938188"
+    },
+    "geoLocationName": "Amstelveen, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Secure and Protect client ERPs- SAP Security and Controls, GRC. Foodie, Rookie Baker and Food Science Enthusiast.  ",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D5603AQF1CmFaKI4UNw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1681831017677?e=1707955200&v=beta&t=8rAfeCzZwbx5HTVUKWh2PcaHtgDfKu2qWf_Ihj1ZEQU",
+    "img_200_200": "200_200/0/1681831017677?e=1707955200&v=beta&t=T6nvmmKzXxLunmmV2SyfuMPIvJlYHevkSBRq-vISXK8",
+    "img_400_400": "400_400/0/1681831017677?e=1707955200&v=beta&t=36AwYkxzNMRvDyhQd-kVhRZXBCoicK8E6N37Fda6Ymc",
+    "img_581_581": "800_800/0/1681831017677?e=1707955200&v=beta&t=Ykto5N4tVryICsGN_uRslPsVdguI9m3AqVNY3waiAhc",
+    "profile_id": "ACoAABWTy34Bfgb3H0nlgk4OAhF7iQhGejt2aX0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABWTy34Bfgb3H0nlgk4OAhF7iQhGejt2aX0",
+    "member_urn": "urn:li:member:362007422",
+    "public_id": "shashank-bhargav-v",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABWTy34Bfgb3H0nlgk4OAhF7iQhGejt2aX0,2174929302)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Accenture the Netherlands",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "description": "SAP Security | GRC AC | Fiori 3.0 | Security Redesign and system Hardening",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Associate Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2677373",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEvdevYh89t7Q/company-logo_"
+        },
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABWTy34Bfgb3H0nlgk4OAhF7iQhGejt2aX0,1969040858)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Capgemini",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "description": "SAP Security SME, Business Process Risks and GRC AC",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior SAP Security Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:157240",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQF_q1awsuPNAg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABWTy34Bfgb3H0nlgk4OAhF7iQhGejt2aX0,1787372633)",
+            "companyName": "Deloitte India (Offices of the US)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "description": "SAP ERP Security Consultant | S/4 HANA | HANA Db | Fiori | GRC AC | CRM | IS-U",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Senior Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:1038",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABWTy34Bfgb3H0nlgk4OAhF7iQhGejt2aX0,1787370926)",
+            "companyName": "Deloitte India (Offices of the US)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Advisory Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:1038",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_"
+        },
+        {
+            "locationName": "Hyderabad Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAABWTy34Bfgb3H0nlgk4OAhF7iQhGejt2aX0,1215709188)",
+            "geoLocationName": "Hyderabad Area, India",
+            "geoUrn": "urn:li:fs_geo:90009650",
+            "companyName": "Deloitte India (Offices of the US)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Advisory Analyst",
+            "region": "urn:li:fs_region:(in,6508)",
+            "companyUrn": "urn:li:fs_miniCompany:1038",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABWTy34Bfgb3H0nlgk4OAhF7iQhGejt2aX0,233929590)",
+            "school": {
+                "objectUrn": "urn:li:school:40864",
+                "entityUrn": "urn:li:fs_miniSchool:40864",
+                "active": true,
+                "schoolName": "Chaitanya Bharathi Institute Of Technology",
+                "trackingId": "yWDd1UNvT8S+KD+N5UrjZw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEG5oVXXN2sgQ/company-logo_"
+            },
+            "activities": "TOASTMASTER,President Literary club CBIT, Advisory member Cultural Club. ",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100351",
+            "degreeName": "Bachelor’s Degree",
+            "schoolName": "Chaitanya Bharathi Institute Of Technology",
+            "fieldOfStudy": "Electrical and Electronics Engineering",
+            "schoolUrn": "urn:li:fs_miniSchool:40864"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Scrum Alliance",
+            "name": "Certified ScrumMaster® (CSM®)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "1467108",
+            "company": {
+                "objectUrn": "urn:li:company:871226",
+                "entityUrn": "urn:li:fs_miniCompany:871226",
+                "name": "Scrum Alliance",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1653513869439/scrum_alliance_logo?e=1710374400&v=beta&t=uvFYvzhVLqYwk8L82QdofbPwoMn6n62oYgLWpbi5ZDc",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1653513869439/scrum_alliance_logo?e=1710374400&v=beta&t=SzjPBQ-KhC-AP-5yLmwe5gx162kZdXw_OzBblWsoaCI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1653513869440/scrum_alliance_logo?e=1710374400&v=beta&t=Mx_d3qbtmtBhjy9BbQ-LO00QHikkHHhaGUGR7v_tLQU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHoLJQjSDYtpg/company-logo_"
+                    }
+                },
+                "universalName": "scrum-alliance",
+                "dashCompanyUrn": "urn:li:fsd_company:871226",
+                "trackingId": "OqQYu80dSx2qhY8pKmjYZg=="
+            },
+            "displaySource": "bcert.me",
+            "companyUrn": "urn:li:fs_miniCompany:871226",
+            "url": "https://bcert.me/smhanbcbh"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

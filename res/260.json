@@ -1,0 +1,383 @@
+{
+    "summary": "Bachelor’s degree in Business/ Managerial Economics at Hogeschool van Amsterdam.\nMore than 7 years of financial/ business experience in diverse markets. \nI am eager to grow and develop myself in both a social and professional way and I am flexible in facing new environments and challenges. \n\nSkills\n• Financial accounting \n• Financial analysis\n• Financial reporting\n• Internal controls\n• Consulting\n• Project control\n• ERP systems (for example Exact, Oracle and SAP)\n• Excel (Pivot tables, functions like Vlookup, basic Macro usage)\n• Strong communicator, fluent in Dutch and professional in English\n\nObjective\nLearning as much as possible within the world of finance. Use my gained knowledge and experience, to help evolution within companies.",
+    "industryName": "Financial Services",
+    "lastName": "Rommers",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 2,
+        "day": 15
+    },
+    "industryUrn": "urn:li:fs_industry:43",
+    "firstName": "Roy",
+    "entityUrn": "urn:li:fs_profile:ACoAAAr-IiABgvtjOXZ5QGNS0OXt5RoSxB8FqIc",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102011674"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Finance professional Yacht - currently Financial Controller DRS",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5103AQFTT2eN1_rBGw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1516539258640?e=1707955200&v=beta&t=dxde_ZCKlGxzW3If6P_GS4s6eMPDAZVhXpE4HfXvKQc",
+    "img_200_200": "200_200/0/1516539258582?e=1707955200&v=beta&t=iet9Off-jkC3W90l8nAOpDnu-i1PMz41ZqlnCqkvvEc",
+    "img_300_300": "800_800/0/1516539258512?e=1707955200&v=beta&t=hhzYCHEczWn4hHx0spib1miW3OooQxlNTjqlyB7R98g",
+    "profile_id": "ACoAAAr-IiABgvtjOXZ5QGNS0OXt5RoSxB8FqIc",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAr-IiABgvtjOXZ5QGNS0OXt5RoSxB8FqIc",
+    "member_urn": "urn:li:member:184427040",
+    "public_id": "roy-rommers",
+    "experience": [
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAr-IiABgvtjOXZ5QGNS0OXt5RoSxB8FqIc,1942795229)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "Yacht",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "description": "Please contact me or Yacht if you have an opportunity for the following jobs:\n\n* Project control\n* Business control\n* Financial control\n* GL accountant",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Finance professional",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3329",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEvkgtY4n4w9Q/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAr-IiABgvtjOXZ5QGNS0OXt5RoSxB8FqIc,1954640059)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Detailresult Groep",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "description": "-Period-end closing\n-Quarter-end closing\n-Year-end closing\n-Annual Financial Statements (jaarrekeningen)\n-Consolidation on multiple levels\n-Financial reporting",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Interim Financial Controller",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:67848",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFW-drXZZp35A/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAr-IiABgvtjOXZ5QGNS0OXt5RoSxB8FqIc,1361522544)"
+            ],
+            "locationName": "Hoofddorp, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:104196145",
+            "companyName": "elipsLife",
+            "description": "-Accounts payable process owner\n-Manage accounts receivable with process owner Contract Management\n-Accounting for the Netherlands\n-Accounting and responsible for Irish business\n-Control suspense accounts\n-Month-end closing\n-Quarter-end closing\n-Year-end closing",
+            "title": "Financial Accountant",
+            "companyUrn": "urn:li:fs_miniCompany:3086539",
+            "entityUrn": "urn:li:fs_position:(ACoAAAr-IiABgvtjOXZ5QGNS0OXt5RoSxB8FqIc,1672882607)",
+            "geoLocationName": "Hoofddorp, Noord-Holland, Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Insurance"
+                ]
+            },
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHisv27A-CWzg/company-logo_"
+        },
+        {
+            "locationName": "Noord Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAr-IiABgvtjOXZ5QGNS0OXt5RoSxB8FqIc,1423269555)",
+            "geoLocationName": "Noord Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Tata Steel",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "description": "As Project Controller for Tata Steel my key responsibilities and challenges are:\n\n- Cost estimating\n- Planning and Scheduling\n- Financial forecasting \n- Risk management\n- Management reporting\n- Scope and change management\n- Maintaining the project baseline\n- Supplier performance",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Mining & Metals"
+                ]
+            },
+            "title": "Project Controller",
+            "region": "urn:li:fs_region:(nl,5682)",
+            "companyUrn": "urn:li:fs_miniCompany:166262",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEdQIE0htk3-Q/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAr-IiABgvtjOXZ5QGNS0OXt5RoSxB8FqIc,1324717285)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Lagardère Travel Retail the Netherlands",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "description": "As business controller for Lagardère Travel Retail the Netherlands my key responsibilities and challenges are:\n\n- Support for making budgets and forecasts\n- Support with business cases\n- Provide management information\n- Provide business reports for stakeholders\n- Maintenance for masterdata in SAP\n- Ad hoc cases\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Junior Business Controller",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:2533080",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFNG_HigwCthg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAr-IiABgvtjOXZ5QGNS0OXt5RoSxB8FqIc,839371063)",
+            "school": {
+                "objectUrn": "urn:li:school:4062083",
+                "entityUrn": "urn:li:fs_miniSchool:4062083",
+                "active": true,
+                "schoolName": "NTI",
+                "trackingId": "Gg/H4CfdSDifWZBI+MgejQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQEK9SRqSbVYSQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2025
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101443",
+            "degreeName": "Master of Business Administration - MBA",
+            "schoolName": "NTI",
+            "fieldOfStudy": "Financieel management (Financial management)",
+            "schoolUrn": "urn:li:fs_miniSchool:4062083"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAr-IiABgvtjOXZ5QGNS0OXt5RoSxB8FqIc,110924471)",
+            "school": {
+                "objectUrn": "urn:li:school:15428",
+                "entityUrn": "urn:li:fs_miniSchool:15428",
+                "active": true,
+                "schoolName": "Amsterdam University of Applied Sciences",
+                "trackingId": "n5Bbpw9zRDmUj5F/p8HbbQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Bachelor of Science (BS)",
+            "schoolName": "Hogeschool van Amsterdam",
+            "fieldOfStudy": "Business/Managerial Economics",
+            "schoolUrn": "urn:li:fs_miniSchool:15428"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAr-IiABgvtjOXZ5QGNS0OXt5RoSxB8FqIc,215256422)",
+            "school": {
+                "objectUrn": "urn:li:school:15428",
+                "entityUrn": "urn:li:fs_miniSchool:15428",
+                "active": true,
+                "schoolName": "Amsterdam University of Applied Sciences",
+                "trackingId": "O6UIXmjpQFq7elGzFDioTw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "degreeName": "MMCI - Management of Creativity and Innovation",
+            "schoolName": "Hogeschool van Amsterdam",
+            "fieldOfStudy": "Minor",
+            "schoolUrn": "urn:li:fs_miniSchool:15428"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "German",
+            "proficiency": "ELEMENTARY"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "IBEX",
+            "name": "VCA V.O.L. (Veiligheid voor Operationeel Leidinggevenden)",
+            "licenseNumber": "658322.00216746"
+        },
+        {
+            "authority": "The Lean Six Sigma Company",
+            "name": "Lean Practitioner",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "74581795",
+            "company": {
+                "objectUrn": "urn:li:company:2121707",
+                "entityUrn": "urn:li:fs_miniCompany:2121707",
+                "name": "The Lean Six Sigma Company",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1667394667405/the_lean_six_sigma_company_logo?e=1710374400&v=beta&t=1guL1Igf3GIZk0Zb5o54KxwrMO9wjnFiWmE3G8z8EEY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1667394667405/the_lean_six_sigma_company_logo?e=1710374400&v=beta&t=UEuiudr_ucQsnQYfA2RXlLMbacKMgQv-Ar7XqMnfpiw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1667394667405/the_lean_six_sigma_company_logo?e=1710374400&v=beta&t=tMB1mQKNtr4TrK5UrjL08FYkGscqSZ_tHVVITIFwU00",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFGF8EXJsvb2w/company-logo_"
+                    }
+                },
+                "universalName": "the-lean-six-sigma-company",
+                "dashCompanyUrn": "urn:li:fsd_company:2121707",
+                "trackingId": "WCDOphEuR8eslRR1Mw6j/Q=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2121707"
+        },
+        {
+            "authority": "Opleidingsinstituut Lindenhaeghe",
+            "name": "Wft Basis",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "8888888761970-0",
+            "company": {
+                "objectUrn": "urn:li:company:1555187",
+                "entityUrn": "urn:li:fs_miniCompany:1555187",
+                "name": "Lindenhaeghe",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1677491103626/lindenhaeghe_logo?e=1710374400&v=beta&t=y-rYpmxw0vC5aq7_tcdWSwpOzKSWlC0vOHnGJ_3qXqs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1677491103626/lindenhaeghe_logo?e=1710374400&v=beta&t=OCA7Dqy3Wfa7FeShgseVoLC837qzRmsXS5HfrBQGWYk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1677491103626/lindenhaeghe_logo?e=1710374400&v=beta&t=VrjSQXJrgm0FhywgPhUvc-hATCwSpXb3_5ZXLmfUF2c",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEmJSKyveGAIg/company-logo_"
+                    }
+                },
+                "universalName": "lindenhaeghe",
+                "dashCompanyUrn": "urn:li:fsd_company:1555187",
+                "trackingId": "lu4b7qtER+itUw4dMvfKzw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1555187"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

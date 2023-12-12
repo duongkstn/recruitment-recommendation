@@ -1,0 +1,263 @@
+{
+    "industryName": "Consumer Goods",
+    "lastName": "Hoenen",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:25",
+    "firstName": "Silva",
+    "entityUrn": "urn:li:fs_profile:ACoAAABuG7EBKz3AZB1ugMlzqZioZGXNkOPev8E",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Payroll Specialist Europe | Enstall ",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFA8Mu2z3H98w/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1665508009311?e=1707955200&v=beta&t=y9QCcMsmXAPBAHddLVdbHbqxmCRhDJ9njQvBMNDesh4",
+    "img_200_200": "200_200/0/1665508009311?e=1707955200&v=beta&t=SZxg3z29TIyMwr3wp9pWbsRocyy9m7Qa8a3EAtQ15hQ",
+    "img_400_400": "400_400/0/1665508009311?e=1707955200&v=beta&t=rPnAb9apTV8dJ9qasi-P9qghGWajHn3TRPX5JrAtrCg",
+    "img_800_800": "800_800/0/1665508009311?e=1707955200&v=beta&t=CQr5MTOocQTP9JL7LvcD86cTOBlU45TnefpPvN-zUlE",
+    "profile_id": "ACoAAABuG7EBKz3AZB1ugMlzqZioZGXNkOPev8E",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAABuG7EBKz3AZB1ugMlzqZioZGXNkOPev8E",
+    "member_urn": "urn:li:member:7216049",
+    "public_id": "silva-hoenen-b554bb2",
+    "experience": [
+        {
+            "locationName": "Deventer, Overijssel, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAABuG7EBKz3AZB1ugMlzqZioZGXNkOPev8E,2282222751)",
+            "geoLocationName": "Deventer, Overijssel, Nederland",
+            "geoUrn": "urn:li:fs_geo:102921991",
+            "companyName": "Enstall",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Renewables & Environment"
+                ]
+            },
+            "title": "Payroll Specialist Europe",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:69262349",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQGZYr9j7DYr5g/company-logo_"
+        },
+        {
+            "locationName": "Schiphol, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAABuG7EBKz3AZB1ugMlzqZioZGXNkOPev8E,1899589391)",
+            "geoLocationName": "Schiphol, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:113095277",
+            "companyName": "GrandVision BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "a. i. People & Culture, Reward & Compensation Coördinator",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:34008",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGQW5MaujRdGA/company-logo_"
+        },
+        {
+            "locationName": "Ede,  Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAABuG7EBKz3AZB1ugMlzqZioZGXNkOPev8E,861165697)",
+            "geoLocationName": "Ede,  Netherlands",
+            "companyName": "Kimberly-Clark",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "description": "Day to day Human Resources activities by providing a full scope of support services to ensure the leadership, employees, processes, programs and policies are aligned and optimized to achieve company goals. I carried out the responsibilities in the following functional areas: Employee Relations, HR data management in HRIS (Workday), employee onboarding, benefits, payroll management (ADP), policy and compliance and performance management.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "HR Generalist Benelux & Nordic",
+            "companyUrn": "urn:li:fs_miniCompany:3439",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFahtjOdf_ETQ/company-logo_"
+        },
+        {
+            "locationName": "Ede, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAABuG7EBKz3AZB1ugMlzqZioZGXNkOPev8E,321801230)",
+            "geoLocationName": "Ede, Netherlands",
+            "companyName": "Wetlands International",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2012
+                }
+            },
+            "description": "Assisting the COO of Wetlands International with developing, advising on and implementing personnel policies and processes within Wetlands International. I am involved in a range of activities and these cover areas such as: staffing, recruitment, pay, conditions of employment, performance management and employee counselling.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Environmental Services"
+                ]
+            },
+            "title": "HR Officer",
+            "companyUrn": "urn:li:fs_miniCompany:124245",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQE028XxJ5u86A/company-logo_"
+        },
+        {
+            "locationName": "Hoevelaken, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAABuG7EBKz3AZB1ugMlzqZioZGXNkOPev8E,179476873)",
+            "geoLocationName": "Hoevelaken, Netherlands",
+            "companyName": "Mindray Medical",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2011
+                }
+            },
+            "description": "Supporting the Global CHR, VP Sales Europe and General Managers performing all-round HR duties. Responsible for providing support in the various human resource functions, which would include recruitment, staffing, performance monitoring, employee counseling and HR/Payroll administration. Being the HR coordinator for all EU offices where Mindray was located.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Medical Devices"
+                ]
+            },
+            "title": "HR Officer Europe",
+            "companyUrn": "urn:li:fs_miniCompany:218990"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAABuG7EBKz3AZB1ugMlzqZioZGXNkOPev8E,770025193)",
+            "school": {
+                "objectUrn": "urn:li:school:5072128",
+                "entityUrn": "urn:li:fs_miniSchool:5072128",
+                "active": true,
+                "schoolName": "NHA Distance Learning, Panningen, Holland",
+                "trackingId": "+Okro0diTA+AA7S+EYbp3g==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHDnPMQ1OqDPw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100990",
+            "schoolName": "NHA Cursussen en opleidingen",
+            "fieldOfStudy": "Economie",
+            "schoolUrn": "urn:li:fs_miniSchool:5072128"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAABuG7EBKz3AZB1ugMlzqZioZGXNkOPev8E,3665422)",
+            "school": {
+                "objectUrn": "urn:li:school:15429",
+                "entityUrn": "urn:li:fs_miniSchool:15429",
+                "active": true,
+                "schoolName": "HAN University of Applied Sciences",
+                "trackingId": "NXBiJKGHQrCRinrPA1Xtqg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQE_-3BSObKKhw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            },
+            "description": "Human Resources and Quality Management were the core subjects of my study program. In addition, a great deal of attention was paid to communication and intercultural competencies and to working in teams.",
+            "degreeName": "Bachelor",
+            "schoolName": "HAN University of Applied Sciences",
+            "fieldOfStudy": "Management, Economics & Law",
+            "schoolUrn": "urn:li:fs_miniSchool:15429"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAABuG7EBKz3AZB1ugMlzqZioZGXNkOPev8E,15608701)",
+            "school": {
+                "objectUrn": "urn:li:school:17909",
+                "entityUrn": "urn:li:fs_miniSchool:17909",
+                "active": true,
+                "schoolName": "San Francisco State University",
+                "trackingId": "mFWc0H4/QA2wipGk+vVTLA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEmtPpL5PxkTw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "description": "The completed courses:\n1. Hospitality Human Resource Management - Policies and practices in hospitality human resources management. \n2. International Business and Multicultural Relations - International business: social, political, cultural and economic environments and their effects on functional management. \n3. Managing Diversity in the Workplace - In-depth exploration of how gender, ethnicity, sexual orientation, age, physical ability and size impact employee experiences and management's challenges and opportunities for developing the talents of diverse workers.\n4. Ethics at Work - Ethical issues in work, professions, and business. Making ethics work in real settings, not on treating ethics as a vague ideal.\n5. Women and Work - Position and roles of women in the productive activities of society--paid and unpaid. Patterns of household and work place employment, discrimination in pay and working conditions, relevant laws, explanations for the evolution of patterns.",
+            "degreeName": "Bachelor of Business Administration (BBA)",
+            "schoolName": "San Francisco State University",
+            "fieldOfStudy": "International Business and Management Studies",
+            "schoolUrn": "urn:li:fs_miniSchool:17909"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

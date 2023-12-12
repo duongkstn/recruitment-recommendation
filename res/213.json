@@ -1,0 +1,228 @@
+{
+    "summary": "Hola 👋\n\nI am Lucila and I focus on helping Cloud Developers and Engineers find their ideal next career move and scale businesses' tech teams with the best talent out there to ensure maximum growth 🙌\n\nArrows Group is a fantastic technology recruiter. We enable business transformation by connecting your business to the technology skills market.\n\nHow can I help you?\n\n✔ HELP YOU FIND YOUR NEXT CAREER MOVE\n✔ HELP HIRING MANAGERS FIND THE BEST CANDIDATES\n✔ ASSIST WITH THE HIRING PROCESS (saving YOUR time)\n\nLet's make things happen! 🚀🎆🤝\n\nPlease get in touch with me if you're interested. I'll see how I can help you and'd love to hear more about you. \n\nLucila.pacin@arrowsgroup.com 📩",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Pacin",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Lucila",
+    "entityUrn": "urn:li:fs_profile:ACoAABoiDsQBKgNXLTlfeHTC_G32s2ICuidzXZg",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Recruitment Specialist | Infra & Cloud | 🏹",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQEvrg7m1kppeg/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1701420851051?e=1702972800&v=beta&t=KSKCBU659suZLek8uJo2WIrTEoHiGko3AwJHwsjr63E",
+    "img_200_200": "200_200/0/1701420851051?e=1702972800&v=beta&t=JSaw2I7AG_A7pP2FyD_R6dU-jWIgZ-HY0FKIvc8dgwc",
+    "img_602_602": "800_800/0/1701420851051?e=1702972800&v=beta&t=9hnzFsLrtv04Qx5RAfimpgJJAla49SuqDV1FGWhADXg",
+    "img_100_100": "100_100/0/1701420851051?e=1702972800&v=beta&t=d1Q4-Y5dLdzRBKRNI2b_gc3yKCVHr-QaGUUcxGCYnv8",
+    "profile_id": "ACoAABoiDsQBKgNXLTlfeHTC_G32s2ICuidzXZg",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABoiDsQBKgNXLTlfeHTC_G32s2ICuidzXZg",
+    "member_urn": "urn:li:member:438439620",
+    "public_id": "lucila-pacin",
+    "experience": [
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABoiDsQBKgNXLTlfeHTC_G32s2ICuidzXZg,2068043129)",
+            "geoLocationName": "Netherlands",
+            "companyName": "Arrows Group Global",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "description": "Our customers range from household names to pioneering start-ups, all around the world. And our job is simple: to ensure they have access to the best tech talent and workforce management services on the market to enable their growth and expansion. OUR VISION: To help shape the future by empowering people. OUR MISSION: To enable your business transformation by building teams that blend cultural fit with technical innovation. Arrows Group is a specialist technology recruiter and we help some of the world’s most exciting brands to grow and innovate by finding them the right skills at the right time.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Associate Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:34565",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEQynk4GSBngg/company-logo_"
+        },
+        {
+            "locationName": "Buenos Aires, Argentina",
+            "entityUrn": "urn:li:fs_position:(ACoAABoiDsQBKgNXLTlfeHTC_G32s2ICuidzXZg,1577880992)",
+            "geoLocationName": "Buenos Aires, Argentina",
+            "companyName": "Honorable Cámara de Diputados de la Nación",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "description": "Manage employee attendance. Organize positions to be covered by security agents throughout the building. Update calendars and schedule daily and weekly meetings and events. Fluid and constant communication with advisors, deputies and/or hierarchical staff who organizes and authorizes the entry of people to events that take place. Communicate new developments to the front office in order to improve workflow. Keep track of all authorities entering and leaving the building. Authorize the entry, exit and removal of all types of property and equipment. Record in a minute book on a daily basis.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Public Policy"
+                ]
+            },
+            "title": "Staff Supervisor",
+            "companyUrn": "urn:li:fs_miniCompany:3741252",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFitP1cU0W8vA/company-logo_"
+        },
+        {
+            "locationName": "Buenos Aires Province, Argentina",
+            "entityUrn": "urn:li:fs_position:(ACoAABoiDsQBKgNXLTlfeHTC_G32s2ICuidzXZg,2007991734)",
+            "geoLocationName": "Buenos Aires Province, Argentina",
+            "geoUrn": "urn:li:fs_geo:101279968",
+            "companyName": "Estructuras BASE",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "description": "Goal: Improve organisational engagement\n\nConduct data collection, surveys, and other research methods to detect HR problems or identify causes.\nCreation of a leadership training plan.\nImplementation of new internal communication channels.\nDesign and implementation of a program of flexible benefits.",
+            "title": "Human Resources Consultant",
+            "region": "urn:li:fs_region:(ar,0)"
+        },
+        {
+            "locationName": "Buenos Aires, Argentina",
+            "entityUrn": "urn:li:fs_position:(ACoAABoiDsQBKgNXLTlfeHTC_G32s2ICuidzXZg,2012894394)",
+            "geoLocationName": "Buenos Aires, Argentina",
+            "geoUrn": "urn:li:fs_geo:112883245",
+            "companyName": "Honorable Cámara de Diputados de la Nación",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "description": "Answer and forward incoming phone calls.\nOrganize and sort of emails and documentations.\nMaintain office security by following safety procedures and controlling access via the reception desk.\nProvide basic and accurate information in-person and via phone/email.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Public Policy"
+                ]
+            },
+            "title": "Front Office Receptionist",
+            "region": "urn:li:fs_region:(ar,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3741252",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFitP1cU0W8vA/company-logo_"
+        },
+        {
+            "locationName": "Buenos Aires Province, Argentina",
+            "entityUrn": "urn:li:fs_position:(ACoAABoiDsQBKgNXLTlfeHTC_G32s2ICuidzXZg,2007996136)",
+            "geoLocationName": "Buenos Aires Province, Argentina",
+            "geoUrn": "urn:li:fs_geo:101279968",
+            "companyName": "Industrias MAS ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2013
+                }
+            },
+            "description": "Perform administrative duties, such as maintaining employee databases and job descriptions up to date. \nMaintain proper records of employee attendance and leaves.\nOnboarding of new hires.\nManage various HR documentation and internal databases, such as holiday, training, and sick leave.\nWork closely with suppliers and successfully handled different kinds of administrative duties.",
+            "title": "Human Resources Assistant",
+            "region": "urn:li:fs_region:(ar,0)"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABoiDsQBKgNXLTlfeHTC_G32s2ICuidzXZg,638910371)",
+            "school": {
+                "objectUrn": "urn:li:school:10104",
+                "entityUrn": "urn:li:fs_miniSchool:10104",
+                "active": true,
+                "schoolName": "Universidad de Ciencias Empresariales y Sociales",
+                "trackingId": "paSFDr7fQWOixDCW/BlkZA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQGnFLB5b0Y82w/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101460",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Universidad de Ciencias Empresariales y Sociales",
+            "fieldOfStudy": "Human Resources Management/Personnel Administration, General",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:10104"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABoiDsQBKgNXLTlfeHTC_G32s2ICuidzXZg,816265639)",
+            "school": {
+                "objectUrn": "urn:li:school:10135",
+                "entityUrn": "urn:li:fs_miniSchool:10135",
+                "active": true,
+                "schoolName": "Universidad Nacional de La Matanza",
+                "trackingId": "eNJwMiReRJ6lsKhVKaqrpw==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQHSskgnDxSUCQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2012
+                }
+            },
+            "degreeName": "Technical",
+            "schoolName": "Universidad Nacional de La Matanza",
+            "fieldOfStudy": "Labor and Industrial Relations",
+            "schoolUrn": "urn:li:fs_miniSchool:10135"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Español",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Inglés",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

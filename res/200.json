@@ -1,0 +1,221 @@
+{
+    "summary": "Social Coding helps small and medium-sized companies in the Randstad area to find suitable personnel. Our services are available on a no-cure no-pay basis and freelance basis. We strive for high-quality match-making and therefore our working methods are very flexible and can be easily adapted per customer.\n\nWe strive to make the perfect match between employer and employee as quickly as possible. By using talent pools, where frequent contact takes place with the candidates, we know which specialist suits which job, in which region and what the preferences of these candidates are. This allows us to quickly judge whether employer and employee fit together. After all, that is what we do every day!\n\nsteven@socialcoding.nl\n+31 6 497 497 30",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Dusoswa",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Steven",
+    "entityUrn": "urn:li:fs_profile:ACoAACNYC_8Br8h7nMAG3cSfyD83uVf5t2ecI7U",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102011674"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Tech Recruiter a.i. @ Bol.com | Senior Consultant & Founder @ SocialCoding B.V.",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQFgJj2-7WMs4w/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1687255367824?e=1702972800&v=beta&t=LmI7wIVuu20pNRPmFVg1UBI0S-ShRTWjiEXxVlnKpU8",
+    "img_200_200": "200_200/0/1687255367824?e=1702972800&v=beta&t=ZMLUbXFG152_zazbqGADQ577l3AxUngCzOfd2YMzQh4",
+    "img_632_632": "800_800/0/1687255367824?e=1702972800&v=beta&t=guvB1zXlP5b7xXq1EZNgIPavcLqOhGjuljD3na0qOfk",
+    "img_100_100": "100_100/0/1687255367824?e=1702972800&v=beta&t=biLArdsJQQ0O2hlXEVdjzvx094SlGG21vyDxP4QSKGI",
+    "profile_id": "ACoAACNYC_8Br8h7nMAG3cSfyD83uVf5t2ecI7U",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACNYC_8Br8h7nMAG3cSfyD83uVf5t2ecI7U",
+    "member_urn": "urn:li:member:592972799",
+    "public_id": "steven-dusoswa-67b703146",
+    "experience": [
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACNYC_8Br8h7nMAG3cSfyD83uVf5t2ecI7U,2194944689)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "description": "Bol.com is a leading e-commerce company of the Netherlands/Belgium. \n \nI’m part of the tech recruitment team as an independent recruitment consultant, where my activities include: \n• Playing an active role in the recruitment of Software Engineers, Tech Leads, Mobile Developers, Architects and Data. Scientist\n• Building and setting up candidate pipeline \n• Advising and helping candidates in their relocation to the Netherlands. Including advising on Visa sponsorship, 30% ruling, housing etc. \n• Contributing with Talent acquisition and Employer branding\n• Internal stakeholder management \n• Attending workshops/meetings with other recruitment teams.\n\nSkills: International Recruitment • Stakeholder Management • Global Sourcing • Interviewing • Recruitment strategy",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Tech Recruitment & Talent Acquisition a.i. ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAACNYC_8Br8h7nMAG3cSfyD83uVf5t2ecI7U,1385067716)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "Social Coding B.V.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "description": "Social Coding helps small and medium-sized companies in the Randstad area to find suitable personnel. Our services are available on a no-cure no-pay basis and freelance basis. We strive for high-quality match-making and therefore our working methods are very flexible and can be easily adapted per customer.\n\nWe strive to make the perfect match between employer and employee as quickly as possible. By using talent pools, where frequent contact takes place with the candidates, we know which specialist suits which job, in which region and what the preferences of these candidates are. This allows us to quickly judge whether employer and employee fit together. After all, that is what we do every day!\n\nsteven@socialcoding.nl\n+316 497 497 30",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Co-Founder & Senior Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:12640291",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEg8AueYAaa_Q/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACNYC_8Br8h7nMAG3cSfyD83uVf5t2ecI7U,1741212364)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "SPOT People",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Part-time technical recruiter a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:18581631",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEPklaNJj6Nzw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACNYC_8Br8h7nMAG3cSfyD83uVf5t2ecI7U,2143733139)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Catawiki",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "description": "Catawiki connects people who have passions to objects that tell stories.\nIt’s a fast-growing, curated online marketplace, featuring 65,000 lots in more than 80 categories, ranging from collectables and art to design, jewellery, watches, classic cars, and more.\n\nNo more endless internet searches: at Catawiki, in-house experts carefully select only the most special objects from around the globe and uncover the stories behind them.\n\nWhy our Developers Love Working Here\n\n📈 We solve challenges around High Traffic / Load\nAs the biggest marketplace for special items, Catawiki operates in a huge market which brings a lot of unique challenges and opportunities\n\n💎 Microservice Architecture\n35 different microservices, Mainly in Ruby and 3 in Go.\n\n👨‍🎓 Code Reviews\nThis helps us spot issues early, it lets team members understand what everyone else is working on and it allows us to constantly improve by learning how our peers approach and solve problems.\n\n👥 Multidisciplinary teams grouped around domains\nEach team comprised of a mixture of Front-End, Back-End and Mobile Developers, together with a Product Owner, UX Designer and a Data Scientist has a steely focus on a particular domain, but our engineers are able to switch between different teams and projects throughout their career at Catawiki.\n\n🇳🇱🇧🇷🇫🇷🇪🇸 International Teams\nWith over 50 different nationalities at Catawiki, our diverse and multi-cultural environment allows everyone to learn from new ideas and perspectives while having some fun along the way.\n\nYou can also find more info about our team and way of working here: https://github.com/catawiki/join-us",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Internet"
+                ]
+            },
+            "title": "Senior Technical recruiter a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1314652",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEt8RUsWRTm9Q/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACNYC_8Br8h7nMAG3cSfyD83uVf5t2ecI7U,1956334631)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Temper",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Technical Recruiter a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9408181",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGKxtPPPOayqQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACNYC_8Br8h7nMAG3cSfyD83uVf5t2ecI7U,435758018)",
+            "school": {
+                "objectUrn": "urn:li:school:15453",
+                "entityUrn": "urn:li:fs_miniSchool:15453",
+                "active": true,
+                "schoolName": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "trackingId": "ywO9zJYNT0KMZhqAhL52sg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101421",
+            "degreeName": "BSc",
+            "schoolName": "Vrije Universiteit Amsterdam",
+            "fieldOfStudy": "Bestuur en organisatiewetenschappen",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15453"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACNYC_8Br8h7nMAG3cSfyD83uVf5t2ecI7U,435756866)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "degreeName": "vwo",
+            "schoolName": "Goois Lyceum",
+            "fieldOfStudy": "Economie en Maatschappij "
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,324 @@
+{
+    "summary": "Buyer - Procurement Expert - Facility Management - Negotiation - Polyglot 🌎\n\nI've worked or lived in France, South Korea, Israël, Morocco, Belgium, India or Croatia\n\nI like to make things easy ",
+    "industryName": "Construction",
+    "lastName": "BEN ASSOULI (MCIPS)",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 3,
+        "day": 17
+    },
+    "industryUrn": "urn:li:fs_industry:48",
+    "firstName": "Ralph",
+    "entityUrn": "urn:li:fs_profile:ACoAABGbAnYBfJXaBz_rQJ0MaWOSyJKvhK9-jik",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Procurement Manager speaking French, English and Croatian - MCIPS 🌎",
+    "profile_id": "ACoAABGbAnYBfJXaBz_rQJ0MaWOSyJKvhK9-jik",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABGbAnYBfJXaBz_rQJ0MaWOSyJKvhK9-jik",
+    "member_urn": "urn:li:member:295371382",
+    "public_id": "ralph-ben-assouli-us",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Hollande Septentrionale, Pays-Bas",
+            "entityUrn": "urn:li:fs_position:(ACoAABGbAnYBfJXaBz_rQJ0MaWOSyJKvhK9-jik,2288586700)",
+            "geoLocationName": "Amsterdam, Hollande Septentrionale, Pays-Bas",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Sanofi",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "description": "Capex Gen Med & Engineering Procurement",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ]
+            },
+            "title": "Capex & Construction Buyer Europe",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1642",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGgBWjzQcNH5Q/company-logo_"
+        },
+        {
+            "locationName": "Paris, Île-de-France, France",
+            "entityUrn": "urn:li:fs_position:(ACoAABGbAnYBfJXaBz_rQJ0MaWOSyJKvhK9-jik,1443007785)",
+            "geoLocationName": "Paris, Île-de-France, France",
+            "geoUrn": "urn:li:fs_geo:101240143",
+            "companyName": "VINCI Energies",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "description": "Procurement manager of 4 companies of the group specialized in MRO & facility management:\n\n- DCT: Data center & telecommunication;\n- FM2S: company dedicated to health facilities (hospital, clinic, retirement house);\n- HESTIA: company dedicated to one client, the SOCIETE GENERAL; \n- VF EVENTS: company dedicated to one client, VIPARIS.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Procurement Manager - VINCI FACILITIES ",
+            "region": "urn:li:fs_region:(fr,0)",
+            "companyUrn": "urn:li:fs_miniCompany:38236",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQH0z3KCzKbtqQ/company-logo_"
+        },
+        {
+            "locationName": "Région de Paris, France",
+            "entityUrn": "urn:li:fs_position:(ACoAABGbAnYBfJXaBz_rQJ0MaWOSyJKvhK9-jik,1360154396)",
+            "geoLocationName": "Région de Paris, France",
+            "geoUrn": "urn:li:fs_geo:90009659",
+            "companyName": "ATALIAN",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Facilities Services"
+                ]
+            },
+            "title": "Acheteur Leader",
+            "region": "urn:li:fs_region:(fr,5227)",
+            "companyUrn": "urn:li:fs_miniCompany:769749",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHm9UPxSI7Y9g/company-logo_"
+        },
+        {
+            "locationName": "Paris 17, Île-de-France, France",
+            "entityUrn": "urn:li:fs_position:(ACoAABGbAnYBfJXaBz_rQJ0MaWOSyJKvhK9-jik,880704472)",
+            "geoLocationName": "Paris 17, Île-de-France, France",
+            "companyName": "VIPARIS",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "description": "UNIBAIL RODAMCO - Shopping and Congress centre operator\n\n- 30M€ service delivery purchasing portfolio management\n- Contract negotiation and supplier relationship management \n- Deployment of the tool «Easy Purchase» \n✓  12 call for tender achieved covering the entire purchasing process : 17 contracts implemented\n✓  260k€ savings on: communication, security, broadcasting \n✓ Spend analysis and strategy definition \n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Events Services"
+                ]
+            },
+            "title": "Category Specialist / Procurement Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:3105222",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFbxyRdAqIXMQ/company-logo_"
+        },
+        {
+            "locationName": "Blagnac, Midi-Pyrénées, France",
+            "entityUrn": "urn:li:fs_position:(ACoAABGbAnYBfJXaBz_rQJ0MaWOSyJKvhK9-jik,756446039)",
+            "geoLocationName": "Blagnac, Midi-Pyrénées, France",
+            "companyName": "Airbus Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "description": "Purchasing Project Manager– Equipment and systems sourcing strategy\n\n- Supplier strategy study (UTC, Rockwell, Honeywell, Thales, Safran, Moog, Eaton…) \n- American and Japanese automotive industry benchmarked \n- Cost reduction programs : A350RC conv et Scope+\n- Supplier rating campaign at Airbus group level \n- Conception of the tool « Procurement intelligent network » to create synergy\n✓  For buyers : creation of a book summarizing strategies of top10 suppliers\n✓  300 contracts studied capturing 30% of our offsets obligation  via several tiers",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Aviation & Aerospace"
+                ]
+            },
+            "title": "Internship - Procurement Project Manager",
+            "companyUrn": "urn:li:fs_miniCompany:2734",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQF2j_LDG_TOzg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABGbAnYBfJXaBz_rQJ0MaWOSyJKvhK9-jik,343195512)",
+            "school": {
+                "objectUrn": "urn:li:school:12407",
+                "entityUrn": "urn:li:fs_miniSchool:12407",
+                "active": true,
+                "schoolName": "KEDGE Business School",
+                "trackingId": "K3FNYcpITm6P80nDAib3tA==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQG0YY_Si1mGXQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "degreeName": "Master of Science (MSc) MAI",
+            "schoolName": "KEDGE Business School",
+            "fieldOfStudy": "Achats Internationaux et Innovation (Accredité MCIPS)",
+            "schoolUrn": "urn:li:fs_miniSchool:12407"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABGbAnYBfJXaBz_rQJ0MaWOSyJKvhK9-jik,189776853)",
+            "school": {
+                "objectUrn": "urn:li:school:20332",
+                "entityUrn": "urn:li:fs_miniSchool:20332",
+                "active": true,
+                "schoolName": "OMNES Education",
+                "trackingId": "m+a75b2YTEi/YRmUbEDzuA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGlmFPtqQCQiQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "ECE - Master Degree - BBA Finance",
+            "schoolName": "INSEEC U.",
+            "fieldOfStudy": "Major Finance",
+            "schoolUrn": "urn:li:fs_miniSchool:20332"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABGbAnYBfJXaBz_rQJ0MaWOSyJKvhK9-jik,300651478)",
+            "school": {
+                "objectUrn": "urn:li:school:14653",
+                "entityUrn": "urn:li:fs_miniSchool:14653",
+                "active": true,
+                "schoolName": "Kyungpook National University",
+                "trackingId": "uqR4vIK9QSiaGxQ18lEqyg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQF78mCFHuw_qg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "schoolName": "경북대학교(Kyungpook National University)",
+            "fieldOfStudy": "Business and Administration",
+            "schoolUrn": "urn:li:fs_miniSchool:14653"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Anglais",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Coréen",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Espagnol",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Français",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Serbo-Croate",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Responsable de groupe / Animateur ",
+            "companyName": "Taglit-Birthright Israel",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2016
+                }
+            },
+            "cause": "ARTS_AND_CULTURE",
+            "description": "https://www.youtube.com/watch?v=FoDim4qCK8o ",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:2931453",
+                    "entityUrn": "urn:li:fs_miniCompany:2931453",
+                    "name": "Taglit-Birthright Israel",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1683118610171/taglit_birthright_israel_logo?e=1710374400&v=beta&t=hA_QyOfm0suwL8HasJeHPGthfRUudk6xRUP4dDW_uHU",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1683118610171/taglit_birthright_israel_logo?e=1710374400&v=beta&t=r7qDU0dQApJjTNq4T1EkZpguniLfnfq2v5bvBWdu7F8",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1683118610171/taglit_birthright_israel_logo?e=1710374400&v=beta&t=7M32Z7r9u9eBxOuXFOgAH8TIqPOoi92G4qEiSqB4_Uo",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQEaCyYbSRPlHQ/company-logo_"
+                        }
+                    },
+                    "universalName": "taglit-birthright-israel",
+                    "dashCompanyUrn": "urn:li:fsd_company:2931453",
+                    "trackingId": "r6Jch3VZTquftovXHo+8uA=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2931453"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

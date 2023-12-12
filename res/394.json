@@ -1,0 +1,378 @@
+{
+    "summary": "Global Security | Risk Management | Geopolitics | Corporate Security | Crisis Management & Contingency Planning",
+    "industryName": "Leisure, Travel & Tourism",
+    "lastName": "van Velzen",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 8,
+        "day": 13
+    },
+    "industryUrn": "urn:li:fs_industry:30",
+    "firstName": "Frank",
+    "entityUrn": "urn:li:fs_profile:ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:106851598"
+    },
+    "geoLocationName": "Delft, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Group Security Operations Manager at TUI Group",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFySF_jQhQ-IQ/profile-displayphoto-shrink_",
+    "img_99_100": "100_100/0/1666104368141?e=1707955200&v=beta&t=ie1za2MH1iYohMd4Lgy8aCk7bkyezsFZEuIVtN-d-8U",
+    "img_199_200": "200_200/0/1666104368141?e=1707955200&v=beta&t=fvDTry86vHiUK5O0xY50_vTaR49Z9yl9NxTFrR3UbOI",
+    "img_399_400": "400_400/0/1666104368141?e=1707955200&v=beta&t=gzIWvWaeXHwEjII-0jsT2cz0SI3ezGJHdyTeK1dnn-g",
+    "img_674_674": "800_800/0/1666104368141?e=1707955200&v=beta&t=3bJKcfsKBi4RJb_JfYMUgeXEPi7OYYSHWWk4Auzd734",
+    "profile_id": "ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0",
+    "member_urn": "urn:li:member:190660279",
+    "public_id": "frankvanvelzen1",
+    "experience": [
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0,1898189072)",
+                "urn:li:fs_course:(ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0,1988524858)"
+            ],
+            "locationName": "Rijswijk, South Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:104328710",
+            "companyName": "TUI",
+            "description": "TUI Group is the world's leading tourism company and operates worldwide. Our goal is to protect our customers (21m annually), employees, operations (180 destinations, 1m excursions & transfers), physical assets (100 aircrafts, 15 cruise vessels, 400 hotels, 1000 travel agencies) and reputation from different kind of threats such as terrorism, crime, political tensions, civil unrest:\n\nResponsiblities:\n• Country risk assessments and mitigating measures  \n• Provide security and intelligence support to business units  \n• Monitoring and analyzing global trends, security threats and social-economic, environmental and political developments affecting the tourism sector\n• Writing and implementing group wide security standards, manuals and procedures\n• Interact and maintain good connections with relevant regional stakeholders\n\nCrisis Management \n• Crisis coordinator at TUI Belgium & Netherlands\n• Family Assistance Manager, Aviation Emergency Response Planning (ERP) TUI fly Western Region",
+            "title": "Group Security Operations Manager",
+            "companyUrn": "urn:li:fs_miniCompany:262718",
+            "entityUrn": "urn:li:fs_position:(ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0,1682653647)",
+            "geoLocationName": "Rijswijk, South Holland, Netherlands",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Leisure, Travel & Tourism"
+                ]
+            },
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHbNbJv0CIAAA/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0,2066147006)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "companyName": "dyami | strategic security services",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Contributing Analyst",
+            "companyUrn": "urn:li:fs_miniCompany:28932254",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGAXpokcKh7Jg/company-logo_"
+        },
+        {
+            "locationName": "Rijswijk",
+            "entityUrn": "urn:li:fs_position:(ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0,1404711730)",
+            "geoLocationName": "Rijswijk",
+            "companyName": "TUI ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "description": "• Incident response and crisis management to ensure a quick response to unexpected and sudden events with high impact (e.g. Sri Lanka Bombings 2019, Hurricane Dorian 2019, COVID-19 pandemic, etc.).\n• Crisis management and contingency planning (procedures, training, exercises, etc.)\n• Security risk assessments of existing and potential destinations, analyzing threats and incidents;\n• Coordinating health & safety audits to mitigate risk on destinations.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Leisure, Travel & Tourism"
+                ]
+            },
+            "title": "Security, Health & Safety and Crisis Management Coordinator",
+            "companyUrn": "urn:li:fs_miniCompany:262718",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHbNbJv0CIAAA/company-logo_"
+        },
+        {
+            "locationName": "The Hague Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0,1347707168)",
+            "geoLocationName": "The Hague Area, Netherlands",
+            "companyName": "Royal HaskoningDHV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Civil Engineering"
+                ]
+            },
+            "title": "QHSSE & Risk Advisor",
+            "companyUrn": "urn:li:fs_miniCompany:2637508",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEXY5RnsEADnQ/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0,1539364868)",
+                "urn:li:fs_course:(ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0,1539417794)",
+                "urn:li:fs_course:(ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0,1539492245)"
+            ],
+            "locationName": "Rijswijk, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0,689878758)",
+            "geoLocationName": "Rijswijk, Netherlands",
+            "companyName": "Verebus Engineering BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2015
+                }
+            },
+            "description": "Implement and write QHSSE policy and procedures, safety culture, safety and security plans and risk assessments. Provide safety and security advice within projects, Co-responsible for certifications, audits and compliance, improvement of systems, procedures and tools regarding QHSSE and sustainability.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Internet"
+                ]
+            },
+            "title": "QHSE & Risk Advisor",
+            "companyUrn": "urn:li:fs_miniCompany:109556",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFtaTrzvuVYEg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0,115398420)",
+            "school": {
+                "objectUrn": "urn:li:school:15423",
+                "entityUrn": "urn:li:fs_miniSchool:15423",
+                "active": true,
+                "schoolName": "Inholland University of Applied Sciences",
+                "trackingId": "Us/VQ9nOS0uB6s4rd0KqvA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQF4kRIPNGd2sw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "description": "Minors: Disaster response and Crisis Management, Terrorism and Radicalization, Corruption, Power and integrity, Public Safety and Governance",
+            "degreeName": "Bachelor of Business Administration (BBA)",
+            "schoolName": "Hogeschool INHOLLAND",
+            "fieldOfStudy": "Safety and Security Management Studies",
+            "schoolUrn": "urn:li:fs_miniSchool:15423"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Hogeschool Inholland",
+            "name": "Bachelor of Business Administration (BBA), Safety and Security Management Studies",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:8000",
+                "entityUrn": "urn:li:fs_miniCompany:8000",
+                "name": "Inholland University of Applied Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1677156029006/hogeschool_inholland_logo?e=1710374400&v=beta&t=wFTFhrYO0pb3iiSIAmCMbZazlABkGEv3-westhGu4oE",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1677156029006/hogeschool_inholland_logo?e=1710374400&v=beta&t=xF0McaIM3CGgPIHJIsJ0pQ2g2oiQQOmKm_dd3vlRJ18",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1677156029006/hogeschool_inholland_logo?e=1710374400&v=beta&t=42nop4Z7NpiYX6Ffy4jvp3Oa95xHxB-aMzHxMZWwDyM",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQF4kRIPNGd2sw/company-logo_"
+                    }
+                },
+                "universalName": "hogeschool-inholland",
+                "dashCompanyUrn": "urn:li:fsd_company:8000",
+                "trackingId": "HYu3em1CR2mPnZr3ByJ2nQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:8000"
+        },
+        {
+            "authority": "ISMI - International Security Management Institute",
+            "name": "Certified Security Management Professional (CSMP®)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3332473",
+                "entityUrn": "urn:li:fs_miniCompany:3332473",
+                "name": "ISMI - International Security Management Institute",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630525896192/ismi___international_security_management_institute_logo?e=1710374400&v=beta&t=A8CRQSGkUdleuCTnAo0uypXnoAoXAwzo6sNLvRcQlG4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630525896192/ismi___international_security_management_institute_logo?e=1710374400&v=beta&t=H1L3lH70wl0eEmIp9K9QZ4CRa3CsSBzzF4gP7JSRCg8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630525896192/ismi___international_security_management_institute_logo?e=1710374400&v=beta&t=_kuwNWeuZLqu37q-S1htGonAVuSqPyE4A9xZr8kEbGY",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEjAZY1RwpRFg/company-logo_"
+                    }
+                },
+                "universalName": "ismi---international-security-management-institute",
+                "dashCompanyUrn": "urn:li:fsd_company:3332473",
+                "trackingId": "430jZI/RS0aIig6IoX3dWA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:3332473"
+        },
+        {
+            "authority": "MAX-Security Solutions Ltd.",
+            "name": "Intelligence and Operations for Security Managers ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1060168",
+                "entityUrn": "urn:li:fs_miniCompany:1060168",
+                "name": "MAX-Security Solutions Ltd.",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1647177813340/max_security_solutions_ltd_logo?e=1710374400&v=beta&t=85B7tJitvRGhvj6bLmTSgHqc9e1pYNDXyDtJZuRosnQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1647177813340/max_security_solutions_ltd_logo?e=1710374400&v=beta&t=RyjPWsFu5DVwD6Mn7LLAGVSKrGiap38t9h3vD-ZJMu8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1647177813340/max_security_solutions_ltd_logo?e=1710374400&v=beta&t=zo7lceJtiSZD2bKQe-m7Up3AYuPuwlMpVMRoYdiZn40",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHzht7xYHuxAg/company-logo_"
+                    }
+                },
+                "universalName": "max-security-solutions-ltd.",
+                "dashCompanyUrn": "urn:li:fsd_company:1060168",
+                "trackingId": "0WOgGVHAR/mhOhjs9eREkA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1060168"
+        }
+    ],
+    "volunteer": [],
+    "honors": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAtdPrcBXkcLNO9s7jRm-0JTvbqdcgeT0H0,299175812)",
+            "description": "Deployment Afghanistan, Uruzgan 2009 ",
+            "title": "Combat Badge",
+            "issueDate": {
+                "month": 8,
+                "year": 2009
+            },
+            "issuer": "Ministerie van Defensie"
+        }
+    ],
+    "projects": []
+}

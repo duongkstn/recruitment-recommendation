@@ -1,0 +1,129 @@
+{
+    "summary": "O'Farrell Recruitment, founded in 1998, is a Berlin-based recruitment agency that specializes in providing multilingual and IT talent to companies across EMEA. With over 25 years of experience, we offer a wide range of recruitment solutions and services to clients in Ireland, Germany, the Netherlands, and Spain. Visit our website at www.ofarrellonline.de to learn more.",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "O'Farrell",
+    "locationName": "Germany",
+    "student": false,
+    "geoCountryName": "Germany",
+    "geoCountryUrn": "urn:li:fs_geo:101282230",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Brian",
+    "entityUrn": "urn:li:fs_profile:ACoAAAcI_08BEr4ZitJXGy93JODq89ILydUp-ZI",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009712"
+    },
+    "geoLocationName": "Berlin Metropolitan Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "de"
+        }
+    },
+    "headline": "Owner Director, O'Farrell Recruitment",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQEbeTu3I2w4Sg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1516536032572?e=1707955200&v=beta&t=7oRkWs3-Hvx9PFNY8bQ-veZ4DnXgNXLxEhk8_dWSp74",
+    "img_200_200": "200_200/0/1516536032453?e=1707955200&v=beta&t=-ysaSKHweYXqutlK_Zta2fCmmiG4QdZq8_sVQG642PE",
+    "img_400_400": "400_400/0/1516536032466?e=1707955200&v=beta&t=E7wKmh4OI4NlmfQaITODz7MZucNGcs2sH7a1G1fu7gI",
+    "img_450_450": "800_800/0/1516536032469?e=1707955200&v=beta&t=aRtXWPU-vVITrOchpfMs6RbVA850NyyYSkjboJEODmY",
+    "profile_id": "ACoAAAcI_08BEr4ZitJXGy93JODq89ILydUp-ZI",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAcI_08BEr4ZitJXGy93JODq89ILydUp-ZI",
+    "member_urn": "urn:li:member:118030159",
+    "public_id": "ofarrellrecruitment",
+    "experience": [
+        {
+            "locationName": "Berlin und Umgebung, Deutschland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAcI_08BEr4ZitJXGy93JODq89ILydUp-ZI,184429255)",
+            "geoLocationName": "Berlin und Umgebung, Deutschland",
+            "geoUrn": "urn:li:fs_geo:90009712",
+            "companyName": "O'Farrell Recruitment",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 1998
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Business Owner",
+            "region": "urn:li:fs_region:(de,4944)",
+            "companyUrn": "urn:li:fs_miniCompany:9184916",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGrekaLcf50_w/company-logo_"
+        },
+        {
+            "locationName": "Berlin Area, Germany",
+            "entityUrn": "urn:li:fs_position:(ACoAAAcI_08BEr4ZitJXGy93JODq89ILydUp-ZI,402452076)",
+            "geoLocationName": "Berlin und Umgebung, Deutschland",
+            "geoUrn": "urn:li:fs_geo:90009712",
+            "companyName": "O'Farrell Reisen (Travel)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 1998
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 1992
+                }
+            },
+            "description": "O'Farrell Reisen (Travel) was a Berlin based tour operator which specialised in language and golf holidays to Ireland from 1992 to 1998.",
+            "title": "Owner / Director",
+            "region": "urn:li:fs_region:(de,4944)"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAcI_08BEr4ZitJXGy93JODq89ILydUp-ZI,610505128)",
+            "school": {
+                "objectUrn": "urn:li:school:19931",
+                "entityUrn": "urn:li:fs_miniSchool:19931",
+                "active": true,
+                "schoolName": "University College Dublin",
+                "trackingId": "ezpfJx0lSkKO6uQx7cvLXQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHmljJ9tD3olA/company-logo_"
+            },
+            "degreeName": "BSc",
+            "schoolName": "University College Dublin",
+            "schoolUrn": "urn:li:fs_miniSchool:19931"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAcI_08BEr4ZitJXGy93JODq89ILydUp-ZI,880225432)",
+            "degreeName": "Abitur",
+            "schoolName": "St. Jarlath's College, Tuam, Co. Galway"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "German",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Irish",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Italian",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

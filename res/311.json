@@ -1,0 +1,237 @@
+{
+    "summary": "Experienced executive with 20+ years in management, procurement, change management, outsourcing, project management, and international procurement, with expertise in ESG and CSR. Results-driven and people-oriented leader skilled in stakeholder management, team building, and negotiation, with a demonstrated ability to work effectively with individuals from diverse cultural backgrounds. I have extensive experience in leading procurement transformation initiatives, streamlining processes, reducing costs, and driving value creation. Proven ability to create and lead high-performing teams with diverse cultural backgrounds and global locations. Adaptable and effective communicator with a talent for inspiring others and securing buy-in in dynamic environments.",
+    "industryName": "Management Consulting",
+    "lastName": "Meijndert",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 11,
+        "day": 10
+    },
+    "industryUrn": "urn:li:fs_industry:11",
+    "firstName": "Hans",
+    "entityUrn": "urn:li:fs_profile:ACoAAACOWD4Bn1bmu3MoHUgsmLGXXjlhQ9wlkaM",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Procurement & Supply chain Consultant",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQFQ6lCte0YO9Q/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1561480566518?e=1707955200&v=beta&t=5kSB7vwYCddUbR1UvIPo52Qnvjns4b_5XttDCYPeLi8",
+    "img_200_200": "200_200/0/1561480566556?e=1707955200&v=beta&t=FUXtdd4YkDgMQQffrBl7XpKMcy5OVTGTj489tYH43vE",
+    "img_400_400": "400_400/0/1561480566647?e=1707955200&v=beta&t=cKaKuNDvWrYbfdp38HmdBPDYhhlS7ymeVi3-HqsO7wc",
+    "img_800_800": "800_800/0/1561480567102?e=1707955200&v=beta&t=pWOPeCyBrQqAtM0i_sLkxoIAvmH0dq02Na9sbdz2-Dw",
+    "profile_id": "ACoAAACOWD4Bn1bmu3MoHUgsmLGXXjlhQ9wlkaM",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAACOWD4Bn1bmu3MoHUgsmLGXXjlhQ9wlkaM",
+    "member_urn": "urn:li:member:9328702",
+    "public_id": "hans-meijndert",
+    "experience": [
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAACOWD4Bn1bmu3MoHUgsmLGXXjlhQ9wlkaM,2224388010)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "Mediq",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ]
+            },
+            "title": "Project Manager Procurement a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:665508",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHWUMrWdu99Qw/company-logo_"
+        },
+        {
+            "locationName": "Hong Kong SAR",
+            "entityUrn": "urn:li:fs_position:(ACoAAACOWD4Bn1bmu3MoHUgsmLGXXjlhQ9wlkaM,2090299073)",
+            "geoLocationName": "Hong Kong SAR",
+            "geoUrn": "urn:li:fs_geo:103291313",
+            "companyName": "Aurantiacus Procurement & Supply Chain Consultancy",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2022
+                }
+            },
+            "title": "Procurement  & Supply Chain Consultant",
+            "region": "urn:li:fs_region:(hk,0)"
+        },
+        {
+            "locationName": "Hong Kong SAR",
+            "entityUrn": "urn:li:fs_position:(ACoAAACOWD4Bn1bmu3MoHUgsmLGXXjlhQ9wlkaM,1890272829)",
+            "geoLocationName": "Hong Kong SAR",
+            "geoUrn": "urn:li:fs_geo:103291313",
+            "companyName": "adm Group Ltd",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "description": "Leading the Client Operations strategy for adm Group, which covers Procurement, Sourcing, Brand Assurance, Sustainability, Creative, Logistics, & Innovation",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "Chief Operating Officer APAC",
+            "region": "urn:li:fs_region:(hk,0)",
+            "companyUrn": "urn:li:fs_miniCompany:48189",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQECP675E5LcMQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAACOWD4Bn1bmu3MoHUgsmLGXXjlhQ9wlkaM,1682598003)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Communisis",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "description": "Leading a team of 28 Direct & Indirect Procurement Professionals located in 10 different countries.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "Chief Procurement Officer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:34221",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQE8P319ne18Jg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAACOWD4Bn1bmu3MoHUgsmLGXXjlhQ9wlkaM,1622598195)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "Communisis Brand Deployment",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "Chief Procurement Officer Brand Deployment",
+            "companyUrn": "urn:li:fs_miniCompany:34221",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQE8P319ne18Jg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAACOWD4Bn1bmu3MoHUgsmLGXXjlhQ9wlkaM,13439221)",
+            "school": {
+                "objectUrn": "urn:li:school:15443",
+                "entityUrn": "urn:li:fs_miniSchool:15443",
+                "active": true,
+                "schoolName": "Saxion University of Applied Sciences",
+                "trackingId": "BAB85n7YTfSrDEHbeXX8WA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHx7isknIg5gQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 1994
+                },
+                "startDate": {
+                    "year": 1989
+                }
+            },
+            "degreeName": "Bachelor of Commerce (B.Com.)",
+            "schoolName": "Hogeschool Enschede",
+            "fieldOfStudy": "Marketing",
+            "schoolUrn": "urn:li:fs_miniSchool:15443"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAACOWD4Bn1bmu3MoHUgsmLGXXjlhQ9wlkaM,84740506)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            },
+            "schoolName": "Dutch Purchasing Association (Nevi 1+2)",
+            "fieldOfStudy": "Purchasing"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAACOWD4Bn1bmu3MoHUgsmLGXXjlhQ9wlkaM,5702018)",
+            "school": {
+                "objectUrn": "urn:li:school:15443",
+                "entityUrn": "urn:li:fs_miniSchool:15443",
+                "active": true,
+                "schoolName": "Saxion University of Applied Sciences",
+                "trackingId": "bvGMffcuQ42hJSFS4Sn8HA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHx7isknIg5gQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 1994
+                },
+                "startDate": {
+                    "year": 1989
+                }
+            },
+            "degreeName": "Baccalaureus (bc. or bac)",
+            "schoolName": "Saxion Hogescholen",
+            "fieldOfStudy": "Marketing  / Commerciële economie (CE) - Specialisatie marketing management",
+            "schoolUrn": "urn:li:fs_miniSchool:15443"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

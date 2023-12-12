@@ -1,0 +1,868 @@
+{
+    "summary": "For twenty five years I have been involved in the development of systems with a strong security component, predominantly in the area of smartcards and payment systems, in telecoms and banking. I thrive when I can analyse business requirements and translate them into a working and in particular a secure system design, in particular if it is a new kind of product. My strong analytical skills and my ability to explain things in an understandable way are of great help.",
+    "industryName": "Utilities",
+    "lastName": "Feiken",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:59",
+    "firstName": "Bart",
+    "entityUrn": "urn:li:fs_profile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102938188"
+    },
+    "geoLocationName": "Amstelveen, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Security Architect",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQHGGMU6DBLeRA/profile-displayphoto-shrink_",
+    "img_80_80": "800_800/0/1516251572976?e=1707955200&v=beta&t=psRK_5mfiJqWDij1wQeytY9Xh0HniroL5xaBS85-ymo",
+    "profile_id": "ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+    "member_urn": "urn:li:member:1850145",
+    "public_id": "bart-feiken-829752",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,1878692630)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Waternet",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2021
+                }
+            },
+            "description": "Enddate June 30, 2023",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Utilities"
+                ]
+            },
+            "title": "Security Architect",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9649",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEgwA1QQmP9YQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam",
+            "projects": [
+                "urn:li:fs_project:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,106584064)",
+                "urn:li:fs_project:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,107022839)",
+                "urn:li:fs_project:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,107985822)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,15974731)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "ING",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2005
+                }
+            },
+            "organizations": [
+                "urn:li:fs_organization:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,110238688)"
+            ],
+            "description": "Designing architectural guidelines for security and compliance and enforcing the use of these guidelines.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Security Architect",
+            "companyUrn": "urn:li:fs_miniCompany:2594164",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEzlL9vyovZuw/company-logo_"
+        },
+        {
+            "projects": [
+                "urn:li:fs_project:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,106285003)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,15974643)",
+            "companyName": "ING",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2005
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2001
+                }
+            },
+            "description": "Responsible for developing new and innovative ways to handle client-bank contacts: mobile banking, instant messaging, web assisted sales etc.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Sr Innovation Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:2594164",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEzlL9vyovZuw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "projects": [
+                "urn:li:fs_project:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,1826253136)",
+                "urn:li:fs_project:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,1826942694)"
+            ],
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "ING",
+            "description": "Main activities:\nDesigner of the Chipper Purse payment system in particular the payment and reload protocols and the chipcard configuration.\n",
+            "title": "Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:215713",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,2446318)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2001
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 1996
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHB_xMo5kWjEA/company-logo_"
+        },
+        {
+            "locationName": "Leidschendam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,2446334)",
+            "geoLocationName": "Leidschendam",
+            "companyName": "KPN",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 1996
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 1987
+                }
+            },
+            "description": "Main activities\nMember of the ETSI SMG SIMEG group standardizing SIM cards\nDesigner of  the Student Chipcard Payment application (1994-1996) which evolved into the Chipper Payment system.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "KPN Research",
+            "companyUrn": "urn:li:fs_miniCompany:1442",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFHdzywk2aJGA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,1429540)",
+            "school": {
+                "objectUrn": "urn:li:school:15446",
+                "entityUrn": "urn:li:fs_miniSchool:15446",
+                "active": true,
+                "schoolName": "Eindhoven University of Technology",
+                "trackingId": "FLPU72H5TPeTF5FOhE+rSw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 1987
+                },
+                "startDate": {
+                    "year": 1980
+                }
+            },
+            "degreeName": "Ir",
+            "schoolName": "Eindhoven University of Technology",
+            "fieldOfStudy": "electrical engineering",
+            "schoolUrn": "urn:li:fs_miniSchool:15446"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,310848673)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1980
+                },
+                "startDate": {
+                    "year": 1973
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:0",
+            "degreeName": "VWO",
+            "schoolName": "Hertog Jan College Valkenswaard",
+            "fieldOfStudy": "Highschool",
+            "degreeUrn": "urn:li:fs_degree:0"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "(ISC)²",
+            "name": "CISSP",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2014
+                }
+            },
+            "licenseNumber": "471704",
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "WcG+pcwuTtWvxbB3r22tTw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:26753"
+        },
+        {
+            "authority": "Coursera Course Certificates",
+            "name": "Machine Learning",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "licenseNumber": "JVUVKAW2JUE7",
+            "company": {
+                "objectUrn": "urn:li:company:3526187",
+                "entityUrn": "urn:li:fs_miniCompany:3526187",
+                "name": "Coursera Course Certificates",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631343250640?e=1710374400&v=beta&t=EcbUmlD8frJEwztOLN1-ywdyTXkFb0gceMEINalbqP4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631343250640?e=1710374400&v=beta&t=6yTkJW5RRu4hSsmMoxfDj0EQhX_EJaJYclYV8sbxni8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631343250640?e=1710374400&v=beta&t=sZxZeSNO1OlCrZVlDyZj8vrLpTsZKg0TTSC_26tvav8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_"
+                    }
+                },
+                "universalName": "coursera-verified",
+                "dashCompanyUrn": "urn:li:fsd_company:3526187",
+                "trackingId": "tmqcoB89RkaBRsHXYXF58Q=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:3526187",
+            "url": "https://www.coursera.org/account/accomplishments/verify/JVUVKAW2JUE7"
+        },
+        {
+            "authority": "GIAC Certifications",
+            "name": "GIAC Certified Penetration Tester (GPEN)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "licenseNumber": "13890",
+            "company": {
+                "objectUrn": "urn:li:company:2279112",
+                "entityUrn": "urn:li:fs_miniCompany:2279112",
+                "name": "GIAC Certifications",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630607297722/giac_logo?e=1710374400&v=beta&t=lesZk9lzyAJtTIoyY8HEEVeW2oOpIOx2veB0pnB0RwM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630607297722/giac_logo?e=1710374400&v=beta&t=-uYUVJWZJY2pvkAOOc0eC3Be0W4p9umq16_7g8_4awI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630607297722/giac_logo?e=1710374400&v=beta&t=uUnPbDRr2EuHqLRpatIIsxj6b6_eD2g8CODAoT-2-Mc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG2G6BQacJB6w/company-logo_"
+                    }
+                },
+                "universalName": "giac",
+                "dashCompanyUrn": "urn:li:fsd_company:2279112",
+                "trackingId": "iPvG/5QYTbmfd/9smvPb4w=="
+            },
+            "displaySource": "giac.org",
+            "companyUrn": "urn:li:fs_miniCompany:2279112",
+            "url": "https://www.giac.org/certified-professional/bart-feiken/177065"
+        },
+        {
+            "authority": "The SABSA Institute",
+            "name": "SABSA Charted Architect at Foundation Level (SCF)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2010
+                }
+            },
+            "licenseNumber": "SCF10020508",
+            "company": {
+                "objectUrn": "urn:li:company:5368772",
+                "entityUrn": "urn:li:fs_miniCompany:5368772",
+                "name": "The SABSA Institute",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631343562487?e=1710374400&v=beta&t=dPsDchtcMlxdC7PfPO4N2TZLYFNPpNNatOYqiGMb05U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631343562487?e=1710374400&v=beta&t=QkfiiBeeFCrCuw9FSelzU18H-OJgNTYpcGxCt_78ORg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631343562487?e=1710374400&v=beta&t=7HCeCQQp6RCUyIyLspF5zuPcpBsUowo8PoXr1EOKlUI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEFQtHnkkNqBQ/company-logo_"
+                    }
+                },
+                "universalName": "the-sabsa-institute",
+                "dashCompanyUrn": "urn:li:fsd_company:5368772",
+                "trackingId": "aD02wzxuSy6ouxctI+jjwg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5368772"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,15974731)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Bart",
+                        "lastName": "Feiken",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "occupation": "Security Architect",
+                        "objectUrn": "urn:li:member:1850145",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "publicIdentifier": "bart-feiken-829752",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516251573160?e=1707955200&v=beta&t=0BCAV5vSqrcLUnfpcXdOP71NEl-VzM3vzA0IzVgxZ9g",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516251573039?e=1707955200&v=beta&t=2MVCJPg9ZheyJ5odS0QIeCkYMtYYRGKFxfq-gDs2lM4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516251573191?e=1707955200&v=beta&t=QiX_6-khJ84HgkXvIyA_qpItL2SVHNQ5C9axt7KvR1Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516251572976?e=1707955200&v=beta&t=psRK_5mfiJqWDij1wQeytY9Xh0HniroL5xaBS85-ymo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHGGMU6DBLeRA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "i8HKYY3VSS6Kg2RGa9bBmw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,107985822,175901487)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho"
+                }
+            ],
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2012
+                }
+            },
+            "description": "2 Phases in this project:\n1: Interbank project together with Dutch Mobile Operators. Implementation a mobile payment system using the operators SIM card as a bankcard. I was responsible for the security requirement part of payment application, including the registration process for new customers. This project culminated in a trial in the city of Leiden in the last 4 months of 2013.\n2. ING only project. Implementing cards in software on the smartphone. Again responsible for the security part. The payment product was introduced in the summer of 2015. This project is not finished as the product is continously improved and extended.",
+            "title": "Mobile Payments ING"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,15974731)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Bart",
+                        "lastName": "Feiken",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "occupation": "Security Architect",
+                        "objectUrn": "urn:li:member:1850145",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "publicIdentifier": "bart-feiken-829752",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516251573160?e=1707955200&v=beta&t=0BCAV5vSqrcLUnfpcXdOP71NEl-VzM3vzA0IzVgxZ9g",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516251573039?e=1707955200&v=beta&t=2MVCJPg9ZheyJ5odS0QIeCkYMtYYRGKFxfq-gDs2lM4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516251573191?e=1707955200&v=beta&t=QiX_6-khJ84HgkXvIyA_qpItL2SVHNQ5C9axt7KvR1Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516251572976?e=1707955200&v=beta&t=psRK_5mfiJqWDij1wQeytY9Xh0HniroL5xaBS85-ymo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHGGMU6DBLeRA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "i8HKYY3VSS6Kg2RGa9bBmw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,107022839,175899930)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2010
+                }
+            },
+            "description": "Responsible for the security design of the ING Mobile banking app for the first version of this app as released end of 2011. Executed the main risk assessment, designed the security protocols and assisted designers and developers incorporating it into the system.",
+            "title": "Mobile Banking ING"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,15974731)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Bart",
+                        "lastName": "Feiken",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "occupation": "Security Architect",
+                        "objectUrn": "urn:li:member:1850145",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "publicIdentifier": "bart-feiken-829752",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516251573160?e=1707955200&v=beta&t=0BCAV5vSqrcLUnfpcXdOP71NEl-VzM3vzA0IzVgxZ9g",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516251573039?e=1707955200&v=beta&t=2MVCJPg9ZheyJ5odS0QIeCkYMtYYRGKFxfq-gDs2lM4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516251573191?e=1707955200&v=beta&t=QiX_6-khJ84HgkXvIyA_qpItL2SVHNQ5C9axt7KvR1Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516251572976?e=1707955200&v=beta&t=psRK_5mfiJqWDij1wQeytY9Xh0HniroL5xaBS85-ymo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHGGMU6DBLeRA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "i8HKYY3VSS6Kg2RGa9bBmw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,106584064,175901327)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2008
+                }
+            },
+            "description": "(Again) in an interbank setting I was involed in the design of a payment system. Digitale Nota - Finbox aimed to digitalize the paper stream of Dutch 'Acceptgiros\". ",
+            "title": "Digitale Nota - Finbox"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,15974643)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Bart",
+                        "lastName": "Feiken",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "occupation": "Security Architect",
+                        "objectUrn": "urn:li:member:1850145",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "publicIdentifier": "bart-feiken-829752",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516251573160?e=1707955200&v=beta&t=0BCAV5vSqrcLUnfpcXdOP71NEl-VzM3vzA0IzVgxZ9g",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516251573039?e=1707955200&v=beta&t=2MVCJPg9ZheyJ5odS0QIeCkYMtYYRGKFxfq-gDs2lM4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516251573191?e=1707955200&v=beta&t=QiX_6-khJ84HgkXvIyA_qpItL2SVHNQ5C9axt7KvR1Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516251572976?e=1707955200&v=beta&t=psRK_5mfiJqWDij1wQeytY9Xh0HniroL5xaBS85-ymo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHGGMU6DBLeRA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "i8HKYY3VSS6Kg2RGa9bBmw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,106285003,175901253)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2005
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2004
+                }
+            },
+            "description": "Responsible  for the principal design of the iDeal payment system. Working strongly together with colleagues from other banks to take into account everybody's interests - together with those of the users of the payment system.",
+            "title": "iDeal"
+        },
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Bart",
+                        "lastName": "Feiken",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "occupation": "Security Architect",
+                        "objectUrn": "urn:li:member:1850145",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "publicIdentifier": "bart-feiken-829752",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516251573160?e=1707955200&v=beta&t=0BCAV5vSqrcLUnfpcXdOP71NEl-VzM3vzA0IzVgxZ9g",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516251573039?e=1707955200&v=beta&t=2MVCJPg9ZheyJ5odS0QIeCkYMtYYRGKFxfq-gDs2lM4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516251573191?e=1707955200&v=beta&t=QiX_6-khJ84HgkXvIyA_qpItL2SVHNQ5C9axt7KvR1Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516251572976?e=1707955200&v=beta&t=psRK_5mfiJqWDij1wQeytY9Xh0HniroL5xaBS85-ymo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHGGMU6DBLeRA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "i8HKYY3VSS6Kg2RGa9bBmw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,1835434157,175450137)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2001
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2000
+                }
+            },
+            "description": "In a promotional campaign in 2001 Postbank issued 500.000 mobile phones (Siemens M35) to customers. This mobile phone supported mobile banking and mobile reloading of the prepaid balance.\nI was responsible for the design and implementation (in cooperation with the SIM card vendor) of the application stored in the SIM card issued to the customers and the associated backend within Postbank. This application used the SIM Toolkit standard. It enabled the customer via a very simple to use menu to reload the prepaid balance for which the money was automatically debited from the customers account. This reloading application proved to be very popular.",
+            "title": "Postbank Mobile Banking 2001"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,2446318)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Bart",
+                        "lastName": "Feiken",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "occupation": "Security Architect",
+                        "objectUrn": "urn:li:member:1850145",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "publicIdentifier": "bart-feiken-829752",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516251573160?e=1707955200&v=beta&t=0BCAV5vSqrcLUnfpcXdOP71NEl-VzM3vzA0IzVgxZ9g",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516251573039?e=1707955200&v=beta&t=2MVCJPg9ZheyJ5odS0QIeCkYMtYYRGKFxfq-gDs2lM4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516251573191?e=1707955200&v=beta&t=QiX_6-khJ84HgkXvIyA_qpItL2SVHNQ5C9axt7KvR1Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516251572976?e=1707955200&v=beta&t=psRK_5mfiJqWDij1wQeytY9Xh0HniroL5xaBS85-ymo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHGGMU6DBLeRA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "i8HKYY3VSS6Kg2RGa9bBmw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,1826942694,175447159)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 1999
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 1997
+                }
+            },
+            "description": "Chipper via internet was an extension to the chipper protocol to do electronic purse payments on the internet. Succesfull trials were done.  It was however never introduced commercially. It required customers to purchase a chip card reader which was not very reliable when connected to a PC (of those days). I was involved in the implementation of a prototype and designing the changed protocols.",
+            "title": "Chipper via internet"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,2446318)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Bart",
+                        "lastName": "Feiken",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "occupation": "Security Architect",
+                        "objectUrn": "urn:li:member:1850145",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho",
+                        "publicIdentifier": "bart-feiken-829752",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516251573160?e=1707955200&v=beta&t=0BCAV5vSqrcLUnfpcXdOP71NEl-VzM3vzA0IzVgxZ9g",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516251573039?e=1707955200&v=beta&t=2MVCJPg9ZheyJ5odS0QIeCkYMtYYRGKFxfq-gDs2lM4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516251573191?e=1707955200&v=beta&t=QiX_6-khJ84HgkXvIyA_qpItL2SVHNQ5C9axt7KvR1Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 80,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516251572976?e=1707955200&v=beta&t=psRK_5mfiJqWDij1wQeytY9Xh0HniroL5xaBS85-ymo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 80
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHGGMU6DBLeRA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "i8HKYY3VSS6Kg2RGa9bBmw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho,1826253136,175444853)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAAcOyEB9-2kW-U0s8tBMesFwvCA56OVNho"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 1996
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 1995
+                }
+            },
+            "description": "I was responsible for the security and protocol design of the Chipper (and its predecessor 'studentenchipkaart'), both for the payment and the reload protocol of this card.",
+            "title": "Chipper"
+        }
+    ]
+}

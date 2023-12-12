@@ -1,0 +1,325 @@
+{
+    "industryName": "Retail",
+    "lastName": "Kerstholt",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 9,
+        "day": 25
+    },
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Stephan",
+    "entityUrn": "urn:li:fs_profile:ACoAABsUHAAB6ZF-XkbBD0EADoZ3yffQufkq068",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Account manager at Bol.com",
+    "profile_id": "ACoAABsUHAAB6ZF-XkbBD0EADoZ3yffQufkq068",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABsUHAAB6ZF-XkbBD0EADoZ3yffQufkq068",
+    "member_urn": "urn:li:member:454302720",
+    "public_id": "stephan-kerstholt-80018a108",
+    "experience": [
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABsUHAAB6ZF-XkbBD0EADoZ3yffQufkq068,1968376575)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Key Account Manager at BOL.com",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABsUHAAB6ZF-XkbBD0EADoZ3yffQufkq068,1762211155)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "Foodsy",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "description": "Foodsy is the #1 platform for pick up at high traffic locations in The Netherlands. Initially we launched our platform at railway stations. We give railway passenger the opportunity to pre-order their food & drinks so they can skip the line when they arrive at the particular shop. It enables the retailers to improve the customer satisfaction and serve more customers in the same time. So why not implement our software at quick service restaurants in other markets? That is why we became active in the catering industry at High schools/Universities. Above this, we are delighted to announce that we go live at football stadiums at the beginning of 2022. I am totally responsible for this line of business. Interested? Get in contact!",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Food & Beverages"
+                ]
+            },
+            "title": "New Business & Account Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:18176586",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGDzMSnerEozQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABsUHAAB6ZF-XkbBD0EADoZ3yffQufkq068,1666443243)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Progressive Recruitment",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "description": "Responsible for Interim placements within the Supply Chain. Mainly focused on Logistics, Warehouse, Planning and Procurement.\n\nProgressive is an international staffing leader in the field of Life Sciences (Food & Beverage / Pharma), Industries and OEM (Original Equipment Manufacturer).\n\nWe specialize in staffing entire projects and understand the local needs, customs and legislation of every country on every continent.\n\nWith 30 years of experience in the recruitment industry, 64 offices around the world and over 1.75 million niche candidates in the database we have the largest network in the field and can offer you outstanding tailor-made no cure no pay service. Currently we have over 7,500 contractors working for our company across the globe.\n\nBecause we use a unique \"vertical market specialist\" formula, your point of contact at Progressive is always aware of the current developments in the market and knows your specialisation.\n\nProgressive’s project driven client approach is inherent to the needs of the business and industries we service. Our candidate and client network is tailored towards STEM markets and contemporary markets. We act as a project partner throughout all phases of the recruitment cycle.\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Recruitment Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:225056",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFy5w0MwggTjQ/company-logo_"
+        },
+        {
+            "locationName": "Heerenveen, Friesland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABsUHAAB6ZF-XkbBD0EADoZ3yffQufkq068,1642629471)",
+            "geoLocationName": "Heerenveen, Friesland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:106931163",
+            "companyName": "Royal Smilde",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "description": "Responsible for multiple Marketing activities within the Category Salads & Sauces.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Food Production"
+                ]
+            },
+            "title": "Intern Category Management Marketing",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:403596",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFYMkzTqnurJw/company-logo_"
+        },
+        {
+            "locationName": "Bali, Indonesia",
+            "entityUrn": "urn:li:fs_position:(ACoAABsUHAAB6ZF-XkbBD0EADoZ3yffQufkq068,1642627560)",
+            "geoLocationName": "Bali, Indonesia",
+            "geoUrn": "urn:li:fs_geo:102883602",
+            "companyName": "Hotel Melia Bali, Bali",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2017
+                }
+            },
+            "description": "Worked at Melia Bali for my internship, I had multiple responsibilities. Worked in the Front Office for the VIP guests, worked at the guest experience department and worked a while for the Quality Control department. ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospitality"
+                ]
+            },
+            "title": "Internship Melia Bali",
+            "region": "urn:li:fs_region:(id,8609)",
+            "companyUrn": "urn:li:fs_miniCompany:10838",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEn4y_jcvZmcQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABsUHAAB6ZF-XkbBD0EADoZ3yffQufkq068,397353207)",
+            "school": {
+                "objectUrn": "urn:li:school:15434",
+                "entityUrn": "urn:li:fs_miniSchool:15434",
+                "active": true,
+                "schoolName": "Zuyd Hogeschool | Zuyd University of Applied Sciences",
+                "trackingId": "q6kUkZGCS8OeVL6p1SIchQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQE8dXrQh1I4pQ/company-logo_"
+            },
+            "activities": "Bierclub Plato, Xaviera, Nondejukes",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101451",
+            "degreeName": "Bachelor of Business Administration (B.B.A.)",
+            "schoolName": "Zuyd Hogeschool | Zuyd University of Applied Sciences",
+            "fieldOfStudy": "Hotel- and Hospitality Management",
+            "degreeUrn": "urn:li:fs_degree:450",
+            "schoolUrn": "urn:li:fs_miniSchool:15434"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "German",
+            "proficiency": "ELEMENTARY"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Thorbecke Voortgezet Onderwijs",
+            "name": "Certificate Higher Secondary Education (HAVO)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:727391",
+                "entityUrn": "urn:li:fs_miniCompany:727391",
+                "name": "Thorbecke Voortgezet Onderwijs",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1673624667958/thorbecke_voortgezet_onderwijs_logo?e=1710374400&v=beta&t=YBoQo8XzQ9yu5GAGV5lwVwQ7aH_ahvUVuiwGsRiNjIc",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1673624667958/thorbecke_voortgezet_onderwijs_logo?e=1710374400&v=beta&t=R1zLKTomnIhTO-_GRAlUU3iAStaZr1_u8NpRejgzsVk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1673624667958/thorbecke_voortgezet_onderwijs_logo?e=1710374400&v=beta&t=orh-vMkbhK-oWO679bgVeszNfntXw4VOel709pQkAKQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFRoPE7IuqmSw/company-logo_"
+                    }
+                },
+                "universalName": "thorbecke-voortgezet-onderwijs",
+                "dashCompanyUrn": "urn:li:fsd_company:727391",
+                "trackingId": "/rMtiADeTdKqn+lx263K3w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:727391"
+        },
+        {
+            "authority": "Hovingh & Partners",
+            "name": "Sales Mastery Account Development",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:17905800",
+                "entityUrn": "urn:li:fs_miniCompany:17905800",
+                "name": "Hovingh & Partners",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631349235293?e=1710374400&v=beta&t=Cq-zGUJ_3G7bl6vs3-jya-9UF3QFyP4-tWf-E9JlWIU",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631349235293?e=1710374400&v=beta&t=MzEAStrW2bBQvH6XqJTVNY6xXKug-Kj076aBtXPebRg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631349235293?e=1710374400&v=beta&t=L0KHVFhAX5UmMCgqq99qenKA3rMJzeiDcN_PpKFsyj0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQFYLpJ6DECUAg/company-logo_"
+                    }
+                },
+                "universalName": "hovingh-&-partners",
+                "dashCompanyUrn": "urn:li:fsd_company:17905800",
+                "trackingId": "/YQ1OAEcQ3eyALQpHjMREQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:17905800"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

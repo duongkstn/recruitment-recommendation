@@ -1,0 +1,234 @@
+{
+    "industryName": "Food & Beverages",
+    "lastName": "Jabbar MSc",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 6,
+        "day": 16
+    },
+    "industryUrn": "urn:li:fs_industry:34",
+    "firstName": "Samir",
+    "entityUrn": "urn:li:fs_profile:ACoAAAWdLzMBD06othgkX1P6dSywyKRoqYhnVic",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Financial Controller a.i. / Finance & Reporting Manager a.i.",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQF2TKUYuM7jgQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1578661081481?e=1707955200&v=beta&t=rNFxj7XCqaT7Bg6fJjGdcuQx7et7kLc5UjDdiSVMRp0",
+    "img_200_200": "200_200/0/1578661081455?e=1707955200&v=beta&t=WfTxjVusBxsOlNmNuUA1-hG8JtC6_Y4gN8q5UNlnqFc",
+    "img_400_400": "400_400/0/1578661081509?e=1707955200&v=beta&t=IZu8aXcq6foVkKXFSunwAh6srJMTcd5oQqZEz8iAwes",
+    "img_800_800": "800_800/0/1578661081543?e=1707955200&v=beta&t=2JhA7q6ej4qO3xjG8hEm5IpKrmp-LhKmve5AdsNRTAo",
+    "profile_id": "ACoAAAWdLzMBD06othgkX1P6dSywyKRoqYhnVic",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAWdLzMBD06othgkX1P6dSywyKRoqYhnVic",
+    "member_urn": "urn:li:member:94187315",
+    "public_id": "samirjabbarfinancialcontroller",
+    "experience": [
+        {
+            "locationName": "Zoetermeer, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAWdLzMBD06othgkX1P6dSywyKRoqYhnVic,2117702993)",
+            "geoLocationName": "Zoetermeer, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:103514353",
+            "companyName": "Danone",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Food Production"
+                ]
+            },
+            "title": "Finance & Reporting manager a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2238",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHsN7SvwFC79A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAWdLzMBD06othgkX1P6dSywyKRoqYhnVic,1713495943)",
+            "companyName": "Booking.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Finance professional a.i.",
+            "companyUrn": "urn:li:fs_miniCompany:11348",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAWdLzMBD06othgkX1P6dSywyKRoqYhnVic,1578139811)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "companyName": "Port of Amsterdam",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Logistics and Supply Chain"
+                ]
+            },
+            "title": "Financial Controller a.i.",
+            "companyUrn": "urn:li:fs_miniCompany:52745",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQENvDGkaS81CA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAWdLzMBD06othgkX1P6dSywyKRoqYhnVic,1565167215)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "companyName": "Littelfuse",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Electrical/Electronic Manufacturing"
+                ]
+            },
+            "title": "Corporate Controller a.i.",
+            "companyUrn": "urn:li:fs_miniCompany:11624",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFhkSIyubFe0g/company-logo_"
+        },
+        {
+            "locationName": "utre",
+            "entityUrn": "urn:li:fs_position:(ACoAAAWdLzMBD06othgkX1P6dSywyKRoqYhnVic,1339271177)",
+            "geoLocationName": "utre",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Kao Corporation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Cosmetics"
+                ]
+            },
+            "title": "Finance & Reporting Team lead a.i.",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:13212",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEPZm25e5S7CA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAWdLzMBD06othgkX1P6dSywyKRoqYhnVic,121382712)",
+            "school": {
+                "objectUrn": "urn:li:school:15453",
+                "entityUrn": "urn:li:fs_miniSchool:15453",
+                "active": true,
+                "schoolName": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "trackingId": "U/wM74JJR4aw2Kfea3NXrg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Master’s Degree",
+            "schoolName": "Vrije Universiteit Amsterdam",
+            "fieldOfStudy": "MSc Accounting & Control",
+            "schoolUrn": "urn:li:fs_miniSchool:15453"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAWdLzMBD06othgkX1P6dSywyKRoqYhnVic,59003891)",
+            "school": {
+                "objectUrn": "urn:li:school:15428",
+                "entityUrn": "urn:li:fs_miniSchool:15428",
+                "active": true,
+                "schoolName": "Amsterdam University of Applied Sciences",
+                "trackingId": "ng8eA0oCRzKrUlxAzMeTnA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "description": "Projecten:\n•Ondernemingsplan, Het opstellen van een financieel rapport voor een onderneming dat de strategie van de onderneming formuleert en dit uitwerken in financiële termen.\n \n• Marketing- en Communicatieanalyse: een gedegen analyse uitvoeren van de externe en interne omgeving, de marktsegmentatie en doelgroep, de marketingmix en het communicatiebeleid ten aanzien van een product, resulterend in een SWOT-analyse.  \n\t\n• Bedrijfskundig advies: Het doorlichten en adviseren van een organisatie op financiële en organisatiekundige aspecten.",
+            "degreeName": "HBO",
+            "schoolName": "Amsterdam University of Applied Sciences",
+            "fieldOfStudy": "Economics",
+            "schoolUrn": "urn:li:fs_miniSchool:15428"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch"
+        },
+        {
+            "name": "English"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

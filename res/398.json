@@ -1,0 +1,673 @@
+{
+    "summary": "A Technical Solution Architect with over 14 years of consulting experience in service provider, data center, and security technologies, delivering customized and scalable solutions for leading global clients across various industries. A skilled bridge between technology and business, with a proven ability to design and implement new generation solutions that drive digital transformation and innovation, enhancing network performance, security, and agility. A proficient project manager who can balance business and technology tradeoffs and handle multiple complex and concurrent projects, achieving high customer satisfaction and retention rates and delivering projects on time and within budget.",
+    "industryName": "Telecommunications",
+    "lastName": "Nagaraj",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": true,
+    "industryUrn": "urn:li:fs_industry:8",
+    "firstName": "Arjun",
+    "entityUrn": "urn:li:fs_profile:ACoAAANDOUgBZllHJ9ONvBWbFdRDHVtdjckNZ_4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102011674"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Network Architect | CCIE SP #44581 | SDWAN | Cybersecurity (SSE and ZTNA) | Automation | Public Cloud (Azure, AWS and GCP)",
+    "profile_id": "ACoAAANDOUgBZllHJ9ONvBWbFdRDHVtdjckNZ_4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAANDOUgBZllHJ9ONvBWbFdRDHVtdjckNZ_4",
+    "member_urn": "urn:li:member:54737224",
+    "public_id": "arjun-nagaraj",
+    "experience": [
+        {
+            "locationName": "Hilversum, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAANDOUgBZllHJ9ONvBWbFdRDHVtdjckNZ_4,2188544636)",
+            "geoLocationName": "Hilversum, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:105888388",
+            "companyName": "SLTN",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Network Architect",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:4988",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQH2mKPFL8XJNw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area",
+            "entityUrn": "urn:li:fs_position:(ACoAAANDOUgBZllHJ9ONvBWbFdRDHVtdjckNZ_4,1964907496)",
+            "geoLocationName": "Amsterdam Area",
+            "geoUrn": "urn:li:fs_geo:90010383",
+            "companyName": "Orange Business Services",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2023
+                },
+                "startDate": {
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior Cloud Networking Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1112",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHkuI2zyi1F8Q/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAANDOUgBZllHJ9ONvBWbFdRDHVtdjckNZ_4,1518544540)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "NTT Ltd.",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2022
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Technical Architect",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:19126858",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_"
+        },
+        {
+            "locationName": "Bengaluru Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAANDOUgBZllHJ9ONvBWbFdRDHVtdjckNZ_4,617974286)",
+            "geoLocationName": "Bengaluru Area, India",
+            "geoUrn": "urn:li:fs_geo:105307040",
+            "companyName": "Cisco",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Network Consulting Engineer",
+            "region": "urn:li:fs_region:(in,7127)",
+            "companyUrn": "urn:li:fs_miniCompany:1063",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+        },
+        {
+            "locationName": "Bengaluru Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAANDOUgBZllHJ9ONvBWbFdRDHVtdjckNZ_4,238054073)",
+            "geoLocationName": "Bengaluru Area, India",
+            "geoUrn": "urn:li:fs_geo:90009633",
+            "companyName": "Philips",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ]
+            },
+            "title": "Sr Network Engineer",
+            "region": "urn:li:fs_region:(in,7127)",
+            "companyUrn": "urn:li:fs_miniCompany:1090",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQG4O5wCG6zf2Q/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAANDOUgBZllHJ9ONvBWbFdRDHVtdjckNZ_4,90760499)",
+            "school": {
+                "objectUrn": "urn:li:school:13683",
+                "entityUrn": "urn:li:fs_miniSchool:13683",
+                "active": true,
+                "schoolName": "Visvesvaraya Technological University",
+                "trackingId": "WMfjBQ9YSoiQGuAd9HI1yQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQEXLsH7UX9uMw/company-logo_"
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100353",
+            "degreeName": "Bachelors in Engineering",
+            "schoolName": "Visvesvaraya Technological University",
+            "fieldOfStudy": "Telecommunications Engineering",
+            "schoolUrn": "urn:li:fs_miniSchool:13683"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Cisco",
+            "name": "Cisco Certified Internetwork Expert Service Provider (CCIE)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2014
+                }
+            },
+            "licenseNumber": "44581",
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "FlZy+r5VTIyCPPFhvhmlVA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "Cisco",
+            "name": "Cisco Certified Internetwork Expert Data Center",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "licenseNumber": "44581",
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "sg2tOkCZRg2e1Uwdndf14g=="
+            },
+            "displaySource": "cisco.com",
+            "companyUrn": "urn:li:fs_miniCompany:1063",
+            "url": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-data-center.html"
+        },
+        {
+            "authority": "AXELOS Global Best Practice",
+            "name": "ITIL v3",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:4999764",
+                "entityUrn": "urn:li:fs_miniCompany:4999764",
+                "name": "AXELOS Global Best Practice",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1635436804635/axelos_global_best_practice_logo?e=1710374400&v=beta&t=C6Y-Tt6R3bvCEnEXhbh2lNHx0laKOH4vlxkAWLcXjOo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1635436804635/axelos_global_best_practice_logo?e=1710374400&v=beta&t=4PrQFIot5yK_EiWOzSVGDVKdn-hc8RCcjbofsZWXx5U",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1635436804635/axelos_global_best_practice_logo?e=1710374400&v=beta&t=GsGHr9JTPnz5uRS09b8vSyP9QxvCivpL1nRBlNaw9x8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGo_FHY0vki5A/company-logo_"
+                    }
+                },
+                "universalName": "axelos-global-best-practice",
+                "dashCompanyUrn": "urn:li:fsd_company:4999764",
+                "trackingId": "5bLpYuFBT0y50eec1i/9JA=="
+            },
+            "displaySource": "axelos.com",
+            "companyUrn": "urn:li:fs_miniCompany:4999764",
+            "url": "https://www.axelos.com/best-practice-solutions/itil"
+        },
+        {
+            "authority": "Juniper Networks",
+            "name": "JNCIA JUNOS",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2240",
+                "entityUrn": "urn:li:fs_miniCompany:2240",
+                "name": "Juniper Networks",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1686866548188/juniper_networks_logo?e=1710374400&v=beta&t=bwNHlDDiB44rnCXfmlSKS4A3laKZB_SRxDRpUTiMN5Q",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1686866548188/juniper_networks_logo?e=1710374400&v=beta&t=2JN75NZqsdc0Ylr_Y-6gK4-d5T5X8T-PtNJTqrckIyA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1686866548188/juniper_networks_logo?e=1710374400&v=beta&t=jyiBpaDAoFTiXuZst602L8FBmxxhJefZxiKecnzwV2o",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQHs1l2oz4krEw/company-logo_"
+                    }
+                },
+                "universalName": "juniper-networks",
+                "dashCompanyUrn": "urn:li:fsd_company:2240",
+                "trackingId": "5e9OWcxJT6+PE+z7Kr/Flg=="
+            },
+            "displaySource": "juniper.net",
+            "companyUrn": "urn:li:fs_miniCompany:2240",
+            "url": "https://www.juniper.net/us/en/training/certification/"
+        },
+        {
+            "authority": "Silver Peak",
+            "name": "Silver Peak SDWAN Professional (SPSP)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:23249",
+                "entityUrn": "urn:li:fs_miniCompany:23249",
+                "name": "Silver Peak",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630571716688/silver_peak_systems_logo?e=1710374400&v=beta&t=xRuMr6GcNsQG0pQhUQGJlLpykvJ2bgu7aPJwTtcfVFo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630571716688/silver_peak_systems_logo?e=1710374400&v=beta&t=PMy1VVeaVBo9m1AHIukbUGKd49SwsLRQ55de7uxjRu0",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630571716688/silver_peak_systems_logo?e=1710374400&v=beta&t=FAD0-Ch93GJAbzFXuWR2CpR4ix29Lb5J8I05R4t8Heg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG8oiCXHGROPw/company-logo_"
+                    }
+                },
+                "universalName": "silver-peak-systems",
+                "dashCompanyUrn": "urn:li:fsd_company:23249",
+                "trackingId": "C5PdA7deQ/muU0bla4MQIw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:23249"
+        },
+        {
+            "authority": "Silver Peak",
+            "name": " Silver Peak SDWAN eXpert (SPSX)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:23249",
+                "entityUrn": "urn:li:fs_miniCompany:23249",
+                "name": "Silver Peak",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630571716688/silver_peak_systems_logo?e=1710374400&v=beta&t=xRuMr6GcNsQG0pQhUQGJlLpykvJ2bgu7aPJwTtcfVFo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630571716688/silver_peak_systems_logo?e=1710374400&v=beta&t=PMy1VVeaVBo9m1AHIukbUGKd49SwsLRQ55de7uxjRu0",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630571716688/silver_peak_systems_logo?e=1710374400&v=beta&t=FAD0-Ch93GJAbzFXuWR2CpR4ix29Lb5J8I05R4t8Heg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG8oiCXHGROPw/company-logo_"
+                    }
+                },
+                "universalName": "silver-peak-systems",
+                "dashCompanyUrn": "urn:li:fsd_company:23249",
+                "trackingId": "b8EJQFu7QBevUQ53nxzZqw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:23249"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "AZ-900: Microsoft Azure Fundamentals",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "JtklhUctRCKhujyTkqcXIQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1035"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "6IJC98MPR0GZLKdpfFxP2Q=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1035"
+        },
+        {
+            "authority": "Cisco",
+            "name": "Implementing Cisco SD-WAN Solutions Certification",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "J0w5qG75Q7CiUAMLOD0dKg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "Zscaler",
+            "name": "Zero Trust Certified Architect (ZTCA)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "sc4eor5vrij3",
+            "company": {
+                "objectUrn": "urn:li:company:234625",
+                "entityUrn": "urn:li:fs_miniCompany:234625",
+                "name": "Zscaler",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688573892674/zscaler_logo?e=1710374400&v=beta&t=WGPzbeXqmJe6ut-KSQVBtLqje3GTQpKrgO1ySCiUp9o",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688573892674/zscaler_logo?e=1710374400&v=beta&t=jnrhI5OlvscBBwUr_HhAU5l1r_XyRmXeC2c0jDJ4XZI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688573892674/zscaler_logo?e=1710374400&v=beta&t=sJIf62MV02rlzIUMvsVcTDdSRgAfB9nszgpOjPbvWd0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFyKYkPLfu8OQ/company-logo_"
+                    }
+                },
+                "universalName": "zscaler",
+                "dashCompanyUrn": "urn:li:fsd_company:234625",
+                "trackingId": "hfm3mUI9QWiBqWJCx7lghg=="
+            },
+            "displaySource": "skilljar.com",
+            "companyUrn": "urn:li:fs_miniCompany:234625",
+            "url": "https://verify.skilljar.com/c/sc4eor5vrij3"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

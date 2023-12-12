@@ -1,0 +1,374 @@
+{
+    "summary": "Within Michael Page Amsterdam I am specialized in recruitment of medior/senior and expert IT professionals and to match them with (challenging) roles at my various portfolio of clients. This ensures me to partner with my clients and help them to secure the best IT professionals.\n\nFor recruitment solutions up to expert level in IT we are specialized in Permanent positions for:\n•\tInformation Security\n•\tArchitecture\n•\tAgile\n•\tBusiness Analysis & Intelligence\n•\tIT Leadership\n•\tData science & analytics\n•\tProject management\n•\tUX Research, UX Design\nAre you interested in your next career-step, looking for internal/external professionals and or need a Business Partner? Are you perhaps interested in a career at PageGroup?\n\nFeel free to contact me:\nE- mail: colinbovenkerk@michaelpage.nl\nPhone: + 31 6 12 00 06 36",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Bovenkerk",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 4,
+        "day": 8
+    },
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Colin",
+    "entityUrn": "urn:li:fs_profile:ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Manager Information Technology Permanent at Michael Page Nederland",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQE1vYlK-YtWaw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1555075629882?e=1707955200&v=beta&t=wBXsTf34X4CuN-ej9Ljq_BpppNVWulPx4OccEfAcno0",
+    "img_200_200": "200_200/0/1555075629906?e=1707955200&v=beta&t=9vJw22kT8QQ_Ncxvc-aIh-mgKyHXSRZM-HPXnb6Qk40",
+    "img_400_400": "400_400/0/1555075630070?e=1707955200&v=beta&t=ADtSzR9xNoGXZ8Qk-uuSP80wieZAJ2CLynsl8fswb6w",
+    "img_800_800": "800_800/0/1555075631106?e=1707955200&v=beta&t=ASg5_J1naYV5TfasI-qdHZv1Wr2B_2KiGrGQlOCUaJU",
+    "profile_id": "ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk",
+    "member_urn": "urn:li:member:489309475",
+    "public_id": "colin-bovenkerk",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk,2176146948)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Michael Page",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Manager Information Technology Permanent",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3476",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk,2029977700)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Michael Page",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Managing Consultant Information Technology Permanent",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3476",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk,1925505589)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Michael Page",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior Consultant Information Technology Permanent",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3476",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk,1774815855)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Michael Page Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "description": "Michael Page is specialized in recruitment for IT Permanent & Interim roles including:\n• Business IT, IT Management & Data\n• Software Development, Design & Testing\n• IT Security, IT Risk, IT Audit & IT Compliance\n\nOur specialist consultants understand the IT Interim market and are able to make the match between professionals and vacancies.\n\nWithin the company I am part of the Information Technology team where we are specialized in Business Analysis, Business Intelligence, Data Science, Analytics, Data Analysis, UX Research, UX Design - being the linking pin between the Business and IT for our clients and candidates.\n\nDue to our years of experience in the market, we have an extensive network of both jobs, candidates and employers. In addition, each consultant also has their personal network of contacts from which to gauge interest and solicit referrals.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Consultant Information Technology Permanent",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3476",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk,1696595876)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Jobair B.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "description": "Jobair is een groeiend bedrijf in de dienstverlening gericht op Schiphol. Wij zenden mensen uit daar waar ze nodig zijn. Onze focus ligt voornamelijk op de luchtvracht, waarbij Jobair logistieke medewerkers levert die allround en 24/7 inzetbaar zijn om zo de dynamische en flexibele omgeving op Schiphol te kunnen bevredigen. Onze uitzendkrachten kunnen door middel van deze instelling dan ook op dagelijkse basis bij meerdere bedrijven actief zijn.\n\nDoor de persoonlijke aanpak en mogelijkheid tot opleiding bij Jobair zijn wij de ideale partner voor partijen in de dynamische omgeving van Schiphol.\n\nJobair is een uitzendorganisatie die zich richt op het persoonlijk vlak waarin we de wensen van de opdrachtgever en de uitzendkracht centraal stellen. Het is onze taak om de juiste persoon bij de vacature te vinden. Dit doen we met betrokkenheid, professionaliteit en plezier!",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Recruitment consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:72267380",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGezL0NJmyJrw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk,582913764)",
+            "school": {
+                "objectUrn": "urn:li:school:15423",
+                "entityUrn": "urn:li:fs_miniSchool:15423",
+                "active": true,
+                "schoolName": "Inholland University of Applied Sciences",
+                "trackingId": "/8w9jhx9REGraSM3H+2M6g==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQF4kRIPNGd2sw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Hogeschool Inholland / Inholland University of Applied Sciences",
+            "fieldOfStudy": "Leisure & Events Management",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15423"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk,342277530)",
+            "school": {
+                "objectUrn": "urn:li:school:15428",
+                "entityUrn": "urn:li:fs_miniSchool:15428",
+                "active": true,
+                "schoolName": "Amsterdam University of Applied Sciences",
+                "trackingId": "Ah/haLtIQ+icN6P0ZbYXAg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "schoolName": "Hogeschool van Amsterdam",
+            "fieldOfStudy": "International business and management studies",
+            "schoolUrn": "urn:li:fs_miniSchool:15428"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Engels",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Tabor College Werenfridus",
+            "name": "HAVO Diploma",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:17899547",
+                "entityUrn": "urn:li:fs_miniCompany:17899547",
+                "name": "Taborcollege, Werenfridus",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1675430431797/taborcollege_werenfridus_logo?e=1710374400&v=beta&t=coAaa53CQn658MZsG3jl6IoIOqYgKs8mV1yyhz9GyI0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1675430431797/taborcollege_werenfridus_logo?e=1710374400&v=beta&t=h6vhP30Qg9_W4DZXgnrbKS6Fcd4_BBExCEzBFiJUQDs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1675430431797/taborcollege_werenfridus_logo?e=1710374400&v=beta&t=cbEMJKCzEgkfgiUBOLwFhotsxgdYA2MSQoUVdcDWUC0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGbst5Tbl__yg/company-logo_"
+                    }
+                },
+                "universalName": "taborcollege-werenfridus",
+                "dashCompanyUrn": "urn:li:fsd_company:17899547",
+                "trackingId": "IGUPnpZTSQq940Zo4UapDQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:17899547"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk,1525603065)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Colin",
+                        "lastName": "Bovenkerk",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk",
+                        "occupation": "Manager Information Technology Permanent at Michael Page Nederland",
+                        "objectUrn": "urn:li:member:489309475",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1621600269391?e=1707955200&v=beta&t=2zuQX0MZNj2mINxiSLaPeJtqWkudHWV2xu0Zv45S5pM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1621600269391?e=1707955200&v=beta&t=y0NSaDcwoqO5cV3e_kcGzswVDhG_oAs13F3RcZlbVWE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQFqi5XA3CM9tA/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "colin-bovenkerk",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1555075629882?e=1707955200&v=beta&t=wBXsTf34X4CuN-ej9Ljq_BpppNVWulPx4OccEfAcno0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1555075629906?e=1707955200&v=beta&t=9vJw22kT8QQ_Ncxvc-aIh-mgKyHXSRZM-HPXnb6Qk40",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1555075630070?e=1707955200&v=beta&t=ADtSzR9xNoGXZ8Qk-uuSP80wieZAJ2CLynsl8fswb6w",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1555075631106?e=1707955200&v=beta&t=ASg5_J1naYV5TfasI-qdHZv1Wr2B_2KiGrGQlOCUaJU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQE1vYlK-YtWaw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "DkIkiqVIQZaqTg4b7tKOkA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk,204655866,242213495)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAB0qRSMB2m03eIUJpiT9-Z09tsy-bzEdfTk"
+                }
+            ],
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "title": "Afstudeeropdracht bij Werk & Ik BV."
+        }
+    ]
+}

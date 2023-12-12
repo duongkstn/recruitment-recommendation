@@ -1,0 +1,653 @@
+{
+    "summary": "Albert is a Product Designer at Backbase, a leading provider of digital banking solutions. He leads teams using facilitation and systems thinking and creates scalable visual designs and interactions that deliver humanized value to customers and businesses. He is passionate about empathizing and listening to users' unique needs, and offering data-driven and thoughtful solutions that enhance their experience and satisfaction.\n\nWith a Bachelor of Science in Computer Science from Babcock University and a degree in Human-Computer Interaction from The Interaction Design Foundation, Albert has a strong understanding of the technologies and principles that enable accessibility and usability in modern digital products. He also has a certification in Enterprise Design Thinking from IBM, which equips him with the skills and tools to collaborate effectively and innovate rapidly. He has over three years of experience in product design, working with clients such as Groove and Deloitte, where he contributed to multiple projects involving digital transformation, fintech, and user research.",
+    "industryName": "Financial Services",
+    "lastName": "Okpala",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:43",
+    "firstName": "Albert",
+    "entityUrn": "urn:li:fs_profile:ACoAABBtbgMBNTTQRFXNtTW2lOQH7wuTWwN8uzU",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Product Designer @ Backbase | Design Thinking, Design Sprints, Design Systems, Solution Engineering, Fintech, Product Strategy HCI, UX, UI | Ex-Deloitte | Ex-Andela",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQFxCZSOIiScOw/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1696154200799?e=1702972800&v=beta&t=whwj4geNyj500vO8c4c4e50xkXxAK60-FSD2UhVacpA",
+    "img_200_200": "200_200/0/1696154200799?e=1702972800&v=beta&t=0vWroVLPsuNXo5YGkTT1q8q4z9l5MmCv6gU60U1dln8",
+    "img_800_800": "800_800/0/1696154200799?e=1702972800&v=beta&t=IN3HYk5Ilwu9KDi7Kdg7G3Cuz0pPyad4ebjxCeV2Rms",
+    "img_100_100": "100_100/0/1696154200799?e=1702972800&v=beta&t=o8QkiwPlVMlrVvbbZrMTam1QM-1KEf_mpLY4JI1nISM",
+    "profile_id": "ACoAABBtbgMBNTTQRFXNtTW2lOQH7wuTWwN8uzU",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABBtbgMBNTTQRFXNtTW2lOQH7wuTWwN8uzU",
+    "member_urn": "urn:li:member:275607043",
+    "public_id": "albertokpala",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABBtbgMBNTTQRFXNtTW2lOQH7wuTWwN8uzU,1918934276)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Backbase",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Product Designer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:20992",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFOmtTiVwZYvA/company-logo_"
+        },
+        {
+            "locationName": "New York, United States",
+            "entityUrn": "urn:li:fs_position:(ACoAABBtbgMBNTTQRFXNtTW2lOQH7wuTWwN8uzU,1918934239)",
+            "geoLocationName": "New York, United States",
+            "geoUrn": "urn:li:fs_geo:105080838",
+            "companyName": "Andela",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Product Designer",
+            "region": "urn:li:fs_region:(us,0)",
+            "companyUrn": "urn:li:fs_miniCompany:5351527",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHOiEePQQlQ8g/company-logo_"
+        },
+        {
+            "locationName": "Nigeria",
+            "entityUrn": "urn:li:fs_position:(ACoAABBtbgMBNTTQRFXNtTW2lOQH7wuTWwN8uzU,1570161141)",
+            "geoLocationName": "Nigeria",
+            "geoUrn": "urn:li:fs_geo:105365761",
+            "companyName": "Deloitte",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Senior Product Designer",
+            "region": "urn:li:fs_region:(ng,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1038",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_"
+        },
+        {
+            "locationName": "Nigeria",
+            "entityUrn": "urn:li:fs_position:(ACoAABBtbgMBNTTQRFXNtTW2lOQH7wuTWwN8uzU,1306672353)",
+            "geoLocationName": "Nigeria",
+            "geoUrn": "urn:li:fs_geo:105365761",
+            "companyName": "Access Bank Plc",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2017
+                }
+            },
+            "description": "Collaborate with product managers and developers to define and implement innovative solutions for the product direction, visuals and experience.\n\nConduct user research and evaluate user feedback\n\nCreate wireframes, storyboards, user flows, and process flows to effectively communicate interaction and design ideas.\n\nPresent and defend designs and key milestone deliverables to peers and executive level stakeholders\n\nLead design workshops to quickly and efficiently develop workflows, wireframes, identify key user issues and proffer design tailored solutions. \n\nEstablish and promote design guidelines, best practices and standards\n\nWorking closely with other agile team members to support the implementation of user interface designs\n\nAbility to work across and support different agile teams  with possibly conflicting priorities.\n\nDeveloping wireframes and prototypes for web applications and mobile software.\n\nPartnering with stakeholders and developers to iterate on conversational designs for the bank’s chatbot.\n\nLeveraging human conversations and the underlying logic of Dialog flow to build AI Chatbot for banking customers.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Product Designer",
+            "region": "urn:li:fs_region:(ng,0)",
+            "companyUrn": "urn:li:fs_miniCompany:37003",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEuA9GfBwSXdQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABBtbgMBNTTQRFXNtTW2lOQH7wuTWwN8uzU,924243761)",
+            "school": {
+                "objectUrn": "urn:li:school:156025",
+                "entityUrn": "urn:li:fs_miniSchool:156025",
+                "active": true,
+                "schoolName": "The Interaction Design Foundation",
+                "trackingId": "wNy4e1XRTl2N1VJ4lqSbuA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG9OphzSEfepA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2023
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "schoolName": "The Interaction Design Foundation",
+            "schoolUrn": "urn:li:fs_miniSchool:156025"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABBtbgMBNTTQRFXNtTW2lOQH7wuTWwN8uzU,174405441)",
+            "school": {
+                "objectUrn": "urn:li:school:564115",
+                "entityUrn": "urn:li:fs_miniSchool:564115",
+                "active": true,
+                "schoolName": "Babcock University, Ilishan-Remo, Nigeria",
+                "trackingId": "gIs1jHmST4O07tG7DaSFfw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFD9GnW8bjfHQ/company-logo_"
+            },
+            "grade": "Second Class Upper Division",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2009
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+            "degreeName": "Bachelor of Science - BS",
+            "schoolName": "Babcock University, Ilishan-Remo, Nigeria",
+            "fieldOfStudy": "Computer Science",
+            "degreeUrn": "urn:li:fs_degree:400",
+            "schoolUrn": "urn:li:fs_miniSchool:564115"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "IBM",
+            "name": "Enterprise Design Thinking Practitioner",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=fI4woEfiR66RXckDzHXcuXmwuHY_AhFm3YJ1UTl7Jn0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=Furn0vXql4qh6cesBQ3Ncf3zVolROT2u95LMYdmK-L8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=Hn00ybJ0iaIXWo7XRrjg0_wLY0PDvc4-Vyj2MAVEo1Y",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_"
+                    }
+                },
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "0tFDD/MpQISXHJOsc29Hiw=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:1009",
+            "url": "https://www.youracclaim.com/badges/a0e71162-cf76-4f0f-9326-2e48da7c1356/linked_in_profile"
+        },
+        {
+            "authority": "The Interaction Design Foundation",
+            "name": "Membership Certificate",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "licenseNumber": "38705",
+            "company": {
+                "objectUrn": "urn:li:company:15098063",
+                "entityUrn": "urn:li:fs_miniCompany:15098063",
+                "name": "The Interaction Design Foundation",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630606956589/the_interaction_design_foundation_logo?e=1710374400&v=beta&t=XQgz3_9bhssCbd3jNTofDH2C02BTqViMMGLY5V14wrE",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630606956589/the_interaction_design_foundation_logo?e=1710374400&v=beta&t=QxUKbzoS7gh4D-mpzRdvhk1cThV8mKo_XN319uUM5jU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630606956589/the_interaction_design_foundation_logo?e=1710374400&v=beta&t=Q_-drWPqPw1oYjo0sOpQTi_BUv6HonByIBw5NBn7DK4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG9OphzSEfepA/company-logo_"
+                    }
+                },
+                "universalName": "the-interaction-design-foundation",
+                "dashCompanyUrn": "urn:li:fsd_company:15098063",
+                "trackingId": "RNmy9KR9SFiDrTAMTru4Fg=="
+            },
+            "displaySource": "interaction-design.org",
+            "companyUrn": "urn:li:fs_miniCompany:15098063",
+            "url": "https://www.interaction-design.org/albert-okpala/certificate/member/P7CFHzM8X"
+        },
+        {
+            "authority": "The Interaction Design Foundation",
+            "name": "Human-Computer Interaction",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "licenseNumber": "38705",
+            "company": {
+                "objectUrn": "urn:li:company:15098063",
+                "entityUrn": "urn:li:fs_miniCompany:15098063",
+                "name": "The Interaction Design Foundation",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630606956589/the_interaction_design_foundation_logo?e=1710374400&v=beta&t=XQgz3_9bhssCbd3jNTofDH2C02BTqViMMGLY5V14wrE",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630606956589/the_interaction_design_foundation_logo?e=1710374400&v=beta&t=QxUKbzoS7gh4D-mpzRdvhk1cThV8mKo_XN319uUM5jU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630606956589/the_interaction_design_foundation_logo?e=1710374400&v=beta&t=Q_-drWPqPw1oYjo0sOpQTi_BUv6HonByIBw5NBn7DK4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG9OphzSEfepA/company-logo_"
+                    }
+                },
+                "universalName": "the-interaction-design-foundation",
+                "dashCompanyUrn": "urn:li:fsd_company:15098063",
+                "trackingId": "svWuFnNCRSSc9gCEKkXC+g=="
+            },
+            "displaySource": "interaction-design.org",
+            "companyUrn": "urn:li:fs_miniCompany:15098063",
+            "url": "https://www.interaction-design.org/albert-okpala/certificate/course/fltqnHSHvHKx10CQxq"
+        },
+        {
+            "authority": "The Interaction Design Foundation",
+            "name": "UX Management: Strategy and Tactics",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "38705",
+            "company": {
+                "objectUrn": "urn:li:company:15098063",
+                "entityUrn": "urn:li:fs_miniCompany:15098063",
+                "name": "The Interaction Design Foundation",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630606956589/the_interaction_design_foundation_logo?e=1710374400&v=beta&t=XQgz3_9bhssCbd3jNTofDH2C02BTqViMMGLY5V14wrE",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630606956589/the_interaction_design_foundation_logo?e=1710374400&v=beta&t=QxUKbzoS7gh4D-mpzRdvhk1cThV8mKo_XN319uUM5jU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630606956589/the_interaction_design_foundation_logo?e=1710374400&v=beta&t=Q_-drWPqPw1oYjo0sOpQTi_BUv6HonByIBw5NBn7DK4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG9OphzSEfepA/company-logo_"
+                    }
+                },
+                "universalName": "the-interaction-design-foundation",
+                "dashCompanyUrn": "urn:li:fsd_company:15098063",
+                "trackingId": "BaVY0g1xSqCk4j3/Vw1HzQ=="
+            },
+            "displaySource": "interaction-design.org",
+            "companyUrn": "urn:li:fs_miniCompany:15098063",
+            "url": "https://www.interaction-design.org/albert-okpala/certificate/course/fltqnHSHvQ8qNLHcn2"
+        },
+        {
+            "authority": "Product School",
+            "name": "Product Masterclass: How to Build Digital Products",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "cert_bw0xqfxx",
+            "company": {
+                "objectUrn": "urn:li:company:3861577",
+                "entityUrn": "urn:li:fs_miniCompany:3861577",
+                "name": "Product School",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688233590665?e=1710374400&v=beta&t=ciU4-ceCTLTE7zyYfHGXPf0vhP9EYoV8AZ0-MsUDV4M",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688233590665?e=1710374400&v=beta&t=BKhX-5kVF0Ioj8QWouz3rZvcPAdAxbjXonjtL7sKpH4",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688233590665?e=1710374400&v=beta&t=rgIUJWvSw4dcXSTUrwn6TYZZS7FlKPSNkDTK5NwH8ws",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQGODY7RuiroaA/company-logo_"
+                    }
+                },
+                "universalName": "product-school",
+                "dashCompanyUrn": "urn:li:fsd_company:3861577",
+                "trackingId": "53m+5eCJRiCXjRrEXl0X5w=="
+            },
+            "displaySource": "teachable.com",
+            "companyUrn": "urn:li:fs_miniCompany:3861577",
+            "url": "https://productschool.teachable.com/courses/708657/certificate"
+        },
+        {
+            "authority": "Oracle",
+            "name": "Oracle Cloud Infrastructure Foundations 2020 Certified Associate",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1028",
+                "entityUrn": "urn:li:fs_miniCompany:1028",
+                "name": "Oracle",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1665755678957/oracle_logo?e=1710374400&v=beta&t=AX7jKt71QAU13yZW4pBL0qjoDIwsPQjr23EpTQFiim8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1665755678957/oracle_logo?e=1710374400&v=beta&t=sNTIAK6f1rNTaGwV3xwZrMManxbNwZM_IKgjgxokMb8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1665755678957/oracle_logo?e=1710374400&v=beta&t=mRvjs-CzHQaHYhPLRxfZqAryTFjLyHJZUKXvwhl_yZY",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQHYCgYovUuPtQ/company-logo_"
+                    }
+                },
+                "universalName": "oracle",
+                "dashCompanyUrn": "urn:li:fsd_company:1028",
+                "trackingId": "fI6pHe3sRR2/vQO0v7OkjQ=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:1028",
+            "url": "https://www.youracclaim.com/badges/e3ec72f5-48fb-4863-a1b5-cfe62d046c62/linked_in_profile"
+        },
+        {
+            "authority": "Scaled Agile, Inc.",
+            "name": "Certified SAFe® 5 Agilist",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "09952983-6665",
+            "company": {
+                "objectUrn": "urn:li:company:2434776",
+                "entityUrn": "urn:li:fs_miniCompany:2434776",
+                "name": "Scaled Agile, Inc.",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1668017355052/scaled_agile_inc__logo?e=1710374400&v=beta&t=DQKvNUw6wZwJ_SS8L0DligscHCRLDIi_zGI_PaFn1XY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1668017355052/scaled_agile_inc__logo?e=1710374400&v=beta&t=A2BZ870IMvoDeRwTQ8YV67Lk_nxZW2D3vAAkPCxzpu0",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1668017355052/scaled_agile_inc__logo?e=1710374400&v=beta&t=ar1QNZD9dmXlukPCn79Wt0zauobAQvcR3rCo9yJ-p6A",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFti5SCrDfBWA/company-logo_"
+                    }
+                },
+                "universalName": "scaled-agile-inc-",
+                "dashCompanyUrn": "urn:li:fsd_company:2434776",
+                "trackingId": "S0WUS7sVRD60LZZrt1gsDA=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:2434776",
+            "url": "https://www.credly.com/badges/00bd943b-a9d5-449e-9abd-fb3dfeb9d3dd?source=linked_in_profile"
+        },
+        {
+            "authority": "BCS, The Chartered Institute for IT",
+            "name": "BCS Certificate in IT",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:25323",
+                "entityUrn": "urn:li:fs_miniCompany:25323",
+                "name": "BCS, The Chartered Institute for IT",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692003265985/it_bcs_logo?e=1710374400&v=beta&t=RM9N3HitdflIL8pmSpLjH6Ol4H_krzFAeE5x_O95_rQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692003265985/it_bcs_logo?e=1710374400&v=beta&t=6JvqlUP8vBClRpLatHSlyRwxeg4jaG1HrsT26j6drFM",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692003265985/it_bcs_logo?e=1710374400&v=beta&t=6d8HVULcs4oDM47P-ZLqm3rKAqMb_SJtBxaxN--c1LE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQHmhyZrE7BAJw/company-logo_"
+                    }
+                },
+                "universalName": "it-bcs",
+                "dashCompanyUrn": "urn:li:fsd_company:25323",
+                "trackingId": "Um+e4ld/ScCRP4wv0iU8vw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:25323"
+        },
+        {
+            "authority": "Nielsen Norman Group",
+            "name": "Designing Complex Apps for Specialized Domains",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:56104",
+                "entityUrn": "urn:li:fs_miniCompany:56104",
+                "name": "Nielsen Norman Group",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630581879121/nielsen_norman_group_logo?e=1710374400&v=beta&t=AKra4WNInVapvXwkmrF69dgYf8_t4K-_AJySCE3p-qk",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630581879121/nielsen_norman_group_logo?e=1710374400&v=beta&t=eeK5RRZd6IwPf5EMSuvNzjwBftIFWby09QPojmYoYJ0",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630581879121/nielsen_norman_group_logo?e=1710374400&v=beta&t=2QN7m6ssZboWI5oUI7xjmrZmLdIB3x2riOXHFvp--4U",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFX5Ep3VQytCA/company-logo_"
+                    }
+                },
+                "universalName": "nielsen-norman-group",
+                "dashCompanyUrn": "urn:li:fsd_company:56104",
+                "trackingId": "hDOo14kdTzKvCoSNIOhwwg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:56104"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

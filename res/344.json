@@ -1,0 +1,442 @@
+{
+    "summary": "I am passionate about leveraging my unique blend of technical and business know-how to drive success for organizations and bring out the best in teams. I also have excellent people skills and a proven track record of building and leading high-performing teams in the network and security domain. If you're seeking to connect with a dynamic, results-oriented leader who can deliver exceptional value, please get in touch.\n\nI hold a BSc (IT) and an MBA (IT) from reputable institutions, as well as several industry-recognized certifications in network and security, such as CCNA, CCNP, CCIE-R&S and CCDP ARCH. I also have a TOGAF 9 Foundation certification in business architecture and enterprise transformation.",
+    "industryName": "Information Technology & Services",
+    "lastName": "M.",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 4,
+        "day": 24
+    },
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Jay",
+    "entityUrn": "urn:li:fs_profile:ACoAAAIEeOABc2pf1i3fMQW2VE4g21xb58qu8U0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Network & Security Architect",
+    "profile_id": "ACoAAAIEeOABc2pf1i3fMQW2VE4g21xb58qu8U0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAIEeOABc2pf1i3fMQW2VE4g21xb58qu8U0",
+    "member_urn": "urn:li:member:33847520",
+    "public_id": "jaymagra",
+    "experience": [
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAIEeOABc2pf1i3fMQW2VE4g21xb58qu8U0,1195390961)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Atos",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "description": "Currently working on various internal data center projects within Atos. Also supporting one of the UK customer with their global LAN/WAN/Wireless strategies.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Network & Security Architect",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEYl-E6odacMA/company-logo_"
+        },
+        {
+            "locationName": "Hilversum, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAIEeOABc2pf1i3fMQW2VE4g21xb58qu8U0,84571642)",
+            "geoLocationName": "Hilversum, Netherlands",
+            "companyName": "Nike/Atos (Former Xerox)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2015
+                }
+            },
+            "description": "Nike-Atos\nJay worked for Nike to service and manager their Global Network & Security Infrastructure. Joined the team as a Senior Network Engineer and later transformed into an Architect. Jay was deployed at Nike's European Headquarters until 2017.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Network Architect",
+            "companyUrn": "urn:li:fs_miniCompany:2029",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFckBxRnPg53Q/company-logo_"
+        },
+        {
+            "locationName": "Hilversum Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAIEeOABc2pf1i3fMQW2VE4g21xb58qu8U0,1358881056)",
+            "geoLocationName": "Hilversum Netherlands",
+            "companyName": "Nike",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2012
+                }
+            },
+            "description": "Nike - Xerox",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Principal Network Engineer",
+            "companyUrn": "urn:li:fs_miniCompany:2029",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFckBxRnPg53Q/company-logo_"
+        },
+        {
+            "locationName": "Bangalore",
+            "entityUrn": "urn:li:fs_position:(ACoAAAIEeOABc2pf1i3fMQW2VE4g21xb58qu8U0,1358879287)",
+            "geoLocationName": "Bangalore",
+            "companyName": "Nike",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2009
+                }
+            },
+            "description": "Nike  - Xerox (Former ACS)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Senior Network Engineer",
+            "companyUrn": "urn:li:fs_miniCompany:2029",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFckBxRnPg53Q/company-logo_"
+        },
+        {
+            "locationName": "New Delhi, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAAIEeOABc2pf1i3fMQW2VE4g21xb58qu8U0,53409176)",
+            "geoLocationName": "New Delhi, India",
+            "companyName": "HCL Comnet Systems and Services Limited",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2007
+                }
+            },
+            "description": "Jay was working for various global customers of HCL to service their LAN/WAN & Wireless networks.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Specialist-Networks",
+            "companyUrn": "urn:li:fs_miniCompany:1756",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQF-RIoeeMTMKQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAIEeOABc2pf1i3fMQW2VE4g21xb58qu8U0,73341130)",
+            "school": {
+                "objectUrn": "urn:li:school:13624",
+                "entityUrn": "urn:li:fs_miniSchool:13624",
+                "active": true,
+                "schoolName": "Sikkim Manipal Institute of Technology - SMU",
+                "trackingId": "nNgRB/mDRIy0h2JfpQcFCg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHvk6MDBDOSvg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "degreeName": "Master of Business Administration (MBA)",
+            "schoolName": "Sikkim Manipal University of Health, Medical and Technological Sciences",
+            "fieldOfStudy": "Information Technology",
+            "schoolUrn": "urn:li:fs_miniSchool:13624"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAIEeOABc2pf1i3fMQW2VE4g21xb58qu8U0,26333855)",
+            "school": {
+                "objectUrn": "urn:li:school:13613",
+                "entityUrn": "urn:li:fs_miniSchool:13613",
+                "active": true,
+                "schoolName": "Software Engineering Jobs",
+                "trackingId": "sgSGozEhTDCWuAaAbvbvxg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHSdAMADynQiQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "degreeName": "Bachelor of Science (BSc)",
+            "schoolName": "Saurashtra University",
+            "fieldOfStudy": "Information Technology",
+            "schoolUrn": "urn:li:fs_miniSchool:13613"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAIEeOABc2pf1i3fMQW2VE4g21xb58qu8U0,40702846)",
+            "activities": "* Managing, participating & performing in various activities like Debate competitions, Sports activities, Drama Competitions",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            },
+            "degreeName": "CBSE",
+            "schoolName": "Sainik School Balachadi",
+            "fieldOfStudy": "Science"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Cisco",
+            "name": "CCNA",
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "BSVTiTRVT/KUv3lAc6ds1g=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "Cisco",
+            "name": "CCNP",
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "kY1ALp4zQKa5HxLC9IaRgw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "Cisco",
+            "name": "CCIE R&S",
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "5Wf6srYERPSGRh0HJclu7Q=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "Cisco",
+            "name": "CCDP ARCH",
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "fE/U6uI0Tgukcx7Ad4Tw/w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "The Open Group",
+            "name": "TOGAF® Certification Program",
+            "company": {
+                "objectUrn": "urn:li:company:20614",
+                "entityUrn": "urn:li:fs_miniCompany:20614",
+                "name": "The Open Group",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630635562286/the_open_group_logo?e=1710374400&v=beta&t=RUoRvtUdlxyqXlh-02NwLK2nZUhuikbQDG4QCsDiHXo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630635562286/the_open_group_logo?e=1710374400&v=beta&t=XHkA7_YHEjRQ8nOWH9DG320_DD96liwhVNY0FZJeeHk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630635562286/the_open_group_logo?e=1710374400&v=beta&t=mmx0yQfqOly19biyJziVmaLW3Xa1jcZtv6We2suGf6w",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHXlbV-DD9Z5Q/company-logo_"
+                    }
+                },
+                "universalName": "the-open-group",
+                "dashCompanyUrn": "urn:li:fsd_company:20614",
+                "trackingId": "XPimvhF+QVubjZLHmvl/9g=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:20614"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

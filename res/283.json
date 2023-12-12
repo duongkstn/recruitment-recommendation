@@ -1,0 +1,374 @@
+{
+    "summary": "Badenoch + Clark specialises in Permanent Recruitment, Interim Management and Executive Search.\nWe select highly skilled (and experienced) professionals for small to medium-sized enterprises, international organisations and consultancies. We help you with key functions from 80K to 400K: line and staff functions, internal and external consultancy roles. We work from a strong and warm network of candidates and ambassadors.\n\nWhether you are a client or a candidate, we provide a service that goes beyond simply filling vacancies – we build careers and develop business relationships that are conducive to success. Gain a competitive edge and benefit from a refreshingly honest recruitment service that prioritises your demands with the trusted advisors at Badenoch & Clark.  \n\nRecruiting for the following positions, mainly as part of transition, transformation and restructuring: CFO, Finance Director, M&A Director, Reporting Manager, Group or Corporate Controller, Senior Project Controller, Program or Transformation Manager. Strong in various industries: construction and real estate, offshore, automotive, retail, private equity and financial services.\n\nWhatever your question, we take care of the total selection process. Always accurate, fast, transparent and simple. We offer interim managers within 24-72 hours.\n\nYou can reach me on my mobile phone: +31 (0)6 53 59 36 46 or via email: daisy.van.kesteren@badenochandclark.nl",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "van Kesteren",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Daisy",
+    "entityUrn": "urn:li:fs_profile:ACoAABFqL-YBvbn6smNghbOJXsz-iIabrSwgO2E",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Manager Interim at Badenoch + Clark | Finance, HR & Supply Chain Interim Management & Executive Search | +31653593646 | daisy.van.kesteren@badenochandclark.nl",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQEHMoIW6V5BZg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1677688564572?e=1707955200&v=beta&t=ZKHRkPqLloR1kS35qiRUQg5f2IJDP2d_kT6YieweVVI",
+    "img_200_200": "200_200/0/1677688564572?e=1707955200&v=beta&t=7Vqku_HL2aB3yI_tXR5ubNWX8EemjpU-L7zrJnoBG4A",
+    "img_400_400": "400_400/0/1677688564572?e=1707955200&v=beta&t=4NDLOmipH5ZuLEFPsoeeRpNk4o7iRD1Z5YtRNjnr7ok",
+    "img_800_800": "800_800/0/1677688564572?e=1707955200&v=beta&t=dX8PdQWuQ9I7KjP7BTSGSWlDFYPLOPl51YeShIp58Zc",
+    "profile_id": "ACoAABFqL-YBvbn6smNghbOJXsz-iIabrSwgO2E",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABFqL-YBvbn6smNghbOJXsz-iIabrSwgO2E",
+    "member_urn": "urn:li:member:292171750",
+    "public_id": "daisyvankesteren",
+    "experience": [
+        {
+            "locationName": "Amsterdam Area",
+            "entityUrn": "urn:li:fs_position:(ACoAABFqL-YBvbn6smNghbOJXsz-iIabrSwgO2E,2115222437)",
+            "geoLocationName": "Amsterdam Area",
+            "geoUrn": "urn:li:fs_geo:90010383",
+            "companyName": "Badenoch + Clark",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "description": "Our Interim Management practice\n\nYou need someone in the short term. Badenoch + Clark Interim Management has a large network of interim managers and is therefore able to deliver quickly. Badenoch + Clark offers one place for interim managers with various types of expertise and always with solid experience within organizations in transformation, transition or growth.\n\nAreas of expertise and examples of positions we can assist with:\n\n𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐚𝐧𝐝 𝐌&𝐀\nCFO, Finance Director, (Corporate) Finance Manager, Program or Transformation Manager\n\n𝐇𝐮𝐦𝐚𝐧 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬 𝐚𝐧𝐝 𝐂𝐡𝐚𝐧𝐠𝐞\nCHRO, HR Transition Manager, HR Business Partner, Learning and Development Manager\n\n𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐚𝐧𝐝 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐄𝐱𝐜𝐞𝐥𝐥𝐞𝐧𝐜𝐞\nCOO, Supply Chain Director, Operational Excellence Manager\n\n\n06-53593646\n✉ daisy.van.kesteren @ badenochandclark.nl",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Manager Interim | Finance, HR, Supply Chain",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9415",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHrxTwQjtn9zw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABFqL-YBvbn6smNghbOJXsz-iIabrSwgO2E,1847581563)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "companyName": "TriFinance Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Senior Business Manager | Finance",
+            "companyUrn": "urn:li:fs_miniCompany:25101109",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFqbTOlZnii6A/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABFqL-YBvbn6smNghbOJXsz-iIabrSwgO2E,1669294834)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "companyName": "Greenberg Nielsen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Managing Consultant | Finance Recruitment ",
+            "companyUrn": "urn:li:fs_miniCompany:1539130",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGw66nRf2-5Mw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABFqL-YBvbn6smNghbOJXsz-iIabrSwgO2E,1011276110)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Greenberg Nielsen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior Consultant | Interim & Permanent Finance Recruitment",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:1539130",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGw66nRf2-5Mw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABFqL-YBvbn6smNghbOJXsz-iIabrSwgO2E,764106878)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Folia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Media Production"
+                ]
+            },
+            "title": "Board Member",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:630463",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHCCZUQpRl-WA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABFqL-YBvbn6smNghbOJXsz-iIabrSwgO2E,805385713)",
+            "school": {
+                "objectUrn": "urn:li:school:5094000",
+                "entityUrn": "urn:li:fs_miniSchool:5094000",
+                "active": true,
+                "schoolName": "ISAM | Institute for Sales And Marketing",
+                "trackingId": "rauKnXM+QPygThUTlspOvg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQFcUYPreQDFmg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "degreeName": "Postgraduate Degree",
+            "schoolName": "European Institute for Sales (EURIS)",
+            "fieldOfStudy": "Sales Management",
+            "degreeUrn": "urn:li:fs_degree:645",
+            "schoolUrn": "urn:li:fs_miniSchool:5094000"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABFqL-YBvbn6smNghbOJXsz-iIabrSwgO2E,363236846)",
+            "school": {
+                "objectUrn": "urn:li:school:15451",
+                "entityUrn": "urn:li:fs_miniSchool:15451",
+                "active": true,
+                "schoolName": "University of Amsterdam",
+                "trackingId": "YdPKkXRqSX29spC7TOHJfw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "degreeName": "Minor Business Administration: Managing Strategy & Marketing",
+            "schoolName": "University of Amsterdam",
+            "fieldOfStudy": "Business Administration and Management, General",
+            "schoolUrn": "urn:li:fs_miniSchool:15451"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABFqL-YBvbn6smNghbOJXsz-iIabrSwgO2E,187672446)",
+            "school": {
+                "objectUrn": "urn:li:school:15428",
+                "entityUrn": "urn:li:fs_miniSchool:15428",
+                "active": true,
+                "schoolName": "Amsterdam University of Applied Sciences",
+                "trackingId": "5GJDgIzTT123/A24Hxfv5g==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "description": "Extracurricular activities:\n• Chairman Education Committee\n• Studium Excellence: Debating and Corporate Governance\n• Honours Program Finance\n• Member Study Association MarCo",
+            "degreeName": "Bachelor of Business Administration (BBA)",
+            "schoolName": "Hogeschool van Amsterdam",
+            "fieldOfStudy": "Commerciële Economie - Cum Laude",
+            "schoolUrn": "urn:li:fs_miniSchool:15428"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Vrijwilliger",
+            "companyName": "Stichting VoorleesExpress",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "cause": "EDUCATION",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:619341",
+                    "entityUrn": "urn:li:fs_miniCompany:619341",
+                    "name": "VoorleesExpress",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1688631910890/platform_voorleesexpress_logo?e=1710374400&v=beta&t=h-nxTTxLuFuHHh7YFsyWnxlRWVQfWsDUa_Rl9k8Cb7A",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1688631910890/platform_voorleesexpress_logo?e=1710374400&v=beta&t=JaZM_orof0pOUTxU71HlQQ0gNPO7ceMwzRXbQRm9t4Q",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1688631910890/platform_voorleesexpress_logo?e=1710374400&v=beta&t=NhZK8DUhOP8DZ2VlcUqgwLvssHYn-wB_tGpTIF3BJYo",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQHnu936mflccA/company-logo_"
+                        }
+                    },
+                    "universalName": "stichtingvoorleesexpress",
+                    "dashCompanyUrn": "urn:li:fsd_company:619341",
+                    "trackingId": "erYaeDyWTnSv4fRplPw1qQ=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:619341"
+        },
+        {
+            "role": "Vrijwilliger",
+            "companyName": "Plan Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:28122",
+                    "entityUrn": "urn:li:fs_miniCompany:28122",
+                    "name": "Plan International Nederland",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630560038548/plan_nederland_logo?e=1710374400&v=beta&t=IlNy3Lx9XVJJrMorBRPCifm93y2pH24fU-gNX9SiQCY",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630560038548/plan_nederland_logo?e=1710374400&v=beta&t=xwqbX7agnAFh9-5cqx_KJeWHGLVQBXgPSZf_3Ayzd9A",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630560038548/plan_nederland_logo?e=1710374400&v=beta&t=eDNBGvi8JCr874wMO95MmndMBX1zPjSawU55HD9zUrk",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFumc2S9tzoPg/company-logo_"
+                        }
+                    },
+                    "universalName": "plan-nederland",
+                    "dashCompanyUrn": "urn:li:fsd_company:28122",
+                    "trackingId": "igOl9OkhQF6Qs9DEFudJ1g=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:28122"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

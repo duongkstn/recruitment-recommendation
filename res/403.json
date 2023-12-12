@@ -1,0 +1,726 @@
+{
+    "summary": "With over 18 years of experience in the IT, Network, Telecom and Cable Industry, I am an ITIL Expert and a certified leader in operational support and analysis, service operation, and continual service improvement. I am currently the IT Service and Relationship Manager at CRH, one of the world's leading building materials companies, where I focus on delivering quality and reliable IT services to support the business objectives and strategies.\n\nI have a proven track record of creating and leading high-performing teams, driving process improvement, and managing large-scale business changes and outsourcing programs. I am passionate about operational excellence, customer satisfaction, and innovation, and I strive to achieve them through effective incident, change, and problem management, governance, documentation, monitoring, and quality assurance. I am also a graduate of the prestigious Indian Institute of Management, where I have enhanced my leadership, communication, and strategic thinking skills.",
+    "industryName": "Telecommunications",
+    "lastName": "Sharma",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 3,
+        "day": 26
+    },
+    "industryUrn": "urn:li:fs_industry:8",
+    "firstName": "Chandni",
+    "entityUrn": "urn:li:fs_profile:ACoAAAW1gi0BZgVNUJWIIrrihiR6blVh4kzLD5c",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90010383"
+    },
+    "geoLocationName": "Amsterdam Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "IT Operations Management | ITIL Expert | IIM-A | IIM-K | Build the teams that will shape CRH's future!",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQHyqaPQX5xLQQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1579620995657?e=1707955200&v=beta&t=LvtpEwoyZ6oiZ5-uH58YOXgRflaJ2QTv6dPwQL45xoI",
+    "img_200_200": "200_200/0/1579620995634?e=1707955200&v=beta&t=DML8_geKV8ScegttrGXAm13U82k2V2c1QnTa0s0VnHg",
+    "img_242_242": "800_800/0/1579620995720?e=1707955200&v=beta&t=zLr3FVZFPPEA9RvsMafEYodzw2rR7fEZtDLb4mFOLeQ",
+    "profile_id": "ACoAAAW1gi0BZgVNUJWIIrrihiR6blVh4kzLD5c",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAW1gi0BZgVNUJWIIrrihiR6blVh4kzLD5c",
+    "member_urn": "urn:li:member:95781421",
+    "public_id": "chandni-sharma-0910b128",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAW1gi0BZgVNUJWIIrrihiR6blVh4kzLD5c,2012858160)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Senior Manager: IT Operations",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAW1gi0BZgVNUJWIIrrihiR6blVh4kzLD5c,1602137515)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Infosys",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Manager - IT Operations",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1283",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQE7Zf1-vvfbUA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAW1gi0BZgVNUJWIIrrihiR6blVh4kzLD5c,1504059343)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Liberty Global",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Manager - Major Incident Management Team",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:2645",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQENFprSrRgA3g/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAW1gi0BZgVNUJWIIrrihiR6blVh4kzLD5c,1523696723)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Liberty Global",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "VodafoneZiggo - Senior Major Incident Manager",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:2645",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQENFprSrRgA3g/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAW1gi0BZgVNUJWIIrrihiR6blVh4kzLD5c,1918446818)"
+            ],
+            "locationName": "Amsterdam, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAW1gi0BZgVNUJWIIrrihiR6blVh4kzLD5c,827091064)",
+            "geoLocationName": "Amsterdam, Netherlands",
+            "companyName": "Liberty Global",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "description": "•\tProviding Critical/Major Incident Management support for all Pan European across the Liberty Global & Virgin Media UK 24/7.\n•\tProactively managing Critical and Major Service Outages end to end ensuring minimal impact to business is observed throughout the lifecycle of a fault.\n•\tProviding OOHs On-Call support ensuring all critical/major incident are resolved within SLA.\n•\tEnsuring that all incidents are managed to completion and resolution within SLA.\n•\tResponsible for compiling & holding weekly operational service review detailing all services by the Incident mgmt. team, Change mgmt. team, problem mgmt. team. and IT/NW Engineers Level 1/2/3.   \n•\tSubject Matter Expert for telco and ICT responsible for communications with PR, Legal, Risk, Business operations for incidents impacting or of risk to the Liberty Global and VM estate. \n•\tCompiling executive summary’s, conducting post-incident reviews and raising service improvement plans following high profile Critical/Major Incidents.  \n•\tResponsible for Training new starters and ensuring process documentation is up to date and accurate. \n•\tEnsures continual process improvement and resolution of high priority incidents.\n•\tIdentify resistance and performance gaps, work to develop and implement corrective actions in the incident management process.\nOther responsibilities:\n•\tInvolved in project to ensure the smooth transition and delivery IT/Telco services from Project to Operations and track in relation to IT & Network components/services, being delivered or changed as part of Mobile Transformation Program. Key deliverables are Engagement of BAU support teams, Impact Assessments, Risk Assessment, SLA agreement, OLA Contract agreement and tracking of technology readiness criteria and plans, resolution of key issues/risks blocking Mobile Technology readiness, service guarantees, co-ordination of Mobile IT and Network Operational & Service readiness, go/no-go calls and support/coordinate of warranty.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Major Incident Manager  - IT, NW and Telco",
+            "companyUrn": "urn:li:fs_miniCompany:2645",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQENFprSrRgA3g/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAW1gi0BZgVNUJWIIrrihiR6blVh4kzLD5c,825535877)",
+            "school": {
+                "objectUrn": "urn:li:school:4055011",
+                "entityUrn": "urn:li:fs_miniSchool:4055011",
+                "active": true,
+                "schoolName": "Indian Institute of Management, Kozhikode",
+                "trackingId": "wAxP5C5NR2aubnmAbLiZHQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C510BAQFqQ8SUCcSnIg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "degreeName": "Senior Management Program",
+            "schoolName": "Indian Institute of Management, Kozhikode",
+            "schoolUrn": "urn:li:fs_miniSchool:4055011"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAW1gi0BZgVNUJWIIrrihiR6blVh4kzLD5c,825538524)",
+            "school": {
+                "objectUrn": "urn:li:school:19953",
+                "entityUrn": "urn:li:fs_miniSchool:19953",
+                "active": true,
+                "schoolName": "Indian Institute of Management Ahmedabad",
+                "trackingId": "l1SkNQcLQ5iJYuz7LMCmgQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQEM7igMMa_i9w/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "degreeName": "A Journey towards Leadership Excellence",
+            "schoolName": "Indian Institute of Management Ahmedabad",
+            "schoolUrn": "urn:li:fs_miniSchool:19953"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAW1gi0BZgVNUJWIIrrihiR6blVh4kzLD5c,298921910)",
+            "school": {
+                "objectUrn": "urn:li:school:20321",
+                "entityUrn": "urn:li:fs_miniSchool:20321",
+                "active": true,
+                "schoolName": "Delhi University",
+                "trackingId": "glpi/yvwSHObRLuZ6BrHOQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQGNYUwkC1YEEQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101407",
+            "degreeName": "Bachelor of Commerce - BCom",
+            "schoolName": "Delhi University",
+            "fieldOfStudy": "Business/Commerce, General",
+            "degreeUrn": "urn:li:fs_degree:215",
+            "schoolUrn": "urn:li:fs_miniSchool:20321"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "PeopleCert",
+            "name": "ITIL Continual Service Improvement (ITIL-CSI)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:800375",
+                "entityUrn": "urn:li:fs_miniCompany:800375",
+                "name": "PeopleCert",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=F78tzwFepG67rPI5tpuNEme5gOrUxym_6hqnguSx-cI",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=CY6cdML5jKaamh9tT98jECrwSyEhwNUbrMkKeToEZUs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=7HQOX8OVcLZk_GG9ILwOqDAFu1nphBNzcNPPqwT7qbU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQF13SYAlPwFgA/company-logo_"
+                    }
+                },
+                "universalName": "peoplecert-group",
+                "dashCompanyUrn": "urn:li:fsd_company:800375",
+                "trackingId": "iVlyUcrWS6yP3SL+gAgy1w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:800375"
+        },
+        {
+            "authority": "PeopleCert",
+            "name": "ITIL Service Operation (ITIL-SO)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:800375",
+                "entityUrn": "urn:li:fs_miniCompany:800375",
+                "name": "PeopleCert",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=F78tzwFepG67rPI5tpuNEme5gOrUxym_6hqnguSx-cI",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=CY6cdML5jKaamh9tT98jECrwSyEhwNUbrMkKeToEZUs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=7HQOX8OVcLZk_GG9ILwOqDAFu1nphBNzcNPPqwT7qbU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQF13SYAlPwFgA/company-logo_"
+                    }
+                },
+                "universalName": "peoplecert-group",
+                "dashCompanyUrn": "urn:li:fsd_company:800375",
+                "trackingId": "Cf+scr4nQ1GSwzmfPUmSfw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:800375"
+        },
+        {
+            "authority": "PeopleCert",
+            "name": "ITIL Operational Support and Analysis (ITIL-OSA)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:800375",
+                "entityUrn": "urn:li:fs_miniCompany:800375",
+                "name": "PeopleCert",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=F78tzwFepG67rPI5tpuNEme5gOrUxym_6hqnguSx-cI",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=CY6cdML5jKaamh9tT98jECrwSyEhwNUbrMkKeToEZUs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=7HQOX8OVcLZk_GG9ILwOqDAFu1nphBNzcNPPqwT7qbU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQF13SYAlPwFgA/company-logo_"
+                    }
+                },
+                "universalName": "peoplecert-group",
+                "dashCompanyUrn": "urn:li:fsd_company:800375",
+                "trackingId": "FRYy9SXBSJOT4ptoCTQFHQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:800375"
+        },
+        {
+            "authority": "PeopleCert",
+            "name": "ITIL Service Design (ITIL-SD)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:800375",
+                "entityUrn": "urn:li:fs_miniCompany:800375",
+                "name": "PeopleCert",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=F78tzwFepG67rPI5tpuNEme5gOrUxym_6hqnguSx-cI",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=CY6cdML5jKaamh9tT98jECrwSyEhwNUbrMkKeToEZUs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=7HQOX8OVcLZk_GG9ILwOqDAFu1nphBNzcNPPqwT7qbU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQF13SYAlPwFgA/company-logo_"
+                    }
+                },
+                "universalName": "peoplecert-group",
+                "dashCompanyUrn": "urn:li:fsd_company:800375",
+                "trackingId": "AJB2t+rXTzGr7nDipiwjOg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:800375"
+        },
+        {
+            "authority": "PeopleCert",
+            "name": "ITIL Service Transition (ITIL-ST)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:800375",
+                "entityUrn": "urn:li:fs_miniCompany:800375",
+                "name": "PeopleCert",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=F78tzwFepG67rPI5tpuNEme5gOrUxym_6hqnguSx-cI",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=CY6cdML5jKaamh9tT98jECrwSyEhwNUbrMkKeToEZUs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=7HQOX8OVcLZk_GG9ILwOqDAFu1nphBNzcNPPqwT7qbU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQF13SYAlPwFgA/company-logo_"
+                    }
+                },
+                "universalName": "peoplecert-group",
+                "dashCompanyUrn": "urn:li:fsd_company:800375",
+                "trackingId": "QUUds5ctTXmvtvv232LVVA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:800375"
+        },
+        {
+            "authority": "PeopleCert",
+            "name": "ITIL Expert Managing Across the Lifecycle (ITIL-MALC)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:800375",
+                "entityUrn": "urn:li:fs_miniCompany:800375",
+                "name": "PeopleCert",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=F78tzwFepG67rPI5tpuNEme5gOrUxym_6hqnguSx-cI",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=CY6cdML5jKaamh9tT98jECrwSyEhwNUbrMkKeToEZUs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1686310136237/peoplecert_group_logo?e=1710374400&v=beta&t=7HQOX8OVcLZk_GG9ILwOqDAFu1nphBNzcNPPqwT7qbU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQF13SYAlPwFgA/company-logo_"
+                    }
+                },
+                "universalName": "peoplecert-group",
+                "dashCompanyUrn": "urn:li:fsd_company:800375",
+                "trackingId": "N9kEpsOfQI6DkAXhOAw6sA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:800375"
+        },
+        {
+            "authority": "EXIN",
+            "name": "ITIL Foundation Level",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:24063",
+                "entityUrn": "urn:li:fs_miniCompany:24063",
+                "name": "EXIN",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1656919652964/exin_logo?e=1710374400&v=beta&t=qzStmjWIKFIU8Bse8AuCX-qWKwODrP350vkmZEIgqOA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1656919652964/exin_logo?e=1710374400&v=beta&t=k5cqdY5pkk6G95NX6sSMaqPUYGryhcdJkWJmEBASdv4",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1656919652964/exin_logo?e=1710374400&v=beta&t=XRM1VJ-bGDPBa47tH1rJs4DUPn0QoTWrWF8ePCm0Vwg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFi8TgZbeVOXw/company-logo_"
+                    }
+                },
+                "universalName": "exin",
+                "dashCompanyUrn": "urn:li:fsd_company:24063",
+                "trackingId": "xzxdLO5PSw+7/nZHoaV9Vg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:24063"
+        },
+        {
+            "authority": "Hewlett Packard Enterprise",
+            "name": "VMware Certified Professional 4.00",
+            "company": {
+                "objectUrn": "urn:li:company:1025",
+                "entityUrn": "urn:li:fs_miniCompany:1025",
+                "name": "Hewlett Packard Enterprise",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630642519868/hewlett_packard_enterprise_logo?e=1710374400&v=beta&t=M9AdE1yWtzFT8DxOecSByEVxOsjvk6jm53_Q8MLomaE",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630642519868/hewlett_packard_enterprise_logo?e=1710374400&v=beta&t=uj0KBSzbS6SSWkF1s88_4xTtkbnSX5LA11AHQxPpIac",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630642519868/hewlett_packard_enterprise_logo?e=1710374400&v=beta&t=Fj2EqJN2CTfXXZ7zpLPnVoMDMxE6wBYN0amLvjToxHo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQH6qdm7VJ5BPA/company-logo_"
+                    }
+                },
+                "universalName": "hewlett-packard-enterprise",
+                "dashCompanyUrn": "urn:li:fsd_company:1025",
+                "trackingId": "eTxN7NACQaK0DDoZZmZ5NA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1025"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "Microsoft Certified Systems Engineer: Windows Server 2003 (MCSE)",
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "hHNIkG7JTeWWaStuezW1lA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1035"
+        },
+        {
+            "authority": "AXELOS Global Best Practice",
+            "name": "ITIL® Expert CPD",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:4999764",
+                "entityUrn": "urn:li:fs_miniCompany:4999764",
+                "name": "AXELOS Global Best Practice",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1635436804635/axelos_global_best_practice_logo?e=1710374400&v=beta&t=C6Y-Tt6R3bvCEnEXhbh2lNHx0laKOH4vlxkAWLcXjOo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1635436804635/axelos_global_best_practice_logo?e=1710374400&v=beta&t=4PrQFIot5yK_EiWOzSVGDVKdn-hc8RCcjbofsZWXx5U",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1635436804635/axelos_global_best_practice_logo?e=1710374400&v=beta&t=GsGHr9JTPnz5uRS09b8vSyP9QxvCivpL1nRBlNaw9x8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGo_FHY0vki5A/company-logo_"
+                    }
+                },
+                "universalName": "axelos-global-best-practice",
+                "dashCompanyUrn": "urn:li:fsd_company:4999764",
+                "trackingId": "knwYlhNPTZ2LNYCGgOkhBw=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:4999764",
+            "url": "https://www.youracclaim.com/badges/b2e3755e-c744-4ce8-b2e6-63edd9690682?source=linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,306 @@
+{
+    "summary": "After 10+ years of being an in-house tech recruiter and scaling engineering teams, I felt it was time to shake up the market and start my own tech recruitment agency; Impact First Tech. \n\nWe are a non-traditional boutique agency:\n- 100% women-owned\n- We crush industry-standard conversion rates (3x) with highly personalized and engaging reach outs\n- We work closely with hiring managers and tech teams to know every single (technical detail) of a role and technical challenges\n- We beat assumptions, always try to dig deeper to find a candidate's true beliefs and motivations\n- We find creative solutions; how can we make things work instead of just accepting a no",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Mulder",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 11,
+        "day": 20
+    },
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Dineke",
+    "entityUrn": "urn:li:fs_profile:ACoAAAsiw1QBByiPS5BVWiRTNIGC9glw-PIGR4c",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100788090"
+    },
+    "geoLocationName": "Haarlem, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Owner of Impact First Tech, fully remote & 100% women owned | Freelance Senior IT Recruiter at bol",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQHtA25i4EmQRg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1568036859618?e=1707955200&v=beta&t=hdL8cAtwTe8tjk5lRrP7ksePSbgaHL5SZYISMLrtT0I",
+    "img_200_200": "200_200/0/1568036859593?e=1707955200&v=beta&t=HJkL7D1ELK4PWw_GuSOV4HXsHOYPzXUtHXhmUDh6G6Q",
+    "img_400_400": "400_400/0/1568036859648?e=1707955200&v=beta&t=Vhk37WonznHj2_JiOYiZujjB88KWWyk8XrTGzgzgqIM",
+    "img_500_500": "800_800/0/1568036859681?e=1707955200&v=beta&t=Rpj_209XYnAo02VnAapfU-pwQus9m1t_l1d-FETHH5o",
+    "profile_id": "ACoAAAsiw1QBByiPS5BVWiRTNIGC9glw-PIGR4c",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAsiw1QBByiPS5BVWiRTNIGC9glw-PIGR4c",
+    "member_urn": "urn:li:member:186827604",
+    "public_id": "dinekemulder",
+    "experience": [
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAsiw1QBByiPS5BVWiRTNIGC9glw-PIGR4c,2268780860)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Senior Technical Recruiter",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAsiw1QBByiPS5BVWiRTNIGC9glw-PIGR4c,1900311639)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Impact First Tech",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2021
+                }
+            },
+            "description": "Running a 100% women-owned and fully remote tech recruitment agency 🙏🏻\n\nWe are a talent partner to Tech startups and scale-ups, helping them to find, attract and hire new employees (permanent) in the field of development, infrastructure, and data.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Owner",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:87094395",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFTsDHQ7wsXPQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAsiw1QBByiPS5BVWiRTNIGC9glw-PIGR4c,1893346369)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "VanMoof",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "description": "At VanMoof, we made it our mission to get the next billion people on bikes. We’re doing this by building the best city bikes on the planet and tearing down every barrier keeping people from riding. The world is waiting – we can’t wait for you to join the ride!\n\nCurrently hiring for R&D:\n- Motor Control and Powertrain Systems Engineer\n- Embedded (Linux) Software Engineer\n- Power Electronics Engineer",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Consumer Electronics"
+                ]
+            },
+            "title": "Technical Recruiter",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:589283",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHUxHH5t8b1mw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAsiw1QBByiPS5BVWiRTNIGC9glw-PIGR4c,1869448228)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Adyen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "description": "Founded in 2006 we grew from 2 to almost 2000 employees in the past years. With 24 offices around the globe and 100+ nationalities we strive to be the FinTech company of the future. With our formula as the foundation of our organization we want our company culture to speak for it self. \n\nA FinTech building for 20X is the company we are. We showed our resilience in the challenging times of covid where we haven’t stopped growing and only learned how to be smarter in scaling our company and and focus on the importance of the scaling phase we’re in: building a diverse and inclusive Adyen where people feel they belong and thrive.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Team Lead Tech Recruitment",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:279565",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGCuaSq8TqalA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAsiw1QBByiPS5BVWiRTNIGC9glw-PIGR4c,902519253)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Adyen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "description": "Adyen is the payments platform of choice for the world's leading companies, delivering frictionless payments across online, mobile and in-store channels. It is the only provider of a modern end-to-end infrastructure, connecting directly to Visa, Mastercard, and consumers' globally preferred payment methods. With offices around the world, Adyen serves nine of the 10 largest U.S. internet companies and many worldwide retailers. Customers include Facebook, Uber, L'Oreal, Casper, Bonobos, Netflix, and Spotify.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Senior Tech Recruitment Business Partner",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:279565",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGCuaSq8TqalA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAsiw1QBByiPS5BVWiRTNIGC9glw-PIGR4c,112690427)",
+            "school": {
+                "objectUrn": "urn:li:school:15419",
+                "entityUrn": "urn:li:fs_miniSchool:15419",
+                "active": true,
+                "schoolName": "Hanzehogeschool Groningen / Hanze University of Applied Sciences Groningen",
+                "trackingId": "8zQOxhiqSsePVYHVGn2ZIQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQG_6IEYDiaIOw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "degreeName": "Bachelor of Applied Science (B.A.Sc.)",
+            "schoolName": "Hanzehogeschool Groningen",
+            "fieldOfStudy": "Applied Psychology",
+            "schoolUrn": "urn:li:fs_miniSchool:15419"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAsiw1QBByiPS5BVWiRTNIGC9glw-PIGR4c,129756935)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "schoolName": "Minor Entrepeneurship",
+            "fieldOfStudy": "Marketing/Marketing Management, General"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAsiw1QBByiPS5BVWiRTNIGC9glw-PIGR4c,129757251)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "schoolName": "Specialization Labor and Organizational Psychology",
+            "fieldOfStudy": "Psychology"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Volunteer",
+            "companyName": "Stichting Laat Ze Maar Lachen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2014
+                }
+            },
+            "cause": "CHILDREN",
+            "description": "Foundation who organises nice trips for children (from families that are in a difficult financial situation) every month. For the kids this is a relaxing, creative and stimulating day out.\n\n",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:1087776",
+                    "entityUrn": "urn:li:fs_miniCompany:1087776",
+                    "name": "Stichting Samen Lachen",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630658372743/stichting_laat_ze_maar_lachen_logo?e=1710374400&v=beta&t=fjQa13CtJjBdrNZ3kSag2VlSELW2ilh5cT6ZI0Ddcm0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630658372743/stichting_laat_ze_maar_lachen_logo?e=1710374400&v=beta&t=ckYOpeKuvrcJEKHCJlYCNe-xCfpkPi9ZImwxiVSYP78",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630658372743/stichting_laat_ze_maar_lachen_logo?e=1710374400&v=beta&t=zAstphhxaEGntJQEVuaD7F8Gcqo7btZiqt6bWel3ids",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C560BAQHCKif4tl01QQ/company-logo_"
+                        }
+                    },
+                    "universalName": "stichting-samen-lachen",
+                    "dashCompanyUrn": "urn:li:fsd_company:1087776",
+                    "trackingId": "0N3gHXJdTQalS5BjJ9kUQA=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1087776"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

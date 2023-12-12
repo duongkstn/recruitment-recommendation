@@ -1,0 +1,478 @@
+{
+    "summary": "I am a Prisma Cloud Sales Specialist at Palo Alto Networks, the global leader in cloud-native application protection platform (CNAPP). With over 10 years of experience in selling technology solutions for industry-leading companies, I help clients secure their applications from code to cloud, enabling them to accelerate their digital transformation.\n\nMy core competencies include solution selling, relationship building, technology expertise, strategic partnerships, and effective communication. I excel at identifying customer pain points and aligning technology solutions to address their unique challenges. I also build and nurture long-term relationships with key stakeholders, ensuring customer satisfaction and repeat business. Furthermore, I have a proficient knowledge of a wide range of technology solutions, including cloud computing, cybersecurity, data analytics, and customer experience management. I leverage strategic partnerships with industry leaders like IBM, Check Point Software, and CustomerGauge to deliver comprehensive solutions. Lastly, I have strong presentation and negotiation skills, able to communicate complex technical concepts in a clear and compelling manner.\n\nSome of my accomplishments include consistently exceeding sales targets, achieving an average of 20% revenue growth year-over-year for the past three years, successfully closing multi-million dollar deals with major enterprise clients, including Fortune 500 companies, and developing and implementing a customer success strategy that resulted in a 30% reduction in customer churn and a 20% increase in upsell opportunities.\n\nI am passionate about delivering exceptional customer experiences and driving business growth. I thrive in dynamic sales environments and enjoy collaborating with cross-functional teams. I am always eager to learn new skills and technologies and stay updated on the latest trends and best practices in the industry. Let's connect to explore how I can leverage my expertise and network to drive revenue and customer success for your organization.",
+    "industryName": "Computer & Network Security",
+    "lastName": "Hoekman",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 9,
+        "day": 11
+    },
+    "industryUrn": "urn:li:fs_industry:118",
+    "firstName": "Niels",
+    "entityUrn": "urn:li:fs_profile:ACoAAAzJ9RUB62msZNlYj_cEd9qGzxodBD7d6ak",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Cloud-Native Application Protection Specialist @ Palo Alto Networks | Economics | Cloud Security | Content Creator - 5.3M+ views | Your LinkedIn Growth Partner 📈 Ex-Gucci model 😆 ",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQEyZWuYT29wfw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1654706022401?e=1707955200&v=beta&t=6VKDCHhSHwxxXmSV-TCqM2Uda8jZw1F8h-p-aEM0tOg",
+    "img_200_200": "200_200/0/1654706022401?e=1707955200&v=beta&t=AA0SJGPJ--z6CMgfKZYd_L_3HSVVhnWupCbSWlfxWjc",
+    "img_400_400": "400_400/0/1654706022401?e=1707955200&v=beta&t=Z6WxyTj7nE5YUrhFPOO1OUAGT2NXsTdTa515grvxemI",
+    "img_800_800": "800_800/0/1654706022401?e=1707955200&v=beta&t=BFW_t7bBaXSS9zix6setkK5ZBFa854iIW3e3R2X7P8E",
+    "profile_id": "ACoAAAzJ9RUB62msZNlYj_cEd9qGzxodBD7d6ak",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAzJ9RUB62msZNlYj_cEd9qGzxodBD7d6ak",
+    "member_urn": "urn:li:member:214562069",
+    "public_id": "nielshoekman",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAzJ9RUB62msZNlYj_cEd9qGzxodBD7d6ak,2029904657)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Palo Alto Networks",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "description": "The Most Complete Cloud-Native Application Protection Platform (CNAPP)\n\nPrisma Cloud secures applications from code to cloud, enabling security and DevOps teams to effectively collaborate to accelerate secure cloud-native application development and deployment.\n\nGo from point security tools to real-time visibility and prevention, all integrated into one solution.\n\nFind and fix security flaws earlier in the application lifecycle. Prisma Cloud integrates with your developer tools and environments to identify cloud misconfigurations, vulnerabilities and security risks during the code and build stage.\n\nEnsure your applications meet your risk and compliance expectations. Prisma Cloud checks container registries and continuous delivery (CD) workflows to block vulnerabilities, malware and prevent insecure deployments.\n\nPrisma Cloud prevents threats across your public cloud infrastructure, APIs, and data at runtime — while also protecting your applications across VMs, containers and Kubernetes, and serverless architectures.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer & Network Security"
+                ]
+            },
+            "title": "Prisma Cloud Sales Specialist Netherlands",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:30086",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFZg72Sfni4SA/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAzJ9RUB62msZNlYj_cEd9qGzxodBD7d6ak,1050747231)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Social Sales Agency",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2017
+                }
+            },
+            "description": "The world of sales is changing period.\nCustomers increasingly use digital media not just to research products and services they like, but also to engage with companies they buy from. It's crucial that you as an organization find a way how to shape these interactions into a sustainable business strategy.\nSocial Sales Agency is here to help your workforce with a practical approach to engage earlier into the sales funnel.\n\nOur 6 steps are used by organizations to successfully, seamless and pragmatic implement Social Sales Strategy. \nWe deliver hand-on trainings with a good mix of practical tips with strong academic foundations. ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Online Media"
+                ]
+            },
+            "title": "Founder",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:18149386",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFsE-1GN7FxZA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAzJ9RUB62msZNlYj_cEd9qGzxodBD7d6ak,1877745640)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Sysdig",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2021
+                }
+            },
+            "description": "The Sysdig Secure DevOps Platform provides security to confidently run containers, Kubernetes and cloud services. Only Sysdig has the deep visibility needed to see all threats, vulnerabilities and suspicious activity. With Sysdig you can secure the build pipeline, detect and respond to runtime threats, continuously validate compliance, and monitor and troubleshoot cloud infrastructure and services.\n\nSysdig is a SaaS platform, built on an open source stack that includes Falco and Sysdig OSS, the open standards for runtime threat detection and response. Hundreds of organizations rely on Sysdig to secure containers, Kubernetes and cloud services.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Computer & Network Security"
+                ]
+            },
+            "title": "Enterprise Account Executive BeNeLux",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3592486",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQGswv73xFVUag/company-logo_"
+        },
+        {
+            "locationName": "Bunnik, Provincie Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAzJ9RUB62msZNlYj_cEd9qGzxodBD7d6ak,1324550984)",
+            "geoLocationName": "Bunnik, Provincie Utrecht, Nederland",
+            "companyName": "Check Point Software Technologies, Ltd.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "description": "Check Point Software Technologies Ltd. (www.checkpoint.com), is the largest pure-play security vendor globally, provides industry-leading solutions, and protects customers from cyberattacks with an unmatched catch rate of malware and other types of attacks. \nCheck Point offers a complete security architecture defending enterprises’ networks to mobile devices, in addition to the most comprehensive and intuitive security management. Check Point protects over 100,000 organizations of all sizes. \n\nOur Mission:\nMaking Internet communications and critical data secure, reliable and available everywhere has been and continues to be our ongoing vision. We are committed to staying focused on real customer needs and to developing new and innovative security solutions that redefine the security landscape.\n\nMy Mission: \nHelping companies with solving cyber security needs with our industry leading software. \nAt Check Point, we secure the future.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Computer & Network Security"
+                ]
+            },
+            "title": "Major Account Manager",
+            "companyUrn": "urn:li:fs_miniCompany:3090",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQGtqN8lHnC7WA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAzJ9RUB62msZNlYj_cEd9qGzxodBD7d6ak,930282394)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "companyName": "CustomerGauge",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "description": "@Customergauge - Rescue - Retain - Grow | NPS \nHelping clients greatly improve customer experiences. Our service automatically collects, measures and analyses customer feedback and has close-loop tools to retain customers better and reduce churn. All based on the industry standard metric Net Promoter System.\n#Tie your NPS program to revenue!",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Senior Account Executive",
+            "companyUrn": "urn:li:fs_miniCompany:2052783",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEnTZvCsq_Opw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAzJ9RUB62msZNlYj_cEd9qGzxodBD7d6ak,147255945)",
+            "school": {
+                "objectUrn": "urn:li:school:15412",
+                "entityUrn": "urn:li:fs_miniSchool:15412",
+                "active": true,
+                "schoolName": "Windesheim",
+                "trackingId": "XOtdV2dhS7G/94XZIs93gQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGQqD5vAOBKkQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100990",
+            "degreeName": "Bachelor of Applied Science - BASc",
+            "schoolName": "Windesheim",
+            "fieldOfStudy": "Economics",
+            "degreeUrn": "urn:li:fs_degree:259",
+            "schoolUrn": "urn:li:fs_miniSchool:15412"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAzJ9RUB62msZNlYj_cEd9qGzxodBD7d6ak,171991600)",
+            "grade": "A",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100990",
+            "degreeName": "HAVO",
+            "schoolName": "De Waerdenborch",
+            "fieldOfStudy": "Economics"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Duits",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Engels",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Frans",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "IBM",
+            "name": "Power Systems with POWER8 Sales Skills V1",
+            "licenseNumber": "286465559",
+            "company": {
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=fI4woEfiR66RXckDzHXcuXmwuHY_AhFm3YJ1UTl7Jn0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=Furn0vXql4qh6cesBQ3Ncf3zVolROT2u95LMYdmK-L8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=Hn00ybJ0iaIXWo7XRrjg0_wLY0PDvc4-Vyj2MAVEo1Y",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_"
+                    }
+                },
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "DtgWJVohTMW/To7EoWb4EA=="
+            },
+            "displaySource": "examiner.com",
+            "companyUrn": "urn:li:fs_miniCompany:1009",
+            "url": "http://www.examiner.com/article/ibm-c4040-250-power-systems-with-power8-sales-skills-v1-exam"
+        },
+        {
+            "authority": "IBM",
+            "name": "Power Sales Top Gun",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=fI4woEfiR66RXckDzHXcuXmwuHY_AhFm3YJ1UTl7Jn0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=Furn0vXql4qh6cesBQ3Ncf3zVolROT2u95LMYdmK-L8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=Hn00ybJ0iaIXWo7XRrjg0_wLY0PDvc4-Vyj2MAVEo1Y",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_"
+                    }
+                },
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "mruCSld9QBybzgNA6PrjMA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1009"
+        },
+        {
+            "authority": "IBM",
+            "name": "Consultative Calling",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=fI4woEfiR66RXckDzHXcuXmwuHY_AhFm3YJ1UTl7Jn0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=Furn0vXql4qh6cesBQ3Ncf3zVolROT2u95LMYdmK-L8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=Hn00ybJ0iaIXWo7XRrjg0_wLY0PDvc4-Vyj2MAVEo1Y",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_"
+                    }
+                },
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "NNHBCPC0Svi8/d7orW6I6A=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1009"
+        },
+        {
+            "authority": "CustomerGauge",
+            "name": "CustomerGauge 3.0 Admin Certification",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2052783",
+                "entityUrn": "urn:li:fs_miniCompany:2052783",
+                "name": "CustomerGauge",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1657113883831/customergauge_logo?e=1710374400&v=beta&t=U-revaptDRz44wFmZ4Y-5o2NbD0rFaSJlOkSrHhQ2iE",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1657113883831/customergauge_logo?e=1710374400&v=beta&t=foly4k8xl6gv5GRpVQkY1pmPU5eXWafPErx7GW-TbAk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1657113883831/customergauge_logo?e=1710374400&v=beta&t=153wnYNO7lYwoDSBDiAu6jEaj_CfI3s3_fasa6rdgFI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQEnTZvCsq_Opw/company-logo_"
+                    }
+                },
+                "universalName": "customergauge",
+                "dashCompanyUrn": "urn:li:fsd_company:2052783",
+                "trackingId": "OrlFWyacTxqQ1CJ91+RhtA=="
+            },
+            "displaySource": "customergauge.com",
+            "companyUrn": "urn:li:fs_miniCompany:2052783",
+            "url": "http://customergauge.com/certification/"
+        },
+        {
+            "authority": "Check Point Software Technologies, Ltd.",
+            "name": "Check Point INFINITY Architecture Specialist",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3090",
+                "entityUrn": "urn:li:fs_miniCompany:3090",
+                "name": "Check Point Software Technologies Ltd",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1698642229581/check_point_software_technologies_logo?e=1710374400&v=beta&t=951QbFZI5kc33xzgTIJ-g22nTjQrAa_diQoLPEvUbEY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1698642229581/check_point_software_technologies_logo?e=1710374400&v=beta&t=aRKd5-jN1w3CNlNJq543yrtVy1XOLnUQ6j_Ce_MPcuI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1698642229581/check_point_software_technologies_logo?e=1710374400&v=beta&t=YerVbuPV72v98yy2hTjPgcw34CNA-nHGP4sPnw-vdpM",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQGtqN8lHnC7WA/company-logo_"
+                    }
+                },
+                "universalName": "check-point-software-technologies",
+                "dashCompanyUrn": "urn:li:fsd_company:3090",
+                "trackingId": "l/b0cdMvSJSvpuAcvNit0Q=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:3090",
+            "url": "https://www.youracclaim.com/badges/05445767-5c79-431c-adb2-d2c8f61982e6/linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,639 @@
+{
+    "summary": "Cybersecurity Professional with more than 18 years of in-depth experience with large global organizations in Finance (Banking, Insurance), and Information Assurance.\n\nCybersecurity Professional who successfully developed a new end-to-end vulnerability management & policy compliance programs for European Bank.\n\nDesigned, built and subsequently managed information security services such as: Threat intelligence, Vulnerability Management, Security Operations, Cyber Incident Response.\n\nHired and subsequently managed a team of 10+ security operations professionals based in Dublin. Led cybersecurity operations  within a 20,000 user environment.",
+    "industryName": "Construction",
+    "lastName": "P.",
+    "locationName": "Ireland",
+    "student": false,
+    "geoCountryName": "Ireland",
+    "geoCountryUrn": "urn:li:fs_geo:104738515",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:48",
+    "firstName": "Slawomir",
+    "entityUrn": "urn:li:fs_profile:ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104738515"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "ie"
+        }
+    },
+    "headline": "Senior Manager - Security Eng. / Cyber Sec. Ops / Special Project / Incident Response",
+    "profile_id": "ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc",
+    "member_urn": "urn:li:member:9659011",
+    "public_id": "sprokop",
+    "experience": [
+        {
+            "locationName": "County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc,1363120502)",
+            "geoLocationName": "County Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:90009824",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "description": "Responsible for Developing of Strategy, Delivery and growth of Group Security Engineering and Cyber Security Operation functions.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Senior Manager - Security Engineering and Cyber Sec. Operations",
+            "region": "urn:li:fs_region:(ie,10161)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc,1151474627)"
+            ],
+            "locationName": "County Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:90009824",
+            "companyName": "Bank of Ireland",
+            "description": "Leading team and responsible for: \n- Vuln and Threat Service development and deployment across enterprise\n- Vulnerability Analysis/Intelligence\n- Cyber Threat Intelligence\n- Security Automation\n- Security tooling deployment and maintenance\n- Assist Incident Response when required",
+            "title": "Deputy Head of TSO / Vulnerability and Threat Intelligence Manager",
+            "companyUrn": "urn:li:fs_miniCompany:162637",
+            "entityUrn": "urn:li:fs_position:(ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc,884264464)",
+            "geoLocationName": "County Dublin, Ireland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "region": "urn:li:fs_region:(ie,10161)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQH8qSvZu_0FJA/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc,467025630)"
+            ],
+            "locationName": "Dublin",
+            "entityUrn": "urn:li:fs_position:(ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc,650230048)",
+            "geoLocationName": "Dublin",
+            "companyName": "Bank of Ireland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2015
+                }
+            },
+            "description": "Leading team and responsible for: \n- Vuln and Threat Service development and deployment across enterprise\n- Vulnerability Analysis/Intelligence\n- Cyber Threat Intelligence\n- Security Automation\n- Security tooling deployment and maintenance\n- Assist Incident Response when required",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Vulnerability & Threat Lead",
+            "companyUrn": "urn:li:fs_miniCompany:162637",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQH8qSvZu_0FJA/company-logo_"
+        },
+        {
+            "locationName": "Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc,467025628)",
+            "geoLocationName": "Dublin, Ireland",
+            "companyName": "Zurich Insurance Company Ltd.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2013
+                }
+            },
+            "description": "Vulnerability assessments and security review for all regions. Responsibilities include vulnerability management, scanning and remediation, patch management, threat and vulnerability assessment.\nI provide technical support to system owners to propose mitigation and remediation solutions to identified vulnerability and security issues.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Insurance"
+                ]
+            },
+            "title": "Cyber Vulnerability & Threat Analyst",
+            "companyUrn": "urn:li:fs_miniCompany:2458",
+            "honors": [
+                "urn:li:fs_honor:(ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc,80)"
+            ],
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGTE1Sa3Gck_Q/company-logo_"
+        },
+        {
+            "locationName": "Dublin",
+            "entityUrn": "urn:li:fs_position:(ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc,372757183)",
+            "geoLocationName": "Dublin",
+            "companyName": "Zurich Insurance Company Ltd.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2013
+                }
+            },
+            "description": "To summarize my job encompasses identity and access administration, security monitoring and incident escalation for EMEA & LATAM region. \nKey responsibilities : \n- Security Operations \n- Security Plans\n- Service Product Management",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Insurance"
+                ]
+            },
+            "title": "GIS Cyber Security Defence Analyst",
+            "companyUrn": "urn:li:fs_miniCompany:2458",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGTE1Sa3Gck_Q/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc,40601438)",
+            "school": {
+                "objectUrn": "urn:li:school:453289",
+                "entityUrn": "urn:li:fs_miniSchool:453289",
+                "active": true,
+                "schoolName": "Technological University Dublin",
+                "trackingId": "z/ffU9gpSzmjJFkLLDYsBw==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGGiOQZc2WW-A/company-logo_"
+            },
+            "activities": "Member of team for  DEFCON 2012",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Institute of Technology Blanchardstown",
+            "fieldOfStudy": "Computer Science in Information Security and Digital Forensics",
+            "schoolUrn": "urn:li:fs_miniSchool:453289"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc,71702720)",
+            "school": {
+                "objectUrn": "urn:li:school:453289",
+                "entityUrn": "urn:li:fs_miniSchool:453289",
+                "active": true,
+                "schoolName": "Technological University Dublin",
+                "trackingId": "UIz1CZYSRVKjk7DoXeIzqg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGGiOQZc2WW-A/company-logo_"
+            },
+            "grade": "Distinction",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "Higher Cert",
+            "schoolName": "Institute of Technology Blanchardstown",
+            "fieldOfStudy": "Comp Science in Systems Management",
+            "schoolUrn": "urn:li:fs_miniSchool:453289"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English"
+        },
+        {
+            "name": "Polish"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "GIAC Certifications",
+            "name": "GIAC Certified Incident Handler (GCIH)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2015
+                }
+            },
+            "licenseNumber": "25403",
+            "company": {
+                "objectUrn": "urn:li:company:2279112",
+                "entityUrn": "urn:li:fs_miniCompany:2279112",
+                "name": "GIAC Certifications",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630607297722/giac_logo?e=1710374400&v=beta&t=lesZk9lzyAJtTIoyY8HEEVeW2oOpIOx2veB0pnB0RwM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630607297722/giac_logo?e=1710374400&v=beta&t=-uYUVJWZJY2pvkAOOc0eC3Be0W4p9umq16_7g8_4awI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630607297722/giac_logo?e=1710374400&v=beta&t=uUnPbDRr2EuHqLRpatIIsxj6b6_eD2g8CODAoT-2-Mc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG2G6BQacJB6w/company-logo_"
+                    }
+                },
+                "universalName": "giac",
+                "dashCompanyUrn": "urn:li:fsd_company:2279112",
+                "trackingId": "+UYU92DlQEKQoIYx2PahzQ=="
+            },
+            "displaySource": "giac.org",
+            "companyUrn": "urn:li:fs_miniCompany:2279112",
+            "url": "http://www.giac.org/certification/certified-incident-handler-gcih"
+        },
+        {
+            "authority": "(ISC)²",
+            "name": "CISSP",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2014
+                }
+            },
+            "licenseNumber": "477160",
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "IORpFvV7Tr6DakabIhZjbg=="
+            },
+            "displaySource": "isc2.org",
+            "companyUrn": "urn:li:fs_miniCompany:26753",
+            "url": "https://www.isc2.org/cissp/default.aspx"
+        },
+        {
+            "authority": "ISACA",
+            "name": "CISA - Certified Information Systems Auditor",
+            "licenseNumber": "18149405",
+            "company": {
+                "objectUrn": "urn:li:company:21062",
+                "entityUrn": "urn:li:fs_miniCompany:21062",
+                "name": "ISACA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=cwzBvUoMgtr8ZvUvUoMsprbGmEqJ8GUYyYxY8zJoCN0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=tKdg4zFODP83AIGTCAYzrxoeUHyP4sBtLNBdvzoeUbE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=ghFMKYB-nC9QajVN9vtalPvv2k6CxLTyCsEyGbQzIx0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEbgaF0IMoyIw/company-logo_"
+                    }
+                },
+                "universalName": "isaca",
+                "dashCompanyUrn": "urn:li:fsd_company:21062",
+                "trackingId": "Tkq9JOffQ9y0j2SDRykwrg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:21062"
+        },
+        {
+            "authority": "ISACA",
+            "name": "CISM - Certified Information Security Manager",
+            "licenseNumber": "1840833",
+            "company": {
+                "objectUrn": "urn:li:company:21062",
+                "entityUrn": "urn:li:fs_miniCompany:21062",
+                "name": "ISACA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=cwzBvUoMgtr8ZvUvUoMsprbGmEqJ8GUYyYxY8zJoCN0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=tKdg4zFODP83AIGTCAYzrxoeUHyP4sBtLNBdvzoeUbE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=ghFMKYB-nC9QajVN9vtalPvv2k6CxLTyCsEyGbQzIx0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEbgaF0IMoyIw/company-logo_"
+                    }
+                },
+                "universalName": "isaca",
+                "dashCompanyUrn": "urn:li:fsd_company:21062",
+                "trackingId": "rCf2gG0ASo6B+Q+VfSelKw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:21062"
+        },
+        {
+            "authority": "ISACA Ireland Chapter",
+            "name": "Cobit 5 Foundation",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "licenseNumber": "1000444843",
+            "company": {
+                "objectUrn": "urn:li:company:396315",
+                "entityUrn": "urn:li:fs_miniCompany:396315",
+                "name": "ISACA Ireland Chapter",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630579353488/isaca_ireland_chapter_logo?e=1710374400&v=beta&t=-k2WlUxLjvYXRp9oeFVlic7NF_CmnOhvO2N1ot0H-pI",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630579353488/isaca_ireland_chapter_logo?e=1710374400&v=beta&t=QsUThcAo9Pap_8GDyfmJDGaV_LLpeFZC0q8O4OsxRBs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630579353488/isaca_ireland_chapter_logo?e=1710374400&v=beta&t=mxUFNH9sn1VxZKuzVLu-OBRnNNl_QcdGVz69B2iFOA0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGSTC9-zY4JyA/company-logo_"
+                    }
+                },
+                "universalName": "isaca-ireland-chapter",
+                "dashCompanyUrn": "urn:li:fsd_company:396315",
+                "trackingId": "qLRfjVmrT8eSOOpWH8T85g=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:396315"
+        },
+        {
+            "authority": "GIAC Certifications",
+            "name": "GIAC Certified Penetration Tester (GPEN)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "licenseNumber": "12543",
+            "company": {
+                "objectUrn": "urn:li:company:2279112",
+                "entityUrn": "urn:li:fs_miniCompany:2279112",
+                "name": "GIAC Certifications",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630607297722/giac_logo?e=1710374400&v=beta&t=lesZk9lzyAJtTIoyY8HEEVeW2oOpIOx2veB0pnB0RwM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630607297722/giac_logo?e=1710374400&v=beta&t=-uYUVJWZJY2pvkAOOc0eC3Be0W4p9umq16_7g8_4awI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630607297722/giac_logo?e=1710374400&v=beta&t=uUnPbDRr2EuHqLRpatIIsxj6b6_eD2g8CODAoT-2-Mc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG2G6BQacJB6w/company-logo_"
+                    }
+                },
+                "universalName": "giac",
+                "dashCompanyUrn": "urn:li:fsd_company:2279112",
+                "trackingId": "10aEjn0sSciBkFCeTjhGlA=="
+            },
+            "displaySource": "giac.org",
+            "companyUrn": "urn:li:fs_miniCompany:2279112",
+            "url": "https://www.giac.org/certification/penetration-tester-gpen"
+        },
+        {
+            "authority": "GIAC Certifications",
+            "name": "GIAC Web Application Penetration Tester (GWAPT)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2279112",
+                "entityUrn": "urn:li:fs_miniCompany:2279112",
+                "name": "GIAC Certifications",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630607297722/giac_logo?e=1710374400&v=beta&t=lesZk9lzyAJtTIoyY8HEEVeW2oOpIOx2veB0pnB0RwM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630607297722/giac_logo?e=1710374400&v=beta&t=-uYUVJWZJY2pvkAOOc0eC3Be0W4p9umq16_7g8_4awI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630607297722/giac_logo?e=1710374400&v=beta&t=uUnPbDRr2EuHqLRpatIIsxj6b6_eD2g8CODAoT-2-Mc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG2G6BQacJB6w/company-logo_"
+                    }
+                },
+                "universalName": "giac",
+                "dashCompanyUrn": "urn:li:fsd_company:2279112",
+                "trackingId": "MK5MI5XHSrO9wEqiMlrmZg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2279112"
+        },
+        {
+            "authority": "GIAC Certifications",
+            "name": "GIAC Cyber Threat Intelligence (GCTI)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2279112",
+                "entityUrn": "urn:li:fs_miniCompany:2279112",
+                "name": "GIAC Certifications",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630607297722/giac_logo?e=1710374400&v=beta&t=lesZk9lzyAJtTIoyY8HEEVeW2oOpIOx2veB0pnB0RwM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630607297722/giac_logo?e=1710374400&v=beta&t=-uYUVJWZJY2pvkAOOc0eC3Be0W4p9umq16_7g8_4awI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630607297722/giac_logo?e=1710374400&v=beta&t=uUnPbDRr2EuHqLRpatIIsxj6b6_eD2g8CODAoT-2-Mc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG2G6BQacJB6w/company-logo_"
+                    }
+                },
+                "universalName": "giac",
+                "dashCompanyUrn": "urn:li:fsd_company:2279112",
+                "trackingId": "1DUNNzU7Rd2m6DKTpb3e0g=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2279112"
+        }
+    ],
+    "volunteer": [],
+    "honors": [
+        {
+            "title": "3rd the best result in the Ireland ISACA CISM Examinations -  September 2014",
+            "issueDate": {
+                "month": 9,
+                "year": 2014
+            },
+            "issuer": "ISACA"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAACTYoMBNvc_PSqmHHdDGGkExRjvNmpChkc,467025628)",
+            "title": "NSA/CNSS 4011 INFOSEC Professional"
+        }
+    ],
+    "projects": []
+}

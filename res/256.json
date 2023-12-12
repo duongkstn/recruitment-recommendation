@@ -1,0 +1,737 @@
+{
+    "summary": "Hey, I'm Marije! 👋\n\nI have a BA in Leisure Management & Events and am a qualified nurse. Edinburgh is home now, but I was born in the picturesque Almelo, the Netherlands. Here, I work remotely for Thomas.\n\nThings I'm good at 💪\n- Motivating myself and others\n- Being calm, patient, and kind\n- Organisation and keeping overview\n- Business development (5~ years).\n\nThings I love 💜\n- Exploring\n- Korfball and powerlifting\n- Landscape photography.",
+    "industryName": "Human Resources",
+    "lastName": "Konink",
+    "locationName": "United Kingdom",
+    "student": false,
+    "geoCountryName": "United Kingdom",
+    "geoCountryUrn": "urn:li:fs_geo:101165590",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:137",
+    "firstName": "Marije",
+    "entityUrn": "urn:li:fs_profile:ACoAAA9TBEEBhe58MTiWWfmwcmclwwC7dm7MbDA",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100209086"
+    },
+    "geoLocationName": "Edinburgh, Scotland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "gb"
+        }
+    },
+    "headline": "Combine psychology and data to recruit and retain the best people. 💡",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQEHGKCMZ1nFsA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1687522343964?e=1707955200&v=beta&t=vyfULwH5pBB91PFwLPRPiqkpGDg2E9ScZUM_JvjYjdg",
+    "img_200_200": "200_200/0/1687522343964?e=1707955200&v=beta&t=6W0YX1SnsGcTP3fi1tU284WvGSRDarH70hkZ64fd8e0",
+    "img_400_400": "400_400/0/1687522343964?e=1707955200&v=beta&t=ruZj9FmexeWKIjBuWtWhz6fsfYNKExD-GqI2EzZ-_EM",
+    "img_675_675": "800_800/0/1687522343964?e=1707955200&v=beta&t=j6fH_z6_Adc8KJN7RysZuU86tbDuxIAYv7pqvD__bDQ",
+    "profile_id": "ACoAAA9TBEEBhe58MTiWWfmwcmclwwC7dm7MbDA",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAA9TBEEBhe58MTiWWfmwcmclwwC7dm7MbDA",
+    "member_urn": "urn:li:member:257098817",
+    "public_id": "marije-konink",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAA9TBEEBhe58MTiWWfmwcmclwwC7dm7MbDA,2191954082)",
+            "companyName": "Thomas",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Human Resources Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:19504",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGnGtCQU61apw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAA9TBEEBhe58MTiWWfmwcmclwwC7dm7MbDA,2042027583)",
+            "companyName": "Omnipresent",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Senior Sales Development Representative",
+            "companyUrn": "urn:li:fs_miniCompany:30703767",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHjz6aW5cJrCA/company-logo_"
+        },
+        {
+            "locationName": "Edinburgh, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAA9TBEEBhe58MTiWWfmwcmclwwC7dm7MbDA,1440023349)",
+            "geoLocationName": "Edinburgh, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009485",
+            "companyName": "UserTesting",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Business Development Specialist",
+            "region": "urn:li:fs_region:(gb,4574)",
+            "companyUrn": "urn:li:fs_miniCompany:564709",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQHp0m6oSJNvKg/company-logo_"
+        },
+        {
+            "locationName": "Edinburgh, Scotland, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAA9TBEEBhe58MTiWWfmwcmclwwC7dm7MbDA,1814001883)",
+            "geoLocationName": "Edinburgh, Scotland, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:100209086",
+            "companyName": "Secureworks",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer & Network Security"
+                ]
+            },
+            "title": "Inside Sales Representative",
+            "region": "urn:li:fs_region:(gb,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9019",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQE5BGjdSfEeMw/company-logo_"
+        },
+        {
+            "locationName": "Edinburgh, City of Edinburgh, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAA9TBEEBhe58MTiWWfmwcmclwwC7dm7MbDA,1148285150)",
+            "geoLocationName": "Edinburgh, City of Edinburgh, United Kingdom",
+            "companyName": "CIBT",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Consumer Services"
+                ]
+            },
+            "title": "E-visa Consultant ",
+            "companyUrn": "urn:li:fs_miniCompany:72751",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQF6_plkPMpgnA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA9TBEEBhe58MTiWWfmwcmclwwC7dm7MbDA,160719306)",
+            "school": {
+                "objectUrn": "urn:li:school:23175",
+                "entityUrn": "urn:li:fs_miniSchool:23175",
+                "active": true,
+                "schoolName": "Stenden",
+                "trackingId": "XN3ijLW/TWOiq77mlL1HNw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQEAS2MSuGHh-A/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Stenden",
+            "fieldOfStudy": "Leisure Management in Leeuwarden",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:23175"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA9TBEEBhe58MTiWWfmwcmclwwC7dm7MbDA,349732960)",
+            "school": {
+                "objectUrn": "urn:li:school:225445",
+                "entityUrn": "urn:li:fs_miniSchool:225445",
+                "active": true,
+                "schoolName": "Landstede MBO",
+                "trackingId": "O9LLBMWLRX6vXGJtkqnLSA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQE10eXUOC1EVg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "degreeName": "Health Care Worker (Verzorgende IG)",
+            "schoolName": "Landstedegroep",
+            "schoolUrn": "urn:li:fs_miniSchool:225445"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Engels",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Landstede MBO",
+            "name": "Healthcare Worker (Verzorgende IG)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:15131109",
+                "entityUrn": "urn:li:fs_miniCompany:15131109",
+                "name": "Landstede MBO",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1643796502190/landstedembo_logo?e=1710374400&v=beta&t=OnVnqYcG3E4RX619IymYcxcrAGlw_PLsc7vlARj7Bzo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1643796502190/landstedembo_logo?e=1710374400&v=beta&t=dk_TPEJnQAJuTkZVkIAkXbXKFF4ANQy8EUQGX3ETwhA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1643796502190/landstedembo_logo?e=1710374400&v=beta&t=-gqWHecv6n1NtmOT3C-qhVYGsgEk0M2guFFViAIvPfM",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQE10eXUOC1EVg/company-logo_"
+                    }
+                },
+                "universalName": "landstedembo",
+                "dashCompanyUrn": "urn:li:fsd_company:15131109",
+                "trackingId": "Fib6Sl2WQf+qHceLhUqaeA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:15131109"
+        },
+        {
+            "authority": "QA Ltd",
+            "name": "Foundation in Cybersecurity",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:106266",
+                "entityUrn": "urn:li:fs_miniCompany:106266",
+                "name": "QA Ltd",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1668419280655/qa_ltd_logo?e=1710374400&v=beta&t=SNxsSmPARNo5J-aZGED43ZcbLIjxWs4QdccgAwjTixo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1668419280655/qa_ltd_logo?e=1710374400&v=beta&t=yStpX9POZSVuB5hBmXEEulxBx5zmFJNSrBzhpiKRVC8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1668419280655/qa_ltd_logo?e=1710374400&v=beta&t=HNEJq0Ei8GvPFdyu0kaGvKJGd4atEfPFuAz8Dbu3jSA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGSHUfKEmXZ0A/company-logo_"
+                    }
+                },
+                "universalName": "qa-ltd",
+                "dashCompanyUrn": "urn:li:fsd_company:106266",
+                "trackingId": "FEN0Jp4hRY21bJJorcmeVQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:106266"
+        },
+        {
+            "authority": "St Andrew's First Aid",
+            "name": "First Aider",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:10639217",
+                "entityUrn": "urn:li:fs_miniCompany:10639217",
+                "name": "St Andrew's First Aid Training & Supplies",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631320185557?e=1710374400&v=beta&t=2e2-F0K5dCIU49CWBP8PC8yb2RPoRyduUkZBbHEK6wo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631320185557?e=1710374400&v=beta&t=iiqqo0UvSc0I-wYhryR3zp9UCeAjiUHjbrw2Py3p5YM",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631320185557?e=1710374400&v=beta&t=BBxDaIPsoJRi9_xKwqfCGvM0i_Kb-m5X7Wz1YRkiZcM",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQF3iYHjm6eutQ/company-logo_"
+                    }
+                },
+                "universalName": "standrewsfirstaidtraining",
+                "dashCompanyUrn": "urn:li:fsd_company:10639217",
+                "trackingId": "wgWZj+i8QdOkFFl0bhaGMg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:10639217"
+        },
+        {
+            "authority": "Stenden",
+            "name": "Bachelor of Arts",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:48365",
+                "entityUrn": "urn:li:fs_miniCompany:48365",
+                "name": "Stenden",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631319438764?e=1710374400&v=beta&t=kfjBxrA_XSfrvL6m4eexLCH57A2cHa1K0AOMzQMoL3I",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631319438764?e=1710374400&v=beta&t=0xRH0XN_2YwpJuEtwMoQIFpkj1IfQC3RsXdxAik3LSI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631319438764?e=1710374400&v=beta&t=M3L6WXRjmy1FEHg8BP0TLacZUjvlydlB64wklT6bPHg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEAS2MSuGHh-A/company-logo_"
+                    }
+                },
+                "universalName": "stenden",
+                "dashCompanyUrn": "urn:li:fsd_company:48365",
+                "trackingId": "mA1BF5rTQNydXc731NX+Ew=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:48365"
+        },
+        {
+            "authority": "Secureworks",
+            "name": "FY22 DGR of Q1 Award",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:9019",
+                "entityUrn": "urn:li:fs_miniCompany:9019",
+                "name": "Secureworks",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630613238052/secureworks_logo?e=1710374400&v=beta&t=02qOn8I5zz_tUeTc-HxH8DaTFYpAVTSeLRb0uYB7t2A",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630613238052/secureworks_logo?e=1710374400&v=beta&t=vNYJ9ReZB-hYLw6Owom5zb-VyaAipF45QpL64fL0-4k",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630613238052/secureworks_logo?e=1710374400&v=beta&t=vDi3UhsGT7OsiB2-IEuLqbk6SxaTYTWav_Ce0IXu6fk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQE5BGjdSfEeMw/company-logo_"
+                    }
+                },
+                "universalName": "secureworks",
+                "dashCompanyUrn": "urn:li:fsd_company:9019",
+                "trackingId": "AUey7F8QT86TP2HBkSuO9Q=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:9019"
+        },
+        {
+            "authority": "Thomas",
+            "name": "Personal Profile Analysis (PPA) Practitioner",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:19504",
+                "entityUrn": "urn:li:fs_miniCompany:19504",
+                "name": "Thomas",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1663664717229/thomas_international_logo?e=1710374400&v=beta&t=a3tU_WoYwMZna94x6Yf0lfP-L34FGoZ7xPwuh05Q-gM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1663664717229/thomas_international_logo?e=1710374400&v=beta&t=GqvTTkreoL_SjBLnRNRvOMWrYP5O0waNePP8Rk_I-V8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1663664717229/thomas_international_logo?e=1710374400&v=beta&t=NHBL_u1dBII-2x0d_kXXEZUMUGV58t579ktBJFFAZAg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGnGtCQU61apw/company-logo_"
+                    }
+                },
+                "universalName": "thomas-international",
+                "dashCompanyUrn": "urn:li:fsd_company:19504",
+                "trackingId": "ru2MobXZS6egs6uNWP6MHQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:19504"
+        },
+        {
+            "authority": "Thomas",
+            "name": "General Intelligence Assessment (GIA) Practitioner",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:19504",
+                "entityUrn": "urn:li:fs_miniCompany:19504",
+                "name": "Thomas",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1663664717229/thomas_international_logo?e=1710374400&v=beta&t=a3tU_WoYwMZna94x6Yf0lfP-L34FGoZ7xPwuh05Q-gM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1663664717229/thomas_international_logo?e=1710374400&v=beta&t=GqvTTkreoL_SjBLnRNRvOMWrYP5O0waNePP8Rk_I-V8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1663664717229/thomas_international_logo?e=1710374400&v=beta&t=NHBL_u1dBII-2x0d_kXXEZUMUGV58t579ktBJFFAZAg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGnGtCQU61apw/company-logo_"
+                    }
+                },
+                "universalName": "thomas-international",
+                "dashCompanyUrn": "urn:li:fsd_company:19504",
+                "trackingId": "/y0/xEBoQ7yJd8Nu01KjjQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:19504"
+        },
+        {
+            "authority": "Thomas",
+            "name": "High Potential Trait Indicator (HPTI) Practitioner",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:19504",
+                "entityUrn": "urn:li:fs_miniCompany:19504",
+                "name": "Thomas",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1663664717229/thomas_international_logo?e=1710374400&v=beta&t=a3tU_WoYwMZna94x6Yf0lfP-L34FGoZ7xPwuh05Q-gM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1663664717229/thomas_international_logo?e=1710374400&v=beta&t=GqvTTkreoL_SjBLnRNRvOMWrYP5O0waNePP8Rk_I-V8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1663664717229/thomas_international_logo?e=1710374400&v=beta&t=NHBL_u1dBII-2x0d_kXXEZUMUGV58t579ktBJFFAZAg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGnGtCQU61apw/company-logo_"
+                    }
+                },
+                "universalName": "thomas-international",
+                "dashCompanyUrn": "urn:li:fsd_company:19504",
+                "trackingId": "1GJk61ccTEO80aKoqFxsZw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:19504"
+        },
+        {
+            "authority": "Omnipresent",
+            "name": "MEDDICC Practitioner",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:30703767",
+                "entityUrn": "urn:li:fs_miniCompany:30703767",
+                "name": "Omnipresent",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630654616122/omnipresentgroup_logo?e=1710374400&v=beta&t=yLp9m-oGQpZuYaL6au02VEhg1ULNiAl5p13IZMHsFX0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630654616122/omnipresentgroup_logo?e=1710374400&v=beta&t=ubnK1dSOH3Qtt4-GE8Tf0Xg8C_c2kSinDHUmlMWsROA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630654616122/omnipresentgroup_logo?e=1710374400&v=beta&t=mAGpFSzOvaZ3H7YMqqU0oyMBMGHerNX9KqBl4uA4G7w",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQHjz6aW5cJrCA/company-logo_"
+                    }
+                },
+                "universalName": "omnipresentgroup",
+                "dashCompanyUrn": "urn:li:fsd_company:30703767",
+                "trackingId": "JOojibjMRlizmE7wJ1VRPQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:30703767"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Committee Member",
+            "companyName": "Edinburgh Mavericks Korfball Club",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "description": "Within our korfball club, I’m responsible for organising team activities and creating social media content."
+        },
+        {
+            "role": "Organising Member Youth Camp",
+            "companyName": "CKV Achilles",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2012
+                }
+            },
+            "cause": "CHILDREN"
+        },
+        {
+            "role": "Project Leader Introduction Week",
+            "companyName": "Stenden",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2014
+                }
+            },
+            "cause": "EDUCATION",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:48365",
+                    "entityUrn": "urn:li:fs_miniCompany:48365",
+                    "name": "Stenden",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631319438764?e=1710374400&v=beta&t=kfjBxrA_XSfrvL6m4eexLCH57A2cHa1K0AOMzQMoL3I",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631319438764?e=1710374400&v=beta&t=0xRH0XN_2YwpJuEtwMoQIFpkj1IfQC3RsXdxAik3LSI",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631319438764?e=1710374400&v=beta&t=M3L6WXRjmy1FEHg8BP0TLacZUjvlydlB64wklT6bPHg",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEAS2MSuGHh-A/company-logo_"
+                        }
+                    },
+                    "universalName": "stenden",
+                    "dashCompanyUrn": "urn:li:fsd_company:48365",
+                    "trackingId": "KWScPUt5Spew0xvSyzI+qQ=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:48365"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

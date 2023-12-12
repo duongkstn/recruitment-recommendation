@@ -1,0 +1,218 @@
+{
+    "industryName": "Cosmetics",
+    "lastName": "Baştuğ",
+    "locationName": "Turkey",
+    "student": false,
+    "geoCountryName": "Turkey",
+    "geoCountryUrn": "urn:li:fs_geo:102105699",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 1,
+        "day": 14
+    },
+    "industryUrn": "urn:li:fs_industry:18",
+    "firstName": "Batuhan",
+    "entityUrn": "urn:li:fs_profile:ACoAABdBWYcB9pSj93hNd9ZnZ-CCatjrwNsBup4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102424322"
+    },
+    "geoLocationName": "Istanbul",
+    "location": {
+        "basicLocation": {
+            "countryCode": "tr"
+        }
+    },
+    "headline": "Talent Acquisition & Employer Branding Manager at L'oreal",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQE0Z7TxuIE5EA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1557579096476?e=1707955200&v=beta&t=Bs40El2zz5sb6Hcg8jLrbLHzlzsEO6VuQs3dtj4Zntg",
+    "img_200_200": "200_200/0/1557579096505?e=1707955200&v=beta&t=R0CwDBCNXvb_s_ofvHmL-0jrXrr7r6OzcFX7zKTmYPI",
+    "img_400_400": "400_400/0/1557579096577?e=1707955200&v=beta&t=ko2ogbwPRf57GAGrV7tzZpb8a7scufp91tNPTgYXBQ0",
+    "img_500_500": "800_800/0/1557579096534?e=1707955200&v=beta&t=yh0FdWSy1Acpny13BcoKpY265tEeS2HuHl-hJxwG5Z0",
+    "profile_id": "ACoAABdBWYcB9pSj93hNd9ZnZ-CCatjrwNsBup4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABdBWYcB9pSj93hNd9ZnZ-CCatjrwNsBup4",
+    "member_urn": "urn:li:member:390158727",
+    "public_id": "batuhan-baştuğ-3737b6aa",
+    "experience": [
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAABdBWYcB9pSj93hNd9ZnZ-CCatjrwNsBup4,2277282022)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:102424322",
+            "companyName": "L'Oréal",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Cosmetics"
+                ]
+            },
+            "title": "Talent Acquisition & Employer Branding Manager",
+            "region": "urn:li:fs_region:(tr,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1662",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFEB_g-FWxSrQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABdBWYcB9pSj93hNd9ZnZ-CCatjrwNsBup4,2072759004)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Michael Page",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior Associate Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3476",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAABdBWYcB9pSj93hNd9ZnZ-CCatjrwNsBup4,1838899903)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:102424322",
+            "companyName": "Michael Page",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Manager",
+            "region": "urn:li:fs_region:(tr,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3476",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAABdBWYcB9pSj93hNd9ZnZ-CCatjrwNsBup4,1681264762)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:102424322",
+            "companyName": "Michael Page",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Managing Consultant",
+            "region": "urn:li:fs_region:(tr,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3476",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAABdBWYcB9pSj93hNd9ZnZ-CCatjrwNsBup4,1583736680)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:100170895",
+            "companyName": "Michael Page",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior Consultant",
+            "region": "urn:li:fs_region:(tr,7585)",
+            "companyUrn": "urn:li:fs_miniCompany:3476",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABdBWYcB9pSj93hNd9ZnZ-CCatjrwNsBup4,254573208)",
+            "school": {
+                "objectUrn": "urn:li:school:17382",
+                "entityUrn": "urn:li:fs_miniSchool:17382",
+                "active": true,
+                "schoolName": "Marmara University",
+                "trackingId": "iLDwm49ySv6/kpYnTad1Vg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQGwhK4q9iV_tQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "schoolName": "Marmara Üniversitesi",
+            "fieldOfStudy": "Economics",
+            "schoolUrn": "urn:li:fs_miniSchool:17382"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,233 @@
+{
+    "summary": "Experienced Executive",
+    "industryName": "Human Resources",
+    "lastName": "Arora",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:137",
+    "firstName": "Deepak",
+    "entityUrn": "urn:li:fs_profile:ACoAACuU7CcBohEm2j_kgWxS2kLyYjavRUhW2nI",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90010383"
+    },
+    "geoLocationName": "Amsterdam Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Global HR-Payroll and Payroll Accounting Consultant and Specialist, Highly Experienced on Payroll Processing,Implementation,HRIS Setup and Integrations setup with high Scope of Delivery Results in FSSC Environments",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQFs8j5b6-vAyA/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1669902125047?e=1702972800&v=beta&t=R73YTA55AmFOl4cA_FoCtCqCd952y4l-ApqaPjQ4Yr8",
+    "img_200_200": "200_200/0/1669902125047?e=1702972800&v=beta&t=yXS-XoX-LFJLY8hGmb6Xed2sHVLRq6Y_O2Zwv6zOxCY",
+    "img_800_800": "800_800/0/1669902125047?e=1702972800&v=beta&t=rtxOBcfEpa0u5N7mvbpkgF5pOrt1WayNptNPiiyzp_A",
+    "img_100_100": "100_100/0/1669902125047?e=1702972800&v=beta&t=xMSciA9adat9elPM0bcwJ9_Zqyre7i_FXEjNHHinRKo",
+    "profile_id": "ACoAACuU7CcBohEm2j_kgWxS2kLyYjavRUhW2nI",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACuU7CcBohEm2j_kgWxS2kLyYjavRUhW2nI",
+    "member_urn": "urn:li:member:731180071",
+    "public_id": "reply2deepakarora",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACuU7CcBohEm2j_kgWxS2kLyYjavRUhW2nI,2301112511)",
+            "companyName": "Vanderlande",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Industrial Automation"
+                ]
+            },
+            "title": "Global Payroll Improvement Specialist and SME",
+            "companyUrn": "urn:li:fs_miniCompany:166766",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHwnLgnVhMJww/company-logo_"
+        },
+        {
+            "locationName": "Vilnius, Vilniaus, Lithuania",
+            "entityUrn": "urn:li:fs_position:(ACoAACuU7CcBohEm2j_kgWxS2kLyYjavRUhW2nI,1755996517)",
+            "geoLocationName": "Vilnius, Vilniaus, Lithuania",
+            "geoUrn": "urn:li:fs_geo:101060073",
+            "companyName": "idialogue",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Mentor- https://www.idialogue.lt/mentors/deepak-arora-3486",
+            "region": "urn:li:fs_region:(lt,0)",
+            "companyUrn": "urn:li:fs_miniCompany:4868402",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEZXlRQAoeAEg/company-logo_"
+        },
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACuU7CcBohEm2j_kgWxS2kLyYjavRUhW2nI,2047657900)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "payrollminds",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "description": "Payrollminds help the world's leading brands design global payroll processes, select strategic vendors and build powerful teams. To lead the way in a world of fast evolving technologies and ever changing needs, we believe forward thinking professionals need to team up - join our community, visit our events and follow our page! \n\nroles we played at our clients are: Payroll Manager | Interim Payroll Manager | Global Payroll Manager | Payroll Project Manager | International Payroll Manager | Payroll Manager EMEA | Payroll Director | Global Payroll Director | Payroll Strategy Consultant | Payroll Consultant | Global Payroll Consultant | Interim payroll consultant | Payroll specialist | Interim payroll Specialist.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Global Payroll and HR Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:74821457",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQG-4GbppS16_A/company-logo_"
+        },
+        {
+            "locationName": "Remote- EU",
+            "entityUrn": "urn:li:fs_position:(ACoAACuU7CcBohEm2j_kgWxS2kLyYjavRUhW2nI,2047658616)",
+            "geoLocationName": "Remote- EU",
+            "companyName": "Neeyamo",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Global Project Lead- Payroll Implementation",
+            "companyUrn": "urn:li:fs_miniCompany:232515",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFixaaxn3DRwA/company-logo_"
+        },
+        {
+            "locationName": "Remote",
+            "entityUrn": "urn:li:fs_position:(ACoAACuU7CcBohEm2j_kgWxS2kLyYjavRUhW2nI,1767042222)",
+            "geoLocationName": "Remote",
+            "companyName": "Pearson",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Junior Project Manager",
+            "companyUrn": "urn:li:fs_miniCompany:2137",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQH0_0YfvmH-Pg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACuU7CcBohEm2j_kgWxS2kLyYjavRUhW2nI,589633464)",
+            "school": {
+                "objectUrn": "urn:li:school:4071199",
+                "entityUrn": "urn:li:fs_miniSchool:4071199",
+                "active": true,
+                "schoolName": "Oxford Business College",
+                "trackingId": "JRbJyQryTIqma5GfPNXS+Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQFiKlj6AFR3WA/company-logo_"
+            },
+            "grade": "6.81",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101465",
+            "degreeName": "Master's degree",
+            "schoolName": "Oxford Business College",
+            "fieldOfStudy": "International Business",
+            "degreeUrn": "urn:li:fs_degree:500",
+            "schoolUrn": "urn:li:fs_miniSchool:4071199"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACuU7CcBohEm2j_kgWxS2kLyYjavRUhW2nI,589631411)",
+            "school": {
+                "objectUrn": "urn:li:school:453054",
+                "entityUrn": "urn:li:fs_miniSchool:453054",
+                "active": true,
+                "schoolName": "Asian Business School",
+                "trackingId": "4h/3q/3tQoa1FhdWu468KQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFMauM7_6dICg/company-logo_"
+            },
+            "grade": "6.81",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101443",
+            "degreeName": "Master of Business Administration - MBA",
+            "schoolName": "Asian Business School",
+            "fieldOfStudy": "Finance and Financial Management Services",
+            "degreeUrn": "urn:li:fs_degree:700",
+            "schoolUrn": "urn:li:fs_miniSchool:453054"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

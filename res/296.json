@@ -1,0 +1,186 @@
+{
+    "industryName": "Retail",
+    "lastName": "Fränkel",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Nadisja",
+    "entityUrn": "urn:li:fs_profile:ACoAABIjPEwBDnqcF04aPEMaIFdPLf2aol-Ucxw",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Consultant externe inhuur ",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQGf2j8E8qAuhQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1516981623860?e=1707955200&v=beta&t=FLYay6y77aDPumroRvSrrL2Ht2F9sarCv7-fObE0VQ4",
+    "img_200_200": "200_200/0/1516981272779?e=1707955200&v=beta&t=nG_v8G0jxsy_YRmJfNKxddm-fw9W0_CYpB2fLGnKtuY",
+    "img_400_400": "400_400/0/1516981267935?e=1707955200&v=beta&t=KHJHzkIDCOJpCc5Q25vaGWVnpOYBQHsRqk1a4TVJVK8",
+    "img_500_500": "800_800/0/1516981267413?e=1707955200&v=beta&t=dsbS9GDEp5b_FSTe6oWCbEf0VD1ZlG6jBaHggIxDw24",
+    "profile_id": "ACoAABIjPEwBDnqcF04aPEMaIFdPLf2aol-Ucxw",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABIjPEwBDnqcF04aPEMaIFdPLf2aol-Ucxw",
+    "member_urn": "urn:li:member:304299084",
+    "public_id": "nadisja",
+    "experience": [
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABIjPEwBDnqcF04aPEMaIFdPLf2aol-Ucxw,1959103944)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Consultant External Hiring",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Diemen",
+            "entityUrn": "urn:li:fs_position:(ACoAABIjPEwBDnqcF04aPEMaIFdPLf2aol-Ucxw,1550664144)",
+            "geoLocationName": "Diemen",
+            "companyName": "International Card Services (ICS)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "description": "Binnen ICS, FInance en Control ben ik verantwoordelijk voor het gehele proces rondom inhuur van externe medewerkers. Dagelijks houd ik me bezig met het gehele aanvraagproces, maak en deel ik rapportages voor de businesslines, onderhoud ik de contacten met leveranciers, adviseer ik over de juiste vorm om posities in te vullen. Ik draag bij aan een gezonde flex populatie waarin ik zorgdraag voor eenduidige contractuele afspraken en juiste tarieven voor de juiste kandidaten. \nPer 1 januari 2021 maakt ICS als dochteronderneming volledig gebruik van het inhuurmodel van ABN AMRO. Binnen dit inhuurmodel huurt ICS en en zorg ik voor een juiste vertaling van ABN AMRO afspraken naar ICS procedures.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Procurement business partner Externe inhuur",
+            "companyUrn": "urn:li:fs_miniCompany:20106",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHhATt8hZ91Og/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABIjPEwBDnqcF04aPEMaIFdPLf2aol-Ucxw,693330756)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "ABN AMRO Bank N.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2015
+                }
+            },
+            "description": "Verantwoordelijk voor de inhuur van Interim Professionals en uitzendkrachten binnen de commerciële Retail & Private Banking en Corporate Banking in de doelgroepen Marcom en Commercie. Dagelijkse taken bestaan uit; intakes inhurende managers, cv selectie, leveranciers management, onderhandelen over tarieven en adviseren over de verschillende inhuur/aanname mogelijkheden.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "External Staffing Specialist",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:1173",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGbBCf7qCSy2g/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABIjPEwBDnqcF04aPEMaIFdPLf2aol-Ucxw,628103658)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "ABN AMRO Bank N.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2013
+                }
+            },
+            "description": "Verantwoordelijk voor de inhuur van interim professionals en uitzendkrachten binnen ABN AMRO Hypotheken Groep. Bij AAHG voornamelijk bezig geweest met het goed onboarden van AAHG op de External Staffing processen en leveranciers management.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Consultant External Staffing",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:1173",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGbBCf7qCSy2g/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABIjPEwBDnqcF04aPEMaIFdPLf2aol-Ucxw,628106411)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "ABN AMRO Bank N.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2010
+                }
+            },
+            "description": " Het ondersteunen van de external staffing specialist. Telefonisch en  per mail e woord staan van managers met vragen over het proces, amperit, contracten. Aanspreekpunt voor leveranciers en uitzendbureaus.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Recruitment Officer",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:1173",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGbBCf7qCSy2g/company-logo_"
+        }
+    ],
+    "education": [],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

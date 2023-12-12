@@ -1,0 +1,389 @@
+{
+    "summary": "A Technical Recruiter who is passionate and driven by DE&I, I worked for corporate and non-corporate entities, with powerful experience in online & offline project management. \n\nMy skill set is not limited to Tech Sourcing, Tech Hiring, Recruitment and Employer Branding, and Candidate Experience. Still, I also have 5+ years of experience in youth development and youth capacity building towards sustaining Gender Equality across the middle east, with diversity in the fields of NGOs and education. With a massive experience in managing young professionals & setting motivational and development programs for them.\n\nThat's to say; I was lucky to hire people in different regions and get solid hands-on experience with diverse markets, including MEA, Europe, USA and Canada. And most importantly, getting the opportunity to work with highly skilled teams and stakeholders over the past seven years.",
+    "industryName": "Retail",
+    "lastName": "Hashem",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "May",
+    "entityUrn": "urn:li:fs_profile:ACoAABYG7HwBjxnE6lirBADOvPZo4ljVOCz8gX0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102434816"
+    },
+    "geoLocationName": "Utrecht, Utrecht",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "⌨️ Technical Recruiter @ bol.com",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQGvubFPDkcEJg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1576804042832?e=1707955200&v=beta&t=13_0VrUPxy00Ko5UcsNis-y8eTfsFwUdqWcdTsVci3I",
+    "img_200_200": "200_200/0/1576804042811?e=1707955200&v=beta&t=W0zhItj1smIa9be2-0C_T20Jc3p-LobDJ6eLbqWQE7M",
+    "img_400_400": "400_400/0/1576804042860?e=1707955200&v=beta&t=1X-tVFC8Hv4uvTkjeWLHvHQqaSKlGwsYIpot_8_cMzE",
+    "img_478_478": "800_800/0/1576804042885?e=1707955200&v=beta&t=Pe4o4DzRVJy4IwROIJgi8fG-mkV6qSrbr6JgoEu75bg",
+    "profile_id": "ACoAABYG7HwBjxnE6lirBADOvPZo4ljVOCz8gX0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABYG7HwBjxnE6lirBADOvPZo4ljVOCz8gX0",
+    "member_urn": "urn:li:member:369552508",
+    "public_id": "mayhashem",
+    "experience": [
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABYG7HwBjxnE6lirBADOvPZo4ljVOCz8gX0,2012561144)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Technical Recruiter",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "San Francisco Bay Area",
+            "entityUrn": "urn:li:fs_position:(ACoAABYG7HwBjxnE6lirBADOvPZo4ljVOCz8gX0,1561897818)",
+            "geoLocationName": "San Francisco Bay Area",
+            "geoUrn": "urn:li:fs_geo:90000084",
+            "companyName": "Wikimedia Foundation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "description": "- Global Tech Hiring scale: Asia, Africa, North America, South America, Europe, and Australia\n- Partnering with hiring managers to assess talent needs and provide expertise and guidance around hiring plan and strategy, driving the full E2E cycle\n- Setting and managing expectations on the recruiting timeline with hiring manager, proactively addressing potential issues and bringing solutions\n- Using data to assess and measure candidate funnel, recruiting performance and talent market\n- Monitoring and optimizing recruiting funnel using a variety of techniques to discover and attract the best passive talent\n- Advocating for and driving a diverse and inclusive recruitment strategy\n- Conducting thorough behavioural-based interviews \n- Focusing on providing an excellent candidate experience\n- Provide training to hiring managers and stakeholders on recruitment processes and skills",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Technical Recruiter",
+            "region": "urn:li:fs_region:(us,84)",
+            "companyUrn": "urn:li:fs_miniCompany:27378",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQHLq52VMetF7A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABYG7HwBjxnE6lirBADOvPZo4ljVOCz8gX0,1525958367)",
+            "companyName": "UN Women",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "description": "HerStory team leader & Cofounder to manage the mobilization of volunteers, planning of editathons, coordinate with local partners and Wikipedia chapters and provide quality assurance of produced articles. Under the overall supervision of the Coordination Specialist and in day to day consultation with the Youth, Advocacy and Innovation Specialist.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "International Affairs"
+                ]
+            },
+            "title": "Regional Project Coordinator",
+            "companyUrn": "urn:li:fs_miniCompany:1688026",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQES3rMHWiTJww/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABYG7HwBjxnE6lirBADOvPZo4ljVOCz8gX0,1413079137)",
+            "companyName": "Microsoft",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "description": "• Candidate Pipeline: Building & Maintaining an active community of potential candidates through proactive market research across Middle East & Africa.\n• Position Fulfilling: Identifying the staffing needs & ensuring the delivery if the staffing plans in a timely manner;\n• Accountability: Running the interviewing process for internal & external candidates, scheduling interviews & communicating feedback.\n Preparing & negotiating the offers & communicating them to the vendor;\nWorking with the hiring managers on identify staffing needs and for a debrief on the needed profile in line with the JD for each role.\nProactively source candidates through various channels “LinkedIn, Referrals and our Candidate data-bank”, building and maintaining a network of talented candidates through market research, community building and on-going relationship management for short and long-term opportunities for a broad/deep range of pool/positions.\n• Review, screen and interview candidates for appropriateness of skills, experience and knowledge in relation to position requirements and to make sure that the candidates culturally fitting and presentable.\n• Own, manage and drive full life-cycle recruiting process “including Technical assessment and Questioner” from sourcing to offer acceptance.\n• Updating the open heads tracking sheet and the referrals contact.\n• Present offer recommendations to business, lead offer negotiations and complete detailed reference checking (if needed).\n• Update the hiring tracker on a timely manner.\n• Follow up with hiring managers and candidates throughout the hiring cycle.\n• Circulate the new hire details with Operations team to work on alias creation, Machine preparation, on-boarding plan etc.  \n• Organize and attend job fairs and recruitment events “when needed”.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Technical Talent Acquisition Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:1035",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+        },
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABYG7HwBjxnE6lirBADOvPZo4ljVOCz8gX0,1367868835)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "OrangeNile",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "description": "• Technical Fintech Recruiter with 3 years experience in agencies and in-house\n• International recruitment experience\n• Have been working on most of the tech profiles across various tech stacks: .Net Developer, Backend Developer, DevOps, Site Reliability Engineers, and Implementation Consultant.\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Technical Talent Acquisition Specialist",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:19096177",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQFe5Er9pUl25g/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABYG7HwBjxnE6lirBADOvPZo4ljVOCz8gX0,726584940)",
+            "school": {
+                "objectUrn": "urn:li:school:12700",
+                "entityUrn": "urn:li:fs_miniSchool:12700",
+                "active": true,
+                "schoolName": "University of East London",
+                "trackingId": "OMLntSJ/Qzml7fFHihBn+Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQGjjhVJg60U9w/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "degreeName": "Master of Business Administration - MBA",
+            "schoolName": "University of East London",
+            "degreeUrn": "urn:li:fs_degree:700",
+            "schoolUrn": "urn:li:fs_miniSchool:12700"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABYG7HwBjxnE6lirBADOvPZo4ljVOCz8gX0,238826489)",
+            "school": {
+                "objectUrn": "urn:li:school:12165",
+                "entityUrn": "urn:li:fs_miniSchool:12165",
+                "active": true,
+                "schoolName": "Ain Shams University",
+                "trackingId": "IOCVOKvhTS2fZGE3ed8yrA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQH7PfN-Bc9p1A/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "degreeName": "Bachelor of Arts (B.A.)",
+            "schoolName": "Ain Shams University",
+            "fieldOfStudy": "Foreign Languages, Literatures, and Linguistics",
+            "schoolUrn": "urn:li:fs_miniSchool:12165"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Arabic",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Brain Gain Recruiting",
+            "name": "Certified Diversity Sourcing Professional (CDSP) Program",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:210353",
+                "entityUrn": "urn:li:fs_miniCompany:210353",
+                "name": "Brain Gain Recruiting",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631391260426?e=1710374400&v=beta&t=UtUbuAOJYmwKoD4k4Ucjh50IxHmGezz4bqGBa3atd7M",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631391260426?e=1710374400&v=beta&t=JFnwwvbqFDro4e1CigTWxnU2SRgTDN5zjdChFuEBCP8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631391260426?e=1710374400&v=beta&t=gvPZubMPHqFRnHZYwRml6z4MWW1WAkndqTIYfCwrwU8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQHIX1d8339stw/company-logo_"
+                    }
+                },
+                "universalName": "brain-gain-recruiting",
+                "dashCompanyUrn": "urn:li:fsd_company:210353",
+                "trackingId": "XG1BvwA0RwyNmnUDUwN9tQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:210353"
+        },
+        {
+            "authority": "The Swedish Institute",
+            "name": "Leader Lab 2020 Programme (6 months Diploma)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:45325",
+                "entityUrn": "urn:li:fs_miniCompany:45325",
+                "name": "The Swedish Institute",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1666088311746/swedish_institute_logo?e=1710374400&v=beta&t=5YzlGaD5NJCy1fZHVdVgoQ9eyB-M5nYRD2DmTHh8iUg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1666088311746/swedish_institute_logo?e=1710374400&v=beta&t=_sqvgVNGuaDKWXNBpBLWClPJTH8r-CLty6I84uQqUs8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1666088311746/swedish_institute_logo?e=1710374400&v=beta&t=tAkT-FCR4oC2Im2DUiVlf6MLsVpUPmurV0DCbHYIJCI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQHpITNxQYxCyg/company-logo_"
+                    }
+                },
+                "universalName": "swedish-institute",
+                "dashCompanyUrn": "urn:li:fsd_company:45325",
+                "trackingId": "jlm5nSPiTE2lDD96s8VPzA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:45325"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Wikipedia Editor",
+            "companyName": "Wikimedia Foundation",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2013
+                }
+            },
+            "cause": "EDUCATION",
+            "description": "•  An active editor of Wikipedia, an Education Program leader, and an active member of Wikimedia Egypt user group & Levant user group,\n• Member in Wikimedia Foundation Affiliations Committee,\n• Run WikiGap campaign 2017/18 in Egypt, Morocco, Tunisia, Lebanon, Iraq and France along with the Swedish Embassy,\n• Member in Wikimedia Foundation Partnerships working group for Wikimedia Strategy for 2030,\nIn 2014/2015,Trained +200 students and 5 ambassadors in 7 different languages courses,\n• Given +40 workshops since the beginning of my volunteering including edit-a-thons and offline and online training of other volunteers,\n• Run the first Wiki Women campaign in the middle-east,\n• Co-created the WikiWomen prize on wiki aiming at encouraging more women to edit Wikipedia and adding more women-related content, which has lead to massive contributions during the contest, i.e. +5 million bytes added to Wikipedia in one month,\n• Organized WikiWomen Competition 2014.\n",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:27378",
+                    "entityUrn": "urn:li:fs_miniCompany:27378",
+                    "name": "Wikimedia Foundation",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1696256412979/wikimedia_foundation_logo?e=1710374400&v=beta&t=xMZsvXkYKEyD9pYPBglSIpPMgm-D09llvuuC5YS1UK8",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1696256412979/wikimedia_foundation_logo?e=1710374400&v=beta&t=2MUNkjO5ArJIIU3DK-gOxahMxTRRE6asi6TfF6TlGqw",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1696256412979/wikimedia_foundation_logo?e=1710374400&v=beta&t=o11n3LJ-iEI3MMDL34McpNB3eb8xgVMlDO-nt7n47n8",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQHLq52VMetF7A/company-logo_"
+                        }
+                    },
+                    "universalName": "wikimedia-foundation",
+                    "dashCompanyUrn": "urn:li:fsd_company:27378",
+                    "trackingId": "hIAaaZheSVyeTxa0FRJV/w=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:27378"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

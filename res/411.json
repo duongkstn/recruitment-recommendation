@@ -1,0 +1,165 @@
+{
+    "summary": "HR Professional with progressive experience managing employee benefits & compliance, employee hiring & onboarding, performance management processes, licensure tracking and HR records. Skilled at building and maintaining relationships, representing shared company values, and managing employees across all levels of an organization. Proficient with HRIS, applicant tracking and benefits management. \nAs much as I have enjoyed to work as interim, I am now looking for a permanent job where I can\nstay for a long period and grow together with the company.",
+    "industryName": "Consumer Goods",
+    "lastName": "P.",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:25",
+    "firstName": "Mirela",
+    "entityUrn": "urn:li:fs_profile:ACoAAAbAkzkB9bLN929spthAVhqTMJIdwsEGf9M",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "HR Professional",
+    "profile_id": "ACoAAAbAkzkB9bLN929spthAVhqTMJIdwsEGf9M",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAbAkzkB9bLN929spthAVhqTMJIdwsEGf9M",
+    "member_urn": "urn:li:member:113283897",
+    "public_id": "mirela-p-989b3131",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAbAkzkB9bLN929spthAVhqTMJIdwsEGf9M,2151102436)",
+            "companyName": "VISTRA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "HR Advisor",
+            "companyUrn": "urn:li:fs_miniCompany:888943",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGgsJRQ0BVRcg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAbAkzkB9bLN929spthAVhqTMJIdwsEGf9M,2017051968)",
+            "companyName": "Gorillas",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Junior People Partner",
+            "companyUrn": "urn:li:fs_miniCompany:65460470",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHzfrX6I9tq5A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAbAkzkB9bLN929spthAVhqTMJIdwsEGf9M,1923899309)",
+            "companyName": "Gorillas",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Team Lead People Operations",
+            "companyUrn": "urn:li:fs_miniCompany:65460470",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHzfrX6I9tq5A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAbAkzkB9bLN929spthAVhqTMJIdwsEGf9M,1923897503)",
+            "companyName": "Gorillas",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Senior People Operations Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:65460470",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHzfrX6I9tq5A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAbAkzkB9bLN929spthAVhqTMJIdwsEGf9M,1779258470)",
+            "companyName": "Reckitt",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "Global HR Officer",
+            "companyUrn": "urn:li:fs_miniCompany:3098",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGCytE0eOCDmA/company-logo_"
+        }
+    ],
+    "education": [],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

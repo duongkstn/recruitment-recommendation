@@ -1,0 +1,212 @@
+{
+    "summary": "Hoe zorg je ervoor dat jouw vacatures opvallen bij de juiste kandidaten? En hoe kun je daarvoor social advertising optimaal inzetten?\n\nBij TopClicks zijn we expert in job marketing: we vertalen recruitmentstrategieën naar doelgerichte online campagnes. \n\nJe kunt bij TopClicks onder meer terecht voor:\n★   Job Marketing\n★   Job Marketing Trainingen\n★   Lead generation\n\n\nWil je weten hoe wij jouw bedrijf kunnen helpen op het gebied van social zichtbaarheid? Of wil je kennis over social advertising bij jou in huis halen? \nNeem dan gerust contact op ⤵️\n\n✉ siska@topclicks.nl, 📱 06-19907638\n\nSocial Advertising Specialist | Job Marketing | Effective Business Advertising | Social Personal Branding | Content Marketing | Facebook | Instagram | LinkedIn | Social Advertising Trainer | Lead generation\n\nEn naast TopClicks?\nWord ik blij van: wandelen in de natuur, sporten, lezen, reizen en een heerlijk diner met een goed glas wijn.",
+    "industryName": "Marketing & Advertising",
+    "lastName": "Tromp",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:80",
+    "firstName": "Siska",
+    "entityUrn": "urn:li:fs_profile:ACoAABGwJ8AB4gX3HCpA0EjLToR0gm2BfC4Iyks",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103447814"
+    },
+    "geoLocationName": "Rotterdam, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Co-Founder | Job Marketing Specialist bij TopClicks",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFSCOPcwBuauA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1685008020472?e=1707955200&v=beta&t=Tofr3eJHXJUewIUitq_Z4LVqvYfuYZdajEfyUTvbSv0",
+    "img_200_200": "200_200/0/1685008020472?e=1707955200&v=beta&t=kamskxnE16ZmN9kh5Sk7IFykDlVepAEYLz2SchIN6qs",
+    "img_400_400": "400_400/0/1685008020472?e=1707955200&v=beta&t=tH-2jKMhKe0szdniH91yhOk2AAReEhTYA_NCd8HG-tw",
+    "img_800_800": "800_800/0/1685008020472?e=1707955200&v=beta&t=_5VQRrP1R8OGM5qSek8mZBttzbmxIp7Yeo_PHBTJqmE",
+    "profile_id": "ACoAABGwJ8AB4gX3HCpA0EjLToR0gm2BfC4Iyks",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABGwJ8AB4gX3HCpA0EjLToR0gm2BfC4Iyks",
+    "member_urn": "urn:li:member:296757184",
+    "public_id": "siska-tromp-59447283",
+    "experience": [
+        {
+            "locationName": "Rotterdam, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABGwJ8AB4gX3HCpA0EjLToR0gm2BfC4Iyks,1919099966)",
+            "geoLocationName": "Rotterdam, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100467493",
+            "companyName": "TopClicks",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "description": "TopClicks is een Marketing Agency gespecialiseerd in data driven social advertising. \n\nWij maken de vertaalslag van de ondernemingsstrategie naar doelgerichte online campagnes. \n\nGespecialiseerd in:\n- Job Marketing\n- Lead generation",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "Co-Founder | Job Marketing Specialist ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:79103657",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQH5uCMRw46NSg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABGwJ8AB4gX3HCpA0EjLToR0gm2BfC4Iyks,1731198422)",
+            "companyName": "Great Property Experience",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Real Estate"
+                ]
+            },
+            "title": "Accountmanager",
+            "companyUrn": "urn:li:fs_miniCompany:28512291",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEIWeNr4Cmoqg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABGwJ8AB4gX3HCpA0EjLToR0gm2BfC4Iyks,1535908572)",
+            "companyName": "Computer Futures",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Recruitment Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:7214",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGXzDswjXmJ8A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABGwJ8AB4gX3HCpA0EjLToR0gm2BfC4Iyks,1447968748)",
+            "companyName": "Appèl B.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Facilities Services"
+                ]
+            },
+            "title": "Banqueting Manager",
+            "companyUrn": "urn:li:fs_miniCompany:670712",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGt60f5wNmgVA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABGwJ8AB4gX3HCpA0EjLToR0gm2BfC4Iyks,1245902824)",
+            "companyName": "Givents",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "title": "Sales Representative"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABGwJ8AB4gX3HCpA0EjLToR0gm2BfC4Iyks,382904079)",
+            "school": {
+                "objectUrn": "urn:li:school:15427",
+                "entityUrn": "urn:li:fs_miniSchool:15427",
+                "active": true,
+                "schoolName": "Rotterdam University of Applied Sciences",
+                "trackingId": "xpfa8sqzSrmUAR7Cqy2GXg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQG3Kyr4cUYEWQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "schoolName": "Hogeschool Rotterdam",
+            "fieldOfStudy": "Crossmediale Communicatie",
+            "schoolUrn": "urn:li:fs_miniSchool:15427"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABGwJ8AB4gX3HCpA0EjLToR0gm2BfC4Iyks,659048487)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "schoolName": "Albeda College",
+            "fieldOfStudy": "Marketing & Communicatie"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Engels",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Entre Les Ponts",
+            "name": "Authentiek Communiceren "
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

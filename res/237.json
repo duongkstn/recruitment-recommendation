@@ -1,0 +1,539 @@
+{
+    "industryName": "Non-profit Organization Management",
+    "lastName": "Yalcin",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 11,
+        "day": 8
+    },
+    "industryUrn": "urn:li:fs_industry:100",
+    "firstName": "Ege",
+    "entityUrn": "urn:li:fs_profile:ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "IT Recruiter at agap2 Netherlands | MSc Work and Organizational Psychology",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQG3sqX_zY-0iQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1627338387400?e=1707955200&v=beta&t=kCljM73vRkfMftGCZp7CDLBRLev5-CguYas9lRFGh4w",
+    "img_200_200": "200_200/0/1627338387400?e=1707955200&v=beta&t=xM3CytfbwxgltP0ihPW04Uc8lwM61YJc4VJ11aGPMvg",
+    "img_400_400": "400_400/0/1627338387400?e=1707955200&v=beta&t=fILEhAEwyIcEecQshT2YyE8u4rZ8lTje5bA1o0TI0-4",
+    "img_800_800": "800_800/0/1627338387400?e=1707955200&v=beta&t=IQ2Jj1E5sFWn7Na0qDP1uI_F6h7czca4DFpR8sUvafg",
+    "profile_id": "ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk",
+    "member_urn": "urn:li:member:831487116",
+    "public_id": "egeyalcin",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,2049574745)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "agap2 Netherlands",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "description": "As IT Recruiter, my responsibilities include:\n•  Managing the recruitment process for different IT roles (software development, testing, data science/ BI) including creating job posts, screening applications, conducting initial calls and first interviews, and negotiating.\n•  Sourcing passive candidates through various channels.\n•  Working closely with the recruitment team to define priorities and align recruitment strategies on a regular basis.\n• Ensuring a smooth candidate experience, being the first contact for their questions, providing feedback, and communicating with them frequently.\n• Taking part in employer branding activities such as creating and managing content on social media platforms, as well as analyzing audience preferences and trends.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "IT Recruiter",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10520586",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHdN_9p809RHg/company-logo_"
+        },
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,1895086750)",
+            "geoLocationName": "Netherlands",
+            "companyName": "Stedin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "description": "• In a multidisciplinary team, planned strategies to assess the changeability of the organization considering various factors such as cohesion, communication, motivation and stress. • Designed an online tool based on these factors and tested it through interviews with employees at different levels to be presented the Change Office of the organization.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Utilities"
+                ]
+            },
+            "title": "Project Consultant/Change Management",
+            "companyUrn": "urn:li:fs_miniCompany:221784",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGJnk2xKElCSA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,2010926956)",
+            "companyName": "Pagoda",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "description": "•Identified hiring needs and designed job descriptions.\n•Managed candidate sourcing, conducting potential candidates, arranging interviews and conducting first interviews.",
+            "title": "Junior Recruiter"
+        },
+        {
+            "locationName": "Bradford, England, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,1686703793)",
+            "geoLocationName": "Bradford, England, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:105473409",
+            "companyName": "University of Bradford",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "description": "• Conducted a quantitative comparative psychological study in the UK and in Turkey as outlined below:\n \"A Comparative Study on the Relationships between the Attachment Styles, Eating Behaviours and Self-Compassion among Adults Living in the UK and in Turkey\". \n• Recruited 450+ participants from multiple backgrounds. \n• Utilised SPSS and Excel for data analysis.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Graduate Student Researcher",
+            "region": "urn:li:fs_region:(gb,4547)",
+            "companyUrn": "urn:li:fs_miniCompany:17830",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHMZJ5CSdYiSA/company-logo_"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,1643612583)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:102424322",
+            "companyName": "Kadıköy Belediyesi",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "description": "• Attended consultation sessions with families and children.\n• Worked with health and social care professionals and participated weekly meetings to discuss children’s progress.\n• Applied and assessed Strengths and Difficulties Questionnaire.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Government Administration"
+                ]
+            },
+            "title": "Psychology Intern",
+            "region": "urn:li:fs_region:(tr,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2834091",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEqepjXiX8pVw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,731959709)",
+            "school": {
+                "objectUrn": "urn:li:school:15448",
+                "entityUrn": "urn:li:fs_miniSchool:15448",
+                "active": true,
+                "schoolName": "Maastricht University",
+                "trackingId": "tgqZqvaUTQecKlwUXj2Adg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFA1gR1FvG8aQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2022
+                },
+                "startDate": {
+                    "year": 2021
+                }
+            },
+            "description": "Main modules: Human Resources, Work Psychology, Organization and Cognition, Human Performance\nThesis: Turnover Intention During Onboarding: How Do Organizational and Individual Factors Interact among New Hires?",
+            "degreeName": "Master of Science - MSc",
+            "schoolName": "Maastricht University",
+            "fieldOfStudy": "Work and Organizational Psychology",
+            "honors": [
+                "urn:li:fs_honor:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,1772549317)"
+            ],
+            "schoolUrn": "urn:li:fs_miniSchool:15448"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,666224759)",
+            "school": {
+                "objectUrn": "urn:li:school:12687",
+                "entityUrn": "urn:li:fs_miniSchool:12687",
+                "active": true,
+                "schoolName": "University of Bradford",
+                "trackingId": "3sYq5ZJ5QUGSf4AevYeZ3Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHMZJ5CSdYiSA/company-logo_"
+            },
+            "activities": "Psychology Society, The Language Centre (Spanish),Sports Committee",
+            "grade": "Distinction ",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "description": "• Key modules:  Neurocognitive Health, Putting Health into Context, Advanced Psychological Research Methods.\n\n• Dissertation: (Awarded Best MSc Psychology Dissertation Prize) \"A Comparative Study on the Relationships between the Attachment Styles, Eating Behaviours and Self-Compassion among Adults Living in the UK and in Turkey\".",
+            "degreeName": "Master of Science - MSc",
+            "schoolName": "University of Bradford",
+            "fieldOfStudy": "Psychology of Health and Wellbeing",
+            "honors": [
+                "urn:li:fs_honor:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,876243132)",
+                "urn:li:fs_honor:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,1047267723)",
+                "urn:li:fs_honor:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,533358942)"
+            ],
+            "schoolUrn": "urn:li:fs_miniSchool:12687"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,666244544)",
+            "school": {
+                "objectUrn": "urn:li:school:17401",
+                "entityUrn": "urn:li:fs_miniSchool:17401",
+                "active": true,
+                "schoolName": "Yeditepe University",
+                "trackingId": "9gF1RT+uRUyEWhbBvP+LQA==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQGTdQG-pSOSJA/company-logo_"
+            },
+            "grade": "Cum Laude",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "description": "• Relevant modules include Organizational Psychology, Social Psychology, Advanced Statistics, Individual Differences.",
+            "degreeName": "Bachelor of Arts - BA",
+            "schoolName": "Yeditepe University",
+            "fieldOfStudy": "Psychology",
+            "honors": [
+                "urn:li:fs_honor:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,883402621)"
+            ],
+            "degreeUrn": "urn:li:fs_degree:350",
+            "schoolUrn": "urn:li:fs_miniSchool:17401"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Turkish",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Community Volunteer",
+            "companyName": "The Mix Charity",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": "The Mix is a UK based multi-channel advice service that provides free and confidential support for young people.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:10898159",
+                    "entityUrn": "urn:li:fs_miniCompany:10898159",
+                    "name": "The Mix Charity",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641375899531/the_mix_charity_logo?e=1710374400&v=beta&t=5FxYjbkPRDgjOugLtUFvP-zeNLTHoEpcbU7ajNLjYx8",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641375899531/the_mix_charity_logo?e=1710374400&v=beta&t=eH_p5IchJBRh_J3mhsZ1hmkeHY3M-B2QVcPW-PkI1Ys",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641375899531/the_mix_charity_logo?e=1710374400&v=beta&t=V51BqPxwC58qGQVXtMTShANOxMZQg_o3aOWbaDuqIMU",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGxA8F66I63Yg/company-logo_"
+                        }
+                    },
+                    "universalName": "the-mix-charity",
+                    "dashCompanyUrn": "urn:li:fsd_company:10898159",
+                    "trackingId": "mWZ39HjxQNOowRHNMCoRDg=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:10898159"
+        },
+        {
+            "role": "Personal Support Worker",
+            "companyName": "Otistikler Derneği /Autistics Association",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": "The Autistics Association is a community which is based on unconditional acceptance of autistic people.\n \n- Undertook training program concerning autism, its symptoms and possible situations whilst working with autistic adults and solutions to these situations.\n- Engaged in several tasks such as supervising indoor and outdoor activities, writing daily reports and attending daily meetings.\n"
+        },
+        {
+            "role": "Education Volunteer",
+            "companyName": "TEGV - Türkiye Eğitim Gönüllüleri Vakfı",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "cause": "EDUCATION",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:1034643",
+                    "entityUrn": "urn:li:fs_miniCompany:1034643",
+                    "name": "TEGV - Türkiye Eğitim Gönüllüleri Vakfı",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1685685411430/tegv_logo?e=1710374400&v=beta&t=8xbQnxNCPA3mlfRl-Ypx-RXKBrJIF1SQNHEq7lq4IVw",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1685685411430/tegv_logo?e=1710374400&v=beta&t=MOPZr_npNjybZYemjpE3WPT4OVnAFfNvB6i7OE22VuA",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1685685411430/tegv_logo?e=1710374400&v=beta&t=XDHrUzA3hQGg0U3WjCcsndY5RJPrCpIFyhDhUnfPxrk",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQF0up8KxEYXaA/company-logo_"
+                        }
+                    },
+                    "universalName": "tegv",
+                    "dashCompanyUrn": "urn:li:fsd_company:1034643",
+                    "trackingId": "97n8XovcQOysBV8F2ldA4w=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1034643"
+        }
+    ],
+    "honors": [
+        {
+            "occupation": "urn:li:fs_education:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,731959709)",
+            "description": "Academic excellence based fully funded scholarship including tuition fees, living expenses, visa application costs and health&liability insurance.",
+            "title": "UM Holland-High Potential Scholarship",
+            "issueDate": {
+                "year": 2021
+            },
+            "issuer": "Maastricht University & Dutch Ministry of Education, Culture and Science"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,666224759)",
+            "title": "Best Dissertation MSc Psychology Prize",
+            "issueDate": {
+                "month": 12,
+                "year": 2020
+            },
+            "issuer": "University of Bradford Faculty of Management, Law & Social Sciences"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,666224759)",
+            "title": "Distinction ",
+            "issueDate": {
+                "month": 11,
+                "year": 2020
+            },
+            "issuer": "University of Bradford"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,666224759)",
+            "description": "Academic excellence based full tuition fee scholarship",
+            "title": "British Council GREAT Scholarship ",
+            "issueDate": {
+                "year": 2019
+            },
+            "issuer": "British Council"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,666244544)",
+            "title": "Cum Laude",
+            "issueDate": {
+                "month": 6,
+                "year": 2018
+            },
+            "issuer": "Yeditepe University"
+        },
+        {
+            "description": "Granted a half-tuition scholarship for pursuing a Bachelor's degree Psychology at the Yeditepe University.",
+            "title": "50% Scholarship",
+            "issueDate": {
+                "month": 7,
+                "year": 2014
+            },
+            "issuer": "Council of Higher Education in Turkey"
+        }
+    ],
+    "projects": [
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Ege",
+                        "lastName": "Yalcin",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk",
+                        "occupation": "IT Recruiter at agap2 Netherlands | MSc Work and Organizational Psychology",
+                        "objectUrn": "urn:li:member:831487116",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1669724832275?e=1707955200&v=beta&t=qhBtI17Bj62Th-ocEWHB6ZBPnur-LRsciIfG_JClGF8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 199
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1669724832275?e=1707955200&v=beta&t=p7PsFSkYyUnxH9MM4yJHm7n_UQTUyU6KeaU9gdfACao",
+                                        "expiresAt": 1707955200000,
+                                        "height": 349
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQFfVFPJ6Db2AA/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "egeyalcin",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1627338387400?e=1707955200&v=beta&t=kCljM73vRkfMftGCZp7CDLBRLev5-CguYas9lRFGh4w",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1627338387400?e=1707955200&v=beta&t=xM3CytfbwxgltP0ihPW04Uc8lwM61YJc4VJ11aGPMvg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1627338387400?e=1707955200&v=beta&t=fILEhAEwyIcEecQshT2YyE8u4rZ8lTje5bA1o0TI0-4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1627338387400?e=1707955200&v=beta&t=IQ2Jj1E5sFWn7Na0qDP1uI_F6h7czca4DFpR8sUvafg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQG3sqX_zY-0iQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "xNLx+lXLSMW1PblLgjXhZQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk,1200564951,282896480)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAADGPfIwBsxLO-uhtZHRxzg_sl6mJiD9MiDk"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "title": "Master's Dissertation Project"
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "summary": "De afgelopen jaren heb ik mezelf bewezen als iemand die bijdraagt aan groei, complexe zaken niet voor zich uitschuift en zaken gedaan krijgt.\n\nAls Sales manager denk ik elke dag in kansen en schakel ik snel. Met mijn creative mindset probeer ik de klanten altijd te verassen.\n\nFunctie's: Sales manager, Account manager, Project manager, Business Developer.",
+    "industryName": "Human Resources",
+    "lastName": "Geluk",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:137",
+    "firstName": "Josje",
+    "entityUrn": "urn:li:fs_profile:ACoAAA1xRhcB3HgwIaUDMUSDL5VFCfo9zaa7pyo",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104358263"
+    },
+    "geoLocationName": "Bergen, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Interim Consultant bij Vanilia",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQHBeOxRBnaDOg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1601274179683?e=1707955200&v=beta&t=iHhlQsbAprXG0Qxv2ENtHJdcgNTpwUd6dxRzD5yt0Ec",
+    "img_200_200": "200_200/0/1601274179683?e=1707955200&v=beta&t=XbiPmqli4yM-RgioMx9KQrAY4QSdN-iNAv6TcWnMzio",
+    "img_400_400": "400_400/0/1601274179683?e=1707955200&v=beta&t=A65ZD0Iy50KUXinlSUJbRRTcHU8XTPBz_c1CPZ3-bcc",
+    "img_800_800": "800_800/0/1601274179683?e=1707955200&v=beta&t=FaczPm0ePPQrvgz1cH6iQWVG0Km0g-BEEHatCE163hE",
+    "profile_id": "ACoAAA1xRhcB3HgwIaUDMUSDL5VFCfo9zaa7pyo",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAA1xRhcB3HgwIaUDMUSDL5VFCfo9zaa7pyo",
+    "member_urn": "urn:li:member:225527319",
+    "public_id": "josjegeluk",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAA1xRhcB3HgwIaUDMUSDL5VFCfo9zaa7pyo,2296606436)",
+            "companyName": "ZorgVink",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Interim Sales Manager",
+            "companyUrn": "urn:li:fs_miniCompany:79870901",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFeLEWieg4bjg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAA1xRhcB3HgwIaUDMUSDL5VFCfo9zaa7pyo,2276360084)",
+            "companyName": "Sparkling People",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Interim Sales Manager",
+            "companyUrn": "urn:li:fs_miniCompany:17921676",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEkcpyingYKVg/company-logo_"
+        },
+        {
+            "locationName": "Alkmaar, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAA1xRhcB3HgwIaUDMUSDL5VFCfo9zaa7pyo,2155697723)",
+            "geoLocationName": "Alkmaar, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100674464",
+            "companyName": "Regiodienst",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Vestigingsmanager ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:727706",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGv8SXRssCtOA/company-logo_"
+        },
+        {
+            "locationName": "Wormerveer, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAA1xRhcB3HgwIaUDMUSDL5VFCfo9zaa7pyo,2059691587)",
+            "geoLocationName": "Wormerveer, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102261652",
+            "companyName": "Vanilia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Apparel & Fashion"
+                ]
+            },
+            "title": "Interim Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2181901",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFwnt77WLPhbA/company-logo_"
+        },
+        {
+            "locationName": "Haarlem, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAA1xRhcB3HgwIaUDMUSDL5VFCfo9zaa7pyo,1691211449)",
+            "geoLocationName": "Haarlem, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100414282",
+            "companyName": "Sparkling People",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "description": "Als head of sales ben ik verantwoordelijk voor het binnen halen van prospects die opzoek zijn naar young professionals op het gebied van Sales, Marketing of kantoorfuncties. \nDaarnaast ben ik samen met ons team strategisch verantwoordelijk voor onze landelijke klanten. Klanten waar wij op dit moment mee samenwerken zijn onder andere: Simon Levelt, Betty blocks, HCCC en Hilti.\n\nBij Sparkling People gaat onze avontuurlijke instelling samen met de drang naar kwaliteit en een enorme ambitie. De cultuur die wij neer hebben gezet, kenmerkt ons als vriendenbedrijf- we hebben vrolijke, energieke talenten in dienst en we durven met recht te beweren dat iedereen bij ons werkt met een glimlach.\n\nBen jij ook opzoek naar mensen met een glimlach? Daar helpen wij jou graag bij!\nIk ben te bereiken op:\n0628283657\nJosje@sparklingpeople.nl",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Interim Sales Manager",
+            "region": "urn:li:fs_region:(nl,5675)",
+            "companyUrn": "urn:li:fs_miniCompany:17921676",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEkcpyingYKVg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA1xRhcB3HgwIaUDMUSDL5VFCfo9zaa7pyo,140582613)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Hogere hotelschool in Leeuwarden",
+            "fieldOfStudy": "Hotel- en hospitality management"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA1xRhcB3HgwIaUDMUSDL5VFCfo9zaa7pyo,164958214)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "description": "For the Degree Bachelor hotel school, I studied three months in Indonesia. There I followed the minor event.",
+            "degreeName": "Minor event",
+            "schoolName": "University Bali",
+            "fieldOfStudy": "Hospitality"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA1xRhcB3HgwIaUDMUSDL5VFCfo9zaa7pyo,164958381)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "MBO. Horeca Manager Ondernemer Fast Track",
+            "schoolName": "Vakschool Wageningen, locatie Arnhem",
+            "fieldOfStudy": "Hospitality"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Engels",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,402 @@
+{
+    "industryName": "Information Technology & Services",
+    "lastName": "Rocha",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 1,
+        "day": 1
+    },
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Vinicius",
+    "entityUrn": "urn:li:fs_profile:ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "SAP GRC, Security and Risk Architect",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQECKWeKw2haSw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1517395043580?e=1707955200&v=beta&t=ySsVpvSc2w41KDqXQ-_bwVbtV80HP7s0uQZGz2lvTH4",
+    "img_200_200": "200_200/0/1517395043597?e=1707955200&v=beta&t=EufB3m6XB8xzZ3ZxecCmxTWeb20ikQipurkHw8Kai48",
+    "img_337_337": "800_800/0/1517395043345?e=1707955200&v=beta&t=ZgBi356MbL9xD9EMU2HCbwiw79Qjrg4voCKoAEv1prk",
+    "profile_id": "ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4",
+    "member_urn": "urn:li:member:239992377",
+    "public_id": "viniciusfrocha",
+    "experience": [
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4,2029979463)",
+            "geoLocationName": "Netherlands",
+            "companyName": "TrustSis Consulting - Netherlands",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "SAP GRC, Security and Risk Architect",
+            "companyUrn": "urn:li:fs_miniCompany:83052024",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEkqgqL4usT1Q/company-logo_"
+        },
+        {
+            "locationName": "São Paulo, Brasil",
+            "entityUrn": "urn:li:fs_position:(ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4,1762299596)",
+            "geoLocationName": "São Paulo, Brasil",
+            "companyName": "TrustSis Consultoria",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "description": "Responsible for managing a team of 30 people including architects and consultants.\nResponsible for ensuring the quality and delivery of projects.\nResponsible for defining the allocations of consultants and architects.\nSupport in project management with project managers and PMO to ensure compliance with the deadline, cost and quality.\nSupport in the creation and presentation of commercial proposals.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Operation Manager",
+            "companyUrn": "urn:li:fs_miniCompany:953097",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGk2mW1V_JX5Q/company-logo_"
+        },
+        {
+            "locationName": "São Paulo e Região, Brasil",
+            "entityUrn": "urn:li:fs_position:(ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4,1526689091)",
+            "geoLocationName": "São Paulo e Região, Brasil",
+            "companyName": "TrustSis Consultoria",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "description": "Technical responsible for the projects.\nEnsuring quality and delivery time.\nResponsible for defining consultant allocations.\nSupport in project management with project managers to ensure compliance with deadlines, cost and quality.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "SAP Security and GRC Architect",
+            "companyUrn": "urn:li:fs_miniCompany:953097",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGk2mW1V_JX5Q/company-logo_"
+        },
+        {
+            "locationName": "São Paulo, São Paulo",
+            "entityUrn": "urn:li:fs_position:(ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4,1263926050)",
+            "geoLocationName": "São Paulo, São Paulo",
+            "companyName": "Trustsis Consultoria",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "description": "Responsible for SAP Security team.\nEnsuring that all projects and are delivered with quality and on time.\nOrganize the allocations of consultants\nUnderstand customer needs and develop processes to meet their needs.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "SAP Security Lead",
+            "companyUrn": "urn:li:fs_miniCompany:953097",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGk2mW1V_JX5Q/company-logo_"
+        },
+        {
+            "locationName": "São José dos Campos e Região, Brasil",
+            "entityUrn": "urn:li:fs_position:(ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4,889999735)",
+            "geoLocationName": "São José dos Campos e Região, Brasil",
+            "companyName": "Embraer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2016
+                }
+            },
+            "description": "Part of the Information Security team.\nResponsible for the security of SAP systems.\nSAP Security AMS vendor management.\nSupport for SOx controls.\nResponsible for the NextLabs system.\nImpact assessment of SAP projects in relation to systems security",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Aviation & Aerospace"
+                ]
+            },
+            "title": "IT Analyst - Information Security",
+            "companyUrn": "urn:li:fs_miniCompany:4211",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQFxHGWL83TwOQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4,153837031)",
+            "school": {
+                "objectUrn": "urn:li:school:19924",
+                "entityUrn": "urn:li:fs_miniSchool:19924",
+                "active": true,
+                "schoolName": "FGV - Fundação Getulio Vargas",
+                "trackingId": "yJVzwrPTR5O6OD7yDgGEiw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFtDwxOTmj18Q/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "schoolName": "FGV",
+            "fieldOfStudy": "Effective Leadership",
+            "schoolUrn": "urn:li:fs_miniSchool:19924"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4,298221015)",
+            "school": {
+                "objectUrn": "urn:li:school:360026",
+                "entityUrn": "urn:li:fs_miniSchool:360026",
+                "active": true,
+                "schoolName": "UNIBTA - Centro Universitário",
+                "trackingId": "Gdt+iKGSQU6rVSulrHBEkQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQHMHf8YbzOCHw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "degreeName": "Postgraduate Degree",
+            "schoolName": "IBTA",
+            "fieldOfStudy": "Information Security",
+            "degreeUrn": "urn:li:fs_degree:645",
+            "schoolUrn": "urn:li:fs_miniSchool:360026"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4,153833065)",
+            "school": {
+                "objectUrn": "urn:li:school:360026",
+                "entityUrn": "urn:li:fs_miniSchool:360026",
+                "active": true,
+                "schoolName": "UNIBTA - Centro Universitário",
+                "trackingId": "0lEZrgSURumlYy3qYpy7uA==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQHMHf8YbzOCHw/company-logo_"
+            },
+            "grade": "Network Administration",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Instituto Brasileiro de Tecnologia Avançada - IBTA",
+            "fieldOfStudy": "Information Technology",
+            "schoolUrn": "urn:li:fs_miniSchool:360026"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Portuguese",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "EXIN",
+            "name": "ITIL V2",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2010
+                }
+            }
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4,383536180)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Vinicius",
+                        "lastName": "Rocha",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4",
+                        "occupation": "SAP GRC, Security and Risk Architect",
+                        "objectUrn": "urn:li:member:239992377",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4",
+                        "publicIdentifier": "viniciusfrocha",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517395043580?e=1707955200&v=beta&t=ySsVpvSc2w41KDqXQ-_bwVbtV80HP7s0uQZGz2lvTH4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517395043597?e=1707955200&v=beta&t=EufB3m6XB8xzZ3ZxecCmxTWeb20ikQipurkHw8Kai48",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 337,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517395043828?e=1707955200&v=beta&t=McqkgXkRCRS1kWPxzNeb_PtgTjzpDkG1JDEOL-EKk-Q",
+                                        "expiresAt": 1707955200000,
+                                        "height": 337
+                                    },
+                                    {
+                                        "width": 337,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517395043345?e=1707955200&v=beta&t=ZgBi356MbL9xD9EMU2HCbwiw79Qjrg4voCKoAEv1prk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 337
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQECKWeKw2haSw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "TK3BiT7AQXu3R+HkLThTOg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4,27,28)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2011
+                }
+            },
+            "description": "Techinical Leader of SAP Security team\nUpgrade for SAP ECC and BW",
+            "title": "SAP Upgrade"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4,383536180)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Vinicius",
+                        "lastName": "Rocha",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4",
+                        "occupation": "SAP GRC, Security and Risk Architect",
+                        "objectUrn": "urn:li:member:239992377",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4",
+                        "publicIdentifier": "viniciusfrocha",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517395043580?e=1707955200&v=beta&t=ySsVpvSc2w41KDqXQ-_bwVbtV80HP7s0uQZGz2lvTH4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517395043597?e=1707955200&v=beta&t=EufB3m6XB8xzZ3ZxecCmxTWeb20ikQipurkHw8Kai48",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 337,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517395043828?e=1707955200&v=beta&t=McqkgXkRCRS1kWPxzNeb_PtgTjzpDkG1JDEOL-EKk-Q",
+                                        "expiresAt": 1707955200000,
+                                        "height": 337
+                                    },
+                                    {
+                                        "width": 337,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517395043345?e=1707955200&v=beta&t=ZgBi356MbL9xD9EMU2HCbwiw79Qjrg4voCKoAEv1prk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 337
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQECKWeKw2haSw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "TK3BiT7AQXu3R+HkLThTOg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4,25,26)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAA5N_jkBQf2GuHssg6V2pdsM2AVyt8ma4G4"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2011
+                }
+            },
+            "description": "SAP Authorization Profile Review.\nProfile architecture definition.\nSupport Key Users with role map.\nCreate and maintain roles.\nLocal and remote support for users from Latin America",
+            "title": "SAP Profile Review"
+        }
+    ]
+}

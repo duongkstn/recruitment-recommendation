@@ -1,0 +1,149 @@
+{
+    "summary": "🌟 Passionate QA Engineer | Securities Domain Expert | Automation Enthusiast 🌟\n\nHello, and welcome to my LinkedIn profile!\n\nI'm a dedicated and results-driven QA Engineer with a strong background in the Securities domain. With a knack for ensuring software quality and a penchant for problem-solving, I thrive in the dynamic world of software testing.\n\n🔹 Expertise: My journey has equipped me with a deep understanding of QA processes and tools, including HP Quality Center, Team Foundation Server (Visual Studio-TFS), JIRA, and Mainframe technologies. I excel in automating web applications using Selenium WebDriver with Java, enhancing efficiency and accuracy in testing.\n\n🔹 Agile Advocate: I'm well-versed in Agile methodologies, actively participating in Scrum, Sprint Planning, Backlog grooming, and retrospectives. I've successfully implemented Agile-Behavior Driven Development (BDD) models to drive quality in software development.\n\n🔹 Skills at a Glance: From designing and executing test cases to bug reporting and web service testing, I bring a comprehensive skill set to the table. I'm proficient in Element Locators, WebDriver methods, Object-Oriented Programming (OOP) concepts, and Java programming. Additionally, I've designed and executed automation scripts using the Ruby-Cucumber framework.\n\n🔹 Process Savvy: My experience extends to both SDLC and STLC, encompassing Agile and Waterfall models. I've effectively managed QA artifacts, including Test Approach, Test Strategy, Test Plan, Execution, Bug Reports, and Test Case design.\n\n🔹 Versatile Team Player: I'm not just an individual contributor; I'm also a versatile team player with robust communication skills. I've successfully handled various QA responsibilities while collaborating seamlessly within cross-functional teams.\n\n🔹 Continuous Improvement: I thrive on learning and innovation, and I've had the privilege of working on implementing CI/CD pipelines for projects, contributing to increased efficiency and reliability.\n\nIf you're seeking a QA professional who is passionate about ensuring software quality, embraces automation, and is well-versed in the intricacies of the Securities domain, let's connect! I'm excited to explore new opportunities, share insights, and contribute to cutting-edge projects.\n\nLet's connect and engage in meaningful conversations about the exciting world of QA and technology! 🚀\n\n#QAEngineer #AutomationTesting #Securities #Agile #QualityAssurance #LinkedIn",
+    "industryName": "Information Technology & Services",
+    "lastName": "Hegde",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Meghana",
+    "entityUrn": "urn:li:fs_profile:ACoAAAswKagBkmzfBpl8Hs5PJ_3Nkn0vOSGUNm4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102434816"
+    },
+    "geoLocationName": "Utrecht, Utrecht",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "8+ Years Experience | Web Application Testing| Automation Testing|Mobile web Testing| JIRA | Web Service Testing |HPQC |Visual Studio-TFS |Ruby-cucumber |Element Locators |Selenium web-driver | JAVA | SoapUI |",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQH36Rxf_r__tA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1518635455701?e=1707955200&v=beta&t=Sxcre6y4-Xjuu-8VLGbOCgTU_CqQwFGLAyXoZNcfQ5A",
+    "img_200_200": "200_200/0/1518635455595?e=1707955200&v=beta&t=I_7eo1nEjfobrfB5iQW79hjaWNX67bUy5053AH1ttw8",
+    "img_400_400": "400_400/0/1518635455625?e=1707955200&v=beta&t=y0Ij70tAKzWrWuuWFrpzc_mePAAyAHMbDxptfBWeM7Y",
+    "img_500_500": "800_800/0/1518635455746?e=1707955200&v=beta&t=Daf4Tbz2FBdTuYQ1jJ9KuyLsP9Ia5ItWyHll76Q_2FI",
+    "profile_id": "ACoAAAswKagBkmzfBpl8Hs5PJ_3Nkn0vOSGUNm4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAswKagBkmzfBpl8Hs5PJ_3Nkn0vOSGUNm4",
+    "member_urn": "urn:li:member:187705768",
+    "public_id": "meghana-hegde-034a4252",
+    "experience": [
+        {
+            "locationName": "Haarlem, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAswKagBkmzfBpl8Hs5PJ_3Nkn0vOSGUNm4,2288341695)",
+            "geoLocationName": "Haarlem, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100414282",
+            "companyName": "KYOS Energy Consulting B.V.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Oil & Energy"
+                ]
+            },
+            "title": "QA Analyst",
+            "region": "urn:li:fs_region:(nl,5675)",
+            "companyUrn": "urn:li:fs_miniCompany:1176412",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQF56vmpekqFmg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAswKagBkmzfBpl8Hs5PJ_3Nkn0vOSGUNm4,2099078646)",
+            "companyName": "SUCCESSGURU",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "description": "Web & Mobile App Testing: Spearheaded end-to-end testing initiatives for diverse web and mobile applications, identifying and rectifying critical defects to enhance user experience.\n\nAutomation Testing: Developed and implemented robust automation test frameworks using Selenium WebDriver and Ruby-Cucumber, streamlining testing processes and reducing manual effort by [mention a percentage, e.g., 50%].\n\nTools Mastery: Proficiently utilized JIRA for test case management, defect tracking, and project management, enhancing team collaboration and project efficiency. Leveraged HPQC and Visual Studio-TFS for comprehensive quality control.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Automation Test Lead",
+            "companyUrn": "urn:li:fs_miniCompany:78405323",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGP-N5uT6Ydew/company-logo_"
+        },
+        {
+            "locationName": "Bengaluru Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAAswKagBkmzfBpl8Hs5PJ_3Nkn0vOSGUNm4,1218456005)",
+            "geoLocationName": "Bengaluru Area, India",
+            "companyName": "Wipro Technologies",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2012
+                }
+            },
+            "description": "Selenium Automation: Leveraged Selenium WebDriver to establish automated test frameworks, significantly reducing manual testing effort by [mention a percentage, e.g., 50%], resulting in faster time-to-market.\n\nAgile Project Management: Led Agile testing teams, aligning testing efforts with development sprints, enhancing collaboration, and enabling rapid, high-quality releases.\n\nJava & OOP: Utilized Java and Object-Oriented Programming principles to develop and maintain robust test scripts, improving test case efficiency and code maintainability.\n\nRuby on Rails & Ruby: Collaborated with Ruby on Rails developers to streamline integration testing, ensuring seamless web application functionality. Proficient in Ruby for test script development.\n\nQuality Management: Implemented and refined quality management processes, ensuring adherence to industry best practices and delivering top-notch software products.\n\nAgile & Waterfall Methodologies: Adapted testing methodologies to suit project needs, seamlessly transitioning between Agile and Waterfall approaches, ensuring flexibility and efficiency.\n\nGraphical User Interface (GUI): Conducted thorough GUI testing to verify user interface design and functionality, enhancing user experience and overall product quality.\n\nTest Scenarios & Cucumber: Created comprehensive test scenarios and utilized Cucumber to define and automate behavior-driven tests, improving test case clarity and collaboration among cross-functional teams.\n\nAPI Testing & SoapUI: Proficiently conducted API testing using SoapUI, ensuring seamless communication between software components and third-party APIs.\n\nJira & Visual Studio: Expertly utilized Jira for test case management and Visual Studio for integrated development and testing, facilitating seamless collaboration and efficient project tracking.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior Project Engineer",
+            "companyUrn": "urn:li:fs_miniCompany:1318",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEkfMUEE4caDQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAswKagBkmzfBpl8Hs5PJ_3Nkn0vOSGUNm4,501362243)",
+            "school": {
+                "objectUrn": "urn:li:school:13440",
+                "entityUrn": "urn:li:fs_miniSchool:13440",
+                "active": true,
+                "schoolName": "Birla Institute of Technology and Science, Pilani",
+                "trackingId": "778jAvsuQWiG9Dc7MjfLLw==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQHJcHjUCqWVbA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+            "degreeName": "Master of Technology - MTech",
+            "schoolName": "Birla Institute of Technology and Science, Pilani",
+            "fieldOfStudy": "Computer Science",
+            "degreeUrn": "urn:li:fs_degree:584",
+            "schoolUrn": "urn:li:fs_miniSchool:13440"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,205 @@
+{
+    "summary": "HR Executive with 20 years of international experience in HR Business Partnering, Resourcing, Employee Relations, Development, Restructuring and Compensation & Benefits. Can operate both strategically and operationally with the ability to shape the HR agenda to support the business objectives. Recognized for strong analytical capabilities, authenticity and the focus on business relevant delivery. Proven track record in building and leading successful cross-cultural teams. Ability to influence and engage at all levels in the organization.",
+    "industryName": "Building Materials",
+    "lastName": "Jacob",
+    "locationName": "United Kingdom",
+    "student": false,
+    "geoCountryName": "United Kingdom",
+    "geoCountryUrn": "urn:li:fs_geo:101165590",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Alexander",
+    "entityUrn": "urn:li:fs_profile:ACoAAAD_4xUBaTFUwt9Apid4HDm5mDNj8-3zT-I",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009496"
+    },
+    "geoLocationName": "London Area, United Kingdom",
+    "location": {
+        "basicLocation": {
+            "countryCode": "gb"
+        }
+    },
+    "headline": "Pragmatic professional: directing all facets of HR, including talent acquisition, onboarding, and employee retention.",
+    "profile_id": "ACoAAAD_4xUBaTFUwt9Apid4HDm5mDNj8-3zT-I",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAD_4xUBaTFUwt9Apid4HDm5mDNj8-3zT-I",
+    "member_urn": "urn:li:member:16769813",
+    "public_id": "alexanderjacob",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAD_4xUBaTFUwt9Apid4HDm5mDNj8-3zT-I,1433611430)",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Senior Vice President Human Resources Europe Materials",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAD_4xUBaTFUwt9Apid4HDm5mDNj8-3zT-I,2120385707)",
+            "companyName": "Fels-Werke GmbH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Mining & Metals"
+                ]
+            },
+            "title": "Member of The Supervisory Board",
+            "companyUrn": "urn:li:fs_miniCompany:19395865",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEmDBlb_cgVdw/company-logo_"
+        },
+        {
+            "locationName": "London, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAAD_4xUBaTFUwt9Apid4HDm5mDNj8-3zT-I,605527309)",
+            "geoLocationName": "London, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:104588953",
+            "companyName": "FOCUS",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2014
+                }
+            },
+            "description": "Non Executive on the FOCUS Board providing Governance, Strategy and Oversight FOCUS team.\n\n\nFOCUS is a membership community for expats by expats. Offering a network away from home for international assignees and their families, members have access to personalised information, advice and resources about living and working in the UK.\nOur personal approach to responding to a variety of queries asked by international assignees alleviates the burden posed on HR/Global Mobility teams and relocation companies by providing the following:\n• Unlimited Employee and spousal support (via email, phone and face-to-face)\n• Information and advice on living and working in Greater London\n• Enjoyable and informative events and seminars",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Member of the Board",
+            "region": "urn:li:fs_region:(gb,4573)",
+            "companyUrn": "urn:li:fs_miniCompany:134315",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQHHXFCeIaJmlg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAD_4xUBaTFUwt9Apid4HDm5mDNj8-3zT-I,687888828)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:101725985",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Director Human Resources and Talent Development Europe",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "London, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAAD_4xUBaTFUwt9Apid4HDm5mDNj8-3zT-I,223247069)",
+            "geoLocationName": "London, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:104588953",
+            "companyName": "British American Tobacco",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Tobacco"
+                ]
+            },
+            "title": "Head of HR Global Operations (VP HR Supply Chain & R&D)",
+            "region": "urn:li:fs_region:(gb,4573)",
+            "companyUrn": "urn:li:fs_miniCompany:2291",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGfFTjiL5Yp-Q/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAD_4xUBaTFUwt9Apid4HDm5mDNj8-3zT-I,13204160)",
+            "school": {
+                "objectUrn": "urn:li:school:11965",
+                "entityUrn": "urn:li:fs_miniSchool:11965",
+                "active": true,
+                "schoolName": "University of Hamburg",
+                "trackingId": "GxDETisuTbqv3+zTezbolw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFpYMkGxdeA1w/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            },
+            "degreeName": "Psychology",
+            "schoolName": "Universität Hamburg",
+            "fieldOfStudy": "Dipl. Psychologe",
+            "schoolUrn": "urn:li:fs_miniSchool:11965"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,308 @@
+{
+    "summary": "Showcases track record in optimizing procurement processes and empowering teams with a dedication to driving success for global organizations across diverse industries.  Stringently focuses on stakeholder engagement, strategic sourcing and cost-effective solutions, consistently delivering substantial value and cost efficiencies while reducing expenses and supply related disruptions.  I am recognized for my collaborative leadership skills, with a solid reputation for developing and executing robust procurement and sourcing strategies that align with organizational goals, resulting in significant savings and strengthened stakeholder relationships.  \nMy expertise extends to building high performing teams, developing roadmaps, and achieving cost reductions across diverse purchasing categories.  Additionally, I bring experience in low-cost county (LLC) sourcing and enhancing of supplier conformity.  With a global perspective, I have had the privilege of working for esteemed organizations across different countries, refining my skills in managing sourcing projects, procurement initiatives, and leading contract negotiations across multiple cultures.  My commitment to excellence has consistently elevated global procurement functions, where I strive to unlock the full potential of their procurement and sourcing activities.",
+    "industryName": "Apparel & Fashion",
+    "lastName": "L.",
+    "locationName": "United Arab Emirates",
+    "student": false,
+    "geoCountryName": "United Arab Emirates",
+    "geoCountryUrn": "urn:li:fs_geo:104305776",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 5,
+        "day": 23
+    },
+    "industryUrn": "urn:li:fs_industry:19",
+    "firstName": "Adam",
+    "entityUrn": "urn:li:fs_profile:ACoAABAngBMBQoP9IricN5fI6t5BYSTL5I0b9Qw",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:106204383"
+    },
+    "geoLocationName": "Dubai",
+    "location": {
+        "basicLocation": {
+            "countryCode": "ae"
+        }
+    },
+    "headline": "MCIPS | EMEA Procurement Manager @ Nike | 3PL Global Procurement| Winning Strategies | Cost Efficiencies | Strategic Sourcing Expert",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQG1ZoIi3cyghA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1568067094364?e=1707955200&v=beta&t=9R2Ckd33uOJfcbCgK6Jf9KQBTt2XA05tcm8DRzXYR7U",
+    "img_200_200": "200_200/0/1568067094342?e=1707955200&v=beta&t=qBfejk9CK2ieE3PsDZtS3BVbSSr3VWIa_aiYIAsatKs",
+    "img_400_400": "400_400/0/1568067094413?e=1707955200&v=beta&t=JZC-3PIBkvQmBSmSWSfWEShylhBmXgCBbomLlyllwPM",
+    "img_500_500": "800_800/0/1568067094442?e=1707955200&v=beta&t=ZwIrpkxbtrUr7iRz9e-CgK6bMDhZjS-r95zySSHuss8",
+    "profile_id": "ACoAABAngBMBQoP9IricN5fI6t5BYSTL5I0b9Qw",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABAngBMBQoP9IricN5fI6t5BYSTL5I0b9Qw",
+    "member_urn": "urn:li:member:271024147",
+    "public_id": "adamlou",
+    "experience": [
+        {
+            "locationName": "Belgium",
+            "entityUrn": "urn:li:fs_position:(ACoAABAngBMBQoP9IricN5fI6t5BYSTL5I0b9Qw,2095071188)",
+            "geoLocationName": "Belgium",
+            "companyName": "Nike",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "description": "Accomplished substantial savings and cost reductions and improved efficiency, designing comprehensive strategies and operation model. \nCategories : Fulfillment 3PL through EMEA - Distribution centers expenses (Facility Management, Energy, Packaging...)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "EMEA Procurement Category Lead 3PL / DC operations",
+            "companyUrn": "urn:li:fs_miniCompany:2029",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFckBxRnPg53Q/company-logo_"
+        },
+        {
+            "locationName": "Casablanca",
+            "entityUrn": "urn:li:fs_position:(ACoAABAngBMBQoP9IricN5fI6t5BYSTL5I0b9Qw,1854051170)",
+            "geoLocationName": "Casablanca",
+            "companyName": "Carrefour",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "description": "Consumer Goods Purchasing Director in charge of Food, Liquid / Alcohol, Deterrence & Beauty \nDirect line 4 Purchasing Managers covering 20 buyers\n✓ Oversee the performance of the categories: Sourcing, Buying, Selling, Margin\n✓ Build up the strategies with purchasing and category managers to deliver better Promotions & Selling\n✓ Animate the contract negotiation– Preparation with the buyers, challenge and coach the team to increase suppliers’ overall performances\n✓ Manage the transverse projects cross teams and BU’s related to purchasing and supply ✓ Communicate with the shops directors to align the category strategy",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Director of Procurement- Consumer Goods",
+            "companyUrn": "urn:li:fs_miniCompany:3046",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGeR7V4H_Kzgg/company-logo_"
+        },
+        {
+            "locationName": "Casablanca",
+            "entityUrn": "urn:li:fs_position:(ACoAABAngBMBQoP9IricN5fI6t5BYSTL5I0b9Qw,1673207651)",
+            "geoLocationName": "Casablanca",
+            "geoUrn": "urn:li:fs_geo:90010262",
+            "companyName": "Carrefour",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "description": "Suez is WW's leader in providing water and waste management solutions. \nAdvanced procurement efficiency and project management and implemented a purchasing transformation plan, increasing contract coverage, realizing savings, and reducing supply-related disruptions. \nCategories : Capex equipment and trucks; Fuel and equipment maintenance, Logistics",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Procurement Director",
+            "region": "urn:li:fs_region:(ma,9619)",
+            "companyUrn": "urn:li:fs_miniCompany:3046",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGeR7V4H_Kzgg/company-logo_"
+        },
+        {
+            "locationName": "Casablanca, Casablanca-Settat, Maroc",
+            "entityUrn": "urn:li:fs_position:(ACoAABAngBMBQoP9IricN5fI6t5BYSTL5I0b9Qw,1826972995)",
+            "geoLocationName": "Casablanca, Casablanca-Settat, Maroc",
+            "geoUrn": "urn:li:fs_geo:102727945",
+            "companyName": "Suez ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "description": "Suez is WW's leader in providing water and waste management solutions. \nAdvanced procurement efficiency and project management and implemented a purchasing transformation plan, increasing contract coverage, realizing savings, and reducing supply-related disruptions.\nSuez is WW's leader in providing water and waste management solutions. \nAdvanced procurement efficiency and project management and implemented a purchasing transformation plan, increasing contract coverage, realizing savings, and reducing supply-related disruptions. \nCategories : Capex equipment and trucks; Fuel and equipment maintenance, Logistics",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Environmental Services"
+                ]
+            },
+            "title": "Corporate Purchasing Manager",
+            "region": "urn:li:fs_region:(ma,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1711137",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGvuEpZCYmvnA/company-logo_"
+        },
+        {
+            "locationName": "Francfort ",
+            "entityUrn": "urn:li:fs_position:(ACoAABAngBMBQoP9IricN5fI6t5BYSTL5I0b9Qw,1022149126)",
+            "geoLocationName": "Francfort ",
+            "geoUrn": "urn:li:fs_geo:90009714",
+            "companyName": "Coty",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2016
+                }
+            },
+            "description": "Initiate change management within the organization after the resale of P&G beauty subsidiaries to Coty (On scope : Wella Headquarter - Four plants in Germany ) \nProcurement projet buyer CAPEX /MRO : Implement the investment strategy (Capex / Opex)\n- Consolidation and construction of the annual purchasing plan \n- identify aggregation and synergy opportunities through Europe\n - Develop and deploy a strategic sourcing process to achieve the saving results ( supplier market analysis, Value analysis, Cost Optimization, lead time reduction) Category lead FM : Define and deploy the purchasing strategy for Facility management ( Utilities, Soft-Hard services) \n- Identification of spend mapping and market analysis for Europe ( Building renovation, Cleaning, Catering…) - Building the category strategy, convince and steering tendering initiatives ( best operating model, KPIs, SLA’s)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Cosmetics"
+                ]
+            },
+            "title": "Industrial buyer DACH - CAPEX, MRO,FM,ENERGY",
+            "region": "urn:li:fs_region:(de,4966)",
+            "companyUrn": "urn:li:fs_miniCompany:5058",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHzmvWtJ7hCew/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABAngBMBQoP9IricN5fI6t5BYSTL5I0b9Qw,168664841)",
+            "school": {
+                "objectUrn": "urn:li:school:453153",
+                "entityUrn": "urn:li:fs_miniSchool:453153",
+                "active": true,
+                "schoolName": "emlyon business school",
+                "trackingId": "yanxQIP2QI+lqotGD7leeA==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQFYY9E8jYRA2g/company-logo_"
+            },
+            "activities": "•\tRéalisation d’un outil de diagnostic de la maturité « Achats » du Groupe SEB  ==> Questionnaire groupe avec classement des entités internationale. Axes de développement sur court/Moyen termes \n\n•\tBenchmark des pratiques Achats en Market-Intelligence pour  Solvay Group ==> Analyse interne du recourt et de l'achat de Marker Intelligence. Benchmark des structures et process achats d'autres grand groupe du CAC 40.",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Mastère Spécialisé",
+            "schoolName": "Ecole de Management de Lyon / EM Lyon",
+            "fieldOfStudy": "Acheteur Manager International",
+            "schoolUrn": "urn:li:fs_miniSchool:453153"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABAngBMBQoP9IricN5fI6t5BYSTL5I0b9Qw,331273807)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "description": "Formation CDAF aux Achats Projets et négociations complexes",
+            "degreeName": "Acheteur Projet",
+            "schoolName": "CDAF - Formation Professionnelle",
+            "fieldOfStudy": "Achats, approvisionnement / acquisitions et gestion des contrats"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABAngBMBQoP9IricN5fI6t5BYSTL5I0b9Qw,168666353)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "degreeName": "Master 2",
+            "schoolName": "IUP Clermont-Ferrand",
+            "fieldOfStudy": "Commerce international"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Anglais",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Arabe",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Français",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Collecte de biens de consommations pour Les restaurants du coeur",
+            "companyName": "Clermont-ferrand",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:0",
+                    "entityUrn": "urn:li:fs_miniCompany:0",
+                    "name": "United Latino Students Association",
+                    "showcase": false,
+                    "active": false,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630622575809?e=1710374400&v=beta&t=Psg07kycYPmEiMfzBTacBRZ7HvZfh9DkUoMlxJcWu_U",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630622575809?e=1710374400&v=beta&t=aVltz89e-ptl3WNAfWk_9YM9b_F9zcpOSXvXgQ4rQy0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630622575809?e=1710374400&v=beta&t=8H8GY4k5gvGgdOVarWYLHmDnSImKhtP8Wvf98mUiq34",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C560BAQHGhly_87bnSw/company-logo_"
+                        }
+                    },
+                    "universalName": "united-latino-students-association",
+                    "dashCompanyUrn": "urn:li:fsd_company:0",
+                    "trackingId": "rTMNvDGQQi+KlzQKNn+xOQ=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:0"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

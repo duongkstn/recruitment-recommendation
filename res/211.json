@@ -1,0 +1,390 @@
+{
+    "summary": "As a UX/ Service Designer, I firmly believe in the power of research in design, and my ultimate aim is to listen to users, discover their needs, define the right problems, and use the insights to find solutions and designs that can meet both the needs of the users and the business.\nAfter completing my postgraduate study of service design (with the greatest distinction level) and 4.5 years of practical experience in user research, content (strategy) making and UX design, I am open to new opportunities in the field.",
+    "industryName": "Information Technology & Services",
+    "lastName": "Lakishiraz",
+    "locationName": "Belgium",
+    "student": false,
+    "geoCountryName": "Belgium",
+    "geoCountryUrn": "urn:li:fs_geo:100565514",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 7,
+        "day": 17
+    },
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Shadi",
+    "entityUrn": "urn:li:fs_profile:ACoAAD4WiF4BVwoqat_kbLV6SjtuzzKBf8zKN4Y",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100569497"
+    },
+    "geoLocationName": "Mechelen, Flemish Region",
+    "location": {
+        "basicLocation": {
+            "countryCode": "be"
+        }
+    },
+    "headline": "Service Designer, UX Designer",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQFFIBBOWhQaOw/profile-framedphoto-shrink_",
+    "img_399_399": "800_800/0/1675687401498?e=1702972800&v=beta&t=knfptNgT8DZ5b4cmMmDiYGj5JcGml1RhMf-cUk6r1sI",
+    "img_200_200": "200_200/0/1675687401498?e=1702972800&v=beta&t=ouw_TQCH4fAHN5xHBR9_tN1qCX4kNSbiR59ADaT8uvo",
+    "img_100_100": "100_100/0/1675687401498?e=1702972800&v=beta&t=touINn7dPP88hXCmH86A2dsziGsvvuwq0hIlDpW9aOg",
+    "profile_id": "ACoAAD4WiF4BVwoqat_kbLV6SjtuzzKBf8zKN4Y",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAD4WiF4BVwoqat_kbLV6SjtuzzKBf8zKN4Y",
+    "member_urn": "urn:li:member:1041664094",
+    "public_id": "shadi-lakishiraz",
+    "experience": [
+        {
+            "locationName": "Belgium",
+            "entityUrn": "urn:li:fs_position:(ACoAAD4WiF4BVwoqat_kbLV6SjtuzzKBf8zKN4Y,2129363024)",
+            "geoLocationName": "Belgium",
+            "geoUrn": "urn:li:fs_geo:100565514",
+            "companyName": "Springbok Agency",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "UX/UI and Service Research/Design",
+            "region": "urn:li:fs_region:(be,0)",
+            "companyUrn": "urn:li:fs_miniCompany:7944718",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQGYRo7CM9xvnw/company-logo_"
+        },
+        {
+            "locationName": "Antwerp, Flemish Region, Belgium",
+            "entityUrn": "urn:li:fs_position:(ACoAAD4WiF4BVwoqat_kbLV6SjtuzzKBf8zKN4Y,2107575351)",
+            "geoLocationName": "Antwerp, Flemish Region, Belgium",
+            "geoUrn": "urn:li:fs_geo:105102075",
+            "companyName": "Promaninvest",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "title": "Service and UX Research/Design",
+            "region": "urn:li:fs_region:(be,0)"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAD4WiF4BVwoqat_kbLV6SjtuzzKBf8zKN4Y,2060197706)",
+            "companyName": "Zakrot",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Content Specialist, User Researcher",
+            "companyUrn": "urn:li:fs_miniCompany:3165986",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEvDbpbgJrPHA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAD4WiF4BVwoqat_kbLV6SjtuzzKBf8zKN4Y,2060195831)",
+            "companyName": "Freelance",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2016
+                }
+            },
+            "title": "Interior Designer, 3D Visualizer"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAD4WiF4BVwoqat_kbLV6SjtuzzKBf8zKN4Y,2060196888)",
+            "companyName": "Orang Interior Architecture Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "title": "Designer, 3D Visualizer"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAD4WiF4BVwoqat_kbLV6SjtuzzKBf8zKN4Y,836924435)",
+            "school": {
+                "objectUrn": "urn:li:school:161050",
+                "entityUrn": "urn:li:fs_miniSchool:161050",
+                "active": true,
+                "schoolName": "Thomas More University of Applied Sciences",
+                "trackingId": "daCTppxITsqo46kSxfjqfA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG_YH5_VXpElA/company-logo_"
+            },
+            "grade": "The Greatest Distinction",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "degreeName": "Postgraduate Degree",
+            "schoolName": "Thomas More University of Applied Sciences",
+            "fieldOfStudy": "Service Design",
+            "degreeUrn": "urn:li:fs_degree:645",
+            "schoolUrn": "urn:li:fs_miniSchool:161050"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAD4WiF4BVwoqat_kbLV6SjtuzzKBf8zKN4Y,836927152)",
+            "school": {
+                "objectUrn": "urn:li:school:192045",
+                "entityUrn": "urn:li:fs_miniSchool:192045",
+                "active": true,
+                "schoolName": "University of Science and Culture",
+                "trackingId": "d8D+q+hBT1qgvT9EvgaPXw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQGlpeSQu9-Kow/company-logo_"
+            },
+            "grade": "3.92/4",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101120",
+            "degreeName": "Master's Degree",
+            "schoolName": "University of Science and Culture",
+            "fieldOfStudy": "Interior Design",
+            "schoolUrn": "urn:li:fs_miniSchool:192045"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAD4WiF4BVwoqat_kbLV6SjtuzzKBf8zKN4Y,836923470)",
+            "school": {
+                "objectUrn": "urn:li:school:13725",
+                "entityUrn": "urn:li:fs_miniSchool:13725",
+                "active": true,
+                "schoolName": "Bu-Ali Sina University",
+                "trackingId": "96vde8FTQdeN2BcKH9x+RQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEln-TDcFOkRA/company-logo_"
+            },
+            "grade": "3.57/4",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2011
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100080",
+            "degreeName": "Bachelor's Degree",
+            "schoolName": "Bu-Ali Sina University",
+            "fieldOfStudy": "Architecture",
+            "schoolUrn": "urn:li:fs_miniSchool:13725"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Persian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "IELTS Official",
+            "name": "IELTS Academic Total Band Score 7.5",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:10564702",
+                "entityUrn": "urn:li:fs_miniCompany:10564702",
+                "name": "IELTS Official",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1670511657079/ielts_official_logo?e=1710374400&v=beta&t=aVUr1k45i-s6vSDe5KsQPVN69WrcK9m_KHWZPgMzUtA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1670511657079/ielts_official_logo?e=1710374400&v=beta&t=21WwNQrNMv_IPw5PlS27wwzXwp5tL25aeUz5L5cKiHg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1670511657079/ielts_official_logo?e=1710374400&v=beta&t=I7RyF0cJKCLNsoBczaB9uz8abkD9oP8gyVt-LhQVbKg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEs97UO-cXCvw/company-logo_"
+                    }
+                },
+                "universalName": "ielts-official",
+                "dashCompanyUrn": "urn:li:fsd_company:10564702",
+                "trackingId": "Xc2SrZUDQOK8z6rEA/D/zg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:10564702"
+        },
+        {
+            "authority": "Google",
+            "name": "Foundations of User Experience (UX) Design",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "CSZRWBLFUR4F",
+            "company": {
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631311446380?e=1710374400&v=beta&t=_0gnABnVbe_EqmnW25OJ9a8a3eJJBiPUX4scKbZ3nJg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631311446380?e=1710374400&v=beta&t=AqetEFJOXMBuYXBnOT-x9YqzHuTxD8A-bLLLA4QAPcg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                    }
+                },
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "+QGQZSN+TDK/s0gx9yuSzw=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:1441",
+            "url": "https://www.coursera.org/account/accomplishments/records/CSZRWBLFUR4F"
+        },
+        {
+            "authority": "Google",
+            "name": "Start the UX Design Process: Empathize, Define, and Ideate",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "K8YMFNVSPYCF",
+            "company": {
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631311446380?e=1710374400&v=beta&t=_0gnABnVbe_EqmnW25OJ9a8a3eJJBiPUX4scKbZ3nJg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631311446380?e=1710374400&v=beta&t=AqetEFJOXMBuYXBnOT-x9YqzHuTxD8A-bLLLA4QAPcg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                    }
+                },
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "XWwQR6fnRbWCH4K82cOeJg=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:1441",
+            "url": "https://www.coursera.org/account/accomplishments/records/K8YMFNVSPYCF"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

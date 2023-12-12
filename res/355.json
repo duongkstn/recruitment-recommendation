@@ -1,0 +1,1435 @@
+{
+    "summary": "Enterprise Security Architect responsible for conducting an advisory role to CISO/CIOs for EMEA customers to  shape a long-term IT/OT cybersecurity strategy. Build multi-year roadmaps based on assessing the customer's security posture, providing suggestions on identified gaps and creating a cyber security strategy for integrating technology vendor agnostic  and  processes based on industry standards like NIST 800-207, NIST 800-53 & IEC 62443\n\nTraining and public speaking engagement experience.\nAble to lead a team of highly technical security professionals. \n\nGather business functional and non-functional requirements and convert them into a roadmap.\n\nPrepare RFI/RFP responses.\n\nAlign with VP and C-level on business goals and how to address them with proposed solutions.\n\nExecute proof of concepts, conduct research and development activities \n\nÓscar has excellent presentation skills and can deliver effectively technical topics to technical, non technical or senior audiences.\n\nOscar has an extensive cybersecurity and incident response experience. Provided data breach and incident response services as well as security testing, audit and compliance procedures. \n\nPerform vulnerability assessments, vulnerability management at a corporate scale, development and implementation of infoSec operations processes and  procedures.\n\nExperience with SIEM Solutions, effectively understanding the rigors of monitoring for malicious events masked as nuisance events. \n \nFamiliarity with problem tracking tools and Agile and ITIL methodologies.\n\nSABSA SCF - Security Architecture\nCISSP - Certified Information System Security Professional\nCCSP - Certified Cloud Security Professional\nPlus vendor specific certifications.\n\nKnowledge in industry standards and benchmarks  such as ISO 27001 & 27002, NIST 800-53, CIS, OWASP Top 10, Cloud Security Treacherous 12.",
+    "industryName": "Information Technology & Services",
+    "lastName": "M.",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 6,
+        "day": 16
+    },
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Oscar",
+    "entityUrn": "urn:li:fs_profile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90010384"
+    },
+    "geoLocationName": "Utrecht Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "CX Security Architect at Cisco Systems | MSc. in Cybersecurity @ Georgia Tech 🐝",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQHWWtIW6GlTBg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1700043621223?e=1707955200&v=beta&t=mCg-GKkY3UW--qOm6DbnoVLWSaSzgVsuFdwmZchLFFQ",
+    "img_200_200": "200_200/0/1700043621223?e=1707955200&v=beta&t=alSq88LZHQ1X0gXgjeteegaPdycF64ACIpnCK36Hwl8",
+    "img_400_400": "400_400/0/1700043621223?e=1707955200&v=beta&t=PJ7f6yqztznqLSyBOeksAee2XeTzoOvP0T27Tyc0sUk",
+    "img_600_600": "800_800/0/1700043621223?e=1707955200&v=beta&t=MHou3rsdnBwbuQ3aXyPpF2ny1uvadOfZyPA_Vzw5lCo",
+    "profile_id": "ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+    "member_urn": "urn:li:member:17642975",
+    "public_id": "oscarmonge",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y,2224256693)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Cisco",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "description": "As a Delivery Security Architect, I play a pivotal role in establishing credibility and influencing both Security Architects and Managers, as well as hands-on technical professionals. My expertise is crucial in leading customer design meetings, supporting pre-sales efforts, and driving the planning, design, and implementation of networking and security projects for large enterprises and public sector customers.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Security Architect",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1063",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+        },
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y,1520661742)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "(ISC)²",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "description": "ISC2 Certified instructor for CISSP, CCSP and CC preparation courses. Delivered in a bootcamp fashion or weekly during  an 8-week period.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "ISC2 Certified Instructor",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:26753",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y,1847570764)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Palo Alto Networks",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "description": "Customer-facing role with Palo Alto Network’s customers on critical projects to help transform their organizations. Providing consulting, and technical aptitude to customer and partner engagements, while working with client executives and key technical leaders to deploy technology-agnostic solutions leveraging the best capabilities suitable for the organization. In this role, scaling best practices and industry recommendations is key .",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer & Network Security"
+                ]
+            },
+            "title": "Advisory Security Architect",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:30086",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFZg72Sfni4SA/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y,1586513954)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "Rabobank",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "description": "To drive new initiatives directly involving the Cyber Defence Center spanning over areas like Incident Response, Vulnerability Management and Encryption. Recognized as a senior contributor which helps shaping the organization, aligning it to industry standards, producing high level overview of end-to-end process and reference architecture.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Security Solutions Architect",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1970",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFJA_0sIwpOnw/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y,1489837252)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Rabobank",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "description": "Cloud Security Engineer in charge providing visibility into logging and monitoring for cloud systems based in major cloud providers like AWS and Azure enabling the IT organization to react to malicious events in the cloud by coordinating with multiple groups and organizations how to integrate, create and adapt processes and technology. Extensive experience supporting decision-makers with intelligence about emerging threats, potential issues of concern, imminent crisis or technology recommendations to address critical business needs.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Senior Cloud Security Engineer",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:1970",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFJA_0sIwpOnw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y,572390761)",
+            "school": {
+                "objectUrn": "urn:li:school:18158",
+                "entityUrn": "urn:li:fs_miniSchool:18158",
+                "active": true,
+                "schoolName": "Georgia Institute of Technology",
+                "trackingId": "zY4Umf3cTE+RfApVxZa65Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFuhLQoh5_7yA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "description": "OMS Cybersecurity",
+            "degreeName": "Master's degree",
+            "schoolName": "Georgia Institute of Technology",
+            "fieldOfStudy": "Computer Science",
+            "degreeUrn": "urn:li:fs_degree:500",
+            "schoolUrn": "urn:li:fs_miniSchool:18158"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y,22916419)",
+            "school": {
+                "objectUrn": "urn:li:school:11669",
+                "entityUrn": "urn:li:fs_miniSchool:11669",
+                "active": true,
+                "schoolName": "Universidad Latina de Costa Rica",
+                "trackingId": "zAQ58I3uQeq9nB/9HNCxCg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D560BAQE8uOuRlGHZCA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Universidad Latina de Costa Rica",
+            "fieldOfStudy": "Computer Systems Networking and Telecommunications",
+            "schoolUrn": "urn:li:fs_miniSchool:11669"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y,15781455)",
+            "school": {
+                "objectUrn": "urn:li:school:11628",
+                "entityUrn": "urn:li:fs_miniSchool:11628",
+                "active": true,
+                "schoolName": "Tecnológico de Costa Rica",
+                "trackingId": "8zYIsVByTTuzck8PREykbA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEV8VrFHjg_zA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            },
+            "degreeName": "Technical Degree",
+            "schoolName": "Tecnológico de Costa Rica",
+            "fieldOfStudy": "Programming",
+            "schoolUrn": "urn:li:fs_miniSchool:11628"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [
+        {
+            "date": {
+                "month": 7,
+                "year": 2022,
+                "day": 1
+            },
+            "name": "From NOC to SOCs how did we grow so far apart?",
+            "publisher": "ISC2 InfoSecurity Magazine",
+            "description": "This article walks the reader through the evolution of the Network and Security Centers and how they separated them in the past and how the latest technology trends are bringing them together again.",
+            "url": "https://magazines.isc2.org/pages/2022/2022-07/from-nocs-to-socs-how-did-we-grow-so-far-apart/",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Oscar",
+                        "lastName": "M.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+                        "occupation": "CX Security Architect at Cisco Systems | MSc. in Cybersecurity @ Georgia Tech 🐝",
+                        "objectUrn": "urn:li:member:17642975",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 768,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1685515958508?e=1707955200&v=beta&t=TqN2x1WyWR3ot2rL_BYgCtCTURN8hzg4cYAuPQwYIak",
+                                        "expiresAt": 1707955200000,
+                                        "height": 192
+                                    },
+                                    {
+                                        "width": 768,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1685515958508?e=1707955200&v=beta&t=T-EcJT-tUgCuVFm_kSguDaQo88B-iTVglin-eQsIDBM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 192
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D16AQGGcvt8ZLPf3Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "oscarmonge",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1700043621223?e=1707955200&v=beta&t=mCg-GKkY3UW--qOm6DbnoVLWSaSzgVsuFdwmZchLFFQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1700043621223?e=1707955200&v=beta&t=alSq88LZHQ1X0gXgjeteegaPdycF64ACIpnCK36Hwl8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1700043621223?e=1707955200&v=beta&t=PJ7f6yqztznqLSyBOeksAee2XeTzoOvP0T27Tyc0sUk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 600,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1700043621223?e=1707955200&v=beta&t=MHou3rsdnBwbuQ3aXyPpF2ny1uvadOfZyPA_Vzw5lCo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 600
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQHWWtIW6GlTBg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "Vj7qcVuvTAeA3cujBp75dg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 3,
+                "year": 2021
+            },
+            "name": "Tips for Managing Vulnerabilities on Cloud Endpoints",
+            "publisher": "ISC2 InfoSecurity Magazine",
+            "url": "https://magazines.isc2.org/pages/2021/2021-03/",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Oscar",
+                        "lastName": "M.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+                        "occupation": "CX Security Architect at Cisco Systems | MSc. in Cybersecurity @ Georgia Tech 🐝",
+                        "objectUrn": "urn:li:member:17642975",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 768,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1685515958508?e=1707955200&v=beta&t=TqN2x1WyWR3ot2rL_BYgCtCTURN8hzg4cYAuPQwYIak",
+                                        "expiresAt": 1707955200000,
+                                        "height": 192
+                                    },
+                                    {
+                                        "width": 768,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1685515958508?e=1707955200&v=beta&t=T-EcJT-tUgCuVFm_kSguDaQo88B-iTVglin-eQsIDBM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 192
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D16AQGGcvt8ZLPf3Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "oscarmonge",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1700043621223?e=1707955200&v=beta&t=mCg-GKkY3UW--qOm6DbnoVLWSaSzgVsuFdwmZchLFFQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1700043621223?e=1707955200&v=beta&t=alSq88LZHQ1X0gXgjeteegaPdycF64ACIpnCK36Hwl8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1700043621223?e=1707955200&v=beta&t=PJ7f6yqztznqLSyBOeksAee2XeTzoOvP0T27Tyc0sUk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 600,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1700043621223?e=1707955200&v=beta&t=MHou3rsdnBwbuQ3aXyPpF2ny1uvadOfZyPA_Vzw5lCo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 600
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQHWWtIW6GlTBg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "Vj7qcVuvTAeA3cujBp75dg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 9,
+                "year": 2018,
+                "day": 28
+            },
+            "name": "Securing the Cloud for Enterprise Workloads",
+            "publisher": "IT@Intel",
+            "description": "Intel IT’s multi-cloud strategy focuses on abstracting the application stack from the infrastructure to enable anything-as-a-service (XaaS) capabilities. This approach helps to accelerate innovation and allow application developers to focus on writing code, not rounding up compute, storage, and network resources, while IT handles workload placement. However, information security is still paramount in our continual quest to drive business agility. We have found the following key steps enable us to maintain a high level of security while supporting our multi-cloud strategy: Approach security holistically and understand that not all clouds are the same; utilize existing investments and new technologies to drive security operational excellence and key performance indicators; establish distributed accountability; secure sensitive workloads; and encourage collaboration between the application development community, business units, and IT groups. While IT creates many of the applications and services in use at Intel, many more are developed by Intel’s several lines of business, such as product development, validation, or sales. In our experience, security can be better maintained if we make our security controls easy for business application owners to use and understand. Establishing and maintaining good cloud security is not a sprint—it is a marathon. Read on to learn about our cloud security experiences as we continue our journey to multi-cloud. ",
+            "url": "https://intel.ly/2zw8dF2",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Oscar",
+                        "lastName": "M.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+                        "occupation": "CX Security Architect at Cisco Systems | MSc. in Cybersecurity @ Georgia Tech 🐝",
+                        "objectUrn": "urn:li:member:17642975",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 768,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1685515958508?e=1707955200&v=beta&t=TqN2x1WyWR3ot2rL_BYgCtCTURN8hzg4cYAuPQwYIak",
+                                        "expiresAt": 1707955200000,
+                                        "height": 192
+                                    },
+                                    {
+                                        "width": 768,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1685515958508?e=1707955200&v=beta&t=T-EcJT-tUgCuVFm_kSguDaQo88B-iTVglin-eQsIDBM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 192
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D16AQGGcvt8ZLPf3Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "oscarmonge",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1700043621223?e=1707955200&v=beta&t=mCg-GKkY3UW--qOm6DbnoVLWSaSzgVsuFdwmZchLFFQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1700043621223?e=1707955200&v=beta&t=alSq88LZHQ1X0gXgjeteegaPdycF64ACIpnCK36Hwl8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1700043621223?e=1707955200&v=beta&t=PJ7f6yqztznqLSyBOeksAee2XeTzoOvP0T27Tyc0sUk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 600,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1700043621223?e=1707955200&v=beta&t=MHou3rsdnBwbuQ3aXyPpF2ny1uvadOfZyPA_Vzw5lCo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 600
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQHWWtIW6GlTBg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "Vj7qcVuvTAeA3cujBp75dg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y"
+                },
+                {
+                    "member": {
+                        "firstName": "Shachaf",
+                        "lastName": "Levy",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAABUcTkBqLlVh17IWpmr5rF39TgM3vkwy0M",
+                        "occupation": "Principal security research PM manager | Cloud security architect | Security startups mentor | XDR Research",
+                        "objectUrn": "urn:li:member:5534009",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAABUcTkBqLlVh17IWpmr5rF39TgM3vkwy0M",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1657534305554?e=1707955200&v=beta&t=0jFGWiMdfnZ78b3Vi-c11XkTDlJTCpSpripLrx1Igck",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1657534305554?e=1707955200&v=beta&t=4bAy84DGjoU7lQcmfHaVMKAqLh3Qw0npnho7K8bN3PY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGC6qMnG50NvQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "shachaf-levy",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516354478022?e=1707955200&v=beta&t=W3HKuNtjjqtgUE0EjZmhjpH3Uma5gOOl4gGKTvD59VU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516354477994?e=1707955200&v=beta&t=l1sDHgOh9ZwZabFp9iBCjkYte7PY6ssPzKl85BQalEI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516354478097?e=1707955200&v=beta&t=qZA-W7el9MKeG444-pTCuwiiV-ufuz-JFMx-E9ldzpQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516354478178?e=1707955200&v=beta&t=qSmXC1Ll83jE4Qu69t6b9oxLFCn0vYTmVZI2icEZKlc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5103AQGTSLaiJkLSyw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "uRETIjhyTxOtn+IIaP1DZg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAABUcTkBqLlVh17IWpmr5rF39TgM3vkwy0M"
+                },
+                {
+                    "member": {
+                        "firstName": "Dave",
+                        "lastName": "Shrestha",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAACgXUwBzfmB8kC_n0yMHGawr5lnEUFGKPo",
+                        "occupation": "Cloud Solutions Architect at Intel Corporation",
+                        "objectUrn": "urn:li:member:10509644",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAACgXUwBzfmB8kC_n0yMHGawr5lnEUFGKPo",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1697838866849?e=1707955200&v=beta&t=k_PmoIQ6I9ZjZYnRz-GJMaI9vB_yRYglg4GDsFyKODI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 199
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1697838866849?e=1707955200&v=beta&t=Sq5vtJfIUGB8dvY8ZWDV8VytG-l2P2DAc7uE-lesEbk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 349
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5616AQFAMAOf_QImOg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "daveshrestha",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1697838767180?e=1707955200&v=beta&t=eaOaIEIB93ob4hFVyw4PCnmmNUTlPcvrKBIKsTGmb8A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1697838767180?e=1707955200&v=beta&t=aUOSzuqLT2-iyoWEAB4Jv1RG7gbfIxKxkG9cfanMrSM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1697838767181?e=1707955200&v=beta&t=INxezG6DvQ0sD2x2wosebkEgqwF2128Efkhcy6PzwWY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1697838767181?e=1707955200&v=beta&t=13oZcZ-UneKgaKYCW19XSzgIEMg1yYC2ot3HAC2DDac",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5603AQGN4tEr1_UAyg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "kuvU8Q3MQw6nFiCzjMHfCw=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAACgXUwBzfmB8kC_n0yMHGawr5lnEUFGKPo"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 1,
+                "year": 2017,
+                "day": 30
+            },
+            "name": "Boosting IaaS and PaaS Security in the Public Cloud Whitepaper",
+            "publisher": "IT@Intel",
+            "description": "Intel IT has built a public Cloud IaaS Security Architecture that enables Security As a Service and Agility.",
+            "url": "http://www.intel.com/content/www/us/en/it-management/intel-it-best-practices/boosting-iaas-and-paas-security-in-the-public-cloud-paper.html",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Oscar",
+                        "lastName": "M.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+                        "occupation": "CX Security Architect at Cisco Systems | MSc. in Cybersecurity @ Georgia Tech 🐝",
+                        "objectUrn": "urn:li:member:17642975",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 768,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1685515958508?e=1707955200&v=beta&t=TqN2x1WyWR3ot2rL_BYgCtCTURN8hzg4cYAuPQwYIak",
+                                        "expiresAt": 1707955200000,
+                                        "height": 192
+                                    },
+                                    {
+                                        "width": 768,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1685515958508?e=1707955200&v=beta&t=T-EcJT-tUgCuVFm_kSguDaQo88B-iTVglin-eQsIDBM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 192
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D16AQGGcvt8ZLPf3Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "oscarmonge",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1700043621223?e=1707955200&v=beta&t=mCg-GKkY3UW--qOm6DbnoVLWSaSzgVsuFdwmZchLFFQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1700043621223?e=1707955200&v=beta&t=alSq88LZHQ1X0gXgjeteegaPdycF64ACIpnCK36Hwl8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1700043621223?e=1707955200&v=beta&t=PJ7f6yqztznqLSyBOeksAee2XeTzoOvP0T27Tyc0sUk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 600,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1700043621223?e=1707955200&v=beta&t=MHou3rsdnBwbuQ3aXyPpF2ny1uvadOfZyPA_Vzw5lCo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 600
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQHWWtIW6GlTBg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "Vj7qcVuvTAeA3cujBp75dg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y"
+                },
+                {
+                    "member": {
+                        "firstName": "Shachaf",
+                        "lastName": "Levy",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAABUcTkBqLlVh17IWpmr5rF39TgM3vkwy0M",
+                        "occupation": "Principal security research PM manager | Cloud security architect | Security startups mentor | XDR Research",
+                        "objectUrn": "urn:li:member:5534009",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAABUcTkBqLlVh17IWpmr5rF39TgM3vkwy0M",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1657534305554?e=1707955200&v=beta&t=0jFGWiMdfnZ78b3Vi-c11XkTDlJTCpSpripLrx1Igck",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1657534305554?e=1707955200&v=beta&t=4bAy84DGjoU7lQcmfHaVMKAqLh3Qw0npnho7K8bN3PY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGC6qMnG50NvQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "shachaf-levy",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516354478022?e=1707955200&v=beta&t=W3HKuNtjjqtgUE0EjZmhjpH3Uma5gOOl4gGKTvD59VU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516354477994?e=1707955200&v=beta&t=l1sDHgOh9ZwZabFp9iBCjkYte7PY6ssPzKl85BQalEI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516354478097?e=1707955200&v=beta&t=qZA-W7el9MKeG444-pTCuwiiV-ufuz-JFMx-E9ldzpQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516354478178?e=1707955200&v=beta&t=qSmXC1Ll83jE4Qu69t6b9oxLFCn0vYTmVZI2icEZKlc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5103AQGTSLaiJkLSyw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "uRETIjhyTxOtn+IIaP1DZg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAABUcTkBqLlVh17IWpmr5rF39TgM3vkwy0M"
+                },
+                {
+                    "member": {
+                        "firstName": "Catalin",
+                        "lastName": "Baicu, EMBA, SACSC, SDRM, SCPM, LSS BB",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAPM-doBJv-3nOB-UdH9UJI8FdiNmSvudO4",
+                        "occupation": "Security as a Service Owner/IT Senior Technical Program Manager at Intel Corporation",
+                        "objectUrn": "urn:li:member:63764954",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAPM-doBJv-3nOB-UdH9UJI8FdiNmSvudO4",
+                        "publicIdentifier": "catalin-baicu-emba-sacsc-sdrm-scpm-lss-bb-02243119",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516808900083?e=1707955200&v=beta&t=9DNf4EeqFQVbaIuqz2yxk569Z32xwK5AtVUG96lMY2Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516808899720?e=1707955200&v=beta&t=dV6LSPkzjaoc25IaCl3zdUZ9FrX4xSt3mZFYgHc8IhE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516808900182?e=1707955200&v=beta&t=91gzB4B7Kdse2trDH5MppjzqzqzlzNRpZJ3iQ2tpAbY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516808900446?e=1707955200&v=beta&t=X7bcTDVavrvvmTn3ls299-gjU7Mp2bpjMJYiI8jUpZg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHPPZpES5yq1A/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "GAIwj0z0RJyVaIREnNxLkQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAPM-doBJv-3nOB-UdH9UJI8FdiNmSvudO4"
+                },
+                {
+                    "member": {
+                        "firstName": "Elaine",
+                        "lastName": "Rainbolt",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAUczQBBPqKiTAaY41xeiyUc8dVT56_L7M",
+                        "occupation": "Sr Product Marketing Manager | Certified Information Systems Security Professional | Winning the hearts & minds of IT w/business outcomes | Selling solutions not technology | Ex Intel | Loves dogs 🐕 & goats🐐",
+                        "objectUrn": "urn:li:member:1340212",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAAUczQBBPqKiTAaY41xeiyUc8dVT56_L7M",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 757,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1694724473782?e=1707955200&v=beta&t=LvZQLC0iPkzILmiA_RUntT2JV3UoYs8p8jrVjvll1lY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 189
+                                    },
+                                    {
+                                        "width": 757,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1694724473782?e=1707955200&v=beta&t=fcz9F9xrZZIxkXpD_wDReBPoi_bm6CX3gsGAEaslOFc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 189
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5616AQEmFjs9B7RwDA/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "elainerainbolt",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516239772678?e=1707955200&v=beta&t=yJZMk5uiwyewR-MWhubycMXaoA8BhdXwtD9PNuJ8VX4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516239752248?e=1707955200&v=beta&t=hvGx-ZweUNlntJbgNTyqwzoJw9K0gpC75Qeuj261BCc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 300,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516239855636?e=1707955200&v=beta&t=OcE-D6pWUWKjpj5g7pzIXAcwl6j1Pr2ZzNd1QcX8bng",
+                                        "expiresAt": 1707955200000,
+                                        "height": 300
+                                    },
+                                    {
+                                        "width": 300,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516239829663?e=1707955200&v=beta&t=vUV3OE95y6CwfAyga-1vDlGlFB38WX334aQTbnTYYgI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 300
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQEwg3SjSDLGLA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "R0kk9zs0QRO8UTqen4ECZA=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAAUczQBBPqKiTAaY41xeiyUc8dVT56_L7M"
+                },
+                {
+                    "member": {
+                        "firstName": "Carlton",
+                        "lastName": "Ashley (ISC)² SSCP",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAABeTR8BSnUbjsvNpsLkSXGpWF2ohQb2U2w",
+                        "occupation": "Intel Federal Information Security Strategy and Architecture.",
+                        "objectUrn": "urn:li:member:6180127",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAABeTR8BSnUbjsvNpsLkSXGpWF2ohQb2U2w",
+                        "publicIdentifier": "carlton-ashley-idm",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 99,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1668782134485?e=1707955200&v=beta&t=kVOizVJURBDnWkLpcGi8ZtcaA-JzSfHEpgsk7J1LBTc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 199,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1668782134485?e=1707955200&v=beta&t=4K1A0ocqVndJyi-BppkFovf2d3O8l15THP_4Vu3hNs4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 398,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1668782134485?e=1707955200&v=beta&t=HenVFola139EufbcYFzQ0sR1xIhAwZNXkVTgvaReDEU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 398
+                                    },
+                                    {
+                                        "width": 398,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1668782134485?e=1707955200&v=beta&t=GLUXpPTMnwP3LF_WsuZ8Pfx7hKa06tx-bFVXPqUIK_c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 398
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5603AQFVEIDC6rY5Rw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "ZdIFtdl3TnC3k1KwY0FFPg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAABeTR8BSnUbjsvNpsLkSXGpWF2ohQb2U2w"
+                },
+                {
+                    "name": "David Fong"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 3,
+                "year": 2016,
+                "day": 23
+            },
+            "name": "A Human need as a mean to social engineering",
+            "description": "A post that talks about how individuals are taking advantage of social media to request information using as mean a need of the human being: to have a work, a house, etc.",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Oscar",
+                        "lastName": "M.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+                        "occupation": "CX Security Architect at Cisco Systems | MSc. in Cybersecurity @ Georgia Tech 🐝",
+                        "objectUrn": "urn:li:member:17642975",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 768,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1685515958508?e=1707955200&v=beta&t=TqN2x1WyWR3ot2rL_BYgCtCTURN8hzg4cYAuPQwYIak",
+                                        "expiresAt": 1707955200000,
+                                        "height": 192
+                                    },
+                                    {
+                                        "width": 768,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1685515958508?e=1707955200&v=beta&t=T-EcJT-tUgCuVFm_kSguDaQo88B-iTVglin-eQsIDBM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 192
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D16AQGGcvt8ZLPf3Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "oscarmonge",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1700043621223?e=1707955200&v=beta&t=mCg-GKkY3UW--qOm6DbnoVLWSaSzgVsuFdwmZchLFFQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1700043621223?e=1707955200&v=beta&t=alSq88LZHQ1X0gXgjeteegaPdycF64ACIpnCK36Hwl8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1700043621223?e=1707955200&v=beta&t=PJ7f6yqztznqLSyBOeksAee2XeTzoOvP0T27Tyc0sUk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 600,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1700043621223?e=1707955200&v=beta&t=MHou3rsdnBwbuQ3aXyPpF2ny1uvadOfZyPA_Vzw5lCo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 600
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQHWWtIW6GlTBg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "Vj7qcVuvTAeA3cujBp75dg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y"
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "authority": "EC-Council",
+            "name": "Certified Ethical Hacker",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2008
+                }
+            },
+            "licenseNumber": "ECC927651"
+        },
+        {
+            "authority": "ETS",
+            "name": "Test of English for International  Communication (TOEIC)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2012
+                }
+            },
+            "displaySource": "ets.org",
+            "url": "http://www.ets.org/toeic/listening_reading/about/content/"
+        },
+        {
+            "authority": "(ISC)²",
+            "name": "Certified Information Systems Security Professional (CISSP)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2011
+                }
+            },
+            "licenseNumber": "359093",
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "1tzrOV0GR3+GJeT4yi8Pxg=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:26753",
+            "url": "https://www.youracclaim.com/badges/8beaab38-20d7-40d4-b943-679a2b5e5c1d/linked_in_profile"
+        },
+        {
+            "authority": "GIAC",
+            "name": "GIAC Certified Incident Handler (GCIH)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2279112",
+                "entityUrn": "urn:li:fs_miniCompany:2279112",
+                "name": "GIAC Certifications",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630607297722/giac_logo?e=1710374400&v=beta&t=lesZk9lzyAJtTIoyY8HEEVeW2oOpIOx2veB0pnB0RwM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630607297722/giac_logo?e=1710374400&v=beta&t=-uYUVJWZJY2pvkAOOc0eC3Be0W4p9umq16_7g8_4awI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630607297722/giac_logo?e=1710374400&v=beta&t=uUnPbDRr2EuHqLRpatIIsxj6b6_eD2g8CODAoT-2-Mc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG2G6BQacJB6w/company-logo_"
+                    }
+                },
+                "universalName": "giac",
+                "dashCompanyUrn": "urn:li:fsd_company:2279112",
+                "trackingId": "h5BmkTrnTTmkB8TVa0mlNw=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:2279112",
+            "url": "https://www.youracclaim.com/badges/4be51a21-897d-45cc-a6e1-d101853a47c5/linked_in_profile"
+        },
+        {
+            "authority": "Scaled Agile, Inc.",
+            "name": "SAFe® 4 Practitioner",
+            "company": {
+                "objectUrn": "urn:li:company:2434776",
+                "entityUrn": "urn:li:fs_miniCompany:2434776",
+                "name": "Scaled Agile, Inc.",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1668017355052/scaled_agile_inc__logo?e=1710374400&v=beta&t=DQKvNUw6wZwJ_SS8L0DligscHCRLDIi_zGI_PaFn1XY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1668017355052/scaled_agile_inc__logo?e=1710374400&v=beta&t=A2BZ870IMvoDeRwTQ8YV67Lk_nxZW2D3vAAkPCxzpu0",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1668017355052/scaled_agile_inc__logo?e=1710374400&v=beta&t=ar1QNZD9dmXlukPCn79Wt0zauobAQvcR3rCo9yJ-p6A",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFti5SCrDfBWA/company-logo_"
+                    }
+                },
+                "universalName": "scaled-agile-inc-",
+                "dashCompanyUrn": "urn:li:fsd_company:2434776",
+                "trackingId": "sE7SSAroR0Km8q/TTl03/Q=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:2434776",
+            "url": "https://www.youracclaim.com/badges/be7f2357-cba5-4f24-82c7-85792b2d34b3"
+        },
+        {
+            "authority": "Splunk",
+            "name": "Splunk Certified User 6.x",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "licenseNumber": "Cert-236598",
+            "company": {
+                "objectUrn": "urn:li:company:20226",
+                "entityUrn": "urn:li:fs_miniCompany:20226",
+                "name": "Splunk",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630665886406/splunk_logo?e=1710374400&v=beta&t=sd345MKYj0o4_YDLGZsZMjvoNq33wq0l0xaZNaHyzss",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630665886406/splunk_logo?e=1710374400&v=beta&t=9NyPAQBZEOGwz_03BsiJOgq-jM-FJL78jDSpljUU-bc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630665886406/splunk_logo?e=1710374400&v=beta&t=Abb5G_8BI9-wYKADmNDYcXuJWgCIr0FiiQz72DaSly8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFlJedtHL59Dw/company-logo_"
+                    }
+                },
+                "universalName": "splunk",
+                "dashCompanyUrn": "urn:li:fsd_company:20226",
+                "trackingId": "Ig8i/igCSr+QIIXIbgBD2w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:20226"
+        },
+        {
+            "authority": "(ISC)²",
+            "name": "Certified Cloud Security Professional (CCSP)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "licenseNumber": "359093",
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "tK5Mg+g4T1CqzvMnDuVWNw=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:26753",
+            "url": "https://www.youracclaim.com/badges/38221da6-b963-43c3-a7db-f210970eafd2/linked_in_profile"
+        },
+        {
+            "authority": "Rapid7",
+            "name": "AppSpider Enterprise Certified Specialist",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:39624",
+                "entityUrn": "urn:li:fs_miniCompany:39624",
+                "name": "Rapid7",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1637766743827/rapid7_logo?e=1710374400&v=beta&t=3dTXToYl6O827fR9dipbcqE3C9Qt8HMsME9ostg3Q6E",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1637766743827/rapid7_logo?e=1710374400&v=beta&t=7TkmOJ3v59r1R8v7dSDSvoV0-c6V23oJbe9yDXNc5bY",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1637766743827/rapid7_logo?e=1710374400&v=beta&t=hDLOBKyH_QCdMzIi41sFK6bRIF5xDUPV_pyyemQLTDs",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGSxHKxsej2mw/company-logo_"
+                    }
+                },
+                "universalName": "rapid7",
+                "dashCompanyUrn": "urn:li:fsd_company:39624",
+                "trackingId": "bJi33pG/QHK0/8Tc+xQzEg=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:39624",
+            "url": "https://www.youracclaim.com/badges/e749b62b-788e-491f-aa3f-15f08144b461/linked_in_profile"
+        },
+        {
+            "authority": "The TOEFL® test",
+            "name": "Test of English as a Foreign Language (TOEFL)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "licenseNumber": "34498216",
+            "company": {
+                "objectUrn": "urn:li:company:9433126",
+                "entityUrn": "urn:li:fs_miniCompany:9433126",
+                "name": "TOEFL",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692109939244/the_toefl_r_test_logo?e=1710374400&v=beta&t=ZHKNPZH_oR4mn1Cj4MGGSZTn8XjRcBqZtHe-vUsIUlw",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692109939244/the_toefl_r_test_logo?e=1710374400&v=beta&t=gyKYB8unUscjhxW9KX7GAfRf5Aa0earm11DN_AL0UQE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692109939244/the_toefl_r_test_logo?e=1710374400&v=beta&t=WfOqolx_lgvw03J2S0t0vG_TeBeyJdWZG11BoGX_ZLk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQEioLdeVJq-rw/company-logo_"
+                    }
+                },
+                "universalName": "the-toefl-r-test",
+                "dashCompanyUrn": "urn:li:fsd_company:9433126",
+                "trackingId": "DbDsjJ6jTeG2HMPSczlvbw=="
+            },
+            "displaySource": "ets.org",
+            "companyUrn": "urn:li:fs_miniCompany:9433126",
+            "url": "https://www.ets.org/toefl"
+        },
+        {
+            "authority": "Amazon Web Services (AWS)",
+            "name": "AWS Certified Cloud Practitioner",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "AWS01190601",
+            "company": {
+                "objectUrn": "urn:li:company:2382910",
+                "entityUrn": "urn:li:fs_miniCompany:2382910",
+                "name": "Amazon Web Services (AWS)",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1670264051233/amazon_web_services_logo?e=1710374400&v=beta&t=Sqejsy3fxoQ8h5jA-23GfDeHW17GErf7uzCD5VvhHu8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1670264051233/amazon_web_services_logo?e=1710374400&v=beta&t=D7dLzwl8wOWrfPapBXD1ZSGVcgBW_Kf0Zhgq8HSnsPk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1670264051233/amazon_web_services_logo?e=1710374400&v=beta&t=Bd1_E6n_4AcwPl4roeKAucDm7DVibHvZaMvF5YnGcQo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_"
+                    }
+                },
+                "universalName": "amazon-web-services",
+                "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                "trackingId": "ep4+vVNxSfuAFS2ApQ94Jg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2382910"
+        }
+    ],
+    "volunteer": [],
+    "honors": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y,649838209)",
+            "description": "Information Security Practitioner who has distinguished themselves for implementing and/or managing the implementation of a component of a security program (examples include: managing a security awareness and training program and, conducting difficult, complex security evaluations) Candidates in this category typically should have at least three years of work experience directly related to information security.\n\nhttps://www.isc2.org/News-and-Events/Press-Room/Posts/2017/09/26/ISC2-Announces-Winners-for-its-Seventh-Annual-Americas-Information-Security-Leadership-Awards",
+            "title": "Information Security Practitioner of the year (America's ISLA)",
+            "issueDate": {
+                "month": 9,
+                "year": 2017
+            },
+            "issuer": "ISC2"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAENNd8BxgmS3mGWJkA67HoI6vlTJVAUW8Y,357204952)",
+            "description": "For the support given to the Legal Matter Data Disposition Effort",
+            "title": "Intel Information Technology Division Recognition Award",
+            "issueDate": {
+                "month": 12,
+                "year": 2011
+            },
+            "issuer": "Intel Corporation"
+        }
+    ],
+    "projects": []
+}

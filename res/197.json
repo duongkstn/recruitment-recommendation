@@ -1,0 +1,313 @@
+{
+    "summary": "Ik ben geruime tijd werkzaam in projecten, sales en klantcontactmanagement. Ik verbeter processen en heb veel B2C & B2B contact. Tevens is mijn studie Facility Management (HBO) bijna afgerond, waarbij ik leer om primaire processen te optimaliseren en ondersteunen.",
+    "industryName": "Packaging & Containers",
+    "lastName": "Elfring",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 11,
+        "day": 17
+    },
+    "industryUrn": "urn:li:fs_industry:146",
+    "firstName": "Jan-Wessel",
+    "entityUrn": "urn:li:fs_profile:ACoAACQsFSMBsViTyp0PEVU8PEbh6kJvft2a6G0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009708"
+    },
+    "geoLocationName": "Greater Enschede Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Project executive & Student Facility and Real Estate Management (Final year)",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQGBaO8R2XnWtw/profile-displayphoto-shrink_",
+    "img_99_100": "100_100/0/1698152442012?e=1707955200&v=beta&t=3K0ucrdzbD_AhXiE0514pqAzJUa7W8GK07rHFO8ZV_M",
+    "img_199_200": "200_200/0/1698152442012?e=1707955200&v=beta&t=b0PyuyIxnptwBaAzo_gij6MpUABeiO-xjVPVOGWVB6Y",
+    "img_387_387": "800_800/0/1698152442012?e=1707955200&v=beta&t=LZL9xW4Yi887yqxHShZUwR4jYskg8Z6XddEaBIaWeco",
+    "profile_id": "ACoAACQsFSMBsViTyp0PEVU8PEbh6kJvft2a6G0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACQsFSMBsViTyp0PEVU8PEbh6kJvft2a6G0",
+    "member_urn": "urn:li:member:606868771",
+    "public_id": "jan-wessel-elfring",
+    "experience": [
+        {
+            "locationName": "Enschede, Overijssel, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACQsFSMBsViTyp0PEVU8PEbh6kJvft2a6G0,2180802162)",
+            "geoLocationName": "Enschede, Overijssel, Nederland",
+            "geoUrn": "urn:li:fs_geo:103641015",
+            "companyName": "Plastiforma",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "description": "• Facility Management\n• Lean Six Sigma basis voor project\n• Implementatie ERP-systeem & managementsysteem\n• Documentmanagement\n",
+            "company": {
+                "industries": [
+                    "Packaging and Containers"
+                ]
+            },
+            "title": "Afstudeerscriptie",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:77530321"
+        },
+        {
+            "locationName": "Enschede, The Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACQsFSMBsViTyp0PEVU8PEbh6kJvft2a6G0,2020593467)",
+            "geoLocationName": "Enschede, The Netherlands",
+            "companyName": "Plastiforma",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "description": "• Map and implement projects\n• Process improvement\n• Map ERP system and improve/implement it\n• Information management\n• Facility management",
+            "company": {
+                "industries": [
+                    "Packaging and Containers"
+                ]
+            },
+            "title": "Project executive",
+            "companyUrn": "urn:li:fs_miniCompany:77530321"
+        },
+        {
+            "locationName": "Deventer, The Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACQsFSMBsViTyp0PEVU8PEbh6kJvft2a6G0,1732507304)",
+            "geoLocationName": "Deventer, The Netherlands",
+            "companyName": "Bosch",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "description": "• Assess and handle second-line claims \n• Support Account Managers \n• Maintain B2B contact with installers",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Mechanical or Industrial Engineering"
+                ]
+            },
+            "title": "CRM apprentice",
+            "companyUrn": "urn:li:fs_miniCompany:11763731",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFzYkH78XxkZg/company-logo_"
+        },
+        {
+            "locationName": "Gorssel, The Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACQsFSMBsViTyp0PEVU8PEbh6kJvft2a6G0,1519710599)",
+            "geoLocationName": "Gorssel, The Netherlands",
+            "companyName": "Wessite",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "description": "•Webdesign\n•Marketingcampaigns",
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "Founder",
+            "companyUrn": "urn:li:fs_miniCompany:26264627",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFzc4FeMOB4sg/company-logo_"
+        },
+        {
+            "locationName": "Apeldoorn. The Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACQsFSMBsViTyp0PEVU8PEbh6kJvft2a6G0,1674698723)",
+            "geoLocationName": "Apeldoorn. The Netherlands",
+            "companyName": "MegaFoodStunter",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "description": "• Thinking along and co-decide on customer-related issues \n• Setting up a new customer service concept \n• Maintaining social media channels \n(promotion)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Hospitality"
+                ]
+            },
+            "title": "CR manager",
+            "companyUrn": "urn:li:fs_miniCompany:42935281",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEGNpDNDBEtsA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACQsFSMBsViTyp0PEVU8PEbh6kJvft2a6G0,563153636)",
+            "school": {
+                "objectUrn": "urn:li:school:15443",
+                "entityUrn": "urn:li:fs_miniSchool:15443",
+                "active": true,
+                "schoolName": "Saxion University of Applied Sciences",
+                "trackingId": "og732VvFRwiVkVQ9zkW55g==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHx7isknIg5gQ/company-logo_"
+            },
+            "activities": "Academieraad Saxion, Studievereniging FBS",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100544",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Hogeschool Saxion",
+            "fieldOfStudy": "Facilitair management / Facility management / Facilitair leidinggevende  ",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15443"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACQsFSMBsViTyp0PEVU8PEbh6kJvft2a6G0,449743355)",
+            "school": {
+                "objectUrn": "urn:li:school:15412",
+                "entityUrn": "urn:li:fs_miniSchool:15412",
+                "active": true,
+                "schoolName": "Windesheim",
+                "trackingId": "CqoNB3r4SYWGhJfBhWn8SQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGQqD5vAOBKkQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Windesheim",
+            "fieldOfStudy": "International Business and Languages",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15412"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACQsFSMBsViTyp0PEVU8PEbh6kJvft2a6G0,461769678)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "degreeName": "havo",
+            "schoolName": "Baudartius College",
+            "fieldOfStudy": "Economie en Maatschapij "
+        }
+    ],
+    "languages": [
+        {
+            "name": "Duits",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Engels",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Frans",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Spaans",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Goethe-Institut e.V.",
+            "name": "B2 German Certificate",
+            "company": {
+                "objectUrn": "urn:li:company:411534",
+                "entityUrn": "urn:li:fs_miniCompany:411534",
+                "name": "Goethe-Institut e.V.",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631325698722?e=1710374400&v=beta&t=--aHVsViWfQYc5VG9YdaSlWj7tWeTsdrLxYixX_V91g",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631325698722?e=1710374400&v=beta&t=JYKAfnSRe3fi1DW36_4bwyfTfrdSNw3bA7GzgU5lWGc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631325698722?e=1710374400&v=beta&t=xGuJ1mczhAvlFAcSRKhalfwpgg2LNqxLEag9SdeEh7w",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQEAUmE98bh11g/company-logo_"
+                    }
+                },
+                "universalName": "goethe-institut",
+                "dashCompanyUrn": "urn:li:fsd_company:411534",
+                "trackingId": "PeLjuiMmQwSxPd/uNjietw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:411534"
+        },
+        {
+            "authority": "Baudartius College",
+            "name": "HAVO E&M",
+            "company": {
+                "objectUrn": "urn:li:company:1528541",
+                "entityUrn": "urn:li:fs_miniCompany:1528541",
+                "name": "Baudartius College",
+                "showcase": false,
+                "active": true,
+                "universalName": "baudartius-college",
+                "dashCompanyUrn": "urn:li:fsd_company:1528541",
+                "trackingId": "EfYyWx6kTxmQtQlSojtKnQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1528541"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

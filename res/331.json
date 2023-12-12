@@ -1,0 +1,2473 @@
+{
+    "summary": "Specialties: Research; (Full Stack) Application development; (Security/Risk) analysis and methodic approaches (Software/IT/Infra: patterns & architectures, Business: architectures), threat modeling, hacking, building security teams.\nCurrent focus: software development, security automation & validation, threatmodeling, modern platform security (Docker, AWS, Kubernetes, etc.), coaching & assisting development teams.",
+    "industryName": "Information Technology & Services",
+    "lastName": "Willemsen",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Jeroen",
+    "entityUrn": "urn:li:fs_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "PSA",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+    "img_200_200": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+    "img_400_400": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+    "img_450_450": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+    "profile_id": "ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+    "member_urn": "urn:li:member:20235892",
+    "public_id": "jeroen-willemsen",
+    "experience": [
+        {
+            "projects": [
+                "urn:li:fs_project:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,714879115)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,1942765961)",
+            "companyName": "Undisclosed",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "title": "Principal Security Architect"
+        },
+        {
+            "locationName": "Hilversum",
+            "projects": [
+                "urn:li:fs_project:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,1331286679)",
+                "urn:li:fs_project:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,197441845)",
+                "urn:li:fs_project:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,698811916)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,947612961)",
+            "geoLocationName": "Hilversum",
+            "companyName": "Xebia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Principal Security Architect",
+            "companyUrn": "urn:li:fs_miniCompany:16903",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFFFBYtdC3U9g/company-logo_"
+        },
+        {
+            "locationName": "Hilversum",
+            "projects": [
+                "urn:li:fs_project:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,1602236895)",
+                "urn:li:fs_project:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,1170828184)",
+                "urn:li:fs_project:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,1170884022)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,827029058)",
+            "geoLocationName": "Hilversum",
+            "companyName": "Xebia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "description": "Areas of expertise:\n- Integrating security in Agile environments\n- Integrating security tooling in CI/CD\n- Creating abuse and misuse cases\n- Threat modeling, manage (information security) risks\n- Penetration testing, ethical hacking, security testing\n- Creating awareness for security issues within other services offered by Xebia\n- Secure software development\n- (Mobile) Security research\n- Give security workshops, trainings and talks\n\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Consultant Secure Software Development (Security consultant/Developer)",
+            "companyUrn": "urn:li:fs_miniCompany:16903",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFFFBYtdC3U9g/company-logo_"
+        },
+        {
+            "locationName": "Hilversum",
+            "projects": [
+                "urn:li:fs_project:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,102)",
+                "urn:li:fs_project:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,95)",
+                "urn:li:fs_project:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,107)",
+                "urn:li:fs_project:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,369900458)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,369900457)",
+            "geoLocationName": "Hilversum",
+            "companyName": "Xebia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2013
+                }
+            },
+            "description": "Full stack developer with a focus on mobile Security.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Full stack developer",
+            "companyUrn": "urn:li:fs_miniCompany:16903",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFFFBYtdC3U9g/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,313418485)",
+            "companyName": "Domus Technica",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2012
+                }
+            },
+            "description": "- Risk and security management of mobile application development, mobile device management and related processes and infrastructure.\n- Defining and transforming architectures (infra/logical/business/etc), with a specialization in mobile application development and mobile device management.\n- Development of mobile applications.\n- Mobile device hacking.\n\nOther than that, I am still involved in multiple research areas (Cloud, security, WSNs) and have been requested by multiple clients to do research on several other topics as well.",
+            "company": {
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior Consultant mobile security",
+            "companyUrn": "urn:li:fs_miniCompany:2142906"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,31000004)",
+            "school": {
+                "objectUrn": "urn:li:school:15453",
+                "entityUrn": "urn:li:fs_miniSchool:15453",
+                "active": true,
+                "schoolName": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "trackingId": "JQB2/OLCTEKVM7eDZx7hbg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "description": "Graduated cum laude.",
+            "degreeName": "Master",
+            "schoolName": "Vrije Universiteit Amsterdam",
+            "fieldOfStudy": "Computer Science",
+            "schoolUrn": "urn:li:fs_miniSchool:15453"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,16682539)",
+            "school": {
+                "objectUrn": "urn:li:school:15412",
+                "entityUrn": "urn:li:fs_miniSchool:15412",
+                "active": true,
+                "schoolName": "Windesheim",
+                "trackingId": "e/i025EHTJyssRIOFsfEvQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGQqD5vAOBKkQ/company-logo_"
+            },
+            "activities": "Member of employee/student participation",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            },
+            "description": "Graduated cum laude.",
+            "degreeName": "Bachelor (Bc / B ICT)",
+            "schoolName": "Christelijke Hogeschool Windesheim",
+            "fieldOfStudy": "Business Informatics",
+            "schoolUrn": "urn:li:fs_miniSchool:15412"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,219098461)",
+            "schoolName": "GH"
+        }
+    ],
+    "languages": [],
+    "publications": [
+        {
+            "date": {
+                "month": 9,
+                "year": 2020
+            },
+            "name": "Valkuilen en uitdagingen bij cryptografie in Java",
+            "publisher": "Java Magazine",
+            "url": "https://nljug.org/wp-content/uploads/2020/10/JAM03.pdf",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                },
+                {
+                    "member": {
+                        "firstName": "Nanne ",
+                        "lastName": "Baars 🇺🇦",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAB85WiIBslU6apUbfWdKsnt2cQuiZltEMJk",
+                        "occupation": "Senior Software Developer",
+                        "objectUrn": "urn:li:member:523852322",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAB85WiIBslU6apUbfWdKsnt2cQuiZltEMJk",
+                        "publicIdentifier": "nanne-baars-🇺🇦-34252b127",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517032371871?e=1707955200&v=beta&t=zGNNXXYjaWuaDU4Yliq-YTYT35LiIAEl4E1JJb0MWeg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517032372028?e=1707955200&v=beta&t=y1nvTLIyQypgarMYKXpgCoZgk01MaSMXlk2phjmJxr4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 291,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517032371898?e=1707955200&v=beta&t=Lhz3Po47YgYk1ycP5pB4DgZWiqbOwuTN64k6ObvB-Pw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 291
+                                    },
+                                    {
+                                        "width": 291,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517032371882?e=1707955200&v=beta&t=J-hrP2C_GhmLz_RqNN3esw3gMyQALMksEmz6Z-nKGy0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 291
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQEcQ2S_IJP9fg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "UgXGbOiUSC2XN1THJyFk1Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAB85WiIBslU6apUbfWdKsnt2cQuiZltEMJk"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 3,
+                "year": 2020,
+                "day": 4
+            },
+            "name": "Dear Ciso",
+            "publisher": "KPN",
+            "description": "European Cyber Security Perspectives published yearly by KPN",
+            "url": "https://overons.kpn/nl/nieuws/2020/kpn-publiceert-7e-editie-van-de-european-cyber-security-perspectives",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                },
+                {
+                    "member": {
+                        "firstName": "Anne-Sophie",
+                        "lastName": "Teunissen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAYOj6ABHZHt7ZshIFw3ZpbG2kbItLSoX1w",
+                        "occupation": "IT program manager",
+                        "objectUrn": "urn:li:member:101617568",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAYOj6ABHZHt7ZshIFw3ZpbG2kbItLSoX1w",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1675665374523?e=1707955200&v=beta&t=G_lJlc5Chvo4_U6CDIparBOSramZ5nyDiZ1rIoGOPD4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1675665374523?e=1707955200&v=beta&t=St_H8LreqM4NZbrPOoiiUXaIQqVbbS1w2xCxpNw0lB8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQGlzT0Bu1UVEg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "anne-sophie-teunissen-5680462a",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517579637083?e=1707955200&v=beta&t=MjmsUuaV6JvqLedB12aRSnZubU_TXI_mIqSdgDYUnVo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517579637035?e=1707955200&v=beta&t=JeomqkMxlWv3IYMuDIQW1e9UFxHx9ePp5VhvqbftanM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517579637096?e=1707955200&v=beta&t=fR-jeB2EK_AsmM220oL7xnfdnbD7YlSj4VCuLILhnqg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517579637033?e=1707955200&v=beta&t=wde8jzDyUfTmetwQvnf00UHeoGAtWLg04im9_cDDeU0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGmYhs2Zp0GgA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "JpHEb6rcQAmGrd5P6SeuBA=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAYOj6ABHZHt7ZshIFw3ZpbG2kbItLSoX1w"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 2,
+                "year": 2020
+            },
+            "name": "Introductie tot cryptografie in Java",
+            "publisher": "Java Magazine",
+            "url": "https://nljug.org/wp-content/uploads/2020/07/JAM02.pdf",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                },
+                {
+                    "member": {
+                        "firstName": "Nanne ",
+                        "lastName": "Baars 🇺🇦",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAB85WiIBslU6apUbfWdKsnt2cQuiZltEMJk",
+                        "occupation": "Senior Software Developer",
+                        "objectUrn": "urn:li:member:523852322",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAB85WiIBslU6apUbfWdKsnt2cQuiZltEMJk",
+                        "publicIdentifier": "nanne-baars-🇺🇦-34252b127",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517032371871?e=1707955200&v=beta&t=zGNNXXYjaWuaDU4Yliq-YTYT35LiIAEl4E1JJb0MWeg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517032372028?e=1707955200&v=beta&t=y1nvTLIyQypgarMYKXpgCoZgk01MaSMXlk2phjmJxr4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 291,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517032371898?e=1707955200&v=beta&t=Lhz3Po47YgYk1ycP5pB4DgZWiqbOwuTN64k6ObvB-Pw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 291
+                                    },
+                                    {
+                                        "width": 291,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517032371882?e=1707955200&v=beta&t=J-hrP2C_GhmLz_RqNN3esw3gMyQALMksEmz6Z-nKGy0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 291
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQEcQ2S_IJP9fg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "UgXGbOiUSC2XN1THJyFk1Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAB85WiIBslU6apUbfWdKsnt2cQuiZltEMJk"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 7,
+                "year": 2019,
+                "day": 30
+            },
+            "name": "Chapter \"Creating an Appsec Pipeline in a Week\"",
+            "publisher": "\"Voices of All Day DevOps, Volume 1: Feedback Loops\" All Day DevOps Press",
+            "description": "A chapter in the book \"Voices of All Day DevOps, Volume 1: Feedback Loops\" by SonaType on the webinar given during AllDayDevops 2017.",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 3,
+                "year": 2019,
+                "day": 1
+            },
+            "name": "OWASP Mobile Security Testing Guide",
+            "publisher": "Lulu",
+            "description": "A book form of the OWASP MSTG. ISBN #: 978-0-359-47489-9",
+            "url": "http://www.lulu.com/shop/sven-schleier-and-jeroen-willemsen-and-bernhard-m%C3%BCller/owasp-mobile-security-testing-guide/paperback/product-24005609.html",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 2,
+                "year": 2019,
+                "day": 9
+            },
+            "name": "10 Pitfalls When Working with K8S - Do’s and don’ts when securing Kubernetes",
+            "publisher": "Pentest Magazine ",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                },
+                {
+                    "member": {
+                        "firstName": "Eric",
+                        "lastName": "Nieuwenhuijsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAARzU7AB0W_BATqlAhViCVcQehPARZ-BvYU",
+                        "occupation": "Technical Director | Cloud leadership",
+                        "objectUrn": "urn:li:member:74666928",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAARzU7AB0W_BATqlAhViCVcQehPARZ-BvYU",
+                        "publicIdentifier": "ecmnieuw",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1632336975464?e=1707955200&v=beta&t=vfjeQ4xwslVisnoOl8mqRZMXXtp5YzJgjw3wnS6h_I4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1632336975464?e=1707955200&v=beta&t=KlxwSZGmFE8QUbsKgNdsdAECtIByJ43yUJpx1rzKtq8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1632336975464?e=1707955200&v=beta&t=SY_cuPKV8bw1O4qlINOol49jkNETRNOaRa4sqzxObaI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1632336975464?e=1707955200&v=beta&t=pztSKhAo3kJR8hIF3-Ta9jeBQblbEj_ys_YSbGJL9z0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHhPruPokg76w/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "phBvCdqURkeMg49t3XdPsA=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAARzU7AB0W_BATqlAhViCVcQehPARZ-BvYU"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 8,
+                "year": 2017,
+                "day": 1
+            },
+            "name": "SSL pinning in Android",
+            "publisher": "Java Magazin",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                },
+                {
+                    "member": {
+                        "firstName": "Nanne ",
+                        "lastName": "Baars 🇺🇦",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAB85WiIBslU6apUbfWdKsnt2cQuiZltEMJk",
+                        "occupation": "Senior Software Developer",
+                        "objectUrn": "urn:li:member:523852322",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAB85WiIBslU6apUbfWdKsnt2cQuiZltEMJk",
+                        "publicIdentifier": "nanne-baars-🇺🇦-34252b127",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517032371871?e=1707955200&v=beta&t=zGNNXXYjaWuaDU4Yliq-YTYT35LiIAEl4E1JJb0MWeg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517032372028?e=1707955200&v=beta&t=y1nvTLIyQypgarMYKXpgCoZgk01MaSMXlk2phjmJxr4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 291,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517032371898?e=1707955200&v=beta&t=Lhz3Po47YgYk1ycP5pB4DgZWiqbOwuTN64k6ObvB-Pw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 291
+                                    },
+                                    {
+                                        "width": 291,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517032371882?e=1707955200&v=beta&t=J-hrP2C_GhmLz_RqNN3esw3gMyQALMksEmz6Z-nKGy0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 291
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQEcQ2S_IJP9fg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "UgXGbOiUSC2XN1THJyFk1Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAB85WiIBslU6apUbfWdKsnt2cQuiZltEMJk"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 2,
+                "year": 2016,
+                "day": 1
+            },
+            "name": "Security Testen - Eenvouding met behulp van BDD",
+            "publisher": "Java Magazine",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                },
+                {
+                    "member": {
+                        "firstName": "Nanne ",
+                        "lastName": "Baars 🇺🇦",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAB85WiIBslU6apUbfWdKsnt2cQuiZltEMJk",
+                        "occupation": "Senior Software Developer",
+                        "objectUrn": "urn:li:member:523852322",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAB85WiIBslU6apUbfWdKsnt2cQuiZltEMJk",
+                        "publicIdentifier": "nanne-baars-🇺🇦-34252b127",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517032371871?e=1707955200&v=beta&t=zGNNXXYjaWuaDU4Yliq-YTYT35LiIAEl4E1JJb0MWeg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517032372028?e=1707955200&v=beta&t=y1nvTLIyQypgarMYKXpgCoZgk01MaSMXlk2phjmJxr4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 291,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517032371898?e=1707955200&v=beta&t=Lhz3Po47YgYk1ycP5pB4DgZWiqbOwuTN64k6ObvB-Pw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 291
+                                    },
+                                    {
+                                        "width": 291,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517032371882?e=1707955200&v=beta&t=J-hrP2C_GhmLz_RqNN3esw3gMyQALMksEmz6Z-nKGy0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 291
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQEcQ2S_IJP9fg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "UgXGbOiUSC2XN1THJyFk1Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAB85WiIBslU6apUbfWdKsnt2cQuiZltEMJk"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 12,
+                "year": 2015,
+                "day": 3
+            },
+            "name": "Minder datalekken? Begin bij het Begin!",
+            "publisher": "Cqure",
+            "url": "https://www.cqure.nl/kennisplatform/minder-datalekken-begin-bij-het-begin/",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 1,
+                "year": 2013,
+                "day": 28
+            },
+            "name": "Providing Source Location Privacy in Wireless Sensor Networks: a Survey",
+            "publisher": "IEEE",
+            "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&tp=&arnumber=6422284",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                },
+                {
+                    "member": {
+                        "firstName": "Bruno",
+                        "lastName": "C.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAB--voBMgchuSojGMqXsaSpdVRUiWCmiv8",
+                        "occupation": "Professor presso University of Trento",
+                        "objectUrn": "urn:li:member:8321786",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAB--voBMgchuSojGMqXsaSpdVRUiWCmiv8",
+                        "publicIdentifier": "bruno-c-a229532",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516269528930?e=1707955200&v=beta&t=8XUV3xOo5uLwMrT2FIRjgeWC4i57_YwQS6AcE392J3I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516269528948?e=1707955200&v=beta&t=UT0mEeTNImOUZkLCD3o40P5rqVmP5nO9VR8SlsljpeM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 351,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516269529546?e=1707955200&v=beta&t=k-jVSzUUW9_b-qPXf51jsu0LD_jvNTs4NRZTmrGZXKQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 351
+                                    },
+                                    {
+                                        "width": 351,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516269528998?e=1707955200&v=beta&t=s_SYn3C3_YmfZrog0qERmm5Krfla_0EEIRv7Etv_sGc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 351
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQF-rbn6OE6NZg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "XZMADFFeTbaBKSM2hKLB1Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAB--voBMgchuSojGMqXsaSpdVRUiWCmiv8"
+                },
+                {
+                    "member": {
+                        "firstName": "Mauro",
+                        "lastName": "Conti",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAACd-F8BDWP0CbAql9K6qxZN6jtywo1fcuA",
+                        "occupation": "IEEE Fellow | Full Professor in Cybersecurity",
+                        "objectUrn": "urn:li:member:10352735",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAACd-F8BDWP0CbAql9K6qxZN6jtywo1fcuA",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1641164409998?e=1707955200&v=beta&t=lhQ6D-AOcuPvr23pgEz8z6QGCCt7ThV1g3XdDB0UlhQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1641164409998?e=1707955200&v=beta&t=3zQyOt4FmzVHitOXiaD18kAbOeVE6U79x-ySe1Tpi44",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQFPXfnX6TjwHg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mauroconti",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1701112199043?e=1707955200&v=beta&t=FVIU4_bqkbyhc9yYWZ_0N3WBBDvKQP8Y-Xc78knSalo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1701112199044?e=1707955200&v=beta&t=NL993bm3TBvBSa7SR2SMam7DSlqp_XncWCZhB9f2A-o",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1701112199044?e=1707955200&v=beta&t=-0zgKAzMDq5Y9OAKd6rMN3FyWCkciuFwQI-mpRlVvMA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1701112199044?e=1707955200&v=beta&t=lOzENrCQU_NIGaXIZxLWgauin_7Sukh5A_-IEDU37jY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHb_znJuZMwDw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "pN8xexa2QBeqrQsWGRWGsg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAACd-F8BDWP0CbAql9K6qxZN6jtywo1fcuA"
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "authority": "EC-Council",
+            "name": "Certified Ethical Hacker",
+            "licenseNumber": "ECC26347112289",
+            "company": {
+                "objectUrn": "urn:li:company:569038",
+                "entityUrn": "urn:li:fs_miniCompany:569038",
+                "name": "EC-Council",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631371916365?e=1710374400&v=beta&t=oFwr04RjAQGs582Amme68VJvroX72dIuU7CVGoJhkPg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631371916365?e=1710374400&v=beta&t=PR_X7d3iD7Tm92YyFZSSBV5TLrzQ3t5vfaQQ5iyA0Pk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631371916365?e=1710374400&v=beta&t=YFC5Ztndw9cGK6BcmSiPdYp4KLAm4rUYDLWbwF-LTvA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHPon7g_XjJpA/company-logo_"
+                    }
+                },
+                "universalName": "ec-council",
+                "dashCompanyUrn": "urn:li:fsd_company:569038",
+                "trackingId": "NxJLutAyQ1GNL41VDau5GQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:569038"
+        },
+        {
+            "authority": "(ISC)²",
+            "name": "Certified Information Systems Security Professional",
+            "licenseNumber": "535772",
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "+rzo2iWqQBW1AcsB1E+q3A=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:26753"
+        },
+        {
+            "authority": "(ISC)²",
+            "name": "Certified Secure Software Lifecycle Professional",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2017
+                }
+            },
+            "licenseNumber": "535772",
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "VQvzqYZjQlWnPZLAFkOV7A=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:26753"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Member / contributor to MASVS & MSTG",
+            "companyName": "OWASP Foundation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "cause": "EDUCATION",
+            "description": "Worked at both the MASVS and MSTG: filed issues, added content, reviewed content. Helped the team by explaining several challenges in terms of IAM/secrets management / etc... Provided presentations on mobile security on meetups and conferences.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:250673",
+                    "entityUrn": "urn:li:fs_miniCompany:250673",
+                    "name": "OWASP® Foundation",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1633702546896/owasp_logo?e=1710374400&v=beta&t=mXMiifpGpBeYSJUFP6iLEksOe8SPHh3bL2sFydssRuk",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1633702546896/owasp_logo?e=1710374400&v=beta&t=4_7RMwuUyYXg6OdtkpTWg2eDn_r7L_D4lxaQe7SJz_g",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1633702546896/owasp_logo?e=1710374400&v=beta&t=G-8qi6_jLVXol_2LxQJGKwLDZ7V8zw9E9jguOwBtMmc",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEdEi67-H41Rg/company-logo_"
+                        }
+                    },
+                    "universalName": "owasp",
+                    "dashCompanyUrn": "urn:li:fsd_company:250673",
+                    "trackingId": "TT+8lCN3T/uWk0322Fz37Q=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:250673"
+        },
+        {
+            "role": "Project leader OWASP Mobile Security Testing Guide project",
+            "companyName": "OWASP Foundation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "cause": "EDUCATION",
+            "description": "Project leader (answer questions, review content, adding content, promoting mobile security, etc.) together with Sven Schleier and Carlos Holguera. ",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:250673",
+                    "entityUrn": "urn:li:fs_miniCompany:250673",
+                    "name": "OWASP® Foundation",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1633702546896/owasp_logo?e=1710374400&v=beta&t=mXMiifpGpBeYSJUFP6iLEksOe8SPHh3bL2sFydssRuk",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1633702546896/owasp_logo?e=1710374400&v=beta&t=4_7RMwuUyYXg6OdtkpTWg2eDn_r7L_D4lxaQe7SJz_g",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1633702546896/owasp_logo?e=1710374400&v=beta&t=G-8qi6_jLVXol_2LxQJGKwLDZ7V8zw9E9jguOwBtMmc",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEdEi67-H41Rg/company-logo_"
+                        }
+                    },
+                    "universalName": "owasp",
+                    "dashCompanyUrn": "urn:li:fsd_company:250673",
+                    "trackingId": "zo3zzOeEROCrEeg375nRMQ=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:250673"
+        },
+        {
+            "role": "Project Leader WrongSecrets",
+            "companyName": "OWASP Foundation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "cause": "EDUCATION",
+            "description": "https://github.com/commjoen/wrongsecrets is a p0wnable app aimed at helping you to consider secrets maangement. It contains multiple challenges which show common mistakes on how to not manager your secrets. I setup the project, and promoted it, together with Ben de Haan.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:250673",
+                    "entityUrn": "urn:li:fs_miniCompany:250673",
+                    "name": "OWASP® Foundation",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1633702546896/owasp_logo?e=1710374400&v=beta&t=mXMiifpGpBeYSJUFP6iLEksOe8SPHh3bL2sFydssRuk",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1633702546896/owasp_logo?e=1710374400&v=beta&t=4_7RMwuUyYXg6OdtkpTWg2eDn_r7L_D4lxaQe7SJz_g",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1633702546896/owasp_logo?e=1710374400&v=beta&t=G-8qi6_jLVXol_2LxQJGKwLDZ7V8zw9E9jguOwBtMmc",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEdEi67-H41Rg/company-logo_"
+                        }
+                    },
+                    "universalName": "owasp",
+                    "dashCompanyUrn": "urn:li:fsd_company:250673",
+                    "trackingId": "R5doABGkS6SzV+p6O7ybxQ=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:250673"
+        }
+    ],
+    "honors": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,59559033)",
+            "description": "The Annette Roetersprijs is given to the student that provides the best bachelor thesis of that year. The thesis should be relevant, renewing and of high influence on the field.",
+            "title": "Annette Roeters Prijs",
+            "issueDate": {
+                "month": 10,
+                "year": 2009
+            },
+            "issuer": "Christelijke Hogeschool Windesheim"
+        }
+    ],
+    "projects": [
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,1271896187,350706352)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "title": "Advance threatmodelling, risk management and compliancy engineering"
+        },
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,160939125,216209537)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ],
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "description": "Various infra/pipeline security assessments & improvement projects for undisclosed customers and employers over time.",
+            "title": "CI/CD Pipeline security & security automation"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,1942765961)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,714879115,269071539)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "description": "I have spoken on the following conferences:\nNG-NL 2016,  TestworksConf 2016, Big Android BBQ 2016, OWASP APPSEC Europe 2017, DevopsDays Amsterdam 2017, BSides AMS 2017, OpenSecuritySummit 2017, AllDayDevops 2017, Nederlandse testdag 2017, OWASP Benelux days 2017,  Appsec usa 2018, OWASP Benelux days 2018, Devops Pro Lt 2019, Open Security Summit 2019, Appdevcon Amsterdam 2019, Test Automation Days 2019, AllDayDevops 2019, OWASP Global Appsec Amsterdam 2019, AllDayDevops 2020, Whitesource Secure Coding Virtual Summit 2021, MSSForum Amsterdam 2021, DevSecOpsDays Pittsburgh 2021, MSSForum Londen IV 2021, Club Cloud, CISO Ensemble, Conf 42, OpenSecuritySummit 2022, Devops Pro Europe 2022, Code to Cloud 2022, Teqnation 2022, OWASP Global Appsec 2022, Annual MSS Amsterdam forum V 2022, Devops Pro Europe 2022, AllDayDevops 2022.\nAnd at the following meetups:\nCode & Canolli 2015, ING mobile meets mobile 2016 & 2017, OWASP NL meetup, Cocoheads NL, Cqure expert panel, ING tech-sessioins, Swift user group, Mobile security Essentials Gotenburg 2018, Mobile Security Essentials Umea 2018, Mobile security essentials Bay Area 2018, SWIFT-day may 2018, OWASP Dutch virtual Chapter meetup may 2020, OWASP Dutch virtual Chapter meetup october 2021, OWASP Bay Area chapter meetup 2022, various internal/external Xebia & customer meetups (DevSecOps, security automation, the power of zap, CI/CD security, ios security and more), OWASP Stammtich Hamburg.\nAnd multiple podcast episodes.",
+            "title": "Speaker at various conferences & meetups",
+            "url": "https://www.youtube.com/user/joenotubby/playlists"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,827029058)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,1170884022,1)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2016
+                }
+            },
+            "title": "Security Automation for undisclosed customers"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,827029058)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,1170828184,159361588)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "title": "Various penetration tests on iOS and Android applications, websites, back-ends, infrastructure, etc."
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,947612961)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,698811916,278489292)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "title": "Security engineer/interim lead at fintech"
+        },
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,732951108,268535579)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "title": "Security specialist at fintech scale up"
+        },
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,1747016085,143821779)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "description": "We have started a research center, where students can do their thesis & internship. The goal of the research center is to improve security in an agile working environment by developing better tooling and processes.",
+            "title": "Security Innovation & research center"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,947612961)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,197441845,169876690)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "title": "Security engineer/ securing coach / security architect at undisclosed medical company"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,947612961)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Jeroen",
+                        "lastName": "Willemsen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "occupation": "PSA",
+                        "objectUrn": "urn:li:member:20235892",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517705124862?e=1707955200&v=beta&t=n-SZLv1fcpTYa_m5wirojBUWzQinYG-FA8zEFji7V1c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 900,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517705124832?e=1707955200&v=beta&t=U9NxUkPrw--lotIfGeW6QuQ8VsjeWpvCad57Dxhhebc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 225
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHEEtk8uJ0_0w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jeroen-willemsen",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517705124718?e=1707955200&v=beta&t=cXgrVetjVnYkUxVwAayRcN98WLowbmxuIoQruJoij9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517705124098?e=1707955200&v=beta&t=O2OwaRYKGEpUXtTWTeTHeBN2eHeqXsMPoIOIwo4u4Sg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517705124096?e=1707955200&v=beta&t=p-lydw9-g38wYReIZPPyckW95xtlqezkAxaB2-bM3YQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517705124093?e=1707955200&v=beta&t=fkhPiUSWG0mIdUKmMK_kqADjLcpl_ODOz99ST-vG-UA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGcffMg4EBFFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "olmSa/oNQImOu69kfEzpBQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g,1331286679,169875666)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAE0xnQBG73cqexx0g7eBi-yvOY5YazAK1g"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "description": "Security coaching, automation, pentesting, code-review, incident response...",
+            "title": "Security engineer & architect for undisclosed scale-up"
+        }
+    ]
+}

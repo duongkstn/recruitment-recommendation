@@ -1,0 +1,206 @@
+{
+    "industryName": "Retail",
+    "lastName": "Ruijgrok",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Michelle",
+    "entityUrn": "urn:li:fs_profile:ACoAABkR92QB6ig_pRsK1W9TkQESc7TWqzjlXvQ",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:105718305"
+    },
+    "geoLocationName": "Breda, North Brabant",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Sr. Category Manager | Buyer Mobile & Tablet bij Bol.com",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQGYE6g3NlX24A/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1655409216843?e=1707955200&v=beta&t=jRcisZCsKVL-TrXI1Whzs7uVZJItW_BNXq-FrVbrTmI",
+    "img_200_200": "200_200/0/1655409216843?e=1707955200&v=beta&t=EGNjIsxl-sxetA7taCv4XE-7a6uec-KnVqtwET6uKAo",
+    "img_400_400": "400_400/0/1655409216843?e=1707955200&v=beta&t=g8orqQxfZf7XVfHBdNjMWhlRWeSh5SDxyw1z5A115vc",
+    "img_800_800": "800_800/0/1655409216843?e=1707955200&v=beta&t=dgBxb3O3DS3Clz8SAHgA13p_K0Ijd9jLPGFHGv0be38",
+    "profile_id": "ACoAABkR92QB6ig_pRsK1W9TkQESc7TWqzjlXvQ",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABkR92QB6ig_pRsK1W9TkQESc7TWqzjlXvQ",
+    "member_urn": "urn:li:member:420607844",
+    "public_id": "michelle-ruijgrok-398a3bb8",
+    "experience": [
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABkR92QB6ig_pRsK1W9TkQESc7TWqzjlXvQ,2131740233)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Senior Category Manager | Buyer Mobile & Tablet",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Nieuwegein, Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABkR92QB6ig_pRsK1W9TkQESc7TWqzjlXvQ,1995285012)",
+            "geoLocationName": "Nieuwegein, Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:102042271",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Category Manager | Buyer Mobile & Tablet",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Nieuwegein, Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABkR92QB6ig_pRsK1W9TkQESc7TWqzjlXvQ,1847947960)",
+            "geoLocationName": "Nieuwegein, Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:102042271",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Category Manager | Buyer Mobile & Tablet accessoires",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABkR92QB6ig_pRsK1W9TkQESc7TWqzjlXvQ,1539219240)",
+            "companyName": "Capi-Lux",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Category Manager",
+            "companyUrn": "urn:li:fs_miniCompany:1586208",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGqGTK8Xnt98A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABkR92QB6ig_pRsK1W9TkQESc7TWqzjlXvQ,1354716779)",
+            "companyName": "Capi-Lux",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Junior Category Manager",
+            "companyUrn": "urn:li:fs_miniCompany:1586208",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGqGTK8Xnt98A/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABkR92QB6ig_pRsK1W9TkQESc7TWqzjlXvQ,280163037)",
+            "school": {
+                "objectUrn": "urn:li:school:15453",
+                "entityUrn": "urn:li:fs_miniSchool:15453",
+                "active": true,
+                "schoolName": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "trackingId": "Mz+vX7gFQL6b0TYIU8eOYA==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_"
+            },
+            "activities": "Unitas Studiosorum Amstelodamensium",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100990",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Vrije Universiteit Amsterdam",
+            "fieldOfStudy": "Economie",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15453"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

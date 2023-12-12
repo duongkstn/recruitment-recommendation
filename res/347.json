@@ -1,0 +1,252 @@
+{
+    "summary": "Frazer Jones is a global HR executive search and recruitment consultancy. Driven by the work ethic and passion of our people, we help HR professionals thrive and empower HR leaders to put people and culture at the heart of their business – creating a more progressive future, for everyone.\n\nAs a Consultant at Frazer Jones, I focus exclusively on the recruitment of Reward, Payroll, and HRIS professionals across the BeNeLux. Feel free to reach out today!\n\nPhone: +31621345851\nEmail: Alfredolira@frazerjones.com",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Lira",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 4,
+        "day": 30
+    },
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Alfredo",
+    "entityUrn": "urn:li:fs_profile:ACoAACGQNXYBXI3alve6Qwz4Bdv87YSJnF7RdPo",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Senior Consultant - Reward, Payroll, HRIS, HR Analytics & Global Mobility",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQG-R-LuF5-pNw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1685984245122?e=1707955200&v=beta&t=mDmadWj9c6oSK4WX4xoEADcqJpEzzMRtktVF4PChUMI",
+    "img_200_200": "200_200/0/1685984245122?e=1707955200&v=beta&t=EPJrcudjIM7nNj2pyOEiZ0SQee4mLRa5nPH2l6xS3ow",
+    "img_400_400": "400_400/0/1685984245122?e=1707955200&v=beta&t=8INDGNLBo-2TPmEWYYQRU_FaVFBiIDTgm69OVu7bl-c",
+    "img_800_800": "800_800/0/1685984245122?e=1707955200&v=beta&t=4IUydmigLgmhw0wKVq9TcvovhHJpBqrZ7aQZXyJrxOY",
+    "profile_id": "ACoAACGQNXYBXI3alve6Qwz4Bdv87YSJnF7RdPo",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACGQNXYBXI3alve6Qwz4Bdv87YSJnF7RdPo",
+    "member_urn": "urn:li:member:563098998",
+    "public_id": "alfredolira98",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACGQNXYBXI3alve6Qwz4Bdv87YSJnF7RdPo,2208028920)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Frazer Jones",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "description": "We’re a multi-sector, multi-level HR executive search and recruitment consultancy covering a wide range of permanent and interim roles and specialisms.\n\nCore business roles we recruit:\n̵ Total reward\n̵ Compensation and benefits\n̵ Executive compensation\n̵ Mobility\n̵ HR analytics \n̵ HR digital (HRIS)\n̵ Employee / Labor / Industrial Relations\n̵ Payroll",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior Consultant - Reward, Payroll, HRIS, HR Analytics & Global Mobility",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:36130",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGEejiu6XnJLg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area",
+            "entityUrn": "urn:li:fs_position:(ACoAACGQNXYBXI3alve6Qwz4Bdv87YSJnF7RdPo,1934523608)",
+            "geoLocationName": "Amsterdam Area",
+            "geoUrn": "urn:li:fs_geo:90010383",
+            "companyName": "Frazer Jones",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Consultant - Reward, Payroll, HRIS, HR Analytics & Global Mobility",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:36130",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGEejiu6XnJLg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACGQNXYBXI3alve6Qwz4Bdv87YSJnF7RdPo,1834914404)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Frazer Jones",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Associate Consultant - Reward, Payroll, HRIS, HR Analytics & Global Mobility",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:36130",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGEejiu6XnJLg/company-logo_"
+        },
+        {
+            "locationName": "The Hague Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACGQNXYBXI3alve6Qwz4Bdv87YSJnF7RdPo,1455203085)",
+            "geoLocationName": "The Hague Area, Netherlands",
+            "companyName": "U.S. Commercial Service",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "International Trade and Development"
+                ]
+            },
+            "title": "Foreign Commercial Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:4834",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEmqlIgrgvTgg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACGQNXYBXI3alve6Qwz4Bdv87YSJnF7RdPo,675321233)",
+            "school": {
+                "objectUrn": "urn:li:school:15415",
+                "entityUrn": "urn:li:fs_miniSchool:15415",
+                "active": true,
+                "schoolName": "Erasmus University Rotterdam",
+                "trackingId": "lSz326c5Sf6OUyISdgudtA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101005",
+            "degreeName": "MSc Politics and Society",
+            "schoolName": "Erasmus University Rotterdam",
+            "fieldOfStudy": "Sociology",
+            "schoolUrn": "urn:li:fs_miniSchool:15415"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACGQNXYBXI3alve6Qwz4Bdv87YSJnF7RdPo,395499109)",
+            "school": {
+                "objectUrn": "urn:li:school:15415",
+                "entityUrn": "urn:li:fs_miniSchool:15415",
+                "active": true,
+                "schoolName": "Erasmus University Rotterdam",
+                "trackingId": "GTimzKuDTQyhR9ubqk1bcQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "degreeName": "BSc Communication and Media",
+            "schoolName": "Erasmus University Rotterdam",
+            "fieldOfStudy": "Communication Studies",
+            "schoolUrn": "urn:li:fs_miniSchool:15415"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACGQNXYBXI3alve6Qwz4Bdv87YSJnF7RdPo,766358516)",
+            "school": {
+                "objectUrn": "urn:li:school:15447",
+                "entityUrn": "urn:li:fs_miniSchool:15447",
+                "active": true,
+                "schoolName": "Leiden University",
+                "trackingId": "R53/fNVLR+SGGPuUAUPGaw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101001",
+            "degreeName": "Minor: Global Affairs",
+            "schoolName": "Universiteit Leiden",
+            "fieldOfStudy": "Political Science and Government",
+            "schoolUrn": "urn:li:fs_miniSchool:15447"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

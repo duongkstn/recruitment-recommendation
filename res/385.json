@@ -1,0 +1,229 @@
+{
+    "summary": "Forward-thinking professional, with extensive experience in the People Operations and Customer Care spheres. Always up for a challenge, eager to continuously learning and build on my expertise. Focusing on constant improvement of the HR processes and on providing a great people experience throughout the life cycle of an employee.",
+    "industryName": "Human Resources",
+    "lastName": "Stan",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:137",
+    "firstName": "Florin",
+    "entityUrn": "urn:li:fs_profile:ACoAACiVAgcBdYkKhhYSOoLyTkkuSajQ9lA5jLc",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "HR Generalist - I provide a great people experience throughout the life cycle of an employee",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQFHhVB6bIoKvg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1629319039074?e=1707955200&v=beta&t=BWECwSHY5xweCc1SCwCI_6P10yqebTHV4Qi1Tf8FmNI",
+    "img_200_200": "200_200/0/1629319039074?e=1707955200&v=beta&t=AWtHpIBviYS2AXS7J_xLxL3GNR7IV-AH1qptynh8ETk",
+    "img_400_400": "400_400/0/1629319039074?e=1707955200&v=beta&t=vzB7YiLkvB9htU_WHL_6a0swvJuDfN81ebiYC3jexZE",
+    "img_800_800": "800_800/0/1629319039074?e=1707955200&v=beta&t=kD25MOJwwOr4qCb23s7qXUFL2lNjH0I8UFhzZgakR1M",
+    "profile_id": "ACoAACiVAgcBdYkKhhYSOoLyTkkuSajQ9lA5jLc",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACiVAgcBdYkKhhYSOoLyTkkuSajQ9lA5jLc",
+    "member_urn": "urn:li:member:680854023",
+    "public_id": "florin-stan-8b3024170",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACiVAgcBdYkKhhYSOoLyTkkuSajQ9lA5jLc,2066183511)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Randstad Sourceright",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Human Resources Generalist",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:502882",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFwAk6lD9DhlQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACiVAgcBdYkKhhYSOoLyTkkuSajQ9lA5jLc,1855081165)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Catawiki",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "description": "Onboarding, offboarding and relocation process mapping and optimisation, making sure the People Team is providing a smooth and pleasant experience.\nAssisting with time & attendance, absence management processes.\nBenefits enrolment and maintaining.\nOwnership over employee onboarding and offboarding, processed via Jira ticketing system.\nProviding assistance on HR Processes across the full employee lifecycle by being the first point of contact for employees.\nCapturing internal knowledge into written FAQs and guides, in order to decrease people dependency.\nOwnership over Workday employee data administration.\nUpdating the monthly payroll input.\nPreparing monthly and ad-hoc reports for internal newsletters and for third-party providers.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Internet"
+                ]
+            },
+            "title": "People Operations Coordinator",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1314652",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEt8RUsWRTm9Q/company-logo_"
+        },
+        {
+            "locationName": "Bucharest, Romania",
+            "entityUrn": "urn:li:fs_position:(ACoAACiVAgcBdYkKhhYSOoLyTkkuSajQ9lA5jLc,1825821209)",
+            "geoLocationName": "Bucharest, Romania",
+            "geoUrn": "urn:li:fs_geo:105773754",
+            "companyName": "Finastra",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "description": "Providing assistance on HR Processes across the full employee lifecycle.\nOffering information and providing guidance when requested, making sure the response is tailored to the employee's needs.\nAssisting employees in requesting and submitting their benefits selection and maintaining benefits member database.\nMakes sure invoices are received and validated within the agreed timeframe.\nPrepares monthly and ad-hoc reports for the client and for third-party providers.\nConducts testing in preparation for upcoming projects or whenever a change is implemented.\nProactively identify opportunities for introducing new approaches, continuous improvement, and best practices region wide.\nBuilding and maintaining the Knowledge Management database.\nEnsure that the vendors are adhering to the principles and setup of the HR Service model.\nAssisting with employee relations issues to gain an understanding of the process and good practice.\nAssisting in the annual Employee Engagement Survey, action planning and reporting.\nAssisting with attendance, absence, maternity and other employee related processes.\nBuilding strong working relationships with key stakeholders.\nAdhering  and supporting on global annual processes such as talent review, pay review and the management bonus scheme.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "People Operations Associate",
+            "region": "urn:li:fs_region:(ro,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11153805",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFUykCjc3_8VQ/company-logo_"
+        },
+        {
+            "locationName": "Bucharest, Romania",
+            "entityUrn": "urn:li:fs_position:(ACoAACiVAgcBdYkKhhYSOoLyTkkuSajQ9lA5jLc,1825817514)",
+            "geoLocationName": "Bucharest, Romania",
+            "geoUrn": "urn:li:fs_geo:105773754",
+            "companyName": "CGS (Computer Generated Solutions)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "description": "Solving issues of any nature that might occur while customers are placing online orders. Providing\nproper details regarding processing and shipping timeframes.\nAssisting customers with electronic-bill breakdowns, manual adjustments of charges and fees if needed or\nescalating situations to executive departments if only exceptions from procedures can fix\nthe flagged issues.\nProcessing new orders, returns, exchanges and requests of cancellation. This process also\ninvolves processing requests of payment or refund.\nCollaborate with cross-functional teams to provide accurate product distribution",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Order Specialist",
+            "region": "urn:li:fs_region:(ro,0)",
+            "companyUrn": "urn:li:fs_miniCompany:162986",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQF6mRyVLTsrCQ/company-logo_"
+        },
+        {
+            "locationName": "Bucharest, Romania",
+            "entityUrn": "urn:li:fs_position:(ACoAACiVAgcBdYkKhhYSOoLyTkkuSajQ9lA5jLc,1359616895)",
+            "geoLocationName": "Bucharest, Romania",
+            "geoUrn": "urn:li:fs_geo:105773754",
+            "companyName": "Teleperformance Romania",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2017
+                }
+            },
+            "description": "Answering to customers via mail and social media to questions or complaints. Escalating situations\nwhen needed.\nProviding specific information about the product or its technology behind, also capturing into the\nsystem the proper feedback left by every customer.\nSolving issues of any nature that might occur while the customers were placing online orders,\ntroubleshooting devices and offering replacement devices when needed.\nEducating the customers on the issues and presenting them multiple options, informing them how\nto avoid further inconveniences.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Outsourcing/Offshoring"
+                ]
+            },
+            "title": "Customer Care Representative",
+            "region": "urn:li:fs_region:(ro,0)",
+            "companyUrn": "urn:li:fs_miniCompany:5211",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQEE3_g-mpl-mQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACiVAgcBdYkKhhYSOoLyTkkuSajQ9lA5jLc,741724804)",
+            "school": {
+                "objectUrn": "urn:li:school:16162",
+                "entityUrn": "urn:li:fs_miniSchool:16162",
+                "active": true,
+                "schoolName": "Romania Jobs",
+                "trackingId": "jeZ8/XT/Q6atQ249DvJmfw=="
+            },
+            "degreeName": "Economic Sciences - Management",
+            "schoolName": "Faculty of Economic Sciences",
+            "fieldOfStudy": "Faculty of Economic Sciences",
+            "schoolUrn": "urn:li:fs_miniSchool:16162"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "French",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Volunteer",
+            "companyName": "The Comic Opera for Children",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "cause": "CHILDREN"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

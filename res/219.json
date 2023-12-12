@@ -1,0 +1,582 @@
+{
+    "summary": "♻️  NL aims to be fully circular in 2050. This however is not going fast enough for me. That's why I chose to switch from the corporate consulting world to a green startup, and ever since contribute to a sustainable and circular world also during my work day.\n\n🚀 So far I made positive impact in the fields of product development and customer experience. Yet, I'm currently keen on joining a new company with a meaningful mission.\n\n🤝 So if you happen to know of any opportunities or companies with a meaningful mission, I'm all ears! 🫶Only together we can make a better future a reality!",
+    "industryName": "Renewables & Environment",
+    "lastName": "van Outersterp",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:144",
+    "firstName": "Ilse",
+    "entityUrn": "urn:li:fs_profile:ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Product Manager | Building products for a more sustainable planet 🌱🌎",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQFS1A56241LGg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1625163353167?e=1707955200&v=beta&t=dS6TA6xQ9afD8EJF8zNnpGfY4VTaKRCKu--Q_5-XQNQ",
+    "img_200_200": "200_200/0/1625163353167?e=1707955200&v=beta&t=mksvUMdOJ8xsRk46B3WuhG1dqi20BiLPJPU-j-S8M_Q",
+    "img_400_400": "400_400/0/1625163353167?e=1707955200&v=beta&t=vuDM9lXcn3sEvWRH0vWtvBfyBPz4Uvufij8YJA-NoVQ",
+    "img_800_800": "800_800/0/1625163353167?e=1707955200&v=beta&t=UDHCsXeH0MrNmKbaeNbj2jiumoIuno1Zuw5u9MlnHuo",
+    "profile_id": "ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs",
+    "member_urn": "urn:li:member:204069150",
+    "public_id": "ilsevanoutersterp",
+    "experience": [
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,319170412)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,2098241354)",
+            "companyName": "Seenons",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "description": "Steering a 6 FTE squad of designers and developers in E2E development of our main B2B app. Responsible for setting the vision and prioritizing the roadmap based on customer feedback and KPIs associated with the customers, product, and the go-to-market strategy. As the main point of contact between the clients, the business and the product & dev team it was my responsibility to ship what's promised.\n\nAn intro to Seenons: With its platform, Seenons connects all the players in the waste chain to get to zero waste and stimulate the circular economy. I was one of the first-joiners of the tech startup and helped growing the company to an 80+ FTE scale-up, thereby setting up a product development team from scratch.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Environmental Services"
+                ]
+            },
+            "title": "Product Lead",
+            "companyUrn": "urn:li:fs_miniCompany:20491432",
+            "honors": [
+                "urn:li:fs_honor:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,319603457)"
+            ],
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHBQKjYaTXGIQ/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,318957448)",
+                "urn:li:fs_course:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,318982067)",
+                "urn:li:fs_course:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,319002406)"
+            ],
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Seenons - we’re hiring 🚀",
+            "description": "Responsible for laying out the blueprint of the entire platform (4 apps), incl. defining the product vision and roadmap. This was combined with the responsibility of making sure that all features were designed, developed and shipped together with the product & development team.",
+            "title": "Product Owner / Product Manager",
+            "companyUrn": "urn:li:fs_miniCompany:20491432",
+            "entityUrn": "urn:li:fs_position:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,1976642609)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Environmental Services"
+                ]
+            },
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHBQKjYaTXGIQ/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,319191062)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,1802391910)",
+            "companyName": "Seenons",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "description": "Ensuring an optimal customers experience for all types of platform users. Collaborated with all internal teams and users to set up initiatives to ensure a fully data-driven and ideal user journey. Tasks ranged from customer research and setting up marketing automation campaigns to improved product design of app flows and development of new mobile payment system.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Environmental Services"
+                ]
+            },
+            "title": "Customer Experience Manager",
+            "companyUrn": "urn:li:fs_miniCompany:20491432",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHBQKjYaTXGIQ/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,319111590)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,1679266270)",
+            "companyName": "Seenons",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "description": "Role was to attract, grow, nurture and onboard the (1) customers; (2) logistics & processing partners and (3) zero-waste consultancy partners to our platform. My approach was to outline the persona & customer journey for each customer, set data points to analyze the journey, and generate leads through growth hacks along this journey.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Environmental Services"
+                ]
+            },
+            "title": "Growth Marketing Manager",
+            "companyUrn": "urn:li:fs_miniCompany:20491432",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHBQKjYaTXGIQ/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,1766389411)",
+                "urn:li:fs_course:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,1766640377)",
+                "urn:li:fs_course:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,318891630)",
+                "urn:li:fs_course:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,319246504)",
+                "urn:li:fs_course:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,319259107)"
+            ],
+            "locationName": "Utrecht en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Capgemini Invent",
+            "description": "The DCX team at Capgemini Invent focused on the design, transformation and creation of customer experiences, products and services across today’s digital and physical channels, based on smart customer understanding, enabled by digital technology.\n\nProjects:\n- Manufacturing | Stream lead Customer-Centricity Roadmap Execution: Managed project stream by leading the build of and the change management around a rapidly scaling Digital Marketing CoE (12 FTE) delivering 7 digital services across the organization. \n- Manufacturing | Digital Vision and Customer-Centric Strategy: Responsible for the start of an E2E CX transformation by designing the blueprint of the new CRM and operating model Digital Marketing CoE through 15 interviews & 5 x-functional workshops.\n- Retail | Data-Driven Storytelling: Set up new customer insights unit (7 FTE) at client side to boost the data-driven organizational transformation.",
+            "title": "Management Consultant Digital Customer Experience",
+            "companyUrn": "urn:li:fs_miniCompany:1075",
+            "entityUrn": "urn:li:fs_position:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,1264701511)",
+            "geoLocationName": "Utrecht en omgeving, Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQFVUYBtaPbwFQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,323260394)",
+            "school": {
+                "objectUrn": "urn:li:school:15441",
+                "entityUrn": "urn:li:fs_miniSchool:15441",
+                "active": true,
+                "schoolName": "University of Groningen",
+                "trackingId": "G+bjll+SR263a3oMlVLs/Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_"
+            },
+            "grade": "8.3 (Cum laude)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "description": "Courses (i.a.): B2B Marketing, Comparative Environmental Analysis, Emerging Markets, International Business Strategy, International Entrepreneurship, Managing Cultural Differences\n\nThesis: The Influence of Home Country Culture on the Relationship between an MNC's Board Characteristics and Entry Mode Choice. (8.5/10) \n",
+            "degreeName": "Master of Science (MSc)",
+            "schoolName": "Rijksuniversiteit Groningen",
+            "fieldOfStudy": "International Business and Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15441"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,319132846)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,232944500)",
+            "school": {
+                "objectUrn": "urn:li:school:15441",
+                "entityUrn": "urn:li:fs_miniSchool:15441",
+                "active": true,
+                "schoolName": "University of Groningen",
+                "trackingId": "YKMoFmUxR8GZ2k4wn8KrJg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_"
+            },
+            "grade": "7.6",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "description": "Master study focused on the generation, modelling and understanding of customer insights.\n\nCourses: Customer Models, Market Models, Marketing Engineering, B2B Marketing, Consumer Psychology, Retail Marketing, Strategic Marketing & Marketing Research Methods\n\nMaster Thesis: Hard discounters fighting their way into the sale of national brands - but how to conquer the customer's heart? (7/10)",
+            "degreeName": "Master of Science (MSc)",
+            "schoolName": "Rijksuniversiteit Groningen",
+            "fieldOfStudy": "Marketing Intelligence",
+            "schoolUrn": "urn:li:fs_miniSchool:15441"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,177641877)",
+            "school": {
+                "objectUrn": "urn:li:school:10848",
+                "entityUrn": "urn:li:fs_miniSchool:10848",
+                "active": true,
+                "schoolName": "Queen's University",
+                "trackingId": "/O+slecmQ6ec4o8fA3UI4w==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQE7P2b1VHr6ig/company-logo_"
+            },
+            "grade": "8.4",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "degreeName": "Bachelor of Business Administration - BBA",
+            "schoolName": "Queen's University",
+            "fieldOfStudy": "Queen's School of Business",
+            "degreeUrn": "urn:li:fs_degree:450",
+            "schoolUrn": "urn:li:fs_miniSchool:10848"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Engels",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Frans",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Italiaans",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Language Center of  University of Groningen",
+            "name": "Language Centre English Test (LCET): Level C2",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2013
+                }
+            }
+        },
+        {
+            "authority": "AIESEC in the Netherlands",
+            "name": "Train the Trainers",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:495166",
+                "entityUrn": "urn:li:fs_miniCompany:495166",
+                "name": "AIESEC in the Netherlands",
+                "showcase": false,
+                "active": false,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631344692992?e=1710374400&v=beta&t=Uu5Vu4nlyS8hmPbUmQYtI8qptKgonSzoeU6viUTGIhg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631344692992?e=1710374400&v=beta&t=X4IvEDcA32LXlg14ZU9ij_X9WlhPCm3AVHaWnKhfvZo",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631344692992?e=1710374400&v=beta&t=mQUWqr-RKfKXOBou24-FKrNhUdGwfaIURkCTJyi-3b4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFF1XpSSPmq3A/company-logo_"
+                    }
+                },
+                "universalName": "aiesecthenetherlands",
+                "dashCompanyUrn": "urn:li:fsd_company:495166",
+                "trackingId": "+CBEOaHHSy+9IPbjXAcaRw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:495166"
+        },
+        {
+            "authority": "DBK | Masters in Online Business",
+            "name": "Masters in Online Business | Fact-Based Marketing",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2955542",
+                "entityUrn": "urn:li:fs_miniCompany:2955542",
+                "name": "DBK | Masters in Online Business",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631306727426?e=1710374400&v=beta&t=2-XX_b0T9yDVCP6OrcXPtY3LTU0mkYtkOLsqSX1sRNc",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631306727427?e=1710374400&v=beta&t=qZnBKh5V32EahycocZOdolFQjh2O7yKi8i5eh6uC69I",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631306727427?e=1710374400&v=beta&t=t95mdc7T2N7SKJ9a1xtYYICGV7FNjnz4IKcgtRs13c4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEbubt7v98tKw/company-logo_"
+                    }
+                },
+                "universalName": "dbknl",
+                "dashCompanyUrn": "urn:li:fsd_company:2955542",
+                "trackingId": "pucfMoz+TfGrEbjpIdNXnQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2955542"
+        },
+        {
+            "authority": "Koninklijke Nederlandse Gymnastiek Unie (KNGU)",
+            "name": "Coaching L2",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:17953120",
+                "entityUrn": "urn:li:fs_miniCompany:17953120",
+                "name": "Koninklijke Nederlandse Gymnastiek Unie (KNGU)",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630573231183/koninklijke_nederlandse_gymnastiek_unie_kngu__logo?e=1710374400&v=beta&t=EtbBINtaU3rO4jBpUC7FdO1eCPLFMH1ywJR1rI_XWtQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630573231183/koninklijke_nederlandse_gymnastiek_unie_kngu__logo?e=1710374400&v=beta&t=oVZyssnHtG7Q3DNcCENzx-vRS0rdZ1XiFH5raxMcIYc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630573231183/koninklijke_nederlandse_gymnastiek_unie_kngu__logo?e=1710374400&v=beta&t=3rx0rrwCI9MWlyyFJhpdQkxq4xSbhbaU_o-27dE6axE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGm0pMrRhMmgg/company-logo_"
+                    }
+                },
+                "universalName": "koninklijke-nederlandse-gymnastiek-unie-kngu-",
+                "dashCompanyUrn": "urn:li:fsd_company:17953120",
+                "trackingId": "4rEno1KwS9ePI815uliztg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:17953120"
+        },
+        {
+            "authority": "University of Virginia Darden School of Business",
+            "name": "Design Thinking for Innovation",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:15100776",
+                "entityUrn": "urn:li:fs_miniCompany:15100776",
+                "name": "University of Virginia Darden School of Business",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631347503820?e=1710374400&v=beta&t=NJ_ME9KqET-9tIRCiTd4jRTO7ubIAswX8xCbb0B8sbM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631347503820?e=1710374400&v=beta&t=07vGBodAEIUPvQDN3kl3cZwp0ZcgZZPeaDPIKvoIcfk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631347503820?e=1710374400&v=beta&t=2uzR2TPTRa3paSDflLZhcHMcXYGANmkPyzt09PDod8M",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQHzVxe-Iysg7w/company-logo_"
+                    }
+                },
+                "universalName": "university-of-virginia-darden-school-of-business",
+                "dashCompanyUrn": "urn:li:fsd_company:15100776",
+                "trackingId": "UYG7pEXORlqi0ghHLi8msw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:15100776"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Entrepreneurial Exchange Participant",
+            "companyName": "AIESEC in the Philippines",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "description": "ASENSO focuses on advocating micro-entrepreneurship, specifically in micro-finance, marketing, and business operations. The project is a tutorial-consulation system where the exchange participant provides supplementary knowledge on conducting business operations.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:2913904",
+                    "entityUrn": "urn:li:fs_miniCompany:2913904",
+                    "name": "AIESEC in the Philippines",
+                    "showcase": false,
+                    "active": false,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631325581886?e=1710374400&v=beta&t=7FtfSBfhot7o3qEyV4U0L5oWxYdNCfhEHYrvLiF8A3c",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631325581886?e=1710374400&v=beta&t=ff7M_oAKxFGVSF9Q5vnWpbfghPvO4PA_rsFrgshBx_g",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631325581886?e=1710374400&v=beta&t=Lm4GmANkDKn221smbQVABjuSLIm-eSrbGzXEdFymHE0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGx7UNaBijjhA/company-logo_"
+                        }
+                    },
+                    "universalName": "aiesec-in-the-philippines",
+                    "dashCompanyUrn": "urn:li:fsd_company:2913904",
+                    "trackingId": "U7YutfPQR0qamJKV0Q3Law=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2913904"
+        },
+        {
+            "role": "International Volunteer",
+            "companyName": "ThaBarWa Meditation Centre (Yangon, Myanmar)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2017
+                }
+            },
+            "cause": "HUMANITARIAN_RELIEF",
+            "description": "English teacher & creative workshop facilitator as art of my solo travels through South-East Asia and Australia end 2017."
+        }
+    ],
+    "honors": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,2098241354)",
+            "title": "Technology Fast 50 2022 | Rising Star",
+            "issueDate": {
+                "year": 2022
+            },
+            "issuer": "Deloitte"
+        },
+        {
+            "description": "AIESEC Groningen nominated by the Rabobank Excellence Award as 2nd best board in the Netherlands, recognized for outstanding growth and performance.",
+            "occupation": "urn:li:fs_position:(ACoAAAwp2R4BLyDmaIyJ20j_G2hV0Z_9OzOdVAs,553761096)",
+            "title": "Rabobank Excellence Awards - Best Local Committee NL (Nomination, 2nd place)"
+        }
+    ],
+    "projects": []
+}

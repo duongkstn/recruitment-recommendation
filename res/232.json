@@ -1,0 +1,244 @@
+{
+    "summary": "Recruiter from Estonia, living and working in the Netherlands 🇳🇱. Interested in learning more about the world of technology 💻 and meeting people from all around the world 🌍.\n\nI graduated from Tilburg University with a BSc in Psychology, majoring in Economic Psychology, and minoring in Organizational Psychology. I have 2 years of experience within talent acquisition, mostly focused on tech recruitment. \n\nApart from working in recruitment, I also have a strong interest in marketing and consumer behavior, as well as economics and analytics.",
+    "industryName": "Consumer Services",
+    "lastName": "Sokolova",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:91",
+    "firstName": "Jana",
+    "entityUrn": "urn:li:fs_profile:ACoAACqG_tsB9xCElTJcLGSixkEHGUhP58vh9Dg",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102434816"
+    },
+    "geoLocationName": "Utrecht, Utrecht",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Talent Acquisition Specialist @ Sendcloud",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQGi1Ze4mnj-8g/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1699459927177?e=1702972800&v=beta&t=7X5_eJ9Oy7OUFlKD7Ro29MEkaVUQ8QcWzHxnSnLNvkQ",
+    "img_200_200": "200_200/0/1699459927177?e=1702972800&v=beta&t=BLCF3ulJ-WOQnCrgEvqg2A0nzJDpJ-L1LJEHs_qr8-Y",
+    "img_800_800": "800_800/0/1699459927177?e=1702972800&v=beta&t=L3Bry0HyNUIuvIpggxjPI0DfMKhNtLozFrHPilFtmoI",
+    "img_100_100": "100_100/0/1699459927177?e=1702972800&v=beta&t=EdueQO4A4vZD_3wGNzzWS6gnMgY769twjr5hDsfrA6Q",
+    "profile_id": "ACoAACqG_tsB9xCElTJcLGSixkEHGUhP58vh9Dg",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACqG_tsB9xCElTJcLGSixkEHGUhP58vh9Dg",
+    "member_urn": "urn:li:member:713490139",
+    "public_id": "janasokolova",
+    "experience": [
+        {
+            "locationName": "Eindhoven, North Brabant, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACqG_tsB9xCElTJcLGSixkEHGUhP58vh9Dg,2281990837)",
+            "geoLocationName": "Eindhoven, North Brabant, Netherlands",
+            "geoUrn": "urn:li:fs_geo:104102503",
+            "companyName": "Sendcloud",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "description": "• Recruitment for commercial roles \n• Recruitment for technical roles\n• Employer branding",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Talent Acquisition Specialist",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2907294",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFo5iEI1UkG_g/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACqG_tsB9xCElTJcLGSixkEHGUhP58vh9Dg,2048703349)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "description": "• Leading recruitment for the bol.com IT Young Professionals Program\n• Completing 360 degree recruitment for various software engineering positions\n• D&I - working on the Women in Tech mission for Bol.com",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Tech Recruiter",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACqG_tsB9xCElTJcLGSixkEHGUhP58vh9Dg,1833625858)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Picnic Technologies",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "description": "• Sourced candidates for various tech roles (java developers, python developers, infrastructure engineers)\n• Completed 360 degree recruitment for software engineers, tech recruiters, and tech sourcers. \n• Built sourcing strategies and metrics dashboard to measure visibility and impact.\n• Created an onboarding guide for new sourcers with various formal and informal sourcing strategies\n• Attended promotional events to further attract talent",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Tech Sourcer & Recruiter",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10191458",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHS7qmjAasAyw/company-logo_"
+        },
+        {
+            "locationName": "Estonia",
+            "entityUrn": "urn:li:fs_position:(ACoAACqG_tsB9xCElTJcLGSixkEHGUhP58vh9Dg,1722313596)",
+            "geoLocationName": "Estonia",
+            "geoUrn": "urn:li:fs_geo:102974008",
+            "companyName": "Starship Technologies",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "description": "• Part-time work during studies\n• Customer support agent \n• Taking on the challenge of defining, creating, and improving quality assurance within the team.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Consumer Services"
+                ]
+            },
+            "title": "Customer Support & Quality Assurance",
+            "region": "urn:li:fs_region:(ee,0)",
+            "companyUrn": "urn:li:fs_miniCompany:6646555",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFo3Y1cpj66qg/company-logo_"
+        },
+        {
+            "locationName": "Tilburg Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACqG_tsB9xCElTJcLGSixkEHGUhP58vh9Dg,1540250003)",
+            "geoLocationName": "Tilburg Area, Netherlands",
+            "companyName": "Tilburg University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "description": "• Research assistant at the Department of Social Psychology.\n• Worked on research about the influence of clothing choices on character perception.\n• Assisted with content analysis and literature research.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Research Assistant",
+            "companyUrn": "urn:li:fs_miniCompany:166451",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACqG_tsB9xCElTJcLGSixkEHGUhP58vh9Dg,577110991)",
+            "school": {
+                "objectUrn": "urn:li:school:15452",
+                "entityUrn": "urn:li:fs_miniSchool:15452",
+                "active": true,
+                "schoolName": "Tilburg University",
+                "trackingId": "+Yd6bHQCQFeRDTAa1bIKuw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "degreeName": "Bachelor of Science - BS",
+            "schoolName": "Tilburg University",
+            "fieldOfStudy": "Psychology (Economic Psychology)",
+            "degreeUrn": "urn:li:fs_degree:400",
+            "schoolUrn": "urn:li:fs_miniSchool:15452"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACqG_tsB9xCElTJcLGSixkEHGUhP58vh9Dg,601091355)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "degreeName": "International Baccalaureate",
+            "schoolName": "Sotogrande International School"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Russian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "ELEMENTARY"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

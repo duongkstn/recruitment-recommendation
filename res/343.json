@@ -1,0 +1,509 @@
+{
+    "summary": "Experienced Strategic Sourcing & Category Manager with a demonstrated history of working in the information technology and telecommunications industry. Skilled in Strategic Sourcing/Category Management as well as Project Management (PMP holder).",
+    "industryName": "Telecommunications",
+    "lastName": "Özalevli",
+    "locationName": "Germany",
+    "student": false,
+    "geoCountryName": "Germany",
+    "geoCountryUrn": "urn:li:fs_geo:101282230",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:8",
+    "firstName": "Canser",
+    "entityUrn": "urn:li:fs_profile:ACoAAAW5hdgBerfVzOzqWiKa5F1nnkxguuyRVAk",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103047473"
+    },
+    "geoLocationName": "Rosenheim, Bavaria",
+    "location": {
+        "basicLocation": {
+            "countryCode": "de"
+        }
+    },
+    "headline": "Sourcing Category Manager at Ericsson",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFmjXUAmV5jUA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1678780011092?e=1707955200&v=beta&t=qCkdpB_6ZHPVGBgggnZNAHerP6Q25CrFTTMqXxCtF20",
+    "img_200_200": "200_200/0/1678780011092?e=1707955200&v=beta&t=Pvx30H05FGh9z0n-Wj2xQcNH8IVHBOFlARe6dCMgmYo",
+    "img_400_400": "400_400/0/1678780011092?e=1707955200&v=beta&t=dG1vvqwc5DqQFz7V1euC2M6juIcIKi0juBASXOOP3Ww",
+    "img_800_800": "800_800/0/1678780011092?e=1707955200&v=beta&t=R-7LgicEXpA68ir3stKuXMFp8d7RG1TyMBLpDkg-9YI",
+    "profile_id": "ACoAAAW5hdgBerfVzOzqWiKa5F1nnkxguuyRVAk",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAW5hdgBerfVzOzqWiKa5F1nnkxguuyRVAk",
+    "member_urn": "urn:li:member:96044504",
+    "public_id": "canserozalevli",
+    "experience": [
+        {
+            "locationName": "Rosenheim, Bavaria, Germany",
+            "entityUrn": "urn:li:fs_position:(ACoAAAW5hdgBerfVzOzqWiKa5F1nnkxguuyRVAk,2138968065)",
+            "geoLocationName": "Rosenheim, Bavaria, Germany",
+            "geoUrn": "urn:li:fs_geo:100937190",
+            "companyName": "Ericsson",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "description": "• Management of Advanced Plastics category in Direct Sourcing organization of Ericsson Antenna Technology Germany GmbH\n• Overall sourcing responsibility on supplier scouting, onboarding, contract coverage and compliance, managing NPI projects, escalation management and driving annual global negotiations",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Sourcing Category Manager",
+            "region": "urn:li:fs_region:(de,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1060",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGm9tH6lKJ-Gg/company-logo_"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAAAW5hdgBerfVzOzqWiKa5F1nnkxguuyRVAk,887932415)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:102424322",
+            "companyName": "Ericsson",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2016
+                }
+            },
+            "description": "• Drive, prepare & execute the RFx process\n• Benchmark - Compliance checks, Bid analysis and shortlisting of suppliers\n• Drive preparation, execution & finalization of negotiations with suppliers. Award business to\nsuppliers\n• Ensure implementation of supplier agreements\n• Develop long term business relationship for a specific product / service",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Strategic Sourcing Manager",
+            "region": "urn:li:fs_region:(tr,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1060",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGm9tH6lKJ-Gg/company-logo_"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAAAW5hdgBerfVzOzqWiKa5F1nnkxguuyRVAk,184599266)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:100170895",
+            "companyName": "Ericsson",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2011
+                }
+            },
+            "description": "▪ Certified as Experienced Services - Integration Engineer since 20.12.2012\n▪ Deep comprehension of project/process flow through both technical and\nnon-technical aspects\n• Leading New Product Introduction of RAN technologies: WCDMA FOA (First Official Application), FFI (First Field Implementation), FNI (First Node Implementation), Trials and Demos, both remotely and on-site \n• Utilization of advanced automated software solutions developed by Ericsson in the Integration and Configuration areas of Radio Access Networks. \n• High level interface both with internal customers in Regions and Global Centers and with external customers, managing customer requirements and expectations, and driving the technical solution\n• Contribution with proposals for innovations and enhancements in Ericsson product and solutions portfolio and/or execution methods \n• Leading Technical teams. Analysis, definition and delivery of technical solution including cost and risk estimations \n• Actively using multi-vendor and multi-operator knowledge for the best outcomes during the project delivery",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Integration - Services Engineer",
+            "region": "urn:li:fs_region:(tr,7585)",
+            "companyUrn": "urn:li:fs_miniCompany:1060",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGm9tH6lKJ-Gg/company-logo_"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAAAW5hdgBerfVzOzqWiKa5F1nnkxguuyRVAk,153578328)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:100170895",
+            "companyName": "Huawei",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2009
+                }
+            },
+            "description": "▪ Development of a Process Management Tool, giving workshops to all users\n▪ Evaluating subcontractors from all regions in bi-weekly & monthly bases\n▪ Organizing workloads of all the 5 regions & Management and Support",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Rollout Project Manager",
+            "region": "urn:li:fs_region:(tr,7585)",
+            "companyUrn": "urn:li:fs_miniCompany:3014",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEtZ01_ey5nIA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAW5hdgBerfVzOzqWiKa5F1nnkxguuyRVAk,153578477)",
+            "companyName": "Turkcell",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2009
+                }
+            },
+            "description": "Extracting the network of the switches and designing efficient communication links to redistribute the load of a specific region",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Turkcell PAF Team - Network & Transport Planning Engineer",
+            "companyUrn": "urn:li:fs_miniCompany:4568",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQGn8MbnRnjX_w/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAW5hdgBerfVzOzqWiKa5F1nnkxguuyRVAk,59920396)",
+            "school": {
+                "objectUrn": "urn:li:school:17378",
+                "entityUrn": "urn:li:fs_miniSchool:17378",
+                "active": true,
+                "schoolName": "Koç University",
+                "trackingId": "hrIGN6SwStyLfC9hbVZVJA==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQHAza9K6dYxcw/company-logo_"
+            },
+            "grade": "3.16",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            },
+            "description": "▪ Mentored new students to adapt the university in their first years\n▪ Hosted participant companies and arranged the presentations\nat  Koç University Career Days",
+            "degreeName": "BS",
+            "schoolName": "Koc University",
+            "fieldOfStudy": "Electrical & Electronics Engineering - (with full scholarship)",
+            "schoolUrn": "urn:li:fs_miniSchool:17378"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAW5hdgBerfVzOzqWiKa5F1nnkxguuyRVAk,59920894)",
+            "grade": "5",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 1997
+                }
+            },
+            "description": "Attended TUBITAK's (The Scientific and Technological Research Council of Turkey) Mathematics Olympics\nLicensed volleyball player in the school team",
+            "degreeName": "High School",
+            "schoolName": "Adana Anatolian High School",
+            "fieldOfStudy": "Science",
+            "honors": [
+                "urn:li:fs_honor:(ACoAAAW5hdgBerfVzOzqWiKa5F1nnkxguuyRVAk,141620297)"
+            ]
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Project Management Institute",
+            "name": "Project Management Professional (PMP)®",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2015
+                }
+            },
+            "licenseNumber": "3301452",
+            "company": {
+                "objectUrn": "urn:li:company:11352",
+                "entityUrn": "urn:li:fs_miniCompany:11352",
+                "name": "Project Management Institute",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630588508487/project_management_institute_logo?e=1710374400&v=beta&t=R3zBK6xgzq2SIguHhEukOzU-Dt85TxGu7Vu-xHcJdCg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630588508487/project_management_institute_logo?e=1710374400&v=beta&t=R715k_BU24x6mv024d6TYkJiulgIDvPh43iq9SfLSTA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630588508487/project_management_institute_logo?e=1710374400&v=beta&t=QNDqdqB7US8buZWm-6HbtMoqxZdUP9DRuHnRjaAEoVU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFYYvw5asgdjQ/company-logo_"
+                    }
+                },
+                "universalName": "projectmanagementinstitute",
+                "dashCompanyUrn": "urn:li:fsd_company:11352",
+                "trackingId": "Njg8ZAamTkeCgUOZuIJJGw=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:11352",
+            "url": "https://www.youracclaim.com/badges/1ef5a452-e4a6-4fea-a5e0-23f886754e37"
+        },
+        {
+            "authority": "Ericsson",
+            "name": "Ericsson Certified Associate - Radio Access Networks",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1060",
+                "entityUrn": "urn:li:fs_miniCompany:1060",
+                "name": "Ericsson",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1632729373904/ericsson_logo?e=1710374400&v=beta&t=aItjXDIkLW5EIeYNy_fBCXHQuNfXGCqbt5QyJNZ0BvI",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1632729373904/ericsson_logo?e=1710374400&v=beta&t=PKHsANs9hO9g_aLR34XxeyqnNPw4Ci4GVc4DgVVMVfc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1632729373904/ericsson_logo?e=1710374400&v=beta&t=vkqOJbJO0g6EVd9IS3MC5z-ci6aGmuPWCxjRzb9i1iQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGm9tH6lKJ-Gg/company-logo_"
+                    }
+                },
+                "universalName": "ericsson",
+                "dashCompanyUrn": "urn:li:fsd_company:1060",
+                "trackingId": "Lmm+4+8KQK6QxIgMMCXwLw=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:1060",
+            "url": "https://www.youracclaim.com/badges/92157b64-8a5d-4c65-8f19-a4722a8d0db4"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Volunteer",
+            "companyName": "Koç Üniversitesi Gönüllüleri",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2007
+                }
+            },
+            "cause": "CHILDREN",
+            "description": "Helped primary school students in rural areas, by giving lectures about the environment and renewing the school library",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:22105371",
+                    "entityUrn": "urn:li:fs_miniCompany:22105371",
+                    "name": "Koç Üniversitesi Gönüllüleri",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631344222152?e=1710374400&v=beta&t=0usYt1Ep5jot1s6fm71brQIHf5ECFD0eVJnxRhamMR0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631344222152?e=1710374400&v=beta&t=P3k2wpxDdHcIonsm-7M8VzUJfmLvWZZdalPSCaJ7jFU",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631344222152?e=1710374400&v=beta&t=h-Gp71LkLuWfP-UXTzZcn6TjOfvA4TaYVdO7u15q-cE",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGvAbZO0mPuRA/company-logo_"
+                        }
+                    },
+                    "universalName": "koçüniversitesigönüllüleri",
+                    "dashCompanyUrn": "urn:li:fsd_company:22105371",
+                    "trackingId": "e1khqdBHRi+C/aR3j4gMBQ=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:22105371"
+        },
+        {
+            "role": "Volunteer",
+            "companyName": "Koç Üniversitesi Gönüllüleri",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2007
+                }
+            },
+            "cause": "EDUCATION",
+            "description": "Lectured elementary school students that can’t afford private tutor",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:22105371",
+                    "entityUrn": "urn:li:fs_miniCompany:22105371",
+                    "name": "Koç Üniversitesi Gönüllüleri",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631344222152?e=1710374400&v=beta&t=0usYt1Ep5jot1s6fm71brQIHf5ECFD0eVJnxRhamMR0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631344222152?e=1710374400&v=beta&t=P3k2wpxDdHcIonsm-7M8VzUJfmLvWZZdalPSCaJ7jFU",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631344222152?e=1710374400&v=beta&t=h-Gp71LkLuWfP-UXTzZcn6TjOfvA4TaYVdO7u15q-cE",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGvAbZO0mPuRA/company-logo_"
+                        }
+                    },
+                    "universalName": "koçüniversitesigönüllüleri",
+                    "dashCompanyUrn": "urn:li:fsd_company:22105371",
+                    "trackingId": "ifWRFYPNS1Oc22cVrVRTeg=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:22105371"
+        },
+        {
+            "role": "Volunteer",
+            "companyName": "Koç Üniversitesi Gönüllüleri",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2006
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2006
+                }
+            },
+            "cause": "CHILDREN",
+            "description": "Supervised elementary school students who were invited to the campus to attend various lectures&activities.Koç University Summer Workshop Group (KUYAT)",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:22105371",
+                    "entityUrn": "urn:li:fs_miniCompany:22105371",
+                    "name": "Koç Üniversitesi Gönüllüleri",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631344222152?e=1710374400&v=beta&t=0usYt1Ep5jot1s6fm71brQIHf5ECFD0eVJnxRhamMR0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631344222152?e=1710374400&v=beta&t=P3k2wpxDdHcIonsm-7M8VzUJfmLvWZZdalPSCaJ7jFU",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631344222152?e=1710374400&v=beta&t=h-Gp71LkLuWfP-UXTzZcn6TjOfvA4TaYVdO7u15q-cE",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGvAbZO0mPuRA/company-logo_"
+                        }
+                    },
+                    "universalName": "koçüniversitesigönüllüleri",
+                    "dashCompanyUrn": "urn:li:fsd_company:22105371",
+                    "trackingId": "maXLzPBoS/Gtk97S5OIPNw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:22105371"
+        }
+    ],
+    "honors": [
+        {
+            "description": "As a team of four, ranked 1st in Adana and ranked 3rd in Turkey finals\nin Oyak Mathematic Competition",
+            "occupation": "urn:li:fs_education:(ACoAAAW5hdgBerfVzOzqWiKa5F1nnkxguuyRVAk,59920894)",
+            "title": "National Mathematics Competition",
+            "issueDate": {
+                "month": 5,
+                "year": 2004
+            }
+        }
+    ],
+    "projects": []
+}

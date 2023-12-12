@@ -1,0 +1,622 @@
+{
+    "summary": "As part of her current engagement, Charu primarily focuses on designing and implementing cloud security solutions that protect data and applications from unauthorized access, breaches, and cyber-attacks. This involves evaluating existing security controls, identifying potential vulnerabilities, and developing strategies to mitigate risks. Charu works closely with cross-functional teams to ensure that security measures align with the organization's business goals and objectives. Charu with her technical understanding of different aspects of security processes and IT controls also helps in performing Threat Modelling and identification of countermeasures.\n\nPast Experience - Charu has been involved in Controls implementation, her roles and responsibilities included configuration of SAP GRC PC, ITGC/ ITAC controls, and Continuous Control Monitoring.\nCharu has experience in IT General Controls ( Access Security, Change Management, Emergency Access Management). She’s designed and helped build Risk & Controls Matrix for the Segregation of duties/ Sensitive Access in the complex business process. Charu has been involved in SOX Controls Assessment. She understands the risks and mitigation measures involved in various business processes like STS, OTC, RTR, and PTD.",
+    "industryName": "Information Technology & Services",
+    "lastName": "Balodhi",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 6,
+        "day": 17
+    },
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Charu",
+    "entityUrn": "urn:li:fs_profile:ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Cyber Security Consultant | CISM | Ex- Deloitte | AZ-500 Security Engineer Associate Certified | AWS Cloud Certified",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQHX-gIL8Ktzig/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1619201181607?e=1707955200&v=beta&t=41uZwCGKwz-WQlJ20MmTEryjQyVE67hGMxjqjb1LS54",
+    "img_200_200": "200_200/0/1619201181607?e=1707955200&v=beta&t=9_Ybf3fCVePXZwIC8AwsFeJpJru-7WBPlRHDOZCNLvM",
+    "img_400_400": "400_400/0/1619201181607?e=1707955200&v=beta&t=aVuSLAZszTvcTWp42oj3o76UK-XAzIb_JpK9CDT1hnk",
+    "img_800_800": "800_800/0/1619201181607?e=1707955200&v=beta&t=C_HHIx6EiBGdAmtmX5j4x7Lj_1YnLCKUwV6-t2nJyYA",
+    "profile_id": "ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU",
+    "member_urn": "urn:li:member:396934681",
+    "public_id": "charu-balodhi-6a1b23b0",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU,2108046266)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "ABN AMRO Bank N.V.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Cyber Security Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1173",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGbBCf7qCSy2g/company-logo_"
+        },
+        {
+            "locationName": "Gurugram, Haryana, India",
+            "entityUrn": "urn:li:fs_position:(ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU,1769522526)",
+            "geoLocationName": "Gurugram, Haryana, India",
+            "geoUrn": "urn:li:fs_geo:115884833",
+            "companyName": "Deloitte India (Offices of the US)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Solution Advisor",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1038",
+            "honors": [
+                "urn:li:fs_honor:(ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU,2004385510)",
+                "urn:li:fs_honor:(ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU,2004558246)",
+                "urn:li:fs_honor:(ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU,1402606775)"
+            ],
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_"
+        },
+        {
+            "locationName": "Hyderabad, Telangana, India",
+            "entityUrn": "urn:li:fs_position:(ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU,1694284178)",
+            "geoLocationName": "Hyderabad, Telangana, India",
+            "geoUrn": "urn:li:fs_geo:105556991",
+            "companyName": "Tech Mahindra",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior Associate Consultant",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3067",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEf1kY81Y-qvA/company-logo_"
+        },
+        {
+            "locationName": "Hyderabad Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU,1318494593)",
+            "geoLocationName": "Hyderabad Area, India",
+            "geoUrn": "urn:li:fs_geo:90009650",
+            "companyName": "Wipro Technologies",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "description": "\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Associate Consultant",
+            "region": "urn:li:fs_region:(in,6508)",
+            "companyUrn": "urn:li:fs_miniCompany:1318",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEkfMUEE4caDQ/company-logo_"
+        },
+        {
+            "locationName": "Hyderabad, Telangana, India",
+            "entityUrn": "urn:li:fs_position:(ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU,1440616331)",
+            "geoLocationName": "Hyderabad, Telangana, India",
+            "companyName": "Wipro Technologies",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Associate Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:1318",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEkfMUEE4caDQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU,259401522)",
+            "school": {
+                "objectUrn": "urn:li:school:4162086",
+                "entityUrn": "urn:li:fs_miniSchool:4162086",
+                "active": true,
+                "schoolName": "Graphic Era Hill University",
+                "trackingId": "aRZQxC9uT+KswGJ561zXLQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQEm_0ntX9UAlg/company-logo_"
+            },
+            "grade": "NAAC-A",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "description": "CGPA : 9",
+            "degreeName": "Bachelor of Technology (BTech)",
+            "schoolName": "Graphic Era Hill University",
+            "fieldOfStudy": "Computer Science & Engineering",
+            "schoolUrn": "urn:li:fs_miniSchool:4162086"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Aspiring Minds",
+            "name": "AMCAT Certified Software Engineer - IT Services",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "licenseNumber": "3245431-259",
+            "company": {
+                "objectUrn": "urn:li:company:838197",
+                "entityUrn": "urn:li:fs_miniCompany:838197",
+                "name": "Aspiring Minds",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630576086555/aspiring_minds_logo?e=1710374400&v=beta&t=hKaYOoW0GRTDjO5oxEZ-TUY-qURjhARBkFZoW4RRa-g",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630576086556/aspiring_minds_logo?e=1710374400&v=beta&t=Tfap_XczsC4JB60J0hihtWQxoyfpqLX7piSToQ7AwK0",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630576086556/aspiring_minds_logo?e=1710374400&v=beta&t=rzrfZTj14UWGHn0HE3ca25hjqmPZf9m_RSApHXZY95w",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                    }
+                },
+                "universalName": "aspiring-minds",
+                "dashCompanyUrn": "urn:li:fsd_company:838197",
+                "trackingId": "ALZxpf+MSjOt8nRNg0hk+A=="
+            },
+            "displaySource": "myamcat.com",
+            "companyUrn": "urn:li:fs_miniCompany:838197",
+            "url": "https://www.myamcat.com/certificate/3245431/software-engineer-it-services/259"
+        },
+        {
+            "authority": "Qualys",
+            "name": "Qualys guard",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:8561",
+                "entityUrn": "urn:li:fs_miniCompany:8561",
+                "name": "Qualys",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631353213976?e=1710374400&v=beta&t=o0rv07xOCiaZXmdslMjjgP5_Bh9Vt4_KkuOlfwOSDhg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631353213976?e=1710374400&v=beta&t=Y2c9cVdos0xfP9EvVeKXhDJJRslgpTDiBk4sB2MvyPY",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631353213976?e=1710374400&v=beta&t=Rgtsb_DK_rmCuHbsMp3ZL1Lcp0_2CTCOEl7TIS9HvIA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFO_8TPvjqLXQ/company-logo_"
+                    }
+                },
+                "universalName": "qualys",
+                "dashCompanyUrn": "urn:li:fsd_company:8561",
+                "trackingId": "GcwO9NuHQ++05uBnMSY8nw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:8561"
+        },
+        {
+            "authority": "SAP SE",
+            "name": "SAP Certified Application Associate - SAP S/4HANA Sourcing and Procurement - Upskilling for ERP Experts",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1115",
+                "entityUrn": "urn:li:fs_miniCompany:1115",
+                "name": "SAP",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688178772044/sap_logo?e=1710374400&v=beta&t=MNJ3NGT249QmXb6LKk1TJMB5zC9U3Xb0NVuYzNq8SSM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688178772044/sap_logo?e=1710374400&v=beta&t=RcTH3u4oZziPRqROPzwO4ib1XWYKZGMY-4f-W1fiE08",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688178772044/sap_logo?e=1710374400&v=beta&t=6mx5SeyxsoYjinHMWI3pDSXQOP5Ac6K2k2eS06xvkmI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFgplzXUs8o1Q/company-logo_"
+                    }
+                },
+                "universalName": "sap",
+                "dashCompanyUrn": "urn:li:fsd_company:1115",
+                "trackingId": "qJ5ITvpfQK+Pv74x4irdbQ=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:1115",
+            "url": "https://www.youracclaim.com/badges/a650e190-a92f-4511-9f30-fdd291e41774/linked_in_profile"
+        },
+        {
+            "authority": "Amazon Web Services (AWS)",
+            "name": "AWS Certified Cloud Practitioner",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2382910",
+                "entityUrn": "urn:li:fs_miniCompany:2382910",
+                "name": "Amazon Web Services (AWS)",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1670264051233/amazon_web_services_logo?e=1710374400&v=beta&t=Sqejsy3fxoQ8h5jA-23GfDeHW17GErf7uzCD5VvhHu8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1670264051233/amazon_web_services_logo?e=1710374400&v=beta&t=D7dLzwl8wOWrfPapBXD1ZSGVcgBW_Kf0Zhgq8HSnsPk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1670264051233/amazon_web_services_logo?e=1710374400&v=beta&t=Bd1_E6n_4AcwPl4roeKAucDm7DVibHvZaMvF5YnGcQo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_"
+                    }
+                },
+                "universalName": "amazon-web-services",
+                "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                "trackingId": "bMX2n+NCRyCQQPV8CdWekA=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:2382910",
+            "url": "https://www.credly.com/badges/e5711ac4-d898-4892-85ad-fa9dd50b69ec?source=linked_in_profile"
+        },
+        {
+            "authority": "British Council",
+            "name": "IELTS- English Proficiency",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:162797",
+                "entityUrn": "urn:li:fs_miniCompany:162797",
+                "name": "British Council",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630560502098/british_council_logo?e=1710374400&v=beta&t=69sJo2IcUQC0b6jWLuNgJA7eI0nFwwcFN3_J2hhOOvo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630560502099/british_council_logo?e=1710374400&v=beta&t=4rKJp_Fnu4stk_7aPonHGQmftQu-VFcCq0vdePJ5o0M",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630560502099/british_council_logo?e=1710374400&v=beta&t=t8eHJkZHEEc4tEwnjmzh0z7abmcNRd0dPCWFzOZhRv4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEbgQMpvEqVNw/company-logo_"
+                    }
+                },
+                "universalName": "british-council",
+                "dashCompanyUrn": "urn:li:fsd_company:162797",
+                "trackingId": "1IvOUEd6QJCU+2EzJl3XPw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:162797"
+        },
+        {
+            "authority": "ISACA",
+            "name": "ISACA Membership",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:21062",
+                "entityUrn": "urn:li:fs_miniCompany:21062",
+                "name": "ISACA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=cwzBvUoMgtr8ZvUvUoMsprbGmEqJ8GUYyYxY8zJoCN0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=tKdg4zFODP83AIGTCAYzrxoeUHyP4sBtLNBdvzoeUbE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=ghFMKYB-nC9QajVN9vtalPvv2k6CxLTyCsEyGbQzIx0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEbgaF0IMoyIw/company-logo_"
+                    }
+                },
+                "universalName": "isaca",
+                "dashCompanyUrn": "urn:li:fsd_company:21062",
+                "trackingId": "j/NFbbeNShGn/V/iKm0EGQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:21062"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "Microsoft Azure Security Engineer Associate (AZ- 500)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "BhZ2ssNtQZeftG/t5xLHGQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1035"
+        },
+        {
+            "authority": "ISACA",
+            "name": "Certified Information Security Manager (CISM)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:21062",
+                "entityUrn": "urn:li:fs_miniCompany:21062",
+                "name": "ISACA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=cwzBvUoMgtr8ZvUvUoMsprbGmEqJ8GUYyYxY8zJoCN0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=tKdg4zFODP83AIGTCAYzrxoeUHyP4sBtLNBdvzoeUbE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=ghFMKYB-nC9QajVN9vtalPvv2k6CxLTyCsEyGbQzIx0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEbgaF0IMoyIw/company-logo_"
+                    }
+                },
+                "universalName": "isaca",
+                "dashCompanyUrn": "urn:li:fsd_company:21062",
+                "trackingId": "rRaz+CPXRveH9dfFxiev2g=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:21062"
+        }
+    ],
+    "volunteer": [],
+    "honors": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU,1769522526)",
+            "title": "Applause Award",
+            "issueDate": {
+                "month": 9,
+                "year": 2022
+            },
+            "issuer": "Deloitte USI"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU,1769522526)",
+            "description": "For designing and building Segregation of duties- SOX Relevant ",
+            "title": "Applause Award",
+            "issueDate": {
+                "month": 12,
+                "year": 2021
+            },
+            "issuer": "Deloitte USI"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAABeovhkBjG4i6tC6gwSmBdVEevaITWhbtnU,1769522526)",
+            "title": "Spot Award",
+            "issueDate": {
+                "month": 9,
+                "year": 2021
+            },
+            "issuer": "Deloitte USI"
+        }
+    ],
+    "projects": []
+}

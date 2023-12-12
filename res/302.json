@@ -1,0 +1,216 @@
+{
+    "summary": "Conexus are a global team of talent experts specialising in digital transformation recruitment projects.\n\nOur technology recruiters are experienced in finding, attracting, and providing niche experts for clients in the fields of SAP, Data & Analytics, Cyber Security & Software Engineering. Working with global brands that invest in the technologies of tomorrow, we partner with clients and remove barriers to growth through our unique methodologies and consultative approach, all the time connecting our universe. \n\nConexus thrive through collaboration and our bespoke suite of services are created specifically for fast-moving start-ups, Series A+ scale-ups, and Enterprise clients with challenging ambitious recruitment projects. Our experts can provide on-demand staffing including permanent & contract, deliver on large-scale retained projects, or work with hyper-growth businesses via an embedded growth partner package. However large or small your requirement, we operate internationally to build successful futures across all levels. \nConexus are driven to become the number one globally recognised brand for digital transformation talent solutions, providing the information, expertise, and talent that shapes the future.\n\nWe’ll make sure you shine the brightest. And we’ll connect you to the tech talent of tomorrow.\n\nCall: +442922260102\nEmail: thomas.parry@conexusdx.com\nhttps://www.conexusdx.com/",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Parry",
+    "locationName": "United Kingdom",
+    "student": false,
+    "geoCountryName": "United Kingdom",
+    "geoCountryUrn": "urn:li:fs_geo:101165590",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Thomas",
+    "entityUrn": "urn:li:fs_profile:ACoAACiaqQ0BmJN3BsqAT5zsu6icTkNm2NHJpFM",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104808131"
+    },
+    "geoLocationName": "Cardiff, Wales",
+    "location": {
+        "basicLocation": {
+            "countryCode": "gb"
+        }
+    },
+    "headline": "Contract Team Lead at Conexus",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQExsHKeTTOEDw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1655728364292?e=1707955200&v=beta&t=Sm_59gidfZ2iqgj_P7P394uG4Yaq-Sc7c4AogurDRUA",
+    "img_200_200": "200_200/0/1655728364292?e=1707955200&v=beta&t=QsDNb_oxnbHDax4vy9Snjri7vvJMlr4JahmtY1xza54",
+    "img_400_400": "400_400/0/1655728364292?e=1707955200&v=beta&t=0khEejvmanEFwG-FrHugR_eliSDWJWawYig8-DWMOxM",
+    "img_800_800": "800_800/0/1655728364292?e=1707955200&v=beta&t=KiV5Ctxc7PVIkwqIKK2YfnCtyo6rfmqFg6lxcXPAn7Y",
+    "profile_id": "ACoAACiaqQ0BmJN3BsqAT5zsu6icTkNm2NHJpFM",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACiaqQ0BmJN3BsqAT5zsu6icTkNm2NHJpFM",
+    "member_urn": "urn:li:member:681224461",
+    "public_id": "thomas-parry-151183170",
+    "experience": [
+        {
+            "locationName": "Cardiff, Wales, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAACiaqQ0BmJN3BsqAT5zsu6icTkNm2NHJpFM,1991494256)",
+            "geoLocationName": "Cardiff, Wales, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:103349733",
+            "companyName": "Conexus",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Contract Team Lead",
+            "region": "urn:li:fs_region:(gb,0)",
+            "companyUrn": "urn:li:fs_miniCompany:34716209",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFmvjQnLdOgpw/company-logo_"
+        },
+        {
+            "locationName": "Cardiff, Wales, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAACiaqQ0BmJN3BsqAT5zsu6icTkNm2NHJpFM,1809106401)",
+            "geoLocationName": "Cardiff, Wales, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:103349733",
+            "companyName": "Conexus",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Principal Consultant",
+            "region": "urn:li:fs_region:(gb,0)",
+            "companyUrn": "urn:li:fs_miniCompany:34716209",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFmvjQnLdOgpw/company-logo_"
+        },
+        {
+            "locationName": "Greater Barcelona Metropolitan Area",
+            "entityUrn": "urn:li:fs_position:(ACoAACiaqQ0BmJN3BsqAT5zsu6icTkNm2NHJpFM,1981962179)",
+            "geoLocationName": "Greater Barcelona Metropolitan Area",
+            "geoUrn": "urn:li:fs_geo:90009761",
+            "companyName": "Glovo",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "description": "Worked as an embedded Tech Recruiter and Account Manager at Glovo via Conexus.\n\nMy role entailed the assistance of filling over 100 Data (Analysts, Scientists & Engineers) & Software (Backend, Frontend, Manager) Engineering positions that were based in Barcelona, Madrid, Warsaw & Kyiv.\n\nThe role also included active involvement in tech recruitment standups, weekly team meetings, and stakeholder management to ensure develop the relationship between businesses.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Consumer Services"
+                ]
+            },
+            "title": "RPO Account Manager via Conexus",
+            "region": "urn:li:fs_region:(es,5064)",
+            "companyUrn": "urn:li:fs_miniCompany:9262901",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEwxdiNWB86IQ/company-logo_"
+        },
+        {
+            "locationName": "Cardiff, Wales, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAACiaqQ0BmJN3BsqAT5zsu6icTkNm2NHJpFM,1641425116)",
+            "geoLocationName": "Cardiff, Wales, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:103349733",
+            "companyName": "Conexus ERP",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "description": "At Conexus, we provide Global Solutions for Global Brands.\n\nWe are global Digital Transformation recruitment specialists that add value to many of the world’s leading organisations by connecting them with the very best industry talent solutions that they require.\n\nEach member of the team at Conexus has in-depth knowledge of SAP, Data Analytics & Cyber Security in order to ensure that we have the technical know-how to provide a consultative, value-adding service to all of our clients across EMEA, USA, LATAM & APAC",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Consultant",
+            "region": "urn:li:fs_region:(gb,0)",
+            "companyUrn": "urn:li:fs_miniCompany:34716209",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFmvjQnLdOgpw/company-logo_"
+        },
+        {
+            "locationName": "Cardiff, Wales, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAACiaqQ0BmJN3BsqAT5zsu6icTkNm2NHJpFM,1639254026)",
+            "geoLocationName": "Cardiff, Wales, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:103349733",
+            "companyName": "Hamlyn Williams",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Consultant",
+            "region": "urn:li:fs_region:(gb,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1225192",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHVUaHbv0VUEA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACiaqQ0BmJN3BsqAT5zsu6icTkNm2NHJpFM,576206063)",
+            "school": {
+                "objectUrn": "urn:li:school:12622",
+                "entityUrn": "urn:li:fs_miniSchool:12622",
+                "active": true,
+                "schoolName": "Cardiff University / Prifysgol Caerdydd",
+                "trackingId": "M03T3+eTRvST3DyfWHmXkA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQF1733-I6Nn4w/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100874",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Cardiff University / Prifysgol Caerdydd",
+            "fieldOfStudy": "Chemistry",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:12622"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

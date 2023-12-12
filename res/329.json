@@ -1,0 +1,190 @@
+{
+    "summary": "Executive Head hunter, Recruiter and Director at 1st Executive with strong relationship building and commercial skills. I'm passionate about delivering a fantastic candidate and client recruitment experience, and keen to support with either interim or permanent hires; from greenfield single appointments through to strategic hires or entire delivery teams for large scale transformation projects.\n\nI lead and support a team of international specialist recruiters within Procurement, Supply Chain, Risk & Sustainability covering a full breadth of roles up to C-Suite Executives.\n\nMany of the world’s largest brands choose to partner with us because of these compelling reasons:   \n- Exclusive international relationships with the upper quartile of candidates in our market in Procurement/Supply Chain and Sustainability - both active and passive - as well as  a solid track record with top tier international brands \n- Recruiters who are subject matter experts within their dedicated fields\n- Detailed screening and competency questioning process to evaluate candidates’ skills\n- Comprehensive Market Insight research and analysis \n- International reach throughout the UK, EMEA and North America\n\n\nwww.1st-executive.com",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Davis",
+    "locationName": "United Kingdom",
+    "student": false,
+    "geoCountryName": "United Kingdom",
+    "geoCountryUrn": "urn:li:fs_geo:101165590",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Sally",
+    "entityUrn": "urn:li:fs_profile:ACoAAADYv7kBbfkRG6XjFobrF7Uk0qdFRbgB8-4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:107058418"
+    },
+    "geoLocationName": "Guildford, England",
+    "location": {
+        "basicLocation": {
+            "countryCode": "gb"
+        }
+    },
+    "headline": "Director and International Recruiter, for Procurement/Supply Chain and Sustainability at 1st Executive Ltd | Passionate about securing top talent across Procurement/Supply Chain/Sustainability",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQE5QZL-m8XknA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1659074573383?e=1707955200&v=beta&t=g7ufTkX5_Vq1dC22qMg34Qkz4aFrhWFIDIaAiv1Quew",
+    "img_192_192": "800_800/0/1659074573383?e=1707955200&v=beta&t=EyQxrf-9H-UNuj06eAQB6dfN8Tp8PP2syv4H4pP0pFQ",
+    "profile_id": "ACoAAADYv7kBbfkRG6XjFobrF7Uk0qdFRbgB8-4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAADYv7kBbfkRG6XjFobrF7Uk0qdFRbgB8-4",
+    "member_urn": "urn:li:member:14204857",
+    "public_id": "sally-davis-recruiter",
+    "experience": [
+        {
+            "locationName": "Guildford, England, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAADYv7kBbfkRG6XjFobrF7Uk0qdFRbgB8-4,765765248)",
+            "geoLocationName": "Guildford, England, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:111338824",
+            "companyName": "1st Executive Ltd",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "description": "Director at 1st Executive leading a team of Associate Directors, Senior Consultants and Researchers delivering both interim and permanent recruitment solutions to a wide portfolio of global clients across multiple sectors.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Director",
+            "region": "urn:li:fs_region:(gb,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1125257",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGlWuxSnIwUjg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAADYv7kBbfkRG6XjFobrF7Uk0qdFRbgB8-4,428087819)",
+            "companyName": "1st Executive Ltd",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2013
+                }
+            },
+            "description": "Associate Director of 1st Executive's Interim Management Practice, leading a team of Senior Consultants and Researchers delivering interim recruitment solutions to 1st Executive's portfolio of clients.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Associate Director - Interim Management Practice",
+            "companyUrn": "urn:li:fs_miniCompany:1125257",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGlWuxSnIwUjg/company-logo_"
+        },
+        {
+            "locationName": "London, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAADYv7kBbfkRG6XjFobrF7Uk0qdFRbgB8-4,274115600)",
+            "geoLocationName": "London, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009496",
+            "companyName": "Badenoch & Clark",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2012
+                }
+            },
+            "description": "Working within the Accountancy & Finance and Programme & Project Management specialism’s  with responsibility for:\n\nIdentifying potential clients through proactive sales, liaison with the business, and awareness of emerging markets/ trends\nNetworking across specialism’s: HR, Legal, IT, Marketing & Supply Chain, to identify cross discipline sales opportunities for the business and to encourage communication between verticals.\nWorking with the bid and operations teams to prepare expressions of interest, proposals, tender responses and sales presentations.\nDelivering professional sales presentations to clients.\nAccount management for specific, existing, strategic accounts with aim of ensuring continual improvement, facilitating best practice and optimum fulfillment",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Business Development Manager",
+            "region": "urn:li:fs_region:(gb,4573)",
+            "companyUrn": "urn:li:fs_miniCompany:9415",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHrxTwQjtn9zw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAADYv7kBbfkRG6XjFobrF7Uk0qdFRbgB8-4,124081491)",
+            "companyName": "Office Angels",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2006
+                }
+            },
+            "description": "Reporting to the Corporate Development Director, my role covers the South of England and Wales typically comprising the following activities:\n\nThrough proactive & reactive sales processes, securing formal client agreements for the purpose of increasing revenue for Office Angels branches over multi-site locations\nIdentifying potential corporate clients by liaising with the Office Angels operational network, analysing financial data and researching historic relationships with Office Angels and the competitive marketplace\nWorking with the Tender/Bid team and operations team to prepare proposals, tender responses and corporate presentations\nDelivering professional sales presentations to clients\nConducting a high volume of client visits and sales calls to develop business relationships\nResponding to client correspondence including questionnaires, pre-tender and tender material as requested\nEnsuring new client agreements are effectively implemented across the branch network to ensure maximum revenue growth.\nMaintaining close client contact as the National Account Manager for New Office Angels agreements.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Corporate Development Executive",
+            "companyUrn": "urn:li:fs_miniCompany:18213",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQE7ue4dIQfvSQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAADYv7kBbfkRG6XjFobrF7Uk0qdFRbgB8-4,10549777)",
+            "school": {
+                "objectUrn": "urn:li:school:12662",
+                "entityUrn": "urn:li:fs_miniSchool:12662",
+                "active": true,
+                "schoolName": "University of Birmingham",
+                "trackingId": "Q0TeIhPYTSytDxlW6BYQyg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQHD8k7NuIaCNQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 1996
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            },
+            "degreeName": "BA Hons",
+            "schoolName": "University of Birmingham",
+            "fieldOfStudy": "History",
+            "schoolUrn": "urn:li:fs_miniSchool:12662"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAADYv7kBbfkRG6XjFobrF7Uk0qdFRbgB8-4,54909929)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1993
+                },
+                "startDate": {
+                    "year": 1986
+                }
+            },
+            "degreeName": "A Levels",
+            "schoolName": "George Abbot Secondary School, Guildford",
+            "fieldOfStudy": "English, History, General Studies, Biology"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

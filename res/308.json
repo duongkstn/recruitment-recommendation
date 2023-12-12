@@ -1,0 +1,313 @@
+{
+    "summary": "Momenteel ben ik werkzaam in de vastgoed branche, als technisch/vastgoed beheerder voor diverse woningen en panden. \nDaarbij volg ik een opleiding tot EP-W adviseur om in de toekomst onze woningen te kunnen verduurzamen.",
+    "industryName": "Real Estate",
+    "lastName": "Nieuwenburg",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:44",
+    "firstName": "Kim",
+    "entityUrn": "urn:li:fs_profile:ACoAADbrvvoB_3DslIl8ctvl-NOBSTopLqUegHw",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101461601"
+    },
+    "geoLocationName": "The Hague, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "--",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFvAFxO2OGavQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1697643421442?e=1707955200&v=beta&t=qjUWTKr5dZETdICVl4yDFfdntC3UOy5z-gmRophziOE",
+    "img_200_200": "200_200/0/1697643421442?e=1707955200&v=beta&t=VDo4AZUvstyeuSBRz4uEHQ64W4Nnh5uWVjKDzp_PE2g",
+    "img_400_400": "400_400/0/1697643421442?e=1707955200&v=beta&t=qlxVSVVeeskjjcZqGhhRicUnsi7myIPFoo1n-lzwPyM",
+    "img_800_800": "800_800/0/1697643421442?e=1707955200&v=beta&t=SZ3fI3tPULkfrxK-dIr_NR4bqfBT9f-X0Mfp6VvAyGc",
+    "profile_id": "ACoAADbrvvoB_3DslIl8ctvl-NOBSTopLqUegHw",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADbrvvoB_3DslIl8ctvl-NOBSTopLqUegHw",
+    "member_urn": "urn:li:member:921419514",
+    "public_id": "kim-nieuwenburg-a766b8218",
+    "experience": [
+        {
+            "locationName": "Den Haag",
+            "entityUrn": "urn:li:fs_position:(ACoAADbrvvoB_3DslIl8ctvl-NOBSTopLqUegHw,2098546676)",
+            "geoLocationName": "Den Haag",
+            "companyName": "Dévast",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Real Estate"
+                ]
+            },
+            "title": "Vastgoedmanager",
+            "companyUrn": "urn:li:fs_miniCompany:80070607",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGrLXNSqsdDqw/company-logo_"
+        },
+        {
+            "locationName": "Den Haag, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADbrvvoB_3DslIl8ctvl-NOBSTopLqUegHw,1961870781)",
+            "geoLocationName": "Den Haag, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "Staate Beheer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "description": "Namens diverse eigenaren beheer ik samen met mijn collega verschillende woningen en panden.",
+            "title": "Technisch beheerster",
+            "region": "urn:li:fs_region:(nl,5688)"
+        },
+        {
+            "locationName": "Den Haag, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADbrvvoB_3DslIl8ctvl-NOBSTopLqUegHw,1826594953)",
+            "geoLocationName": "Den Haag, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "ZZP/Zelfstandig Ondernemer",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "description": "Ik verzorg/manage bij verschillende klanten huis en toebehoren, van schoonmaak- en strijkwerkzaamheden tot organiseren van administratie.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Design"
+                ]
+            },
+            "title": "Verzorger",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:417283"
+        },
+        {
+            "locationName": "Den Haag, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADbrvvoB_3DslIl8ctvl-NOBSTopLqUegHw,1826596791)",
+            "geoLocationName": "Den Haag, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "Gall & Gall",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "description": "Verkoper en ook licht administratieve taken voor verschillende filialen.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Verkoper",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:31230",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHldmEPMtTZsA/company-logo_"
+        },
+        {
+            "locationName": "Den Haag, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADbrvvoB_3DslIl8ctvl-NOBSTopLqUegHw,1826599340)",
+            "geoLocationName": "Den Haag, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "Albert Heijn",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Verkoper",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:10031312",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQE_asn6DhgWeg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADbrvvoB_3DslIl8ctvl-NOBSTopLqUegHw,742038216)",
+            "school": {
+                "objectUrn": "urn:li:school:4062083",
+                "entityUrn": "urn:li:fs_miniSchool:4062083",
+                "active": true,
+                "schoolName": "NTI",
+                "trackingId": "AAOECXCcTueXC7y6B9G7Mg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQEK9SRqSbVYSQ/company-logo_"
+            },
+            "activities": "Geen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "description": "Thuisopleiding bedrijfsadministratie.",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101409",
+            "schoolName": "NTI",
+            "fieldOfStudy": "Bedrijfsbeheer en administratieve diensten",
+            "schoolUrn": "urn:li:fs_miniSchool:4062083"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADbrvvoB_3DslIl8ctvl-NOBSTopLqUegHw,736596396)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "degreeName": "Vwo",
+            "schoolName": "Hofstad",
+            "fieldOfStudy": "C en m"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Vastgoed Business School",
+            "name": "Certificaat EP-W Basis - Woningen",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "202353461",
+            "company": {
+                "objectUrn": "urn:li:company:2451938",
+                "entityUrn": "urn:li:fs_miniCompany:2451938",
+                "name": "Vastgoed Business School",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631334066458?e=1710374400&v=beta&t=ITF8JnsPIOlrqxvW8sMAZ5Q4UxNgU6eOq5wQeyzhbqc",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631334066458?e=1710374400&v=beta&t=I8tA4Zc2q4LqNwoVK52Esca_ybQd0ZxgENbMr4ZtLm0",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631334066458?e=1710374400&v=beta&t=2mhOShlKERwVskV_QwuW0bjtQnkjoy4SZtUbiVaTnfk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEfZYH9T3_cjw/company-logo_"
+                    }
+                },
+                "universalName": "vastgoedbs",
+                "dashCompanyUrn": "urn:li:fsd_company:2451938",
+                "trackingId": "QdQ6eyc1T5+q0bODeC0UUg=="
+            },
+            "displaySource": "vastgoedbs.nl",
+            "companyUrn": "urn:li:fs_miniCompany:2451938",
+            "url": "https://www.vastgoedbs.nl?download_certificate=1&certificate_id=NHdXWFZPQ3EzVWdRa3NtK0kzcWpSUT09"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Overblijfmedewerkster",
+            "companyName": "SCOH",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2010
+                }
+            },
+            "cause": "CHILDREN",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:3872733",
+                    "entityUrn": "urn:li:fs_miniCompany:3872733",
+                    "name": "SCOH",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630584536930/scoh_logo?e=1710374400&v=beta&t=KQeePRO5Kdg7coHR2Cd9QWEaeZeofdN7qyAwEar2VdU",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630584536930/scoh_logo?e=1710374400&v=beta&t=7vELbA5uZZzjkgQfwY4YzG-KvSRtkMbBsPIWJ98eA0w",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630584536930/scoh_logo?e=1710374400&v=beta&t=PcyXdJsqtlG5pTYDz2HvtKYlx3UVgfVPmCT7bcdpBNc",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQHC-LUQycRbfA/company-logo_"
+                        }
+                    },
+                    "universalName": "scoh",
+                    "dashCompanyUrn": "urn:li:fsd_company:3872733",
+                    "trackingId": "XqV8GEVzSWqMOlZV134zNA=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:3872733"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

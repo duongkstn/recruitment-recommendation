@@ -1,0 +1,403 @@
+{
+    "summary": "My career in HR evolved out of a passion for people and a curiosity around what drives them. After more than fifteen years in the field of improving business results by maximising people’s potential, I still strongly believe that it is the people who make a company.\n\nMy drive for Performance Management as an HR responsibility and how this contributes to realise the business results reflects in my desire to work closely with the business. I always look at HR from a business perspective and believe that HR is there to facilitate. Being the bridge between HR and the business enables me to approach HR topics from different angles and therefore build/improve processes and procedures more effectively.\n\nHaving worked and lived in Asia, I have encountered a lot of cultural differences, different views on HR and business directions. I have set up HR departments from scratch in challenging, multicultural and global settings and have a proven ability to build, motivate and lead teams. In most of my roles I combined growing people as well as organizations through HR improvement projects, annual operational plans, coaching and by leading/driving the HR agenda.\n\nWhat do I bring? \n♦ An excellent track record for building strong relationships with senior leaders and managers enabling\n   them to achieve their people and business goals. \n♦ Valued cooperation between HR and the business, more efficiency and tangible results \n♦ Experience in change management, organisational re-design, talent management and driving HR\n   efficiency both inside and outside the HR team.\n♦ An International orientation, broad HR knowledge and a drive to improve.\n\nPlus an admiration for people who don't judge immediately, who can help without prejudice and those who work really hard to achieve their dreams!",
+    "industryName": "Construction",
+    "lastName": "Lampe",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:48",
+    "firstName": "Maarten",
+    "entityUrn": "urn:li:fs_profile:ACoAAAA2YfMBxnhKa0ZCBgOqSjqDzHVbJy_lna0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103933617"
+    },
+    "geoLocationName": "’s-Hertogenbosch, North Brabant",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "People & Culture | Talent management | Strategy & Change | Coaching",
+    "profile_id": "ACoAAAA2YfMBxnhKa0ZCBgOqSjqDzHVbJy_lna0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAA2YfMBxnhKa0ZCBgOqSjqDzHVbJy_lna0",
+    "member_urn": "urn:li:member:3564019",
+    "public_id": "maartenlampe",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAA2YfMBxnhKa0ZCBgOqSjqDzHVbJy_lna0,1699219994)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Leviat",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "description": "Leviat (3000 people, 60 locations) unites the expertise, skills and resources of CRH’s construction accessories companies in a single global organisation. We imagine, model and make engineered products and innovative construction solutions for a dynamic industry.  Our trusted product brands are used in a variety of sectors from residential to infrastructure. My role is to support, coach and facilitate regional HR leaders/MD's to drive the alignment of the overall HR strategy, roll out of key HR projects and develop their population. Besides that I am participating and leading several HR projects within Leviat/CHR and when needed I give due diligence, investment/divestment and integration support. My key focus is on talent management, L&D, organizational development and HR operational excellence",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Global HR Manager - Leviat (a CRH company)",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:31269576",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEuJwB5z0JXsA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAA2YfMBxnhKa0ZCBgOqSjqDzHVbJy_lna0,1062530069)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "description": "CRH (87.000 employees, 32 countries) provides building materials across the spectrum of the construction industry – from building foundations to frame and roofing, to fitting out the interior space and improving the exterior environment, on site works and infrastructural projects. \n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Regional Senior HR Business Partner ",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAA2YfMBxnhKa0ZCBgOqSjqDzHVbJy_lna0,906985013)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": " Taking some time of to support my family",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "title": "Compassion leave ",
+            "region": "urn:li:fs_region:(nl,0)"
+        },
+        {
+            "locationName": "Hong Kong",
+            "entityUrn": "urn:li:fs_position:(ACoAAAA2YfMBxnhKa0ZCBgOqSjqDzHVbJy_lna0,953708422)",
+            "geoLocationName": "Hong Kong",
+            "geoUrn": "urn:li:fs_geo:103291313",
+            "companyName": "Independent coach",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2014
+                }
+            },
+            "description": "Independent and part time coach with a focus of non-local persons working and living in Hong Kong. ",
+            "title": "Coach",
+            "region": "urn:li:fs_region:(hk,0)"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAA2YfMBxnhKa0ZCBgOqSjqDzHVbJy_lna0,1)"
+            ],
+            "locationName": "Hong Kong",
+            "entityUrn": "urn:li:fs_position:(ACoAAAA2YfMBxnhKa0ZCBgOqSjqDzHVbJy_lna0,536404829)",
+            "geoLocationName": "Hong Kong",
+            "companyName": "Infiniti Motor Company Ltd.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2014
+                }
+            },
+            "description": "Infiniti Motor Company Ltd. is headquartered in Hong Kong with sales operations in more than 50 countries. \nTalent Management is one of the 3 HR Pillars within Infiniti. My function covered the areas: Attracting, retaining and developing talent, sharing best practices globally and setting up talent related procedures/policies. During my tenure amongst others I set up the first global Infiniti talent scan (including succesion planning), set up a training framework and leveraged Nissan/regional best practices. ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Automotive"
+                ]
+            },
+            "title": "Global Head of Talent Development",
+            "companyUrn": "urn:li:fs_miniCompany:3224206",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQEQCjgzIoS9nw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAA2YfMBxnhKa0ZCBgOqSjqDzHVbJy_lna0,8698559)",
+            "school": {
+                "objectUrn": "urn:li:school:15415",
+                "entityUrn": "urn:li:fs_miniSchool:15415",
+                "active": true,
+                "schoolName": "Erasmus University Rotterdam",
+                "trackingId": "J0vKF+X/SVqSFkmz5a/A4g==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_"
+            },
+            "activities": "Major: HRM & Change management",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2000
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            },
+            "degreeName": "Master of Science (M.Sc.)",
+            "schoolName": "Erasmus Universiteit Rotterdam",
+            "fieldOfStudy": "Business Administration",
+            "schoolUrn": "urn:li:fs_miniSchool:15415"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAA2YfMBxnhKa0ZCBgOqSjqDzHVbJy_lna0,51896216)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1993
+                },
+                "startDate": {
+                    "year": 1991
+                }
+            },
+            "degreeName": "VWO",
+            "schoolName": "Theresia Lyseum"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Mandarin",
+            "proficiency": "ELEMENTARY"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "The China NLP Society",
+            "name": "NLP practitioner",
+            "company": {
+                "objectUrn": "urn:li:company:2058131",
+                "entityUrn": "urn:li:fs_miniCompany:2058131",
+                "name": "The China NLP Society",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631314603134?e=1710374400&v=beta&t=4AUOfvdwNMib6kzNeA4bzSatcaPtvDuBUZytyqK3NZw",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631314603134?e=1710374400&v=beta&t=TadDQulze9jXyzSBsOMUyiOQMSmVlhNZZRCAGSrEOkE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631314603134?e=1710374400&v=beta&t=mILTvHxwigYiV8cYOUKxlmpWnzmu70UElqeswe8CXrU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEw8VhEqPiC4g/company-logo_"
+                    }
+                },
+                "universalName": "the-china-nlp-society",
+                "dashCompanyUrn": "urn:li:fsd_company:2058131",
+                "trackingId": "dTaolN7oRHes/n7O4Oi3dg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2058131"
+        },
+        {
+            "authority": "Schouten China",
+            "name": "Co-active coaching (fundamentals)",
+            "company": {
+                "objectUrn": "urn:li:company:1026544",
+                "entityUrn": "urn:li:fs_miniCompany:1026544",
+                "name": "Schouten China",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631386414963?e=1710374400&v=beta&t=iw3Cv0dVDOpib_cTKrwIsdbNBNS1GCruXcXhCf1gBx4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631386414963?e=1710374400&v=beta&t=gSlbSMl8u_dADMSI-JVlhaRSHwjVUfVvEc3p6YM87WE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631386414963?e=1710374400&v=beta&t=pE7ozGTola4t99b_AwTeckctRihJsw8H_9XvUj3sWcA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFCOiI5rmgV4w/company-logo_"
+                    }
+                },
+                "universalName": "schoutenchina",
+                "dashCompanyUrn": "urn:li:fsd_company:1026544",
+                "trackingId": "36hFJBDaTVyGQLU4xjWt/g=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1026544"
+        },
+        {
+            "authority": "Schouten China",
+            "name": "Co-active coaching (fulfilment)",
+            "company": {
+                "objectUrn": "urn:li:company:1026544",
+                "entityUrn": "urn:li:fs_miniCompany:1026544",
+                "name": "Schouten China",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631386414963?e=1710374400&v=beta&t=iw3Cv0dVDOpib_cTKrwIsdbNBNS1GCruXcXhCf1gBx4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631386414963?e=1710374400&v=beta&t=gSlbSMl8u_dADMSI-JVlhaRSHwjVUfVvEc3p6YM87WE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631386414963?e=1710374400&v=beta&t=pE7ozGTola4t99b_AwTeckctRihJsw8H_9XvUj3sWcA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFCOiI5rmgV4w/company-logo_"
+                    }
+                },
+                "universalName": "schoutenchina",
+                "dashCompanyUrn": "urn:li:fsd_company:1026544",
+                "trackingId": "cfGKL+hoQTmkAiyaKHQ51g=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1026544"
+        },
+        {
+            "authority": "DDI | Development Dimensions International",
+            "name": "Certified DDI Facilitator ",
+            "company": {
+                "objectUrn": "urn:li:company:163390",
+                "entityUrn": "urn:li:fs_miniCompany:163390",
+                "name": "DDI | Development Dimensions International",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1651684277548/ddiworld_logo?e=1710374400&v=beta&t=Mr2faokG6ai6TSAhKrNUMGq3US-Xl1sFoChvNa0zMss",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1651684277548/ddiworld_logo?e=1710374400&v=beta&t=nQvs4psmVvLLZGKx8KSt9jlYFPHdAVcwa6Rd1z3e9Xs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1651684277548/ddiworld_logo?e=1710374400&v=beta&t=sIKJJfWdcjFYCdEtLACjfFOqgnkHL1EFPg_eiEeEoFw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGLQxWtU0v9EA/company-logo_"
+                    }
+                },
+                "universalName": "ddiworld",
+                "dashCompanyUrn": "urn:li:fsd_company:163390",
+                "trackingId": "aBU6q8KKRU2u2DggNFNddA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:163390"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Field Hockey Coach of JD1",
+            "companyName": "Hockeyclub MOP",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:59442130",
+                    "entityUrn": "urn:li:fs_miniCompany:59442130",
+                    "name": "Hockeyclub MOP",
+                    "showcase": false,
+                    "active": true,
+                    "universalName": "hockeyclub-mop",
+                    "dashCompanyUrn": "urn:li:fsd_company:59442130",
+                    "trackingId": "IPf1HEdAR9C/Ezohb9Iukw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:59442130"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

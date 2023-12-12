@@ -1,0 +1,264 @@
+{
+    "summary": "Experienced Senior Category and Sourcing Manager with a demonstrated history of working in the retail industry. Skilled in Retail Management, Consulting, Marketing, and Fast-Moving Consumer Goods (FMCG). Strong marketing professional with a Master focused in Communication & Organization Management from Vrije Universiteit Amsterdam.",
+    "industryName": "Retail",
+    "lastName": "Kersbergen",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 5,
+        "day": 1
+    },
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Michiel",
+    "entityUrn": "urn:li:fs_profile:ACoAAAaljWgBScaFx0ws_po9sRu7QYcMgvFWAsk",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100460954"
+    },
+    "geoLocationName": "IJsselstein, Utrecht",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Head of Retail at bol.com",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQE6ry-W7FXqKA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1516474680385?e=1707955200&v=beta&t=vfRbylPCfxs5ycsDK8EUAfa0g3v0lDfWlxtRGyqG2HQ",
+    "img_200_200": "200_200/0/1516474680713?e=1707955200&v=beta&t=G0N0QmNSBUpo7LE7usFlXG0SZurm1Ro8N_qXjbroGHI",
+    "img_277_277": "800_800/0/1516474680381?e=1707955200&v=beta&t=CtlEZTjziUMKzMEWP26xFyIKZ_j92MJ6YnlR15kTjug",
+    "profile_id": "ACoAAAaljWgBScaFx0ws_po9sRu7QYcMgvFWAsk",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAaljWgBScaFx0ws_po9sRu7QYcMgvFWAsk",
+    "member_urn": "urn:li:member:111512936",
+    "public_id": "michiel-kersbergen-b4841831",
+    "experience": [
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAaljWgBScaFx0ws_po9sRu7QYcMgvFWAsk,2160355278)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Head of Retail",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAaljWgBScaFx0ws_po9sRu7QYcMgvFWAsk,1847415995)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Category Lead Toys & Entertainment",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAaljWgBScaFx0ws_po9sRu7QYcMgvFWAsk,1668070901)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Category Lead Domestic Appliances",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAaljWgBScaFx0ws_po9sRu7QYcMgvFWAsk,1539138491)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Manager Sourcing SDA",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAaljWgBScaFx0ws_po9sRu7QYcMgvFWAsk,1539140303)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "a.i. Manager Sourcing IT",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAaljWgBScaFx0ws_po9sRu7QYcMgvFWAsk,87466650)",
+            "school": {
+                "objectUrn": "urn:li:school:15453",
+                "entityUrn": "urn:li:fs_miniSchool:15453",
+                "active": true,
+                "schoolName": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "trackingId": "Vy4lDjZ/Sj6AFVevOhjNUg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "description": "Field of Study: Organizational Change\n\nMain Courses: Change dynamics, Organizational Science, Changing Organizational Culture, Business Strategies.",
+            "degreeName": "Master",
+            "schoolName": "Vrije Universiteit Amsterdam",
+            "fieldOfStudy": "Policy, Communication & Organization",
+            "schoolUrn": "urn:li:fs_miniSchool:15453"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAaljWgBScaFx0ws_po9sRu7QYcMgvFWAsk,67304190)",
+            "school": {
+                "objectUrn": "urn:li:school:15453",
+                "entityUrn": "urn:li:fs_miniSchool:15453",
+                "active": true,
+                "schoolName": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "trackingId": "O0FwJ/TBRI2b2PTpgtTHUw==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "description": "Main Courses: Strategic Management, Marketing en Persuasive Communication, Social Networks and Organizations, Organizational Theory's, Philosophy.",
+            "degreeName": "Premaster",
+            "schoolName": "Vrije Universiteit Amsterdam",
+            "fieldOfStudy": "Policy, Communication & Organization",
+            "schoolUrn": "urn:li:fs_miniSchool:15453"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAaljWgBScaFx0ws_po9sRu7QYcMgvFWAsk,67303667)",
+            "school": {
+                "objectUrn": "urn:li:school:15431",
+                "entityUrn": "urn:li:fs_miniSchool:15431",
+                "active": true,
+                "schoolName": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+                "trackingId": "xNKKFiebReOPOeClltbcAw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQE5MUvxbWmHLg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "description": "Minor: International Business Skills\n\nMain Courses: Marketing, Economics, English, Sponsormanagement, Mediamanagement, Business Economics, Sales, Sociology, Legal Aspects.",
+            "degreeName": "Bachelor",
+            "schoolName": "Hogeschool Utrecht",
+            "fieldOfStudy": "Economics",
+            "schoolUrn": "urn:li:fs_miniSchool:15431"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

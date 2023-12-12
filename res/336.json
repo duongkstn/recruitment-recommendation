@@ -1,0 +1,632 @@
+{
+    "summary": "Available per September 2023 for a new challenge. Primarily looking for in-house IT Security role. Preferably with an office in the greater Amsterdam area.\n\nExperienced in IT security strategy & management,  IT Risk Management, IT Audit, GRC implementations and Innovation Management.",
+    "industryName": "Financial Services",
+    "lastName": "Klaver",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 5,
+        "day": 5
+    },
+    "industryUrn": "urn:li:fs_industry:43",
+    "firstName": "Alexander",
+    "entityUrn": "urn:li:fs_profile:ACoAAAHEx_8BeZk94Y4m8oiQ0hoXStJxnVoTRTQ",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102938188"
+    },
+    "geoLocationName": "Amstelveen, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "IT Security Professional",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQGI0C8QnlsbWA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1697701521937?e=1707955200&v=beta&t=wBr_zV5iHNa0og5hNa1cBIdPwyZr8H_DXiIAnY9TziE",
+    "img_200_200": "200_200/0/1697701521937?e=1707955200&v=beta&t=QlrjgfvkZrbVg9ioRO4Fp5Do-ZGE0Df8IBX18AJoYfk",
+    "img_400_400": "400_400/0/1697701521937?e=1707955200&v=beta&t=OxkbucJD4_5O3ZknDSF18Zkk2LTBmu8ZcH1xnn6exno",
+    "img_800_800": "800_800/0/1697701521937?e=1707955200&v=beta&t=Ouy9q-h2mEbEJ39USswNofDXwMeyN6tD7pxPc29jAzE",
+    "profile_id": "ACoAAAHEx_8BeZk94Y4m8oiQ0hoXStJxnVoTRTQ",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAHEx_8BeZk94Y4m8oiQ0hoXStJxnVoTRTQ",
+    "member_urn": "urn:li:member:29673471",
+    "public_id": "alexanderjklaver",
+    "experience": [
+        {
+            "locationName": "Schiphol, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHEx_8BeZk94Y4m8oiQ0hoXStJxnVoTRTQ,2243493098)",
+            "geoLocationName": "Schiphol, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:113095277",
+            "companyName": "DIF Capital Partners",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Information Security Officer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:23756870",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFzHwZvkGmOfQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHEx_8BeZk94Y4m8oiQ0hoXStJxnVoTRTQ,1993811571)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CarNext.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Automotive"
+                ]
+            },
+            "title": "Head of IT Security & Compliance",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:18933937",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGLIT4KHvdXww/company-logo_"
+        },
+        {
+            "locationName": "Utrecht",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHEx_8BeZk94Y4m8oiQ0hoXStJxnVoTRTQ,1359359416)",
+            "geoLocationName": "Utrecht",
+            "companyName": "JDE Peet's",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Food & Beverages"
+                ]
+            },
+            "title": "Global IT Security Manager",
+            "companyUrn": "urn:li:fs_miniCompany:72385478",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFdGDmcjpGbBQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHEx_8BeZk94Y4m8oiQ0hoXStJxnVoTRTQ,918517777)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "companyName": "Protiviti",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "description": "Protiviti (www.protiviti.com) is a global consulting firm that helps companies solve problems in finance, technology, operations, governance, risk and internal audit, and has served more than 60 percent of Fortune 1000® and 35 percent of Fortune Global 500® companies. Protiviti and our independently owned Member Firms serve clients through a network of more than 70 locations in over 20 countries. We also work with smaller, growing companies, including those looking to go public, as well as with government agencies.\n\nRanked 57 on the 2016 Fortune 100 Best Companies to Work For® list, Protiviti is a wholly owned subsidiary of Robert Half (NYSE: RHI). Founded in 1948, Robert Half is a member of the S&P 500 index.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Manager ",
+            "companyUrn": "urn:li:fs_miniCompany:3920",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHwV98UYTDzzg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam WTC",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHEx_8BeZk94Y4m8oiQ0hoXStJxnVoTRTQ,250992733)",
+            "geoLocationName": "Amsterdam WTC",
+            "companyName": "Protiviti",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Senior Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:3920",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHwV98UYTDzzg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAHEx_8BeZk94Y4m8oiQ0hoXStJxnVoTRTQ,42151103)",
+            "school": {
+                "objectUrn": "urn:li:school:19929",
+                "entityUrn": "urn:li:fs_miniSchool:19929",
+                "active": true,
+                "schoolName": "Rotterdam School of Management, Erasmus University",
+                "trackingId": "TxRQTx5jR8qDYuIiHwONww==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGxI95CurHtdA/company-logo_"
+            },
+            "degreeName": "MSc (Master)",
+            "schoolName": "RSM Erasmus University",
+            "fieldOfStudy": "Management of Innovation",
+            "schoolUrn": "urn:li:fs_miniSchool:19929"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAHEx_8BeZk94Y4m8oiQ0hoXStJxnVoTRTQ,76667983)",
+            "school": {
+                "objectUrn": "urn:li:school:19929",
+                "entityUrn": "urn:li:fs_miniSchool:19929",
+                "active": true,
+                "schoolName": "Rotterdam School of Management, Erasmus University",
+                "trackingId": "TJL7dVkGTDKfU8ExS3Z8TQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGxI95CurHtdA/company-logo_"
+            },
+            "activities": "Fraternity R.S.V Sanctus Laurentius (various projects / committees) + Study Association STAR (various projects / committees).",
+            "degreeName": "BSc (Bachelor)",
+            "schoolName": "RSM Erasmus University",
+            "fieldOfStudy": "International Business Administration",
+            "schoolUrn": "urn:li:fs_miniSchool:19929"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "ISACA",
+            "name": "Certified Information Systems Auditor® (CISA)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "licenseNumber": "749961",
+            "company": {
+                "objectUrn": "urn:li:company:21062",
+                "entityUrn": "urn:li:fs_miniCompany:21062",
+                "name": "ISACA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=cwzBvUoMgtr8ZvUvUoMsprbGmEqJ8GUYyYxY8zJoCN0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=tKdg4zFODP83AIGTCAYzrxoeUHyP4sBtLNBdvzoeUbE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=ghFMKYB-nC9QajVN9vtalPvv2k6CxLTyCsEyGbQzIx0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEbgaF0IMoyIw/company-logo_"
+                    }
+                },
+                "universalName": "isaca",
+                "dashCompanyUrn": "urn:li:fsd_company:21062",
+                "trackingId": "1N9bHrSFQLSlEN+uaD0sCg=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:21062",
+            "url": "https://www.youracclaim.com/badges/9c7e10ec-a24e-4f2b-a13d-082e8da2cdf0"
+        },
+        {
+            "authority": "EC-Council",
+            "name": "Certified Ethical Hacker",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2013
+                }
+            },
+            "licenseNumber": "ECC54120237655",
+            "company": {
+                "objectUrn": "urn:li:company:569038",
+                "entityUrn": "urn:li:fs_miniCompany:569038",
+                "name": "EC-Council",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631371916365?e=1710374400&v=beta&t=oFwr04RjAQGs582Amme68VJvroX72dIuU7CVGoJhkPg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631371916365?e=1710374400&v=beta&t=PR_X7d3iD7Tm92YyFZSSBV5TLrzQ3t5vfaQQ5iyA0Pk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631371916365?e=1710374400&v=beta&t=YFC5Ztndw9cGK6BcmSiPdYp4KLAm4rUYDLWbwF-LTvA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHPon7g_XjJpA/company-logo_"
+                    }
+                },
+                "universalName": "ec-council",
+                "dashCompanyUrn": "urn:li:fsd_company:569038",
+                "trackingId": "9nfkY1IbRGe8R5YWr0/WmQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:569038"
+        },
+        {
+            "authority": "(ISC)²",
+            "name": "Certified Information Systems Security Professional (CISSP)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "licenseNumber": "526309",
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "ppoBND5NSOiB2fyF9SH0Sg=="
+            },
+            "displaySource": "isc2.org",
+            "companyUrn": "urn:li:fs_miniCompany:26753",
+            "url": "https://www.isc2.org/cissp/"
+        },
+        {
+            "authority": "(ISC)²",
+            "name": "Certified Cloud Security Professional (CCSP)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "AXSgz764TF+8SsD+HvC8tQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:26753"
+        },
+        {
+            "authority": "ITIL Certified",
+            "name": "ITIL Foundation Level",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2483608",
+                "entityUrn": "urn:li:fs_miniCompany:2483608",
+                "name": "ITIL Certified",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631315032142?e=1710374400&v=beta&t=BVEbAQzRUJWjt9rCS4f6k-bdmfM0s8M_ofXSwIyAIBg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631315032142?e=1710374400&v=beta&t=v5XnEhKIOy8zvM5bKWeSsOOk9EHxrrSkjXsZb983uDQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631315032142?e=1710374400&v=beta&t=g1CE-Tm2h-hwLoOBkX3sFecQ3ug57jrDVuHkSd__uOE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFKWf13TWHU7A/company-logo_"
+                    }
+                },
+                "universalName": "itil-certified",
+                "dashCompanyUrn": "urn:li:fsd_company:2483608",
+                "trackingId": "ggNBBEyjSVChqfGFd5LuxA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2483608"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Bijdehand Volunteer",
+            "companyName": "De Regenboog Groep",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2014
+                }
+            },
+            "cause": "CHILDREN",
+            "description": "The Bijdehand project is for children between 9 and 12 whom are socially isolated due to social, financial or ethnic factors. The volunteer is assigned to a child, and by undertaking outdoor activities, being present and encouragement the child’s social isolation is reduced, he/ she gains in self-confidence and learns new skills.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:226396",
+                    "entityUrn": "urn:li:fs_miniCompany:226396",
+                    "name": "De Regenboog Groep",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631338428035?e=1710374400&v=beta&t=VhOiLP4JO_amwUtdxKeqatacbkZeN4ApEKpY5fQE3sE",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631338428035?e=1710374400&v=beta&t=e4eBVmP065qq6EeGjjLsU0hShKN5j1mzaKr9gqkPhyw",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631338428035?e=1710374400&v=beta&t=7dScl0XA-RnJS5_HR_q2Kkohmzv3Q-ER6lbGK4O8loo",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFcOWFjCrSyow/company-logo_"
+                        }
+                    },
+                    "universalName": "de-regenboog-groep",
+                    "dashCompanyUrn": "urn:li:fsd_company:226396",
+                    "trackingId": "EUKHXoxzSRCh1E9UY8Ongg=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:226396"
+        },
+        {
+            "role": "Food Bank Volunteer",
+            "companyName": "Voedselbank Amsterdam",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "cause": "POVERTY_ALLEVIATION",
+            "description": "Volunteer at the distribution center on a semi-regular basis. In the Netherlands a million people live below the poverty threshold. The food banks help the poorest citizens by temporarily aiding them with food packages. In order to provide the customers with sufficient food, the food banks work with companies, institutions, governments and individuals. They seek to distribute a varied and healthy diet. Through cooperation they ensure that poverty is reduced, food surpluses are not wasted and the environment is less burdened.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:859637",
+                    "entityUrn": "urn:li:fs_miniCompany:859637",
+                    "name": "Voedselbank Amsterdam",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631363531795?e=1710374400&v=beta&t=L-NV5Wh9rOc4ycfFqnyAWb05q8_L-qW1LW43XjsUals",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631363531795?e=1710374400&v=beta&t=MLzvzRYMy65xSB2z9qm87xMeACIyAfcDVWvZHfVquFE",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631363531795?e=1710374400&v=beta&t=qBCCOAYaooQskS9XKAyMN7VU4JUqySbOyy8npO-Q4BM",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C510BAQEEuG_d19aVxw/company-logo_"
+                        }
+                    },
+                    "universalName": "voedselbank-amsterdam",
+                    "dashCompanyUrn": "urn:li:fsd_company:859637",
+                    "trackingId": "M2TCIVh1QhSJv5I5phK4kw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:859637"
+        },
+        {
+            "role": "Begeleider",
+            "companyName": "Stichting Nationaal Ouderenfonds",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2017
+                }
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": "Volunteers are partnered with elderly during social events.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:1195996",
+                    "entityUrn": "urn:li:fs_miniCompany:1195996",
+                    "name": "Stichting Nationaal Ouderenfonds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630465776685/stichting_nationaal_ouderenfonds_logo?e=1710374400&v=beta&t=D3Yml4yVXo42zOvs79uibYOO2NGvLPvGkMDvkHrFCP0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630465776685/stichting_nationaal_ouderenfonds_logo?e=1710374400&v=beta&t=QbBu7kRR3K7hx0l6BE0BuDxIGTeQiQv1IfnyC79xzWI",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630465776685/stichting_nationaal_ouderenfonds_logo?e=1710374400&v=beta&t=R5GxW7l1DAHhNKU970m_TBI3vGwVw9FnOfXvS1pD2eQ",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEAeSjzVdEk-g/company-logo_"
+                        }
+                    },
+                    "universalName": "stichting-nationaal-ouderenfonds",
+                    "dashCompanyUrn": "urn:li:fsd_company:1195996",
+                    "trackingId": "FFz5W2GnQzCLXETY3T8aQg=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1195996"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

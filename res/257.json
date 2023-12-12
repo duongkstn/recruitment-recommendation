@@ -1,0 +1,150 @@
+{
+    "summary": "Sinds 2019 mijn eigen e-commerce bedrijf, voornamelijk aanbieden van tablet-accessoires onder het merk: Case Closed.",
+    "industryName": "Internet",
+    "lastName": "Höfle",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:6",
+    "firstName": "Damiën",
+    "entityUrn": "urn:li:fs_profile:ACoAAC9r0WcBNWDEwRETCyJt7yByO3VyOkZFkpM",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100460954"
+    },
+    "geoLocationName": "IJsselstein, Utrecht",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Werkzaam bij bol.com",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQEJcVsYYLyalw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1685919131120?e=1707955200&v=beta&t=e5fGFug0eHJKckERZ1MyCMPpBxw9Q1L1ZixMYWNSUtY",
+    "img_200_200": "200_200/0/1685919131120?e=1707955200&v=beta&t=lgUzmRhBEAN6bDq-2UOz21H5QZZJsCvkO4CkRnpfQvc",
+    "img_400_400": "400_400/0/1685919131120?e=1707955200&v=beta&t=3RCraM1xxh3xqoyHvxV0o2dH13jUwU35-nVDaUXw4bo",
+    "img_800_800": "800_800/0/1685919131120?e=1707955200&v=beta&t=ktELieY4qmHF6FQBqC5TTkuMKZSqCbggLTO7Uf2hLkE",
+    "profile_id": "ACoAAC9r0WcBNWDEwRETCyJt7yByO3VyOkZFkpM",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAC9r0WcBNWDEwRETCyJt7yByO3VyOkZFkpM",
+    "member_urn": "urn:li:member:795595111",
+    "public_id": "damiën-höfle-a075391a2",
+    "experience": [
+        {
+            "locationName": "Utrecht, Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAC9r0WcBNWDEwRETCyJt7yByO3VyOkZFkpM,2254047294)",
+            "geoLocationName": "Utrecht, Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:106623457",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Commercieel Campagne Specialist",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "IJsselstein",
+            "entityUrn": "urn:li:fs_position:(ACoAAC9r0WcBNWDEwRETCyJt7yByO3VyOkZFkpM,2188902611)",
+            "geoLocationName": "IJsselstein",
+            "companyName": "Vertigo Coasting b.v.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "title": "Eigenaar"
+        },
+        {
+            "locationName": "Nieuwegein, Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAC9r0WcBNWDEwRETCyJt7yByO3VyOkZFkpM,2193498531)",
+            "geoLocationName": "Nieuwegein, Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:102042271",
+            "companyName": "MediaMarkt Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Verkoopmedewerker afdeling Computer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2307595",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEsWb25fexbwQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAC9r0WcBNWDEwRETCyJt7yByO3VyOkZFkpM,640067797)",
+            "school": {
+                "objectUrn": "urn:li:school:15450",
+                "entityUrn": "urn:li:fs_miniSchool:15450",
+                "active": true,
+                "schoolName": "Utrecht University",
+                "trackingId": "IZSOEGDQRsq+higHo18V1A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "description": "Niet afgemaakt",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Universiteit Utrecht",
+            "fieldOfStudy": "Economie",
+            "schoolUrn": "urn:li:fs_miniSchool:15450"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAC9r0WcBNWDEwRETCyJt7yByO3VyOkZFkpM,891507622)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "degreeName": "VWO",
+            "schoolName": "Oosterlicht College Nieuwegein",
+            "fieldOfStudy": "NT/NG"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

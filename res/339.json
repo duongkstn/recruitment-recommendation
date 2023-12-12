@@ -1,0 +1,166 @@
+{
+    "industryName": "Building Materials",
+    "lastName": "Babińska",
+    "locationName": "Poland",
+    "student": false,
+    "geoCountryName": "Poland",
+    "geoCountryUrn": "urn:li:fs_geo:105072130",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Agnieszka",
+    "entityUrn": "urn:li:fs_profile:ACoAABX57i4BSJrq8Fkf3dQRgkatuBLym415z9w",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102560051"
+    },
+    "geoLocationName": "Warsaw, Mazowieckie",
+    "location": {
+        "basicLocation": {
+            "countryCode": "pl"
+        }
+    },
+    "headline": "Human Resource",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQGHQNzv5ebCDg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1517249561884?e=1707955200&v=beta&t=_SSxhIHFAfrQ-4ixBm7nOlAPiAQqNCLUrhWwjtiV2W0",
+    "img_200_200": "200_200/0/1517249561790?e=1707955200&v=beta&t=qwL1daCVpklxyBE3xsrS3lc1UvDRL6fB76TlddrvoXs",
+    "img_300_300": "800_800/0/1517249562372?e=1707955200&v=beta&t=MJIjBTEDe4pA_JfkCuuQVZEK09m7zMMCQU1kS_QwXAM",
+    "profile_id": "ACoAABX57i4BSJrq8Fkf3dQRgkatuBLym415z9w",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABX57i4BSJrq8Fkf3dQRgkatuBLym415z9w",
+    "member_urn": "urn:li:member:368700974",
+    "public_id": "agnieszkababińska",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABX57i4BSJrq8Fkf3dQRgkatuBLym415z9w,672342432)",
+            "companyName": "CRH Materials Polska, Europe Materials East, Poland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2006
+                }
+            },
+            "title": "HR Business Partner, Poland"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABX57i4BSJrq8Fkf3dQRgkatuBLym415z9w,282048481)",
+            "school": {
+                "objectUrn": "urn:li:school:15991",
+                "entityUrn": "urn:li:fs_miniSchool:15991",
+                "active": true,
+                "schoolName": "SGH Warsaw School of Economics",
+                "trackingId": "o41Yb5mZRTGyLsFQ2oWjVA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQGN-b67t8LE0Q/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "degreeName": "Postgradutaes studies",
+            "schoolName": "Szkoła Główna Handlowa w Warszawie",
+            "fieldOfStudy": "Human Resource Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15991"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABX57i4BSJrq8Fkf3dQRgkatuBLym415z9w,282047526)",
+            "school": {
+                "objectUrn": "urn:li:school:22891",
+                "entityUrn": "urn:li:fs_miniSchool:22891",
+                "active": true,
+                "schoolName": "Uczelnia Łazarskiego w Warszawie",
+                "trackingId": "f2N3dIZ4S2mG6QDTD17qxA==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQEbgz5zyQWhtw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "degreeName": "Master's degree",
+            "schoolName": "Lazarski University",
+            "fieldOfStudy": "Economy, Foreign commerce",
+            "schoolUrn": "urn:li:fs_miniSchool:22891"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Agnieszka",
+                        "lastName": "Babińska",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABX57i4BSJrq8Fkf3dQRgkatuBLym415z9w",
+                        "occupation": "Human Resource",
+                        "objectUrn": "urn:li:member:368700974",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABX57i4BSJrq8Fkf3dQRgkatuBLym415z9w",
+                        "publicIdentifier": "agnieszkababińska",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517249561884?e=1707955200&v=beta&t=_SSxhIHFAfrQ-4ixBm7nOlAPiAQqNCLUrhWwjtiV2W0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517249561790?e=1707955200&v=beta&t=qwL1daCVpklxyBE3xsrS3lc1UvDRL6fB76TlddrvoXs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 300,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517249562878?e=1707955200&v=beta&t=DVUdTQXpbtDurInptpJBzcoI_6OXcHS3y7x6S0Myueg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 300
+                                    },
+                                    {
+                                        "width": 300,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517249562372?e=1707955200&v=beta&t=MJIjBTEDe4pA_JfkCuuQVZEK09m7zMMCQU1kS_QwXAM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 300
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGHQNzv5ebCDg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "EZrns0unQd+bapwOCCI7Vg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABX57i4BSJrq8Fkf3dQRgkatuBLym415z9w,516657881,1)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABX57i4BSJrq8Fkf3dQRgkatuBLym415z9w"
+                },
+                {
+                    "name": "Barbara Przedpełska",
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABX57i4BSJrq8Fkf3dQRgkatuBLym415z9w,516657881,2)"
+                },
+                {
+                    "name": "Wojciech Swięcicki",
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABX57i4BSJrq8Fkf3dQRgkatuBLym415z9w,516657881,3)"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "description": "Team leader -responsible for co-ordination and implementation of the EUR 1million worth Training Project co-financed by the EU (Human Capital Programme). Completed on time and budget, positively audited by the EU.\n Project covered 155 trainings organised during 22 months for 1700 participants from within Poland and all business levels, from Production to Top Magement; training scopes varied from technical, through Health&Safety to soft skills",
+            "title": "EXCELLENCE Training Project"
+        }
+    ]
+}

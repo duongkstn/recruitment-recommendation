@@ -1,0 +1,249 @@
+{
+    "summary": "E-Commerce | Merchandising & Sourcing | Business Development | Strategy | Retail | bol.com | Royal Ahold | Management",
+    "industryName": "Retail",
+    "lastName": "Hagens",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 6,
+        "day": 2
+    },
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Claire",
+    "entityUrn": "urn:li:fs_profile:ACoAAAHlhG0BofQCw7D-TQ8cwQRnm1qrcBjoHyU",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Manager Sourcing Books & Media at bol. (Ahold Delhaize)",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQGG25GX3UwpYA/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1694851199060?e=1702972800&v=beta&t=wUSkRmXte0AZhzg--i_v_D-_2shpz7JyAiL8nXWbezY",
+    "img_200_200": "200_200/0/1694851199060?e=1702972800&v=beta&t=ExLlvrYU1zoT5pd2wfwFoc4LxCgcD3Icj71uz3eKhho",
+    "img_500_500": "800_800/0/1694851199060?e=1702972800&v=beta&t=14p5hbqXwVyoGTzFoMC2X_VjBW7rxbtr0DKR7CiVW-Y",
+    "img_100_100": "100_100/0/1694851199060?e=1702972800&v=beta&t=CvGwd7L4w3zH_hyhWOgxLqbxb6uBIycUHzQZMKg2UdY",
+    "profile_id": "ACoAAAHlhG0BofQCw7D-TQ8cwQRnm1qrcBjoHyU",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAHlhG0BofQCw7D-TQ8cwQRnm1qrcBjoHyU",
+    "member_urn": "urn:li:member:31818861",
+    "public_id": "claire-hagens-8397a5a",
+    "experience": [
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHlhG0BofQCw7D-TQ8cwQRnm1qrcBjoHyU,1965821327)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "description": "Responsible for the categories Dutch, International & Educational Books, Digital Reading, Movies and Music.\nTeam of 8 direct reports.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Sr. Manager Sourcing Books & Media",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHlhG0BofQCw7D-TQ8cwQRnm1qrcBjoHyU,1682078461)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "description": "Responsible for the Campaigns and Promotions for the categories Kitchen & Households, Home Interior, DIY and Garden & Lighting.\nTeam of 11 direct reports.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Sr. Manager Campaigns and Promotions Home & Garden",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHlhG0BofQCw7D-TQ8cwQRnm1qrcBjoHyU,1428606819)",
+            "geoLocationName": "Utrecht en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "description": "Responsible for the Campaigns, Promotions and Customer Journey for the categories Kitchen & Households.\nTeam of 6 direct reports.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Sr. Manager Merchandising Home",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHlhG0BofQCw7D-TQ8cwQRnm1qrcBjoHyU,1175075476)",
+            "geoLocationName": "Utrecht en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2016
+                }
+            },
+            "description": "Responsible for the brand Samsung within the categories Mobile, Tablet & Wearables.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "(Sr.) Brand Specialist Mobile -  Samsung",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Londen, Engeland, Verenigd Koninkrijk",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHlhG0BofQCw7D-TQ8cwQRnm1qrcBjoHyU,638844662)",
+            "geoLocationName": "Londen, Engeland, Verenigd Koninkrijk",
+            "geoUrn": "urn:li:fs_geo:102257491",
+            "companyName": "Team ITG",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2015
+                }
+            },
+            "description": "- Managing Ziggo, the largest cable company in the Netherlands;\n- Developing online marketing strategies and solutions for Ziggo such as different email triggers;\n- Improving customer engagement by smarter marketing campaigns and retargeting;\n- Managing an internal project team;\n- Managing clients budget.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "Account Manager",
+            "region": "urn:li:fs_region:(gb,0)",
+            "companyUrn": "urn:li:fs_miniCompany:862004",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFmaaXo8XjZhQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAHlhG0BofQCw7D-TQ8cwQRnm1qrcBjoHyU,59308148)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "degreeName": "Master of Science (M.Sc.)",
+            "schoolName": "Vrije Universiteit Amsterdam",
+            "fieldOfStudy": "Marketing"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAHlhG0BofQCw7D-TQ8cwQRnm1qrcBjoHyU,37627855)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "Pre-Master",
+            "schoolName": "Vrije Universiteit Amsterdam",
+            "fieldOfStudy": "Marketing"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAHlhG0BofQCw7D-TQ8cwQRnm1qrcBjoHyU,59310418)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "B",
+            "schoolName": "EC English Cambridge",
+            "fieldOfStudy": "FCE and CAE"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

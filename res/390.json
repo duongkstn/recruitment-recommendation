@@ -1,0 +1,778 @@
+{
+    "summary": "I'm thrilled to connect with fellow professionals!\n\n🌍 Located in Amsterdam, The Netherlands. European Union citizen. \n\nMy Aspirations: I'm looking forward to gaining exposure in a spectrum of HR domains, including HR Operations, Compensation and Rewards, Payroll, People Analytics, Digital HR, Process Streamlining, Agile Project Management, Benefits. I aim to amplify my skill set in both corporate and start-up settings.\n\nExpertise at a Glance:\n🌐  Multi-Country HR administration (EMEA region) from The Netherlands and Germany to Austria, France, the UK, and the Nordics. \n🛍️ Retail & Wholesale sectors.\n💰 Payroll data input preparation.\n💼 HRIS platforms: SAP Success Factors (adding, changing and updating data) and UKG Kronos (legislation implementation).\n📈 People Analytics enthusiast: reporting, decluttering and data clean up, categorization, exploratory analysis, sociodemographics (DEI) and data visualization. \n\nPersonality / Power Skills:\n📊 Organized & structured approach.\n🔍 Solution-finder mindset via process improvement, system integration and digitalization.\n⏰ Deadline & prioritization focus.\n🤝 Team player - collaboration is key for successful projects. \n🌟 Lifelong learner: I'm on a perpetual quest for growth and continually investing in my knowledge. \n⚖️ Work-Life balance advocate, hybrid work and flexibility. Quoting de Vries (2021) \"The return to performance always happens by recharging\".\n\nAcademic Foundation:\n📚 Master's degree in Sociology (Portugal)\n📚 CIPD Diploma in Human Resources Practice (United Kingdom). Current associate member of the HR professional association CIPD, a professional hub for HR continuous learning and access to the state of art HR-People Management research.",
+    "industryName": "Transportation/Trucking/Railroad",
+    "lastName": "Marques da Silva",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:92",
+    "firstName": "Mariana",
+    "entityUrn": "urn:li:fs_profile:ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "International Payroll - HR 🌍 | AGILE Project Management | CIPD Associate | Sociology & People Management | Aspiring: HR Operations, HR Project Management, People Data Analytics, Digital HR, Payroll & Rewards 🚀",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQHaom91Zj6tig/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1630162665819?e=1707955200&v=beta&t=sKvNwJ_FNWRN7zjO-tm8ec6-2x-AJeE6_Ix5dRocAtY",
+    "img_200_200": "200_200/0/1630162665819?e=1707955200&v=beta&t=lIQsSZCBEliNPRTlAFn7XWD-PY3QzwBKXz_cKl1U71E",
+    "img_400_400": "400_400/0/1630162665819?e=1707955200&v=beta&t=dp_rAO_xUMFB92yfHDkHG0I1UuCjQ_umgS1_f48Staw",
+    "img_800_800": "800_800/0/1630162665819?e=1707955200&v=beta&t=-quR1-dWIAcOWy998SHuoF_Q9uuPEh_CPfCEb4uGaE0",
+    "profile_id": "ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0",
+    "member_urn": "urn:li:member:537639592",
+    "public_id": "marianamarquessilva",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0,2281455044)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Smith & Associates",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Semiconductors"
+                ]
+            },
+            "title": "Payroll Administrator, EMEA",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:17700",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQES_qZPXoQqhQ/company-logo_"
+        },
+        {
+            "locationName": "Hoofddorp, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0,2153264911)",
+            "geoLocationName": "Hoofddorp, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:104196145",
+            "companyName": "Crocs Europe B.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Apparel & Fashion"
+                ]
+            },
+            "title": "Associate HR Business Partner (Junior)",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:25107139",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF7EcPyAJR1PA/company-logo_"
+        },
+        {
+            "locationName": "Hoofddorp, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0,1858376952)",
+            "geoLocationName": "Hoofddorp, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:104196145",
+            "companyName": "Crocs Europe B.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Apparel & Fashion"
+                ]
+            },
+            "title": "Human Resources Coordinator",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:25107139",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF7EcPyAJR1PA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0,1759031414)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Bioport BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "description": "Cross-function internship in HR and Sales.\nSector: International trade.\n\nMain responsibilities:\n• Collaborating on trading operations, crafting commercial proposals and strategizing transportation logistics.\n• Engaging in prospecting initiatives across the Southern European market to identify new business opportunities.\n• Developing a comprehensive New Hire Welcoming Handbook that embodied organization's mission, values, and policies.\n• Creating a Training Manual tailored for new team members.\n\nAchievements: \n• Sense of matchmaking, fostering connections between suppliers and buyers.\n• Commercial mindset and hands-on experience in client acquisition strategies.\n• Negotiation skills and effective cold calling (telephone and email outreach).",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Wholesale"
+                ]
+            },
+            "title": "Junior Account Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:27180329",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEJr_cC-v5-IA/company-logo_"
+        },
+        {
+            "locationName": "St. Peter Port, Guernsey",
+            "entityUrn": "urn:li:fs_position:(ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0,1667996889)",
+            "geoLocationName": "St. Peter Port, Guernsey",
+            "geoUrn": "urn:li:fs_geo:104530064",
+            "companyName": "Handpicked Hotels",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "description": "Taking reservations, processing arrivals and departures, answering enquiries over the phone, email and in person, cooperating with other departments, processing payments, and float and safe procedures.",
+            "title": "Front Office Receptionist",
+            "region": "urn:li:fs_region:(gg,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9881583"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0,917890970)",
+            "school": {
+                "objectUrn": "urn:li:school:371031",
+                "entityUrn": "urn:li:fs_miniSchool:371031",
+                "active": true,
+                "schoolName": "Growth Tribe",
+                "trackingId": "cJoXIxZISeCpNXo7gg1hSA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHeR_dfrmhFUQ/company-logo_"
+            },
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "schoolName": "Growth Tribe",
+            "fieldOfStudy": "Agile Project Management",
+            "schoolUrn": "urn:li:fs_miniSchool:371031"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0,641193630)",
+            "school": {
+                "objectUrn": "urn:li:school:3186189",
+                "entityUrn": "urn:li:fs_miniSchool:3186189",
+                "active": true,
+                "schoolName": "CIPD Qualifications",
+                "trackingId": "pe/9G3ecRdyHcGkiLfi+4Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQHMmruLZdlVHA/company-logo_"
+            },
+            "grade": "Pass",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "description": "The CIPD (Chartered Institute of Personnel and Development) is an internationally recognised professional organisation for HR and people development. The CIPD is a badge of professionalism and sets the international standard for people professionals.",
+            "degreeName": "CIPD Level 3 Foundation Diploma in Human Resource Practice",
+            "schoolName": "CIPD Qualifications",
+            "fieldOfStudy": "Human Resources",
+            "schoolUrn": "urn:li:fs_miniSchool:3186189"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0,2124323998)",
+                "urn:li:fs_course:(ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0,2124985420)"
+            ],
+            "description": "People Organization and Management + Data Analytics (Quantitative and Qualitative) + Research + Project Management + Conflict Management \n\nThesis on social economy (cooperatives), responsible consumption and social classes. \nMethodologic approach: mixed methods research. \nTechniques used:\n     - Exploratory (direct observation, unstructured interviews and document analysis)\n     - Qualitative (semi-directive interviews to capture singularities, using NVivo software) \n     - Quantitative (surveys to collect, quantify and deductively analyse main regularities using SPSS software - Statistical Package for the Social Sciences)",
+            "degreeName": "Master's degree",
+            "schoolUrn": "urn:li:fs_miniSchool:16101",
+            "entityUrn": "urn:li:fs_education:(ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0,374697096)",
+            "school": {
+                "objectUrn": "urn:li:school:16101",
+                "entityUrn": "urn:li:fs_miniSchool:16101",
+                "active": true,
+                "schoolName": "Universidade do Porto",
+                "trackingId": "c+nUi3SQT6ee4zPRgsRarA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFqE0MAQ_VxWw/company-logo_"
+            },
+            "grade": "18/20",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101005",
+            "schoolName": "Universidade do Porto",
+            "fieldOfStudy": "Sociology",
+            "degreeUrn": "urn:li:fs_degree:500"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "English C1",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Portuguese",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [
+        {
+            "date": {
+                "month": 9,
+                "year": 2018
+            },
+            "name": "An alternative, solidary and conscious way of commerce and consume: a case study on a consumer cooperative.",
+            "publisher": "University of Porto - Thesis",
+            "description": "This research focuses on social economy, peasants, conscious consumption and social classes.\nWe addressed a case study about the successful Fruta Feia (Ugly Fruit), a\nconsumer cooperative founded in 2013 aiming to reduce the waste of fruits and\nvegetables due to its appearance through the promotion of conscious consumption and the\nimprovement of farmers’ socio-economic conditions.",
+            "url": "https://repositorio-aberto.up.pt/bitstream/10216/117616/2/303169.pdf",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Mariana",
+                        "lastName": "Marques da Silva",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0",
+                        "occupation": "International Payroll - HR 🌍 | AGILE Project Management | CIPD Associate | Sociology & People Management | Aspiring: HR Operations, HR Project Management, People Data Analytics, Digital HR, Payroll & Rewards 🚀",
+                        "objectUrn": "urn:li:member:537639592",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1640600805928?e=1707955200&v=beta&t=ifzZcy1ydlx44K9y_kVQz8GqHbGX3WYpOGTayMvhPrE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1640600805929?e=1707955200&v=beta&t=UkMZaKoDNU6oGK5BVTHiQs6FEVh5mkUVqALTa4KIN_s",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQHv7h3cpIXT8w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "marianamarquessilva",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1630162665819?e=1707955200&v=beta&t=sKvNwJ_FNWRN7zjO-tm8ec6-2x-AJeE6_Ix5dRocAtY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1630162665819?e=1707955200&v=beta&t=lIQsSZCBEliNPRTlAFn7XWD-PY3QzwBKXz_cKl1U71E",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1630162665819?e=1707955200&v=beta&t=dp_rAO_xUMFB92yfHDkHG0I1UuCjQ_umgS1_f48Staw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1630162665819?e=1707955200&v=beta&t=-quR1-dWIAcOWy998SHuoF_Q9uuPEh_CPfCEb4uGaE0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHaom91Zj6tig/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "Wsxu9gtoQAuxc7kLzToleg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 2,
+                "year": 2018
+            },
+            "name": "An alternative, solidary and conscious way of commerce and consume: a case study on a consumer cooperative.",
+            "publisher": "Scientific Meeting IJUP - Young Research at University of Porto 2018. ",
+            "description": "Presented poster about ongoing research project (dissertation).",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Mariana",
+                        "lastName": "Marques da Silva",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0",
+                        "occupation": "International Payroll - HR 🌍 | AGILE Project Management | CIPD Associate | Sociology & People Management | Aspiring: HR Operations, HR Project Management, People Data Analytics, Digital HR, Payroll & Rewards 🚀",
+                        "objectUrn": "urn:li:member:537639592",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1640600805928?e=1707955200&v=beta&t=ifzZcy1ydlx44K9y_kVQz8GqHbGX3WYpOGTayMvhPrE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1640600805929?e=1707955200&v=beta&t=UkMZaKoDNU6oGK5BVTHiQs6FEVh5mkUVqALTa4KIN_s",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQHv7h3cpIXT8w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "marianamarquessilva",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1630162665819?e=1707955200&v=beta&t=sKvNwJ_FNWRN7zjO-tm8ec6-2x-AJeE6_Ix5dRocAtY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1630162665819?e=1707955200&v=beta&t=lIQsSZCBEliNPRTlAFn7XWD-PY3QzwBKXz_cKl1U71E",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1630162665819?e=1707955200&v=beta&t=dp_rAO_xUMFB92yfHDkHG0I1UuCjQ_umgS1_f48Staw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1630162665819?e=1707955200&v=beta&t=-quR1-dWIAcOWy998SHuoF_Q9uuPEh_CPfCEb4uGaE0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHaom91Zj6tig/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "Wsxu9gtoQAuxc7kLzToleg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACALuqgBAnHNDwup1qo2nGfS3uiSALUMmi0"
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "authority": "The Chartered Institute of Environmental Health",
+            "name": "CIEH Foundation Certificate",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:325825",
+                "entityUrn": "urn:li:fs_miniCompany:325825",
+                "name": "The Chartered Institute of Environmental Health",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630578457048/cieh_logo?e=1710374400&v=beta&t=CVqzLuy91llKOEgtKG-8t7VWvvsN5Fh8DJ9bJxJb-gQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630578457048/cieh_logo?e=1710374400&v=beta&t=CQO6WtbwgDzKZIfN0pjdW7KxCeaKgiyJd4vNK-N6msA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630578457048/cieh_logo?e=1710374400&v=beta&t=VLUqiFfv0tpGUDfExeq8kKz1dDoXvt_28nU-UcNQc3E",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFAHD_ce1cvOg/company-logo_"
+                    }
+                },
+                "universalName": "cieh",
+                "dashCompanyUrn": "urn:li:fsd_company:325825",
+                "trackingId": "DtejRsAZTwWBU/EKXPL3Jw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:325825"
+        },
+        {
+            "authority": "CIPD",
+            "name": "Associate Member",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:24898",
+                "entityUrn": "urn:li:fs_miniCompany:24898",
+                "name": "CIPD",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1681805816355/cipd_logo?e=1710374400&v=beta&t=9zVzX13mtPYTD4W1jJb047VPnI9APsBtgXuP1Zg9p6U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1681805816355/cipd_logo?e=1710374400&v=beta&t=BvWw_pHySOExBO2RwLrxtwCAS1OUAOY0oxm4ENYaRX8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1681805816355/cipd_logo?e=1710374400&v=beta&t=D_b3qtrTOSMvdRpoLLSZ8HbDz4KXEcKvvB9CK1szWoE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQF3EgcHTRqpjA/company-logo_"
+                    }
+                },
+                "universalName": "cipd",
+                "dashCompanyUrn": "urn:li:fsd_company:24898",
+                "trackingId": "1rUSl7PSQE2fm3aWHaPEOg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:24898"
+        },
+        {
+            "authority": "ExplainiT - Trainingen, Cursussen & Opleidingen",
+            "name": "Microsoft Excel Intermediate",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:790483",
+                "entityUrn": "urn:li:fs_miniCompany:790483",
+                "name": "ExplainiT - Trainingen & User Adoption",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1642057264179/explainit_logo?e=1710374400&v=beta&t=pER0VxxFzfBEEi6gKOPWPvXRrjnfeakD3SOxel4G6C4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1642057264179/explainit_logo?e=1710374400&v=beta&t=FLN-Mxy34gKOK4GdWv3i_0Px2pP4gi6NnexT2EZit7k",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1642057264179/explainit_logo?e=1710374400&v=beta&t=BW6_mKyV7FISNgEmgXpqcRRo7OR5ZEYvKwbeyzoHU4M",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQF6eDnzJzmBOw/company-logo_"
+                    }
+                },
+                "universalName": "explainit",
+                "dashCompanyUrn": "urn:li:fsd_company:790483",
+                "trackingId": "eU0/E8qgTnqYVk5VOlIfxQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:790483"
+        },
+        {
+            "authority": "ExplainiT - Trainingen, Cursussen & Opleidingen",
+            "name": "Microsoft Excel Advanced",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:790483",
+                "entityUrn": "urn:li:fs_miniCompany:790483",
+                "name": "ExplainiT - Trainingen & User Adoption",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1642057264179/explainit_logo?e=1710374400&v=beta&t=pER0VxxFzfBEEi6gKOPWPvXRrjnfeakD3SOxel4G6C4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1642057264179/explainit_logo?e=1710374400&v=beta&t=FLN-Mxy34gKOK4GdWv3i_0Px2pP4gi6NnexT2EZit7k",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1642057264179/explainit_logo?e=1710374400&v=beta&t=BW6_mKyV7FISNgEmgXpqcRRo7OR5ZEYvKwbeyzoHU4M",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQF6eDnzJzmBOw/company-logo_"
+                    }
+                },
+                "universalName": "explainit",
+                "dashCompanyUrn": "urn:li:fsd_company:790483",
+                "trackingId": "Zz/Nr6RWTCeIB0Rpu13oGQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:790483"
+        },
+        {
+            "authority": "Growth Tribe",
+            "name": "Agile Project Management",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "17436676102624",
+            "company": {
+                "objectUrn": "urn:li:company:9336598",
+                "entityUrn": "urn:li:fs_miniCompany:9336598",
+                "name": "Growth Tribe",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631410631847/growth_tribe_logo?e=1710374400&v=beta&t=ViW7cMd77y_wyTcsBv5un6rV9kn-JNVs07xaSuMq3A4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631410631847/growth_tribe_logo?e=1710374400&v=beta&t=WkCLhfMivHhOA187THU3koUBAPjiXa__OoPt_Td-haQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631410631847/growth_tribe_logo?e=1710374400&v=beta&t=oLUz7fRZP94oC2vCgyqyGBfR2ddRI8KW-HeeDv8GiNY",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHeR_dfrmhFUQ/company-logo_"
+                    }
+                },
+                "universalName": "growth-tribe",
+                "dashCompanyUrn": "urn:li:fsd_company:9336598",
+                "trackingId": "8Mm2mLBhS+KFPnXUj3wO3Q=="
+            },
+            "displaySource": "growthtribe.io",
+            "companyUrn": "urn:li:fs_miniCompany:9336598",
+            "url": "https://certificates.growthtribe.io/en/verify/17436676102624"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Learner",
+            "companyName": "Gilde Amsterdam",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "cause": "EDUCATION",
+            "description": "Joined the SamenSpraak weekly program to improve my Dutch speaking by having relaxed and friendly chats with a local person.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:53972770",
+                    "entityUrn": "urn:li:fs_miniCompany:53972770",
+                    "name": "Gilde Amsterdam",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1691931994493?e=1710374400&v=beta&t=8etXlSgXGLbx3LxmfI8ds953XZl06OVQIitGjMEpgXc",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1691931994493?e=1710374400&v=beta&t=Uh_zanztL00wp-EJKEuOMfkkUuJH4B6XYlKNhewqHtc",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1691931994493?e=1710374400&v=beta&t=N75GbN2md1LXEwC8eYv88SWEaekrlzCillOOa_PW2k8",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFsXJexh_IoUw/company-logo_"
+                        }
+                    },
+                    "universalName": "gilde-amsterdam",
+                    "dashCompanyUrn": "urn:li:fsd_company:53972770",
+                    "trackingId": "Gx7SIgYVQFiq6Sj9150Nug=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:53972770"
+        },
+        {
+            "role": "Step into HR - Mentee",
+            "companyName": "CIPD Guernsey Branch",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "cause": "EDUCATION",
+            "description": "Participant in the \"CIPD Guernsey Member-to-Member Mentoring Scheme\" as a mentee, engaging in monthly sessions with an HR mentor. The emphasis was on propelling my career, fostering networking connections, building confidence, and enhancing self-awareness."
+        },
+        {
+            "role": "Preparing food baskets (against food waste)",
+            "companyName": "Fruta Feia CRL",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2017
+                }
+            },
+            "cause": "ENVIRONMENT",
+            "description": "Twice a week, I arranged fruit and vegetable baskets that would have otherwise been discarded due to aesthetic reasons.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:7949296",
+                    "entityUrn": "urn:li:fs_miniCompany:7949296",
+                    "name": "Fruta Feia CRL",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631336121069?e=1710374400&v=beta&t=3-zL0oocXN8ZU1n_0ntpRGeRdmAdOxzv78qhRqu3shg",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631336121069?e=1710374400&v=beta&t=Qp9aqekUlCssQ6SPZz-8w-1fj4TZDSh87w6ZGujRSzY",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631336121069?e=1710374400&v=beta&t=TlgC7Hbvk08aFy7784ORILnuCFCdzSw7IbC2480GVwo",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGvXq-F1z4s8A/company-logo_"
+                        }
+                    },
+                    "universalName": "fruta-feia-crl",
+                    "dashCompanyUrn": "urn:li:fsd_company:7949296",
+                    "trackingId": "JnoMNl5LQqqfz33m26WxIw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:7949296"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

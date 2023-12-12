@@ -1,0 +1,242 @@
+{
+    "industryName": "Financial Services",
+    "lastName": "Olvira",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:43",
+    "firstName": "Gervin",
+    "entityUrn": "urn:li:fs_profile:ACoAABoGaGQBG4JsBQKGPT8Z0uPvhZ77f6sEAyY",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "it's me",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQFY8JOOClPdKg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1576236622634?e=1707955200&v=beta&t=YetvJyonsXzmq6IOoaNti0dNwIUXhB8cT2uukWaqNp8",
+    "img_200_200": "200_200/0/1576236622613?e=1707955200&v=beta&t=1MFHjg_gZOdqOommWPe-zRBWwuIhFrFosuWBxZaxJzY",
+    "img_400_400": "400_400/0/1576236622661?e=1707955200&v=beta&t=WnfCMj6wNzjJwqB8AVbKvCaZ0SGLqqk--HFK4S-O4SI",
+    "img_500_500": "800_800/0/1576236622687?e=1707955200&v=beta&t=TosYdEoQCqdcnVegxw_sOPQUK2etmuA373f5PL7inKE",
+    "profile_id": "ACoAABoGaGQBG4JsBQKGPT8Z0uPvhZ77f6sEAyY",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABoGaGQBG4JsBQKGPT8Z0uPvhZ77f6sEAyY",
+    "member_urn": "urn:li:member:436627556",
+    "public_id": "gervin-olvira-b98285102",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABoGaGQBG4JsBQKGPT8Z0uPvhZ77f6sEAyY,2247044546)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "STX",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "International Payroll Specialist ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1173188",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQG50UW4uVE0Xg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAABoGaGQBG4JsBQKGPT8Z0uPvhZ77f6sEAyY,1351859382)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "Ralph Lauren",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Apparel & Fashion"
+                ]
+            },
+            "title": "Payroll Specialist, Netherlands",
+            "companyUrn": "urn:li:fs_miniCompany:4688",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQEuHFPxms2B-w/company-logo_"
+        },
+        {
+            "locationName": "Hilversum",
+            "entityUrn": "urn:li:fs_position:(ACoAABoGaGQBG4JsBQKGPT8Z0uPvhZ77f6sEAyY,814956605)",
+            "geoLocationName": "Hilversum",
+            "companyName": "Nike",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "HR Payroll Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:2029",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFckBxRnPg53Q/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABoGaGQBG4JsBQKGPT8Z0uPvhZ77f6sEAyY,695127275)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Dijkman en Haddi Accountancy & Belastingadvies B.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Payroll administrator",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:1088577",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGIX1sluL437w/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABoGaGQBG4JsBQKGPT8Z0uPvhZ77f6sEAyY,695126579)",
+            "companyName": "Nuon",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Renewables & Environment"
+                ]
+            },
+            "title": "HR officer",
+            "companyUrn": "urn:li:fs_miniCompany:3443",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEDzUzg8yxKiA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABoGaGQBG4JsBQKGPT8Z0uPvhZ77f6sEAyY,294084509)",
+            "school": {
+                "objectUrn": "urn:li:school:15428",
+                "entityUrn": "urn:li:fs_miniSchool:15428",
+                "active": true,
+                "schoolName": "Amsterdam University of Applied Sciences",
+                "trackingId": "btsRm5laTqGMu0DuSRPmKw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:0",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Amsterdam University of Applied Sciences",
+            "fieldOfStudy": "Human Resource Management",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15428"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABoGaGQBG4JsBQKGPT8Z0uPvhZ77f6sEAyY,294543265)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "degreeName": "Praktijkdiploma Loonadministratie",
+            "schoolName": "Zelfstudie"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABoGaGQBG4JsBQKGPT8Z0uPvhZ77f6sEAyY,294542928)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1995
+                }
+            },
+            "degreeName": "MBO",
+            "schoolName": "Walraven van Hall College",
+            "fieldOfStudy": "Bedrijfsadministratie"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Engels"
+        },
+        {
+            "name": "Nederlands"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Kickbox trainer",
+            "companyName": "Fightmasters",
+            "cause": "HEALTH"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

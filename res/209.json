@@ -1,0 +1,212 @@
+{
+    "summary": "I'm a skilled Trade Compliance and Logistics Professional with extensive experience in ensuring regulatory compliance, optimizing supply chain processes, and delivering excellent customer service. With a solid background in Customs Affairs and more than 14 years of experience in the field, I have developed strong leadership, communication, and interpersonal skills, as well as a proven track record of success in supporting sales initiatives while maintaining regulatory compliance.\n\nIn my current role as Senior Trade Compliance at LyondellBasell, I provide expert advice and support to European LyondellBasell entities on matters related to operational Trade Compliance, including duties and Customs planning opportunities. I have supported supply chain processes and ensured compliance with international trade regulations through effective internal control procedures, as well as identified trade and duty-saving opportunities, resulting in cost savings and optimized supply chain processes. I played a critical role in navigating the company through the complexities of Brexit and Russian sanctions.\n\nPreviously, as Manager Customs Affairs at Rhenus Logistics, I led a team of Customs brokers and managed import & export activities in compliance with EU Customs and Indirect Tax regulations. I developed and executed internal control procedures and ensured compliance with all Customs and tax-related laws and rules, as well as identified and analyzed trade and duty-saving opportunities for customers and advised on supply chain and logistics. Additionally, I facilitated the application process for Customs Rulings to ensure compliance with local Customs regulations and managed and maintained all Customs licenses required for seamless import and export operations.\n\nOverall, I am an analytical and adaptable professional with a willingness to learn and a proven ability to collaborate with cross-functional teams and identify opportunities for process improvements. I am proficient in Microsoft Office, Power BI, SAP GTS and various trade compliance software systems.",
+    "industryName": "Oil & Energy",
+    "lastName": "Karso",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 7,
+        "day": 30
+    },
+    "industryUrn": "urn:li:fs_industry:57",
+    "firstName": "Taskin",
+    "entityUrn": "urn:li:fs_profile:ACoAABCCYzoB1mHinXL-G9YBqIqK5bcpwoemLGw",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104328710"
+    },
+    "geoLocationName": "Rijswijk, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Senior Trade Compliance Specialist",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQEmLYML5d4G-Q/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1556692470163?e=1707955200&v=beta&t=5NmJjLTfDyi2uIW_HoS1bZVk1eU5QcaIexKDnuNR3VU",
+    "img_200_200": "200_200/0/1556692470133?e=1707955200&v=beta&t=mJ5H4tmyNMULcpfDHgetf2G3_MIVBcbUw8Ia8fGTmco",
+    "img_400_400": "400_400/0/1556692470391?e=1707955200&v=beta&t=LTqJjRosRTQppztDFBHLGs8eQGcPSUvtbr6ICERX3Bw",
+    "img_601_601": "800_800/0/1556692470146?e=1707955200&v=beta&t=y3vj00zyBlbo1KfkzrAUEh1B17SpdwA_1c-4ACnIDh4",
+    "profile_id": "ACoAABCCYzoB1mHinXL-G9YBqIqK5bcpwoemLGw",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABCCYzoB1mHinXL-G9YBqIqK5bcpwoemLGw",
+    "member_urn": "urn:li:member:276980538",
+    "public_id": "karso",
+    "experience": [
+        {
+            "locationName": "Rotterdam, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABCCYzoB1mHinXL-G9YBqIqK5bcpwoemLGw,2169992023)",
+            "geoLocationName": "Rotterdam, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100467493",
+            "companyName": "LyondellBasell",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Chemicals"
+                ]
+            },
+            "title": "Senior Trade Compliance Specialist ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:5667",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQG9HZYdLA-HXQ/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABCCYzoB1mHinXL-G9YBqIqK5bcpwoemLGw,721779498)",
+            "geoLocationName": "Rotterdam en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "LyondellBasell",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Chemicals"
+                ]
+            },
+            "title": "Customs Specialist EU",
+            "region": "urn:li:fs_region:(nl,5908)",
+            "companyUrn": "urn:li:fs_miniCompany:5667",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQG9HZYdLA-HXQ/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAABCCYzoB1mHinXL-G9YBqIqK5bcpwoemLGw,648254869)",
+            "geoLocationName": "Rotterdam",
+            "companyName": "Rhenus Logistics Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "title": "Manager Customs Affairs",
+            "companyUrn": "urn:li:fs_miniCompany:726037",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHKVUfAtBqsKQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABCCYzoB1mHinXL-G9YBqIqK5bcpwoemLGw,427322339)",
+            "companyName": "Rhenus Logistics",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "title": "Customs Affairs",
+            "companyUrn": "urn:li:fs_miniCompany:45204",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQE_thjW5OtOoQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABCCYzoB1mHinXL-G9YBqIqK5bcpwoemLGw,214776130)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Manager Customs & Trade Affairs",
+            "schoolName": "Evo Hogeschool"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABCCYzoB1mHinXL-G9YBqIqK5bcpwoemLGw,214774620)",
+            "grade": "8",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "degreeName": "Douane Declarant",
+            "schoolName": "Fenex"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABCCYzoB1mHinXL-G9YBqIqK5bcpwoemLGw,214773862)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "description": "Communicatieproces, Gesprekstechnieken, Timemanagement, Commerciële vaardigheden, Leidinggeven & managen, Presentatietechnieken, Werkoverleg en vergaderen en Besluitvaardigheid.",
+            "degreeName": "Management Development - traject Eye for Talent",
+            "schoolName": "Quiris Adviesgroep"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Duits",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Engels",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Turks",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

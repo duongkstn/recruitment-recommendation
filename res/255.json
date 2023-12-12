@@ -1,0 +1,279 @@
+{
+    "summary": "E-Commerce | Health & Personal Care NL | 30+ brands | 350+ products",
+    "industryName": "Pharmaceuticals",
+    "lastName": "Orhan",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:15",
+    "firstName": "Ayhan",
+    "entityUrn": "urn:li:fs_profile:ACoAAC1vyI0B4p2CGaibB8hHzR8LrcF5CP9fD98",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104870536"
+    },
+    "geoLocationName": "Heerhugowaard, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Key Account Manager E-Commerce at Cooper Consumer Health NL",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQH50vCVjhYcmw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1657379649193?e=1707955200&v=beta&t=RF62FYNN3CQ0EMxuVyH6qrGzdv-p5gbQ00wybrSDkzQ",
+    "img_200_200": "200_200/0/1657379649193?e=1707955200&v=beta&t=O5kleeDPFBbp2ZbG4k2bqYBWrNB9ds7FS21QYRst3es",
+    "img_345_345": "800_800/0/1657379649193?e=1707955200&v=beta&t=MXODrRLbuIWVTUT56ZHcGBrJFuP2C0KTgZ6_O9Fd2Zs",
+    "profile_id": "ACoAAC1vyI0B4p2CGaibB8hHzR8LrcF5CP9fD98",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAC1vyI0B4p2CGaibB8hHzR8LrcF5CP9fD98",
+    "member_urn": "urn:li:member:762300557",
+    "public_id": "ayhanorhan",
+    "experience": [
+        {
+            "locationName": "Diemen, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAC1vyI0B4p2CGaibB8hHzR8LrcF5CP9fD98,1961636038)",
+            "geoLocationName": "Diemen, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100352287",
+            "companyName": "Cooper Consumer Health",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "description": "Key Account Manager at the E-Commerce department of Cooper Consumer Health NL with a main goal of creating and expanding the E-Commerce activities. Responsible for account portfolio management of all 30+ brands at pure players such as bol.com (part of Ahold Delhaize), Picnic, Wehkamp and De Online Drogist in the Netherlands. Examples of brands are: Dagravit, Valdispert, Roter, Vision, Dampo and Natterman. In addition, appointed as Culture Champion (to roll out the improved organizational culture) and member of the party committee.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ]
+            },
+            "title": "Key Account Manager E-Commerce",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:25700287",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGikBnO4dzuyQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAC1vyI0B4p2CGaibB8hHzR8LrcF5CP9fD98,1961633347)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Flink",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "description": "Merchandising Manager at the Commercial department of Flink. Flink, along with its competitors, started the grocery revolution in the Netherlands and its surrounding countries. Flink positioned itself as the market leader of all ‘flitsbezorgers’ in the Netherlands. As its Merchandising Manager, I worked in an environment with a continuous growth of tens of percentages per week (or day!) and my activities ranged from being responsible for the Flink app and website to being the intersection of Category Management and Marketing. Within the teams, I initiated projects such as “Flink’s Flinke Kortingsweek” and accelerated Flink’s growth in revenue, customers, etcetera. In addition, member of the party committee and organized Flink's - much deserved - parties!",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Merchandising Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:71241902",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGu6kvIr4kcGA/company-logo_"
+        },
+        {
+            "locationName": "Velsen, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAC1vyI0B4p2CGaibB8hHzR8LrcF5CP9fD98,1961637052)",
+            "geoLocationName": "Velsen, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102261099",
+            "companyName": "Detailresult Groep",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "description": "Assistent Category Manager at the Category Management department of Detailresult Groep and worked with major suppliers (manufacturers) such as Unilever, Nestlé, Mars and Procter & Gamble. Detailresult Groep consists of two supermarket formulas in the Netherlands, namely DekaMarkt and Dirk. The formulas are opposites of each other and it required a mindset which is able to work with both. In my role, I supported multiple Category Managers by carrying out administrative activities, maintaining sustainable relationships with our suppliers, analyzing the market (e.g. trends related to the category), etc.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Assistent Category Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:67848",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFW-drXZZp35A/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAC1vyI0B4p2CGaibB8hHzR8LrcF5CP9fD98,1961633487)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "TentamenTrainingen.nl",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "description": "As a Senior Teacher at TentamenTrainingen, I have been teaching all courses from my study (Business Administration) and similar studies to students from all universities (such as University of Amsterdam, Erasmus University Rotterdam and Rijksuniversiteit Groningen) in the Netherlands. Example of courses are: Strategy & Organization, Marketing and Financial Accounting. The groups I taught ranged from three to three hundred people.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Senior Teacher",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10886807",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHlrzwRT47Qbw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAC1vyI0B4p2CGaibB8hHzR8LrcF5CP9fD98,1961634380)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "University of Amsterdam - Amsterdam Business School",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "description": "As a Teacher (TA) at the Faculty of Economics & Business Economics at the University of Amsterdam, I have been teaching multiple courses (such as \"Principles of Economics\") to first-year students of the studies Business Administration and Economics & Business Economics. I worked within an international environment as the groups consisted of international students.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Education Management"
+                ]
+            },
+            "title": "Teacher (TA)",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3353909",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGlGcOme_1tLw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAC1vyI0B4p2CGaibB8hHzR8LrcF5CP9fD98,796092955)",
+            "school": {
+                "objectUrn": "urn:li:school:161057",
+                "entityUrn": "urn:li:fs_miniSchool:161057",
+                "active": true,
+                "schoolName": "University of Amsterdam - Amsterdam Business School",
+                "trackingId": "6ysVxj+6T++quTia6Z22AQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGlGcOme_1tLw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "degreeName": "Business Administration",
+            "schoolName": "University of Amsterdam - Amsterdam Business School",
+            "fieldOfStudy": "Specialized in \"Management in the Digital Age\"",
+            "schoolUrn": "urn:li:fs_miniSchool:161057"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAC1vyI0B4p2CGaibB8hHzR8LrcF5CP9fD98,796098253)",
+            "school": {
+                "objectUrn": "urn:li:school:161057",
+                "entityUrn": "urn:li:fs_miniSchool:161057",
+                "active": true,
+                "schoolName": "University of Amsterdam - Amsterdam Business School",
+                "trackingId": "aMC0CgwcRVG/nyBlTtZJAA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGlGcOme_1tLw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "degreeName": "Minor Entrepreneurship",
+            "schoolName": "University of Amsterdam - Amsterdam Business School",
+            "schoolUrn": "urn:li:fs_miniSchool:161057"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAC1vyI0B4p2CGaibB8hHzR8LrcF5CP9fD98,796097173)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2015
+                }
+            },
+            "degreeName": "vwo",
+            "schoolName": "Lyceum Sancta Maria",
+            "fieldOfStudy": "Economie & Maatschappij (E&M)"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Duits",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Engels",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Frans",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Turks",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

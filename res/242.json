@@ -1,0 +1,258 @@
+{
+    "summary": "Welcome! I’m Fatemeh, an enthusiastic and innovative UX/UI Designer, with strong collaborative and communication skills, who loves to improve usability and empathy in the evolving digital world. \n\nMy passion for problem-solving, facilitating concepts, and listening to and helping others, as well as my interest in design, understanding of human behavior, and technology has drawn me to the digital design world. Once I've found UX/UI Design as an answer to my burning passion, I felt like my happiest self. \n\nAs a UX/UI designer, I have experience in all stages of the Design Thinking process, including empathize, define, ideate, user flows, wireframing, prototype and test, as well as UI patterns and design tool programs.",
+    "industryName": "Retail",
+    "lastName": "Nouri",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Fatemeh",
+    "entityUrn": "urn:li:fs_profile:ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:105718305"
+    },
+    "geoLocationName": "Breda, North Brabant",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "UX/UI Designer | UX Researcher",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQELNsGDXarS7A/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1693989142474?e=1702972800&v=beta&t=RPsiOGfWv30_P0faz5HMXEvO5ZmUP5pSr8MMotUSWbM",
+    "img_200_200": "200_200/0/1693989142474?e=1702972800&v=beta&t=PZHUQHR6Z9GiBNgs1AX_qe7PibfFngEsF1errfxLsEY",
+    "img_800_800": "800_800/0/1693989142474?e=1702972800&v=beta&t=M_rZfDenRFIfBcDcx-pMIzzNwBQMmBzpFGkDkWwJAWI",
+    "img_100_100": "100_100/0/1693989142474?e=1702972800&v=beta&t=fZzL_A6jq3u8PAhNegSzZS7Q9wZx88cpadoUtyXoSqE",
+    "profile_id": "ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00",
+    "member_urn": "urn:li:member:996864747",
+    "public_id": "fatemehnouriux",
+    "experience": [
+        {
+            "locationName": "Malaysia",
+            "entityUrn": "urn:li:fs_position:(ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00,2294416122)",
+            "geoLocationName": "Malaysia",
+            "geoUrn": "urn:li:fs_geo:106808692",
+            "companyName": "Ideas International ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "description": "Voluntary",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Education Management"
+                ]
+            },
+            "title": "UX Designer ",
+            "region": "urn:li:fs_region:(my,0)",
+            "companyUrn": "urn:li:fs_miniCompany:13321667",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQEvf2d47YVwNQ/company-logo_"
+        },
+        {
+            "locationName": "North Brabant, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00,2015005102)",
+            "geoLocationName": "North Brabant, Netherlands",
+            "geoUrn": "urn:li:fs_geo:105046715",
+            "companyName": "Oil Water Treatment Services",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "description": "Working in a chemical manufacturing company which is a customer-focused supplier in the chemical world, I have this great opportunity to know various businesses and stakeholders worldwide.\nI am fortunate to emphasize on multitasking as follows:\n\n•\tMaintaining open communication with customers to foster positive relations and provide updates on issues\n•\tConducting water-treatment research to find clients’ ordering needs, offering & promoting products, and business growth opportunities \n•\tSupporting and facilitating office productivity, coordinating personnel schedules, quality assurance and procedural improvements \n•\tResearching & assessing suppliers, negotiating purchase agreements, ensuring all materials meet company needs and standards\n•\tSupervising 20+ projects from project start through delivery by prioritizing needs and delegating assignments \n•\tDesigning and coordinating presentations deck for clients and project members to define project scope, progress, and results \n•\tContributing to product and service promotion through internal quality control analysis & assessment and innovative research and achieved a 100% project completion rate with high customer satisfaction",
+            "title": "Senior Administrative Officer | Communication Coordinator",
+            "region": "urn:li:fs_region:(nl,0)"
+        },
+        {
+            "locationName": "Buxtehude, Lower Saxony, Germany",
+            "entityUrn": "urn:li:fs_position:(ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00,1960435669)",
+            "geoLocationName": "Buxtehude, Lower Saxony, Germany",
+            "geoUrn": "urn:li:fs_geo:101154006",
+            "companyName": "Freelance",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "description": "Design of a website for a cafe-restaurant newly opened in Buxtehude, Germany\nArtemis Cafe-Restaurant",
+            "title": "UX/UI Designer",
+            "region": "urn:li:fs_region:(de,0)"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00,2179418672)",
+            "companyName": "Self-employed",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "description": "E-Commerce Website, A design of a website for an online honey store (B Honey)\n\n•\tPerformed the entire UX process, including user survey & interview, competitive analysis, user flow, persona, and information architecture.\n•\tAccomplished visual design, UI kit (typography, color palette, icons), component library, wireframes, usability testing, and prototyping through several rounds of iterations. \n•\tExecuted both qualitative and quantitative research to understand users' needs and concerns, including user survey & interview, competitive analysis, user flow, persona, and information architecture.\n•\tIdeated, produced, and presented project deliverables such as workflow, interaction, concept design, prototype, and user test across the web and mobile.\n•\tManaged product design with time constrains \n•\tManaged design team of 4 designers and researchers\n\n\nRacket Center Stockholm Website: \n\nDeveloping a new feature on the website of a racket club for finding local sport partners.\n• Analyzed users’ needs, goals, and frustrations to define problems and design user-centered & data-driven experience \n• Employing both qualitative and quantitative research methods to understand users and their motivations \n• Designed and conducted user experience research, namely survey development, user interviews, affinity diagram, competitive analysis, and user persona.\n• Managed the design team of 3 considering time constrains\n\n\nE-Commerce Website: Toronto Cupcake  \n\nRedesigning the website of a local cupcake shop: \n•\tCarried out heuristic evaluation to examine the interface compliance with recognized usability principles \n•\tAccomplished user research (competitive analysis & user interview), information architecture, sketches & wireframes development, interaction and visual design, prototyping and user testing \n•\tDeveloped site map based on principles of user-centered design after a couple of iterations",
+            "title": "UX/UI Designer "
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00,2018201434)",
+            "companyName": "Freelance",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "description": "(English to Persian – Persian to English)\n\nBeing a translator was a good preparation for becoming a UX designer. As a translator, I had to know my target audience, for instance, their level of expertise on the subject and their culture. Then I could better decide to what extend there was a need for detailed explanation along with what was said between the lines during translation process. \nThe same principle applies to UX design; I have to know the potential users, their level of expertise on the content I am designing for, and their cultural background, etc.",
+            "title": "Freelance Translator"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00,816295019)",
+            "school": {
+                "objectUrn": "urn:li:school:629004",
+                "entityUrn": "urn:li:fs_miniSchool:629004",
+                "active": true,
+                "schoolName": "UXland",
+                "trackingId": "CBH+/NvrQwKdafvj67S0Tw==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQFQ2USpm6TY3g/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "description": "Online School - Seattle",
+            "schoolName": "UXland",
+            "fieldOfStudy": "UX/UI In Action ",
+            "schoolUrn": "urn:li:fs_miniSchool:629004"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00,816289783)",
+            "school": {
+                "objectUrn": "urn:li:school:629004",
+                "entityUrn": "urn:li:fs_miniSchool:629004",
+                "active": true,
+                "schoolName": "UXland",
+                "trackingId": "hIdSmm24SnGIOClHTcaUAA==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQFQ2USpm6TY3g/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "description": "Online School - Seattle",
+            "schoolName": "UXland",
+            "fieldOfStudy": "Fundamental of UX",
+            "schoolUrn": "urn:li:fs_miniSchool:629004"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00,910000863)",
+                "urn:li:fs_course:(ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00,910038735)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAADtq8usB3ItPyIde5p5i91Bi81HDgF9AY00,819048590)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "description": "Description And Interpretation of Rumi's Masnavi:\n\n- Derived practical solutions for social and behavioral problems of individuals. \n- Practiced how to achieve self-improvement. \n\n(Rumi was a 13th-century Persian poet, and Masnavi is the name of his book in seven volumes; it was the best-selling book in US in 2017). Masnavi is of great theories of anthropology and human behavior, behavioral philosophy, sociology, and psychology. \n\n\nDescription And Interpretation of Hafez's Ghazals:\n\nExamined literacy and moral work of Hafiz (the most popular Persian poet of 14th century whose works left a mark on Western writers such as Goethe) with regard to cultural and social anthropology and psychology to:\n- Raise the level of spiritual awareness\n- Deal with the complexities of life in creative ways \n- Improve the ability to apply logic and reason well\n\nTehran, Iran",
+            "schoolName": "Afaq Institute of Culture, Art and Enduring Thought",
+            "fieldOfStudy": "Literature & Culture "
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Persian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Volunteer Researcher ",
+            "companyName": "Afagh Institute ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "cause": "ARTS_AND_CULTURE",
+            "description": "To fulfill my ambitions towards my historical and literacy heritage with regards to human dimensions of sustainable environment, I have been voluntarily involved in a group research project on Rumi's Masnavi (Rumi was a 13th century Persian poet, and Masnavi is the name of his book in seven volums; it was the best selling book in the USA in 2017). We are investigating the interaction between main features of human and society with the natural environment/resources, with an anthropocentric approach."
+        },
+        {
+            "role": "Volunteer Environmental Specialist ",
+            "companyName": "Environmental Community Center, Ekbatan Complex ( Tehran, Iran )",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "cause": "ENVIRONMENT",
+            "description": "−\tHeld environmental workshops and ecotourism\n−\tMade presentations on renewable energy resources, clean   energy, clean water and air, changing behavior to improve sustainability, etc."
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

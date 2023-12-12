@@ -1,0 +1,290 @@
+{
+    "summary": "Als ervaren allround HR-professional met expertise als HR-adviseur, HR-manager en (corporate) recruiter, begrijp ik de huidige uitdagingen binnen jouw organisatie op het gebied van HR als geen ander. \n\nMijn passie ligt in het aantrekken, boeien, binden en behouden van talent om jouw bedrijf verder te laten groeien. Als jouw betrouwbare sparringspartner sta ik klaar om samen te werken. \n\nLaten we connecten en ontdekken hoe we elkaar kunnen versterken in de dynamische wereld van HR en recruitment. Samen bereiken we geweldige resultaten! \n\n#HR #recruitment #talentacquisitie #businesspartner #interim #interimHR #interimrecruitment #HRM",
+    "industryName": "Human Resources",
+    "lastName": "Messemaker-Kerkhof",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:137",
+    "firstName": "Mylenne",
+    "entityUrn": "urn:li:fs_profile:ACoAAA7GHnsB-WB-LjvKIo4eS-lItxvxKjY8J7c",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Interim HR professional/Recruiter  | Corporate recruiter a.i. Riwal Holding Group | HR Manager Charlie Temple",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQG6g9PhKwn2qA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1681927944415?e=1707955200&v=beta&t=0A2DV1Pd9xTnWphV69dsv4KfLtdMk1qG7BT9Qze95Rw",
+    "img_200_200": "200_200/0/1681927944415?e=1707955200&v=beta&t=9j0l1hbFl-73LS44fsCCmtDYvwG44IXWOpEwx228vkg",
+    "img_400_400": "400_400/0/1681927944415?e=1707955200&v=beta&t=y0EXmylsjXaNSw_dRoldmWZpU0HXq-hAEu9s0ze3sSo",
+    "img_800_800": "800_800/0/1681927944415?e=1707955200&v=beta&t=SJ9Lvk87Yv8-2dEjv5IJWgh3FAgtuwWXutG2VVuXFQ4",
+    "profile_id": "ACoAAA7GHnsB-WB-LjvKIo4eS-lItxvxKjY8J7c",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAA7GHnsB-WB-LjvKIo4eS-lItxvxKjY8J7c",
+    "member_urn": "urn:li:member:247864955",
+    "public_id": "mylennemessemaker",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAA7GHnsB-WB-LjvKIo4eS-lItxvxKjY8J7c,2226032449)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Gapstars",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Recruiter a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10156479",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQFVdEgxoIXibw/company-logo_"
+        },
+        {
+            "locationName": "Dordrecht, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAA7GHnsB-WB-LjvKIo4eS-lItxvxKjY8J7c,2065004099)",
+            "geoLocationName": "Dordrecht, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101968374",
+            "companyName": "Riwal",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Machinery"
+                ]
+            },
+            "title": "Corporate Recruiter a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:339768",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGscaTiR2EiWg/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAA7GHnsB-WB-LjvKIo4eS-lItxvxKjY8J7c,1847729739)",
+            "geoLocationName": "Rotterdam, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100467493",
+            "companyName": "Charlie Temple",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "HR Manager (24u p/w)",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10402677",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGkOPenIDtphQ/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAA7GHnsB-WB-LjvKIo4eS-lItxvxKjY8J7c,1891287518)",
+            "geoLocationName": "Rotterdam, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100467493",
+            "companyName": "MM HR Solutions",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Interim HR/Recruitment professional (16u p/w)",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:80978710",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFWsK7jldHtWA/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAA7GHnsB-WB-LjvKIo4eS-lItxvxKjY8J7c,1907021011)",
+            "geoLocationName": "Rotterdam, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100467493",
+            "companyName": "inTandem",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "description": "Wij zijn experts op het gebied van branding, recruitment en engagement. Vol energie en betrokkenheid helpen wij ambitieuze en vooruitstrevende werkgevers zich te verbinden met (potentiële en/of toekomstige) medewerkers. Als strategisch partner en verlengstuk van jouw organisatie brengen wij inspiratie en bieden wij oplossingen die passen bij deze tijd. Dit doen we doelgericht en op basis van data. Bij organisaties die aan de slag willen met één of meerdere fases van de talent journey. Niet met dikke rapporten en dure consultants, maar met onze hands-on en effectieve aanpak. Op maat.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Adviseur en Projectmanager Branding Recruitment & Engagement",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:66903531",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFVI0F753scUw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA7GHnsB-WB-LjvKIo4eS-lItxvxKjY8J7c,155260825)",
+            "school": {
+                "objectUrn": "urn:li:school:15427",
+                "entityUrn": "urn:li:fs_miniSchool:15427",
+                "active": true,
+                "schoolName": "Rotterdam University of Applied Sciences",
+                "trackingId": "BK6e3gNLTZy2Yv38gWm6ZQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQG3Kyr4cUYEWQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "degreeName": "Bachelor of Business Administration (BBA), Management, Economie en Recht",
+            "schoolName": "Hogeschool Rotterdam",
+            "fieldOfStudy": "MER",
+            "schoolUrn": "urn:li:fs_miniSchool:15427"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "ICM opleidingen & trainingen",
+            "name": "Persoonlijke effectiviteit",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:379522",
+                "entityUrn": "urn:li:fs_miniCompany:379522",
+                "name": "ICM opleidingen & trainingen",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630617983652/icm_opleidingen__trainingen_logo?e=1710374400&v=beta&t=0u4CH3V86UPpMGQkzVbvdR1fdNv3D46lysTMci2sds0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630617983652/icm_opleidingen__trainingen_logo?e=1710374400&v=beta&t=iLXErACTWG96j1dXsq9CLa7-6bFQeKJ4MQBWypumVwA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630617983652/icm_opleidingen__trainingen_logo?e=1710374400&v=beta&t=nNgYL-eWeKQNT0L1mPXRaxhoNmKHUMFB_AvxoWxRtZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFvwGLAGj6z5w/company-logo_"
+                    }
+                },
+                "universalName": "icm-opleidingen-&-trainingen",
+                "dashCompanyUrn": "urn:li:fsd_company:379522",
+                "trackingId": "uJyNmCp/RKC6T6TJZvEVDQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:379522"
+        },
+        {
+            "authority": "ICM opleidingen & trainingen",
+            "name": "Arbeidsrecht",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:379522",
+                "entityUrn": "urn:li:fs_miniCompany:379522",
+                "name": "ICM opleidingen & trainingen",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630617983652/icm_opleidingen__trainingen_logo?e=1710374400&v=beta&t=0u4CH3V86UPpMGQkzVbvdR1fdNv3D46lysTMci2sds0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630617983652/icm_opleidingen__trainingen_logo?e=1710374400&v=beta&t=iLXErACTWG96j1dXsq9CLa7-6bFQeKJ4MQBWypumVwA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630617983652/icm_opleidingen__trainingen_logo?e=1710374400&v=beta&t=nNgYL-eWeKQNT0L1mPXRaxhoNmKHUMFB_AvxoWxRtZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFvwGLAGj6z5w/company-logo_"
+                    }
+                },
+                "universalName": "icm-opleidingen-&-trainingen",
+                "dashCompanyUrn": "urn:li:fsd_company:379522",
+                "trackingId": "VpBAR5TJQDuZYwFlrJXxEw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:379522"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

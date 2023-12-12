@@ -1,0 +1,352 @@
+{
+    "summary": "Ramy Fam brings nine years of experience across construction, building materials, strategy, and innovation.\n\nPrior to his role in CRH Ventures, Ramy worked at Amazon where he managed their flagship program, Fulfilment by Amazon (FBA) in Spain. Before Amazon, he had extensive experience in construction working in the CVC and later the Corporate Strategy and M&A arm of Cemex and in the Project Management departments of AECOM and SNC-Lavalin where he oversaw the project cost and planning across mega projects in Oil & Gas, Mining, and Transmission & Distribution. Ramy holds a B.Eng. in Civil Engineering from McGill University and an MBA from IE Business School.",
+    "industryName": "Venture Capital & Private Equity",
+    "lastName": "Fam",
+    "locationName": "Spain",
+    "student": false,
+    "geoCountryName": "Spain",
+    "geoCountryUrn": "urn:li:fs_geo:105646813",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 3,
+        "day": 22
+    },
+    "industryUrn": "urn:li:fs_industry:106",
+    "firstName": "Ramy",
+    "entityUrn": "urn:li:fs_profile:ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103374081"
+    },
+    "geoLocationName": "Madrid, Community of Madrid",
+    "location": {
+        "basicLocation": {
+            "countryCode": "es"
+        }
+    },
+    "headline": "VP - CRH Ventures",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQGlYa4npcke6A/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1670787807356?e=1707955200&v=beta&t=2YMX6yo3aHJ0A8y-gkIn_wGO-_YTWlUdz35PGuXsm9A",
+    "img_200_200": "200_200/0/1670787807356?e=1707955200&v=beta&t=voSFT-iztkcg1k3u6n84w7-5qdtwOj8-hnOBq-r1_h4",
+    "img_400_400": "400_400/0/1670787807356?e=1707955200&v=beta&t=IIs8i9Qvv21hMMh23gCgGF4qrcZby4qpreMfS52RVVo",
+    "img_800_800": "800_800/0/1670787807356?e=1707955200&v=beta&t=-pCpxeN8dc_fSJJYuFACtjFMzvXD3TLV-n1h45n4X1g",
+    "profile_id": "ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE",
+    "member_urn": "urn:li:member:193368638",
+    "public_id": "ramyfam",
+    "experience": [
+        {
+            "locationName": "Madrid, Community of Madrid, Spain",
+            "entityUrn": "urn:li:fs_position:(ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE,2088581979)",
+            "geoLocationName": "Madrid, Community of Madrid, Spain",
+            "geoUrn": "urn:li:fs_geo:100994331",
+            "companyName": "CRH Ventures",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ]
+            },
+            "title": "VP",
+            "region": "urn:li:fs_region:(es,0)",
+            "companyUrn": "urn:li:fs_miniCompany:86911278",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHfWWQuucAX2A/company-logo_"
+        },
+        {
+            "locationName": "Madrid, Community of Madrid, Spain",
+            "entityUrn": "urn:li:fs_position:(ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE,2001383810)",
+            "geoLocationName": "Madrid, Community of Madrid, Spain",
+            "geoUrn": "urn:li:fs_geo:100994331",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "VP - CRH Ventures",
+            "region": "urn:li:fs_region:(es,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Spain",
+            "entityUrn": "urn:li:fs_position:(ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE,1759949940)",
+            "geoLocationName": "Spain",
+            "geoUrn": "urn:li:fs_geo:105646813",
+            "companyName": "Amazon",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Senior Program Manager, FBA",
+            "region": "urn:li:fs_region:(es,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1586",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_"
+        },
+        {
+            "locationName": "Madrid Area, Spain",
+            "entityUrn": "urn:li:fs_position:(ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE,1332618437)",
+            "geoLocationName": "Madrid Area, Spain",
+            "companyName": "CEMEX",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Corporate Strategy and M&A",
+            "companyUrn": "urn:li:fs_miniCompany:4402",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGpD1yw-4pz2Q/company-logo_"
+        },
+        {
+            "locationName": "Madrid Area, Spain",
+            "entityUrn": "urn:li:fs_position:(ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE,1141348622)",
+            "geoLocationName": "Madrid Area, Spain",
+            "companyName": "CEMEX Ventures",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ]
+            },
+            "title": "Venture Capital Investment",
+            "companyUrn": "urn:li:fs_miniCompany:11017135",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHVnzG6lwG0rA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE,367222598)",
+            "school": {
+                "objectUrn": "urn:li:school:12189",
+                "entityUrn": "urn:li:fs_miniSchool:12189",
+                "active": true,
+                "schoolName": "IE Business School",
+                "trackingId": "bBZItgeKQdaRdpyiraQvHg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQGvE_Hi22X6lQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "description": "Awarded IE Foundation Scholarship",
+            "degreeName": "Master of Business Administration (M.B.A.)",
+            "schoolName": "IE Business School",
+            "fieldOfStudy": "International MBA Candidate for January 2017 Intake",
+            "honors": [
+                "urn:li:fs_honor:(ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE,2105128504)"
+            ],
+            "schoolUrn": "urn:li:fs_miniSchool:12189"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE,117265881)",
+            "school": {
+                "objectUrn": "urn:li:school:10890",
+                "entityUrn": "urn:li:fs_miniSchool:10890",
+                "active": true,
+                "schoolName": "McGill University",
+                "trackingId": "X5aN2qSKQPis11qQ/rv9hg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C510BAQFvv1npMZWzKA/company-logo_"
+            },
+            "activities": "Youth Outreach Program, Beyond Me.",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "Bachelor of Engineering (B.E.)",
+            "schoolName": "McGill University",
+            "fieldOfStudy": "Civil Engineering",
+            "schoolUrn": "urn:li:fs_miniSchool:10890"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Arabic",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [
+        {
+            "description": "The MBA World Summit is about shaping a Global Leadership Community. Since its inauguration in 2014, it has prided itself as the pinnacle international gathering for the global MBA community. Year by year, 100 of the most exceptional and rigorously selected MBA talents from the top business schools worldwide (out of more than 3.000 applicants) are invited to attend this exclusive conference.\n\nAll of them will be involved in co-creating the agenda of the four-day Summit, which focuses on the three pillars of nurturing a collaborative culture, facilitating high-impact exchange and championing interdisciplinary approaches to global business and societal problems. Attendees debate the most pressing issues of our times as well as future challenges and engage in a vibrant best-practice sharing.",
+            "title": "Selected as one of the 100 most exceptional MBA students to participate at the MBA World Summit 2017 in Berlin",
+            "issueDate": {
+                "month": 2,
+                "year": 2017
+            },
+            "issuer": "MBA World Summit"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE,367222598)",
+            "description": "Awarded IE Foundation Scholarship for entrepreneurial spirit, diversity and excellence.\n",
+            "title": "IE Foundation Scholarship",
+            "issueDate": {
+                "month": 1,
+                "year": 2017
+            },
+            "issuer": "IE Business School"
+        }
+    ],
+    "projects": [
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Ramy",
+                        "lastName": "Fam",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE",
+                        "occupation": "VP - CRH Ventures",
+                        "objectUrn": "urn:li:member:193368638",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1670787992918?e=1707955200&v=beta&t=ar9qUMn0BC1u2JJzgrCITGsSyRBJOuBEWAvdjSpPXYM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1670787992918?e=1707955200&v=beta&t=JLMe3gz89D2OyIqIkctXho2OgW2ZzJJJ5dnhJ5_DqK0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D16AQFOmKR01p1_aw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "ramyfam",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1670787807356?e=1707955200&v=beta&t=2YMX6yo3aHJ0A8y-gkIn_wGO-_YTWlUdz35PGuXsm9A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1670787807356?e=1707955200&v=beta&t=voSFT-iztkcg1k3u6n84w7-5qdtwOj8-hnOBq-r1_h4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1670787807356?e=1707955200&v=beta&t=IIs8i9Qvv21hMMh23gCgGF4qrcZby4qpreMfS52RVVo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1670787807356?e=1707955200&v=beta&t=-pCpxeN8dc_fSJJYuFACtjFMzvXD3TLV-n1h45n4X1g",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQGlYa4npcke6A/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "9/SYN4KgRdyQzaCrdhQjeA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE,1348754610,164282319)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAuGkj4B4L6fxlNWciGyw_oTrA5aNb64bsE"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2016
+                }
+            },
+            "description": "§ Created platform for professor reviews & course resources, gathered database of +20,000 professors, +1,200 users, +1,300 reviews & +300 notes for traction before tutoring app is launched; hired 2 employees.\n§ Achievements: Selected to pitch at Axel Springer Accelerator (Berlin) and Uber Pitch N’Ride event (Cairo).",
+            "title": "Co-Founder of Darresny",
+            "url": "http://www.darresny.com"
+        }
+    ]
+}

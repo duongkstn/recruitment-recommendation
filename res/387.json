@@ -1,0 +1,390 @@
+{
+    "summary": "Professional with over 10 years of security, audit and risk management experience, and an academic background in computer science and applied economics & finance. Compassionate leader who has led multi-disciplined and geographically dispersed teams. Holder of the CIA and CISA designations and a strong commitment towards lifelong learning.",
+    "industryName": "Financial Services",
+    "lastName": "B.",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:43",
+    "firstName": "Maria",
+    "entityUrn": "urn:li:fs_profile:ACoAAAcYBVsB_UWx0ePtyQ8dfcGR8wULgJFefus",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Experienced security and risk management leader",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQFvU5uxMDzJPQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1622885062301?e=1707955200&v=beta&t=RxoHHppxl5ftMlmDaNNKeYBoeFFMBPhVp-FCJyOpfBM",
+    "img_200_200": "200_200/0/1622885062301?e=1707955200&v=beta&t=e4ZbH2-vdmqLFdH-5JUyfkrYngnvB7fXY9jHWAAHwnM",
+    "img_400_400": "400_400/0/1622885062301?e=1707955200&v=beta&t=ZSvNv97cubBCCir_xzab8Trgwc-4ie6j1R-HiwplcqA",
+    "img_800_800": "800_800/0/1622885062301?e=1707955200&v=beta&t=A6_g0OWEDsMSLAu8XstVLiLN2ET2qfVul6YAw0Cw8FI",
+    "profile_id": "ACoAAAcYBVsB_UWx0ePtyQ8dfcGR8wULgJFefus",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAcYBVsB_UWx0ePtyQ8dfcGR8wULgJFefus",
+    "member_urn": "urn:li:member:119014747",
+    "public_id": "maria-b-337a3633",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAcYBVsB_UWx0ePtyQ8dfcGR8wULgJFefus,2216040368)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "ING",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Global Security Strategy Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2594164",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEzlL9vyovZuw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAcYBVsB_UWx0ePtyQ8dfcGR8wULgJFefus,1942950511)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Secfi",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "description": "Responsible for setting and driving Secfi's security vision and strategy. Collaborating closely with stakeholders across the company to continuously enhance our security posture.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Head Of Security",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:27185114",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFDX9i3q3kJhA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAcYBVsB_UWx0ePtyQ8dfcGR8wULgJFefus,1790070030)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Booking.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "description": "Enabling a threat-driven approach for our security strategy and prioritization. Leading a team of talented professionals in the areas of threat analysis, threat intelligence and offensive security. Developing and driving the long-term strategy of the threat management capability within Booking.com and, where relevant, Booking Holdings. ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Senior Manager - Threat Management",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11348",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAcYBVsB_UWx0ePtyQ8dfcGR8wULgJFefus,1692462626)",
+            "companyName": "Booking.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "description": "Leading a team of talented professionals in the areas of threat analysis, threat intelligence and offensive security.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Manager - Threat Management ",
+            "companyUrn": "urn:li:fs_miniCompany:11348",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAcYBVsB_UWx0ePtyQ8dfcGR8wULgJFefus,1467695390)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "companyName": "Booking.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "description": "Incorporating security considerations in Booking’s product governance cycle, as well as informing Booking’s security strategy based on the latest internal developments and emerging external threats.  ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Senior Security Strategist",
+            "companyUrn": "urn:li:fs_miniCompany:11348",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAcYBVsB_UWx0ePtyQ8dfcGR8wULgJFefus,70938951)",
+            "school": {
+                "objectUrn": "urn:li:school:12831",
+                "entityUrn": "urn:li:fs_miniSchool:12831",
+                "active": true,
+                "schoolName": "Athens University of Economics and Business",
+                "trackingId": "snI6rNn2RC+Z6bGYimgF1Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQGvi2Np6JFYaQ/company-logo_"
+            },
+            "grade": "8.18/10",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "description": "Dissertation titled “Conditions, mechanisms and consequences of the restructure of public debt: The experiences from the European Countries”.",
+            "degreeName": "M. Sc.",
+            "schoolName": "Athens University of Economics and Business",
+            "fieldOfStudy": "Applied Economics and Finance",
+            "schoolUrn": "urn:li:fs_miniSchool:12831"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAcYBVsB_UWx0ePtyQ8dfcGR8wULgJFefus,70752983)",
+            "school": {
+                "objectUrn": "urn:li:school:12831",
+                "entityUrn": "urn:li:fs_miniSchool:12831",
+                "active": true,
+                "schoolName": "Athens University of Economics and Business",
+                "trackingId": "fxt9FjoLQ9uHUASMROgnXg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQGvi2Np6JFYaQ/company-logo_"
+            },
+            "activities": "Venus Project Forum",
+            "grade": "7.46/10",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "description": "Dissertation titled “Entrepreneurship and Business Planning”, 2010 (written in English).",
+            "degreeName": "B.Sc.",
+            "schoolName": "Athens University of Economics and Business",
+            "fieldOfStudy": "Computer Science",
+            "schoolUrn": "urn:li:fs_miniSchool:12831"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Greek",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "The Institute of Internal Auditors Inc.",
+            "name": "Certified Internal Auditor (CIA)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:22580",
+                "entityUrn": "urn:li:fs_miniCompany:22580",
+                "name": "The Institute of Internal Auditors Inc.",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1643720729893/the_institute_of_internal_auditors_inc_logo?e=1710374400&v=beta&t=KwbGrI_wEP4n8vKhqpcUACkch1QuEstQe_DRdlqythQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1643720729894/the_institute_of_internal_auditors_inc_logo?e=1710374400&v=beta&t=13B_k5FBL0WkMyumQU9skFy36H7MhTaBR6VIsFs8qNQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1643720729894/the_institute_of_internal_auditors_inc_logo?e=1710374400&v=beta&t=19T4GczSxaW3Xjj0jPlA6dl0VhA_h_fDtZowAt-MVYE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFGXaKrg0ZJcA/company-logo_"
+                    }
+                },
+                "universalName": "the-institute-of-internal-auditors-inc",
+                "dashCompanyUrn": "urn:li:fsd_company:22580",
+                "trackingId": "KGfuRE1STj2Aqw95oS7jhw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:22580"
+        },
+        {
+            "authority": "CIMA",
+            "name": "Certificate in Business Accounting",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:163045",
+                "entityUrn": "urn:li:fs_miniCompany:163045",
+                "name": "CIMA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630497816724/cima_logo?e=1710374400&v=beta&t=u0-4hk8Ox_BHsRNREeyFLxtRmMfe4rFolGqwo0CR778",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630497816724/cima_logo?e=1710374400&v=beta&t=rtkEgIzUer72gL6B2RvtadglVMZfcXcTljazHhHjluY",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630497816724/cima_logo?e=1710374400&v=beta&t=pYe7d3GOWVA2aWkIbe2JZiTBMAN8EqluOuXoO4JS0JU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFtpxXRD0a0gA/company-logo_"
+                    }
+                },
+                "universalName": "cima",
+                "dashCompanyUrn": "urn:li:fsd_company:163045",
+                "trackingId": "eTFPDRWCQSmOFe90ut0aWg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:163045"
+        },
+        {
+            "authority": "ISACA",
+            "name": "Certified Information Systems Auditor (CISA)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:21062",
+                "entityUrn": "urn:li:fs_miniCompany:21062",
+                "name": "ISACA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=cwzBvUoMgtr8ZvUvUoMsprbGmEqJ8GUYyYxY8zJoCN0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=tKdg4zFODP83AIGTCAYzrxoeUHyP4sBtLNBdvzoeUbE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=ghFMKYB-nC9QajVN9vtalPvv2k6CxLTyCsEyGbQzIx0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEbgaF0IMoyIw/company-logo_"
+                    }
+                },
+                "universalName": "isaca",
+                "dashCompanyUrn": "urn:li:fsd_company:21062",
+                "trackingId": "cpWuRKRIRIGw4qG2MVqVTA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:21062"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

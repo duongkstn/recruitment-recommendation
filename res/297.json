@@ -1,0 +1,261 @@
+{
+    "summary": "Gedreven en áltijd zoekende naar het beste resultaat | Ervaring binnen Sales, Recruitment en Marketing",
+    "industryName": "Transportation/Trucking/Railroad",
+    "lastName": "van Brouwershaven",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:92",
+    "firstName": "Max",
+    "entityUrn": "urn:li:fs_profile:ACoAADJ3togBVlHTk8BT2pf7SxSMVKM71vssq7M",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103820005"
+    },
+    "geoLocationName": "Almkerk, North Brabant",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Accountmanager | MontaWMS",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFC2OX32XN30g/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1699305770922?e=1707955200&v=beta&t=oeCwVEVW9madteVBosc-mjL7ReEzWMflQ4V5mDJ84Mk",
+    "img_200_200": "200_200/0/1699305770922?e=1707955200&v=beta&t=OUGnvd2II98JPQdsHhy_Ao93K7Y1MStJKkC4quMkdLk",
+    "img_400_400": "400_400/0/1699305770922?e=1707955200&v=beta&t=eijMRNqj5OBjxz4RA017Ecgdvu9c_K3J0yirFXFrYdQ",
+    "img_800_800": "800_800/0/1699305770922?e=1707955200&v=beta&t=ZrsncIYMvuPtA_1DSjtFqbzDeM9TmlU377nvyIifRfs",
+    "profile_id": "ACoAADJ3togBVlHTk8BT2pf7SxSMVKM71vssq7M",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADJ3togBVlHTk8BT2pf7SxSMVKM71vssq7M",
+    "member_urn": "urn:li:member:846706312",
+    "public_id": "max-van-brouwershaven-0b46881b7",
+    "experience": [
+        {
+            "locationName": "Papland 16, 4206 CL Gorinchem",
+            "entityUrn": "urn:li:fs_position:(ACoAADJ3togBVlHTk8BT2pf7SxSMVKM71vssq7M,2239263839)",
+            "geoLocationName": "Papland 16, 4206 CL Gorinchem",
+            "companyName": "MontaWMS",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "title": "Accountmanager New Business",
+            "companyUrn": "urn:li:fs_miniCompany:71759800",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGj5AKUaZJlwg/company-logo_"
+        },
+        {
+            "locationName": "Bemmel, Gelderland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADJ3togBVlHTk8BT2pf7SxSMVKM71vssq7M,1764586139)",
+            "geoLocationName": "Bemmel, Gelderland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102090074",
+            "companyName": "YSF | Your Step Forward",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "description": "W&S/ Detachering\n\nSales | Finance | IT | HR",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:33262863",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFVNcm9GxQRQw/company-logo_"
+        },
+        {
+            "locationName": "Bladel, Noord-Brabant, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADJ3togBVlHTk8BT2pf7SxSMVKM71vssq7M,2160455014)",
+            "geoLocationName": "Bladel, Noord-Brabant, Nederland",
+            "geoUrn": "urn:li:fs_geo:105502362",
+            "companyName": "Gemeente Bladel",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "description": "Interimopdracht (3 mnd) waarbij ik mijzelf focus op de invulling van de vacatures binnen:\n- VTH (Casemanager WABO / Juridisch Adviseur Handhaving & VTH / Coördinator VTH)\n- RO (Beleidsadviseur Ruimtelijke Ordening/ Planeconoom)\n- Communicatie (Strategisch Communicatieadviseur / Medior Communicatieadviseur)\n- Secretaresse (Bestuurssecretaresse/ Managementassistente)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Government Administration"
+                ]
+            },
+            "title": "Corporate Recruiter (A.I.)",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:457390",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHhRVMP8jv4hw/company-logo_"
+        },
+        {
+            "locationName": "Bemmel, Gelderland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADJ3togBVlHTk8BT2pf7SxSMVKM71vssq7M,1909702314)",
+            "geoLocationName": "Bemmel, Gelderland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102090074",
+            "companyName": "YSF | Your Step Forward",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "description": "Onderzoek naar de optimalisatie van de online vindbaarheid (middels SEO + Social Media)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Afstudeerstagiair Marketing",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:33262863",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFVNcm9GxQRQw/company-logo_"
+        },
+        {
+            "locationName": "Gorinchem, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADJ3togBVlHTk8BT2pf7SxSMVKM71vssq7M,1684545225)",
+            "geoLocationName": "Gorinchem, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100807051",
+            "companyName": "Rivas Zorggroep",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ]
+            },
+            "title": "Assistent Wonen en Welzijn",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:35401",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF-ZYpGJCgSeA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADJ3togBVlHTk8BT2pf7SxSMVKM71vssq7M,683670884)",
+            "school": {
+                "objectUrn": "urn:li:school:23151",
+                "entityUrn": "urn:li:fs_miniSchool:23151",
+                "active": true,
+                "schoolName": "Avans University of Applied Sciences",
+                "trackingId": "fbroMP40TJOXNbn+IzqI3g==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2025
+                },
+                "startDate": {
+                    "year": 2023
+                }
+            },
+            "description": "Deeltijd",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101476",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Avans Hogeschool",
+            "fieldOfStudy": "Marketing  / Commerciële economie (CE) - Specialisatie marketing management",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:23151"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADJ3togBVlHTk8BT2pf7SxSMVKM71vssq7M,875038646)",
+            "school": {
+                "objectUrn": "urn:li:school:3164051",
+                "entityUrn": "urn:li:fs_miniSchool:3164051",
+                "active": true,
+                "schoolName": "Avans Academie",
+                "trackingId": "pulHEOdxRhK7Ax67VZw3qQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQGWjpGrXeSKwQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "description": "HBO - Associate Degree",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101476",
+            "degreeName": "Associate's degree",
+            "schoolName": "Avans Academie",
+            "fieldOfStudy": "Marketing  / Commerciële economie (CE) - Specialisatie marketing management",
+            "degreeUrn": "urn:li:fs_degree:100",
+            "schoolUrn": "urn:li:fs_miniSchool:3164051"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADJ3togBVlHTk8BT2pf7SxSMVKM71vssq7M,683677120)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2015
+                }
+            },
+            "degreeName": "HAVO",
+            "schoolName": "Altena College",
+            "fieldOfStudy": "Economie en Maatschappij"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

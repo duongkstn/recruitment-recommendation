@@ -1,0 +1,352 @@
+{
+    "summary": "Accomplished IT professional with extensive international management experience. Demonstrated record of leading successful teams, with proven capability in all areas of IT, with a particular aptitude for Service Delivery, Project & Portfolio Management, Strategy Planning & Digital Innovation, Infrastructure, Operations & Services, Change & Transformation, Integration, and major upgrade projects.\n\nExcellent interpersonal skills acquired as a result of working with international teams and individuals in\ndemanding environments. Articulate and confident, a strong and accomplished communicator. Practised at managing both technical and non-technical resources to deliver complex projects within demanding\ntimescales.\n\nResponsible for many innovative and creative solutions to problems, I inspire others through excitement\nand enthusiasm to create highly skilled teams. Driven by achieving results through people and teams, a\nrecognised coach and mentor. I am pragmatic, results driven, and a leader by example.",
+    "industryName": "Building Materials",
+    "lastName": "Hough",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Paul",
+    "entityUrn": "urn:li:fs_profile:ACoAAADYS-UBvNuO8gqcQGvb6mUokh7tnBM39uM",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Head of IT Operations at CRH",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQE6y05pr_u1aQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1700330536527?e=1707955200&v=beta&t=KrKZbBr4HbDIO6FcQD11DbgbdnYho5KyA8P-LKdbSUk",
+    "img_200_200": "200_200/0/1700330536527?e=1707955200&v=beta&t=Ze5p0aT8hC8D4yMYHauZfC3mQdESIbSmqveJv86WOJo",
+    "img_400_400": "400_400/0/1700330536527?e=1707955200&v=beta&t=ryf_bJU0Rv1zXyk9lzkoGjdjx2ZgZ9Qiz1SiCaOImVE",
+    "img_800_800": "800_800/0/1700330536527?e=1707955200&v=beta&t=Jbaou02iU5jMGagmBM7CZ1GGuxjqQ6o1PHVUiX1ObFo",
+    "profile_id": "ACoAAADYS-UBvNuO8gqcQGvb6mUokh7tnBM39uM",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAADYS-UBvNuO8gqcQGvb6mUokh7tnBM39uM",
+    "member_urn": "urn:li:member:14175205",
+    "public_id": "paulhough",
+    "experience": [
+        {
+            "locationName": "Amsterdam Area",
+            "entityUrn": "urn:li:fs_position:(ACoAAADYS-UBvNuO8gqcQGvb6mUokh7tnBM39uM,1905996389)",
+            "geoLocationName": "Amsterdam Area",
+            "geoUrn": "urn:li:fs_geo:90010383",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Head of IT Operations",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam, South Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAADYS-UBvNuO8gqcQGvb6mUokh7tnBM39uM,1608705347)",
+            "geoLocationName": "Rotterdam, South Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:103447814",
+            "companyName": "LyondellBasell",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Chemicals"
+                ]
+            },
+            "title": "IT Director, Global Service Delivery",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:5667",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQG9HZYdLA-HXQ/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAADYS-UBvNuO8gqcQGvb6mUokh7tnBM39uM,1277231936)",
+            "geoLocationName": "Rotterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "LyondellBasell",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "description": "•\tReporting directly to the Chief Information Officer, part of the global IT leadership team, leads an organisation of over 80 professionals, located throughout the world.\n•\tDirect accountability for the entire lifecycle of IT project and program management.\n•\tDeveloped & delivered the LYB IT 5-year Long Range Plan, including an investment portfolio of $61M, for 2019 execution.\n•\tRe-engineered an insufficient Long Range Planning process, massively improving the ability for senior executives to curate and steer the IT investment portfolio, through increased visibility and consistency to the planning and governance processes.\n•\tRebuilt the Organisational Change Management team, enabling future success and renewed delivery capabilities.\n•\tInitiated and delivered Resource Capacity Planning for IT projects and investment programmes.\n•\tBusiness Process Organisation Leadership member, representing ITS and ensuring alignment and prioritisation of ITS Project Portfolio.\n•\tLed the redesign of the Project Portfolio Management application suite, delivering a resource capacity balanced portfolio review.",
+            "title": "Global ITS Director, Strategy to Execution",
+            "region": "urn:li:fs_region:(nl,5908)"
+        },
+        {
+            "locationName": "Rotterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAADYS-UBvNuO8gqcQGvb6mUokh7tnBM39uM,1198458011)",
+            "geoLocationName": "Rotterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "LyondellBasell",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "description": "•\tGlobal responsibility for Project Management Office, Governance & IT Strategy.\n•\tDeveloped Project Delivery lifecycle methodology, from Ideation to Project Execution.\n•\tEstablished Project Portfolio Prioritisation methodology, delivering an annual Long-Range Plan budget for over $69M in 2018.\n•\tBrought transparency to historic project investments and processes, exposing and improving hidden, legacy expenditures, driving for better value and benefits of technology investments.\n•\tRevitalised and drove significant improvements in financial and governance control, building a capable PMO function.\n•\tImproved the value of budget data; helped determine and create the financial reports most beneficial to leadership and project teams.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Chemicals"
+                ]
+            },
+            "title": "Global Governance, Portfolio & Strategy Manager",
+            "region": "urn:li:fs_region:(nl,5908)",
+            "companyUrn": "urn:li:fs_miniCompany:5667",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQG9HZYdLA-HXQ/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAADYS-UBvNuO8gqcQGvb6mUokh7tnBM39uM,639688059)",
+            "geoLocationName": "Rotterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Lyondellbasell Industries",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "description": "Lead a global team to redesign IT/OT architecture and support model for the Manufacturing and R&D laboratories.\n•\tTurned around a poorly focused global project to harmonise and upgrade global Laboratory Information Management System (LIMS) and Chromatography Data Systems (CDS), increasing productivity, support levels and responsiveness.\n•\tRe-established and greatly improved the relationship with businesses and leadership within the European Manufacturing, Maintenance & Reliability organisations, and globally with Research & Development, and Manufacturing Laboratory areas.\n•\tLead initiatives to deliver emerging technologies within the R&D and laboratory functions.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Chemicals"
+                ]
+            },
+            "title": "IT Manager, EAI Customer Business Solutions",
+            "region": "urn:li:fs_region:(nl,5908)",
+            "companyUrn": "urn:li:fs_miniCompany:5667",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQG9HZYdLA-HXQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAADYS-UBvNuO8gqcQGvb6mUokh7tnBM39uM,10522525)",
+            "school": {
+                "objectUrn": "urn:li:school:12668",
+                "entityUrn": "urn:li:fs_miniSchool:12668",
+                "active": true,
+                "schoolName": "University of Hull",
+                "trackingId": "A7nhmN08TAKIliGikSJUvA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFFsFV_RpNbww/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 1997
+                },
+                "startDate": {
+                    "year": 1992
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "The University of Hull",
+            "fieldOfStudy": "Chemistry",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:12668"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAADYS-UBvNuO8gqcQGvb6mUokh7tnBM39uM,315637212)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1992
+                },
+                "startDate": {
+                    "year": 1990
+                }
+            },
+            "degreeName": "ONC - Science",
+            "schoolName": "Grimsby College of Technology",
+            "fieldOfStudy": "Chemistry"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAADYS-UBvNuO8gqcQGvb6mUokh7tnBM39uM,315637184)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1990
+                },
+                "startDate": {
+                    "year": 1983
+                }
+            },
+            "degreeName": "High School",
+            "schoolName": "The Hereford School, Grimsby"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "EXIN",
+            "name": "ITIL V3 Foundation",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2011
+                }
+            },
+            "licenseNumber": "4204651.916700",
+            "company": {
+                "objectUrn": "urn:li:company:24063",
+                "entityUrn": "urn:li:fs_miniCompany:24063",
+                "name": "EXIN",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1656919652964/exin_logo?e=1710374400&v=beta&t=qzStmjWIKFIU8Bse8AuCX-qWKwODrP350vkmZEIgqOA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1656919652964/exin_logo?e=1710374400&v=beta&t=k5cqdY5pkk6G95NX6sSMaqPUYGryhcdJkWJmEBASdv4",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1656919652964/exin_logo?e=1710374400&v=beta&t=XRM1VJ-bGDPBa47tH1rJs4DUPn0QoTWrWF8ePCm0Vwg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFi8TgZbeVOXw/company-logo_"
+                    }
+                },
+                "universalName": "exin",
+                "dashCompanyUrn": "urn:li:fsd_company:24063",
+                "trackingId": "EmdWh36DSSqBjOizczkeQg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:24063"
+        },
+        {
+            "authority": "(ISC)²",
+            "name": "CISSP",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "488115",
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "JM9H9YtzR8eBpPZNom/rVA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:26753"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Adult Leader - Scouts & Cubs",
+            "companyName": "The Scout Association",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2000
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 1990
+                }
+            },
+            "cause": "CHILDREN",
+            "description": "Adult Scout Leader, working with Cubs & Scouts at 1st Littlecoates Scout Group, Grimsby"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

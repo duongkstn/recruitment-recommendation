@@ -1,0 +1,1107 @@
+{
+    "summary": "As a UX Designer with a Master of Arts in Service Design, my skill set combines user-centric thinking, conversion-driven design, and brand storytelling. I have 4+ years of experience in creating and optimising digital products and web experiences for various clients and industries, including media, smart home, sustainable fashion, and coworking spaces. \n\nI enjoy leading the design process end-to-end, translating user needs and business requirements into features and products that deliver value and impact. Some of my achievements include increasing conversion by 200% through a website redesign, decreasing customer not-at-home rates by 50% by redesigning the ticket flow at Guidion, and ensuring brand consistency across 40+ brands by creating guidelines for internal ads at DPG Media. \n\n💌 hi@paulienemily.design",
+    "industryName": "Design",
+    "lastName": "van Rijckevorsel",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 6,
+        "day": 25
+    },
+    "industryUrn": "urn:li:fs_industry:99",
+    "firstName": "Paulien",
+    "entityUrn": "urn:li:fs_profile:ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Digital Product Design @HEMA",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFOaj6PBDhojQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1678378728011?e=1707955200&v=beta&t=8RHvf_G-nlUAFgCgKymglT4jMgQUftLeb02kplNml4Y",
+    "img_200_200": "200_200/0/1678378728011?e=1707955200&v=beta&t=CFh-g_zH0kmi0pkZWB9pxvPSdZZnPP7Bo72tID-_GD4",
+    "img_400_400": "400_400/0/1678378728011?e=1707955200&v=beta&t=MaDIDwZLfSD6x5KQEwqq06_u3uqM6aywWo_vxIMu2rE",
+    "img_800_800": "800_800/0/1678378728011?e=1707955200&v=beta&t=PQV6sUHV17b7y2uWUkYjYo3UOztgh17trrOyGLtw1KM",
+    "profile_id": "ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E",
+    "member_urn": "urn:li:member:436040870",
+    "public_id": "paulien-van-rijckevorsel",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,2263874112)",
+            "companyName": "HEMA",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Digital Product Designer",
+            "companyUrn": "urn:li:fs_miniCompany:10042",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFpIWP40AlVlA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,2082772566)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "DPG Media Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2022
+                }
+            },
+            "description": "DPG Media is the largest media group of the Netherlands. Their portfolio includes Het Parool, De Volkskrant, het AD, nu.nl, vtwonen and Libelle. I was a UX Designer on the Circulation team where our goal was to design and optimise touch points to attract, convert and retain customers. \n\nAchievements\n• Ensured brand consistency across 40+ brands by creating guidelines for internal ads\n• Optimised conversion-driven touch points such as paywalls for 40+ brands (web and app) through collaboration with CRO specialist\n• Improved Designer Onboarding and process by creating onboarding deck \n• Improved existing product by designing new components\n• Contributed to a token-based design system to ensure consistency and scalability across 40+ brands",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Media Production"
+                ]
+            },
+            "title": "UX Designer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:20338442",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFnjM8hH5MaZQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area",
+            "entityUrn": "urn:li:fs_position:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1859111221)",
+            "geoLocationName": "Amsterdam Area",
+            "geoUrn": "urn:li:fs_geo:90010383",
+            "companyName": "Guidion",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "description": "Achievements\n• Improved Task Success Rate and User Satisfaction by pinpointing needs for improvement via Qualitative Research \n• Increased conversion with 300% through website redesign\n• Increased user engagement by delivering features through research, iteration and delivery\n• Increased brand consistency by eliminating 100+ unnecessary components and replacing with one single scaleable component",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "UX Designer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:143742",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFVmXIFTzE3og/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1794715885)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "fibéo | Online marktonderzoek",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "description": "Independently ran UX Design Research sprints. Clients include Consumentenbond and Leen Bakker.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Market Research"
+                ]
+            },
+            "title": "UX Researcher",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:5067692",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFPSz9vYjv96A/company-logo_"
+        },
+        {
+            "locationName": "London, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1518207057)",
+            "geoLocationName": "London, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009496",
+            "companyName": "Plus X ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "description": "Worked as a sole designer as part of a marketing team. Responsible for:\n• Design and implementation of Plus X internal brand hub\n• Implementing internal design workflows\n• Design of websites and landing pages and other digital touch points\n• Branding and identity for innovation programmes\n• Design of different brand collateral such as pitch decks, magazines, social media material and more",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Real Estate"
+                ]
+            },
+            "title": "Visual and UX Design",
+            "region": "urn:li:fs_region:(gb,4573)",
+            "companyUrn": "urn:li:fs_miniCompany:18825128",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHng4mvFfZpWw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,555954095)",
+            "school": {
+                "objectUrn": "urn:li:school:12634",
+                "entityUrn": "urn:li:fs_miniSchool:12634",
+                "active": true,
+                "schoolName": "Royal College of Art",
+                "trackingId": "C+YFjYh7Q7KlMM36oGOkYQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQEN1EM8JkhHIA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "description": "Service Design involves an integrated approach to the design of human experiences and the socio-cultural, economic and technological systems in which the services are experienced. \n\nProject Partners: \n• BBC\n• KERB\n• Alpha - powered by Telefónica\n• CERN",
+            "degreeName": "Master of Arts - MA",
+            "schoolName": "Royal College of Art",
+            "fieldOfStudy": "Service Design",
+            "degreeUrn": "urn:li:fs_degree:536",
+            "schoolUrn": "urn:li:fs_miniSchool:12634"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,293621531)",
+            "activities": "2xcell, Honours Programme",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "description": "The BA programme teaches you how to spot and analyse trends and apply these insights into the design and of new lifestyle concepts.\n\nClasses:\n• Future forecasting and Trend analysis\n• Concept development\n• Visual communication\n• Consumer research\n• Design research\n• Product realisation\n• Service design\n• Business guidance and business advice",
+            "degreeName": "Bachelor of Arts - BA",
+            "schoolName": "Fontys Academy for Creative Industries",
+            "fieldOfStudy": "Trend Research and Concept Creation",
+            "degreeUrn": "urn:li:fs_degree:350"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,293627556)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Diploma Business Administration",
+            "schoolName": "Mercury College, Sydney",
+            "fieldOfStudy": "Business Administration and Management, General"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "German",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Code First: Girls",
+            "name": "Introduction to Programming Using HTML and CSS",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:5064638",
+                "entityUrn": "urn:li:fs_miniCompany:5064638",
+                "name": "Code First Girls",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1657038239557/code_first_girls_logo?e=1710374400&v=beta&t=3pGNxvYoMvZjJR7AUBgE_rvaSvaZYvRlA6gO5V6LdIc",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1657038239557/code_first_girls_logo?e=1710374400&v=beta&t=-ar7VVWFF0VZ3PaIGtWtcKUzohVDDd1TmdeYKN2SSnA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1657038239557/code_first_girls_logo?e=1710374400&v=beta&t=0QfD9RNbnCF-xnUPrPKe0cEtMkioCdtIcS5KMgpfQjY",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHhQSG8oilpTA/company-logo_"
+                    }
+                },
+                "universalName": "code-first-girls",
+                "dashCompanyUrn": "urn:li:fsd_company:5064638",
+                "trackingId": "1jPzuPPDQ3Wr2FA8qL81kQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5064638"
+        },
+        {
+            "authority": "SuperHi",
+            "name": "Visual Design & Branding",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:10871156",
+                "entityUrn": "urn:li:fs_miniCompany:10871156",
+                "name": "SuperHi",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631346065552?e=1710374400&v=beta&t=fdcTuYct3sVkE6hHqQn8d-tIyjmP6CKWATUGoILTx3s",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631346065552?e=1710374400&v=beta&t=o78DeDBxXk2HuizdT5-fdOyCjsgWbmU1y7vT2xFiGfY",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631346065552?e=1710374400&v=beta&t=pKiTXaBwUpNKLTITatu1GGuZ5GC1OfqQcI8sNkNz3JA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQH1wHvZliC32w/company-logo_"
+                    }
+                },
+                "universalName": "superhi",
+                "dashCompanyUrn": "urn:li:fsd_company:10871156",
+                "trackingId": "pyDQuqU7ST6dQDbz4ZkXyA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:10871156"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Paulien",
+                        "lastName": "van Rijckevorsel",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E",
+                        "occupation": "Digital Product Design @HEMA",
+                        "objectUrn": "urn:li:member:436040870",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1691159168430?e=1707955200&v=beta&t=IRv-Yup9Q7dZTI7Bs_VjB3hmpmXQM51Tbu_dUDfBhEg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 199
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1691159168430?e=1707955200&v=beta&t=al6h-80EhLzt1Zy3h680pxZprxlAu-zHEC5fK7JD6zY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 349
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQEBSrG02Fr2cQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "paulien-van-rijckevorsel",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1678378728011?e=1707955200&v=beta&t=8RHvf_G-nlUAFgCgKymglT4jMgQUftLeb02kplNml4Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1678378728011?e=1707955200&v=beta&t=CFh-g_zH0kmi0pkZWB9pxvPSdZZnPP7Bo72tID-_GD4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1678378728011?e=1707955200&v=beta&t=MaDIDwZLfSD6x5KQEwqq06_u3uqM6aywWo_vxIMu2rE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1678378728011?e=1707955200&v=beta&t=PQV6sUHV17b7y2uWUkYjYo3UOztgh17trrOyGLtw1KM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQFOaj6PBDhojQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "6lnjsiSIQNaBOpVhm+vNUQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1028936946,1)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2016
+                }
+            },
+            "description": "'More than 400 young students, professionals, artists and creatives are developing the site into a sustainable urban area, where they work, create, explore and present their solutions for current urban issues. The participants come from various educational backgrounds, including art and technology academics, universities and vocational colleges.'",
+            "title": "FabCity",
+            "url": "http://europebypeople.nl/fabcity-2/"
+        },
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Paulien",
+                        "lastName": "van Rijckevorsel",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E",
+                        "occupation": "Digital Product Design @HEMA",
+                        "objectUrn": "urn:li:member:436040870",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1691159168430?e=1707955200&v=beta&t=IRv-Yup9Q7dZTI7Bs_VjB3hmpmXQM51Tbu_dUDfBhEg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 199
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1691159168430?e=1707955200&v=beta&t=al6h-80EhLzt1Zy3h680pxZprxlAu-zHEC5fK7JD6zY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 349
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQEBSrG02Fr2cQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "paulien-van-rijckevorsel",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1678378728011?e=1707955200&v=beta&t=8RHvf_G-nlUAFgCgKymglT4jMgQUftLeb02kplNml4Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1678378728011?e=1707955200&v=beta&t=CFh-g_zH0kmi0pkZWB9pxvPSdZZnPP7Bo72tID-_GD4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1678378728011?e=1707955200&v=beta&t=MaDIDwZLfSD6x5KQEwqq06_u3uqM6aywWo_vxIMu2rE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1678378728011?e=1707955200&v=beta&t=PQV6sUHV17b7y2uWUkYjYo3UOztgh17trrOyGLtw1KM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQFOaj6PBDhojQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "6lnjsiSIQNaBOpVhm+vNUQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1028660398,1)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E"
+                },
+                {
+                    "member": {
+                        "firstName": "amy",
+                        "lastName": "bessem",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABZxofIBpIjlUXWV3_NrClBD5_djutPvcIg",
+                        "occupation": "junior lifestyle professional; concept development & trendwatching.",
+                        "objectUrn": "urn:li:member:376545778",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABZxofIBpIjlUXWV3_NrClBD5_djutPvcIg",
+                        "publicIdentifier": "amy-bessem-52a130a6",
+                        "trackingId": "ScIg024yTWa/J9Go7d72tQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1028660398,2)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABZxofIBpIjlUXWV3_NrClBD5_djutPvcIg"
+                },
+                {
+                    "member": {
+                        "firstName": "Lisanne",
+                        "lastName": "Jacobs",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABx3QwgBfAEjbM1ADzOGLE_QteMxmK1svn4",
+                        "occupation": "International Lifestyle Studies | Fontys Hogeschool Tilburg | Trend Research & Concept Development",
+                        "objectUrn": "urn:li:member:477577992",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABx3QwgBfAEjbM1ADzOGLE_QteMxmK1svn4",
+                        "publicIdentifier": "lisanne-jacobs-1a0b34113",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517285755511?e=1707955200&v=beta&t=B94qVKtHc_x2kRNBaLqjFsxgJtp1UHFdBA-hLXoyrfw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517285755601?e=1707955200&v=beta&t=GRHwIGOjDXB98RiAktWJvoWoXWx7wv2KElUCybWDaBI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517285755601?e=1707955200&v=beta&t=iFAPTPlH3dKbnYjTdQ6QEDHvpAjuKh51UcYe_JEgatc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517285755520?e=1707955200&v=beta&t=ArVw-yun0ikWo1FZSQwgOUuDeCMIlihZPrRIUOQLIA8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5103AQGFTmMgOvbOXA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "AyRhiYfUTSyBLLw1AuY5WA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1028660398,3)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABx3QwgBfAEjbM1ADzOGLE_QteMxmK1svn4"
+                },
+                {
+                    "member": {
+                        "firstName": "Lydia",
+                        "lastName": "van der Made",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABEDPowBodiJKWKx2rNUTsWwqi5u9TCPbUA",
+                        "occupation": "Third Floor & Online Communication at Design Museum Den Bosch | Board Member at De Fabriek",
+                        "objectUrn": "urn:li:member:285425292",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABEDPowBodiJKWKx2rNUTsWwqi5u9TCPbUA",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1687952810155?e=1707955200&v=beta&t=hor-0ZOZejGdvFYU0UROHXY4nTalccZ0t92cyQ_iR2Q",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1687952810156?e=1707955200&v=beta&t=prE2KvqqnyOnEomjKLmimsj8t_SvsRH3aRqHhC74WrY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQFjb-fEQ52uOw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "lydiavandermade",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1654676166862?e=1707955200&v=beta&t=i61AM7vDVMVbN1e6ut2OJ7oh13dHBVsqUAUe3UJJ6Gg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1654676166862?e=1707955200&v=beta&t=vOdYosQm1-hjKqNiXNi2MYTcu7oAneQhH0kc2Q5QYes",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1654676166862?e=1707955200&v=beta&t=vCatGVF2xfQCFw0-dBvSboZCtIdK_Qqp1mluIPyD_RE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 600,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1654676166862?e=1707955200&v=beta&t=3vBMlIgkZC7VNemm1jUHVlaAOTuUy0Jt29AuPNdG9vs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 600
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQFfcEkXeGNjrA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "DPB9Q35tR1qYaH90oJfwAQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1028660398,4)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABEDPowBodiJKWKx2rNUTsWwqi5u9TCPbUA"
+                },
+                {
+                    "member": {
+                        "firstName": "Marysa",
+                        "lastName": "Vos",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABWhD-MBovG9XM7nxgjUp1UYhG5JQVn3GdQ",
+                        "occupation": "Strategic thinker and futures enthusiast | Freelancer & owner of FutureBase ⚡️",
+                        "objectUrn": "urn:li:member:362876899",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABWhD-MBovG9XM7nxgjUp1UYhG5JQVn3GdQ",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1616514492119?e=1707955200&v=beta&t=4XZugvOfokmzRaOxUZ27ktOabThbjhc6uafG0FCMXk4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1616514492119?e=1707955200&v=beta&t=62yIuy6Oxy8hAei8OK6ME8UM98kkIbk0NTldLKx6L-A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQEkG6sGriCvxg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "marysa-vos",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1640099267443?e=1707955200&v=beta&t=xZyFx_egLej-AuvaW5qPfku5BjJrB2MFEZ-iFYgfjN4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1640099267443?e=1707955200&v=beta&t=QXY-s_n-J0OFzGhmNmj96DdWhX0kD7Mj0juiI3A52-0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1640099267443?e=1707955200&v=beta&t=kA84PjErN9SArMgZJnUxemnmaN0cvahlC7TJxnsFklo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1640099267443?e=1707955200&v=beta&t=AWICt67Uzz-jyMjcvrRrmoF0O-fK-Pis6_XLjhXKNFc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQElFjoVcJp0Tg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "NV0/vDJ/QoO/gcVFu2njKA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1028660398,5)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABWhD-MBovG9XM7nxgjUp1UYhG5JQVn3GdQ"
+                },
+                {
+                    "member": {
+                        "firstName": "Jaap",
+                        "lastName": "Meijers",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABX9GLUBHxtiMu4JBZhyKCV9vYZhBs1vLkE",
+                        "occupation": "Design & adoption at 1uur.nu",
+                        "objectUrn": "urn:li:member:368908469",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABX9GLUBHxtiMu4JBZhyKCV9vYZhBs1vLkE",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1660034894318?e=1707955200&v=beta&t=EDlGZvx95ulzjqX7YnNZ1vQzLZBgiE7tcAg1iXCJLC4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1660034894318?e=1707955200&v=beta&t=mEtG8cutwjls6KDFhMVGmawYcBInEaTLULhh_54VNBA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQEpRATUpnIIMA/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "jaap-meijers-845668a3",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1660034980759?e=1707955200&v=beta&t=RaWDHSjAEoYHHPrDg6vdUtgWyQy0jhyXRkHYR-wXXsI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1660034980759?e=1707955200&v=beta&t=-F7P3CjMp73SRExHggZeTPx8HToeQLrHECXziS9lH84",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1660034980759?e=1707955200&v=beta&t=TlO8_EG1CGoQkNgbZDyivYWnPYwEeQSvwaJ-ZJizG68",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1660034980759?e=1707955200&v=beta&t=WrNbvs6stmEM_Yn_VfYL_P0qZBdPsA-8NNVjSqu7vCA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQFmHUMQFkHqKA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "bvZh/p4uTRSBJekeCDJ30A=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1028660398,6)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABX9GLUBHxtiMu4JBZhyKCV9vYZhBs1vLkE"
+                },
+                {
+                    "member": {
+                        "firstName": "Lisa",
+                        "lastName": "Wife",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAA6UOicB6JF3wLz8tYycaDFJzdDdh_zB7jw",
+                        "occupation": "Palmette Den Haag",
+                        "objectUrn": "urn:li:member:244595239",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAA6UOicB6JF3wLz8tYycaDFJzdDdh_zB7jw",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 600,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517437716737?e=1707955200&v=beta&t=NYhX_Dupe1UdBBsjJoPwQCAyDdmUnzvzhYpQyRjTsEM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 150
+                                    },
+                                    {
+                                        "width": 600,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517437716722?e=1707955200&v=beta&t=aGDhLezddLM0tVSffa5ERzihm5iGT_1S7y7Q6QIIlHQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 150
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5616AQFdMnvE0CXUdg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "lisawife",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517437716283?e=1707955200&v=beta&t=2n-crU4wMuJvidAsMdWvDZS3qeh7kHTG0KeZzUhCqOA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517437716206?e=1707955200&v=beta&t=yWtRQqK_y2lqMGjBmF0CNECOa8r3TEbaVDWCDr0h8Q8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517437716319?e=1707955200&v=beta&t=Xt4HgN7oa6uFcEULPpKj-GWbnhajEurNq-1j3BegoLc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 405,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517437716309?e=1707955200&v=beta&t=F_yqCCWjQjpq5AwfLXEfzLA0IPBFFMLlf6oViTOoVGA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 405
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQFB7KyhT8MCRQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "NPfYlHQKQaOZsEBUPDz8Qw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1028660398,7)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAA6UOicB6JF3wLz8tYycaDFJzdDdh_zB7jw"
+                },
+                {
+                    "member": {
+                        "firstName": "Joost",
+                        "lastName": "Stegeman",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAmIHbEBZpJZdgf-0Y0jwlBiNUh5gvlZRUM",
+                        "occupation": "QA Tester at Rituals",
+                        "objectUrn": "urn:li:member:159915441",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAmIHbEBZpJZdgf-0Y0jwlBiNUh5gvlZRUM",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517405429412?e=1707955200&v=beta&t=Cae90ASDdIlUYEFLGzzIY4B13QEZ89rwuS8h3XTCVps",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517405429592?e=1707955200&v=beta&t=u7WF4wv6BaqwAT76xm84A5_w0Xs5TmikJhEHfoe0TZM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5616AQHyQCyYXxAUTw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "joost-stegeman-7a967b45",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1680169866043?e=1707955200&v=beta&t=LvL4bWnJ0DQy2Foji2LxRLCm7tq1p46Qq5F8RkYtMGQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1680169866043?e=1707955200&v=beta&t=CFvaC0ua3G7FmXpn5TdQcNGejce6k2SCYgUprfpTCCI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1680169866043?e=1707955200&v=beta&t=5xDzyA0ks6O0v2pamI-JXhrle0F75BSOXVUMTEO6RMk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1680169866043?e=1707955200&v=beta&t=OIyMtJYYI3S9Mbvv-vuhv3nCfJTJm4xaStzemECDGtU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQE08PhNTSH89A/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "8bR/RUm0RjO3JKQShPgORQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1028660398,8)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAmIHbEBZpJZdgf-0Y0jwlBiNUh5gvlZRUM"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "description": "Created a trend book with a group of nine young trendwatchers and gave trend lectures at world’s largest consumer goods fair. We reported on our Ambiente activities through our social media channels and website. \n",
+            "title": "Ambiente, consumer goods fair",
+            "url": "http://www.ambientetrends.com"
+        },
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Paulien",
+                        "lastName": "van Rijckevorsel",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E",
+                        "occupation": "Digital Product Design @HEMA",
+                        "objectUrn": "urn:li:member:436040870",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1691159168430?e=1707955200&v=beta&t=IRv-Yup9Q7dZTI7Bs_VjB3hmpmXQM51Tbu_dUDfBhEg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 199
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1691159168430?e=1707955200&v=beta&t=al6h-80EhLzt1Zy3h680pxZprxlAu-zHEC5fK7JD6zY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 349
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQEBSrG02Fr2cQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "paulien-van-rijckevorsel",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1678378728011?e=1707955200&v=beta&t=8RHvf_G-nlUAFgCgKymglT4jMgQUftLeb02kplNml4Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1678378728011?e=1707955200&v=beta&t=CFh-g_zH0kmi0pkZWB9pxvPSdZZnPP7Bo72tID-_GD4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1678378728011?e=1707955200&v=beta&t=MaDIDwZLfSD6x5KQEwqq06_u3uqM6aywWo_vxIMu2rE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1678378728011?e=1707955200&v=beta&t=PQV6sUHV17b7y2uWUkYjYo3UOztgh17trrOyGLtw1KM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQFOaj6PBDhojQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "6lnjsiSIQNaBOpVhm+vNUQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1203360008,1)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E"
+                },
+                {
+                    "member": {
+                        "firstName": "Joost",
+                        "lastName": "Stegeman",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAmIHbEBZpJZdgf-0Y0jwlBiNUh5gvlZRUM",
+                        "occupation": "QA Tester at Rituals",
+                        "objectUrn": "urn:li:member:159915441",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAmIHbEBZpJZdgf-0Y0jwlBiNUh5gvlZRUM",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517405429412?e=1707955200&v=beta&t=Cae90ASDdIlUYEFLGzzIY4B13QEZ89rwuS8h3XTCVps",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517405429592?e=1707955200&v=beta&t=u7WF4wv6BaqwAT76xm84A5_w0Xs5TmikJhEHfoe0TZM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5616AQHyQCyYXxAUTw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "joost-stegeman-7a967b45",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1680169866043?e=1707955200&v=beta&t=LvL4bWnJ0DQy2Foji2LxRLCm7tq1p46Qq5F8RkYtMGQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1680169866043?e=1707955200&v=beta&t=CFvaC0ua3G7FmXpn5TdQcNGejce6k2SCYgUprfpTCCI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1680169866043?e=1707955200&v=beta&t=5xDzyA0ks6O0v2pamI-JXhrle0F75BSOXVUMTEO6RMk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1680169866043?e=1707955200&v=beta&t=OIyMtJYYI3S9Mbvv-vuhv3nCfJTJm4xaStzemECDGtU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQE08PhNTSH89A/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "8bR/RUm0RjO3JKQShPgORQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1203360008,3)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAmIHbEBZpJZdgf-0Y0jwlBiNUh5gvlZRUM"
+                },
+                {
+                    "member": {
+                        "firstName": "Marysa",
+                        "lastName": "Vos",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABWhD-MBovG9XM7nxgjUp1UYhG5JQVn3GdQ",
+                        "occupation": "Strategic thinker and futures enthusiast | Freelancer & owner of FutureBase ⚡️",
+                        "objectUrn": "urn:li:member:362876899",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABWhD-MBovG9XM7nxgjUp1UYhG5JQVn3GdQ",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1616514492119?e=1707955200&v=beta&t=4XZugvOfokmzRaOxUZ27ktOabThbjhc6uafG0FCMXk4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1616514492119?e=1707955200&v=beta&t=62yIuy6Oxy8hAei8OK6ME8UM98kkIbk0NTldLKx6L-A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQEkG6sGriCvxg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "marysa-vos",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1640099267443?e=1707955200&v=beta&t=xZyFx_egLej-AuvaW5qPfku5BjJrB2MFEZ-iFYgfjN4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1640099267443?e=1707955200&v=beta&t=QXY-s_n-J0OFzGhmNmj96DdWhX0kD7Mj0juiI3A52-0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1640099267443?e=1707955200&v=beta&t=kA84PjErN9SArMgZJnUxemnmaN0cvahlC7TJxnsFklo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1640099267443?e=1707955200&v=beta&t=AWICt67Uzz-jyMjcvrRrmoF0O-fK-Pis6_XLjhXKNFc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQElFjoVcJp0Tg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "NV0/vDJ/QoO/gcVFu2njKA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABn9dKYBweU2PIg-4TpTCCJsg4NnNlKAH7E,1203360008,2)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABWhD-MBovG9XM7nxgjUp1UYhG5JQVn3GdQ"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            },
+            "description": "Create a Trend Report book consisting of four current trends with a team of twelve junior trendwatchers. The report was presented during Dutch Design Week 2015, where we gave daily trend lectures to visitors. We reported on our activities through our social media channels and website. \n",
+            "title": "Dutch Design Week"
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "industryName": "Management Consulting",
+    "lastName": "van der Enden",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 2,
+        "day": 21
+    },
+    "industryUrn": "urn:li:fs_industry:11",
+    "firstName": "Ian",
+    "entityUrn": "urn:li:fs_profile:ACoAAANaxtYB6F0tAKZ2qG37MZz_dE2fLnIBMog",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103933617"
+    },
+    "geoLocationName": "’s-Hertogenbosch, North Brabant",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Beschikbaar | HR | Recruitment | Coaching | Interim ",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQEuGrE_vov_aw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1593626155258?e=1707955200&v=beta&t=Qvjmn7AH3feaaDU7KGjs0guETjU-BXS_nzXUkc1sTbY",
+    "img_200_200": "200_200/0/1593626155258?e=1707955200&v=beta&t=-7RtC7sjRTvbnnwLSsT0EJJsDRR1CwOBYy3bw1ZTuq8",
+    "img_400_400": "400_400/0/1593626155258?e=1707955200&v=beta&t=Rk9xlGBev1Opqw-rsWzXb_8C9o0D9vnWCW4FtR5CrCY",
+    "img_800_800": "800_800/0/1593626155258?e=1707955200&v=beta&t=b3qQhyIX4YtQ9SLBeH_pn78x5DHdwpZlLCt_ChYsk4I",
+    "profile_id": "ACoAAANaxtYB6F0tAKZ2qG37MZz_dE2fLnIBMog",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAANaxtYB6F0tAKZ2qG37MZz_dE2fLnIBMog",
+    "member_urn": "urn:li:member:56280790",
+    "public_id": "ianvanderenden",
+    "experience": [
+        {
+            "locationName": "s-Hertogenbosch",
+            "entityUrn": "urn:li:fs_position:(ACoAAANaxtYB6F0tAKZ2qG37MZz_dE2fLnIBMog,1409262332)",
+            "geoLocationName": "s-Hertogenbosch",
+            "companyName": "VDE",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "description": "• Interim recruitment: Software | IT | Engineering | Data | Finance | Strategy | Executive  \n• Recruitment process optimization \n• Coaching & training of recruitment– and sales professionals \n• Supplier management",
+            "title": "Founder"
+        },
+        {
+            "locationName": "Veghel, Noord-Brabant, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAANaxtYB6F0tAKZ2qG37MZz_dE2fLnIBMog,2206939782)",
+            "geoLocationName": "Veghel, Noord-Brabant, Nederland",
+            "geoUrn": "urn:li:fs_geo:103956343",
+            "companyName": "Jumbo Supermarkten",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "description": "Finance, Procurement, Data ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Talent Acquisition a.i. ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:27641",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHhEIWiva3_1g/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAANaxtYB6F0tAKZ2qG37MZz_dE2fLnIBMog,1909478581)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "description": "Data, Strategy, New Infra, HR",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Talent Acquisition a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "s-Hertogenbosch",
+            "entityUrn": "urn:li:fs_position:(ACoAAANaxtYB6F0tAKZ2qG37MZz_dE2fLnIBMog,1513950012)",
+            "geoLocationName": "s-Hertogenbosch",
+            "companyName": "Essent",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "description": "• End–to–end recruitment including (digital) onboarding. \n• Monthly physical onboarding lead for new employees. \n• Talent acquisition w/ focus on (Digital) Marketing, Data, CX, Strategy, HR and Executive level–positions. \n• Supplier management: optimizing supplier landscape, developing sourcing strategies, contract management.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Recruitment Business Partner (a.i.)",
+            "companyUrn": "urn:li:fs_miniCompany:2854",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGTwruSnR099Q/company-logo_"
+        },
+        {
+            "locationName": "s-Hertogenbosch",
+            "entityUrn": "urn:li:fs_position:(ACoAAANaxtYB6F0tAKZ2qG37MZz_dE2fLnIBMog,1310564216)",
+            "geoLocationName": "s-Hertogenbosch",
+            "companyName": "Malmberg",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "description": "End–to–end recruitment w/ focus on Frontend–/ Java Developers, Test Automation Engineers, Software Architects, Data Scientists, Cloud Engineers.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Publishing"
+                ]
+            },
+            "title": "Corporate IT Recruiter a.i. ",
+            "companyUrn": "urn:li:fs_miniCompany:15478",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEO3oCH0Ciy_Q/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAANaxtYB6F0tAKZ2qG37MZz_dE2fLnIBMog,39785115)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "schoolName": "Fontys University of Applied Science",
+            "fieldOfStudy": "International Business Consultancy"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAANaxtYB6F0tAKZ2qG37MZz_dE2fLnIBMog,39067097)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "schoolName": "Fontys University of Applied Science",
+            "fieldOfStudy": "Management, Economics and Law"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAANaxtYB6F0tAKZ2qG37MZz_dE2fLnIBMog,43481880)",
+            "degreeName": "6 Sigma Green Belt",
+            "schoolName": "Caterpillar University"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

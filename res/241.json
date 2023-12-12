@@ -1,0 +1,215 @@
+{
+    "summary": "With my curious and proactive nature, I look forward to challenges and bring a think-out-of-the-box approach. I am looking for a dynamic work environment where I can collaborate with others and make a valuable contribution through my problem-solving skills. \n",
+    "industryName": "Transportation/Trucking/Railroad",
+    "lastName": "Girstmair",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 2,
+        "day": 6
+    },
+    "industryUrn": "urn:li:fs_industry:92",
+    "firstName": "Lisa",
+    "entityUrn": "urn:li:fs_profile:ACoAACeOOXgBbUC0GOkCoxfWR2QwmH1xPfUv1Mc",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102434816"
+    },
+    "geoLocationName": "Utrecht, Utrecht",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Buying Professional ",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQGSueXkpiHk_Q/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1693166985141?e=1707955200&v=beta&t=InEQs4wQk2qy51kxvsqHJf4r93wUCGqTDkdQpLTm5Ws",
+    "img_200_200": "200_200/0/1693166985141?e=1707955200&v=beta&t=KWNqvKvmAvTpAlHy9v6wJhxMXm2iOwoN8X1ho-EThrM",
+    "img_400_400": "400_400/0/1693166985141?e=1707955200&v=beta&t=dCGK2n5ahNBq7UlfKXhIJpPpNipUkUyEVbeCcp5JlOg",
+    "img_778_778": "800_800/0/1693166985141?e=1707955200&v=beta&t=CiiH4qzgwCOErnWnuJhNwg7CYi5rQxH9lQOBMVSfqM8",
+    "profile_id": "ACoAACeOOXgBbUC0GOkCoxfWR2QwmH1xPfUv1Mc",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACeOOXgBbUC0GOkCoxfWR2QwmH1xPfUv1Mc",
+    "member_urn": "urn:li:member:663632248",
+    "public_id": "lisa-girstmair-5342ba166",
+    "experience": [
+        {
+            "locationName": "The Hague, South Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACeOOXgBbUC0GOkCoxfWR2QwmH1xPfUv1Mc,2263375305)",
+            "geoLocationName": "The Hague, South Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102685993",
+            "companyName": "Siemens Nederland N.V.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "industries": [
+                    "Utilities"
+                ]
+            },
+            "title": "Buying Professional",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:61770291"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACeOOXgBbUC0GOkCoxfWR2QwmH1xPfUv1Mc,2049648180)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Expereo",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "description": "Expereo is a global provider of managed internet, SD-WAN/SASE, and Cloud connectivity. I am Supplier Manager for Austria, Germany, Poland, Hungary, Slovakia, and Czech Republic.\n\nDaily tasks:\n•\tProcured telecom services from local suppliers for daily quotes and customer projects\n•\tNegotiated buying prices, updated product portfolio and price list, contributed to cost reduction (renewal project), and ensured good margins for Expereo\n•\tDeveloped strategies for provider engagement, onboarding new suppliers, and nurturing relationships with existing ones\n•\tCollaborated closely with Service Delivery, Customer Success, Sales, and Finance departments\n•\tSupported other departments with additional services/solutions and special commercial conditions from providers\n•\tReviewed operational and commercial performance of providers\n•\tImplemented workflow automation processes and created guidelines for efficiency\n•\tConducted research on the telecom market in the regions and analyzed benchmarks\n•\tReviewed and negotiated drafts of Master Service Agreements and terms & conditions with \n        suppliers\n\nCommunication skills – Relationship building - Negotiation skills - Time Management - Critical Thinking – Problem Solving – Conflict Resolution - Contract management  - Financial Acumen - Strategic thinking - Market Research – Adaptability – Cross functional Collaboration – Ethical conduct - Business Acumen - Analytical Skills",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Supplier Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:89893",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHQFyP7vO1RxA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACeOOXgBbUC0GOkCoxfWR2QwmH1xPfUv1Mc,1876673952)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Adams Multilingual Recruitment",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "description": "Adams Multilingual Recruitment is specialized in matching multilingual and near-native English speakers with job opportunities in the Netherlands for more than 20 years. As a Sourcer, my main responsibility is to assist our recruitment consultants by sourcing and identifying candidates for their different roles. In addition, I am working on sourcing and reaching out to candidates on different job boards, the screening of CVs, and holding interviews with candidates by phone or face-to-face.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Recruiter",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:72268",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGH5qbX8G6U2w/company-logo_"
+        },
+        {
+            "locationName": "Wien, Österreich",
+            "entityUrn": "urn:li:fs_position:(ACoAACeOOXgBbUC0GOkCoxfWR2QwmH1xPfUv1Mc,1641114374)",
+            "geoLocationName": "Wien, Österreich",
+            "geoUrn": "urn:li:fs_geo:107144641",
+            "companyName": "Oesterreichische Nationalbank",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "description": "At the OeNB I worked on two projects. The first project concerned Process Management Treasury (PROMT). At PROMT I was responsible for creating additional process documentation in the BIC Cloud (GBTEC). Furthermore, I was supporting the development of an event database in terms of quality management, as well as organizing and conducting interviews with experts of the Treasury department. Moreover, the database maintenance, and the support during meetings were also part of my internship.\nThe second project concerned the Eurosystem Collateral Management System (ECMS) where we supported local banks in Austria with the implementation of the ECMS by organizing workshops and distributing information.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": " Intern at the Treasury department – Back Office",
+            "region": "urn:li:fs_region:(at,0)",
+            "companyUrn": "urn:li:fs_miniCompany:56448",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQF6bzmUYc97hQ/company-logo_"
+        },
+        {
+            "locationName": "Wien, Österreich",
+            "entityUrn": "urn:li:fs_position:(ACoAACeOOXgBbUC0GOkCoxfWR2QwmH1xPfUv1Mc,1689562526)",
+            "geoLocationName": "Wien, Österreich",
+            "geoUrn": "urn:li:fs_geo:107144641",
+            "companyName": "Münze Österreich AG",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "description": "Temporary position of 2 months as an advisor for customers at the gold department of the Austrian Mint.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Luxury Goods & Jewelry"
+                ]
+            },
+            "title": "Sales and consulting employee",
+            "region": "urn:li:fs_region:(at,0)",
+            "companyUrn": "urn:li:fs_miniCompany:28553315",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHT2RDw7iVwyw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACeOOXgBbUC0GOkCoxfWR2QwmH1xPfUv1Mc,539350017)",
+            "school": {
+                "objectUrn": "urn:li:school:10213",
+                "entityUrn": "urn:li:fs_miniSchool:10213",
+                "active": true,
+                "schoolName": "University of Vienna",
+                "trackingId": "qi5Qp0UuRXClGhzZXe6rRg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG7cnh-00AOEg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "schoolName": "Universität Wien",
+            "fieldOfStudy": "Internationale Betriebswirtschaft",
+            "schoolUrn": "urn:li:fs_miniSchool:10213"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

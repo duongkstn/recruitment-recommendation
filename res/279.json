@@ -1,0 +1,296 @@
+{
+    "summary": "Result driven, energetic, flexible, business professional with solid category management and procurement background. Strong analytical skills. Able to work under pressure, and deliver consistent results.",
+    "industryName": "Consumer Goods",
+    "lastName": "Lengyel",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:25",
+    "firstName": "Aniko",
+    "entityUrn": "urn:li:fs_profile:ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102738045"
+    },
+    "geoLocationName": "Panningen, Limburg",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Category Management & Procurement Executive a.i.",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQH4iW8ka0el9w/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1627283730887?e=1707955200&v=beta&t=tbWSwbhndIcaY7DpjM2sQXXzsQEJATFd9gbx2hgtIJM",
+    "img_200_200": "200_200/0/1627283730887?e=1707955200&v=beta&t=Kt00q808wPOn2-uhytrfKMXQD8UOSw73xgnRXyK0RTc",
+    "img_256_256": "800_800/0/1627283730887?e=1707955200&v=beta&t=GyIXICVrhfg3zTbg-3kQCcXHPQdEbN370M5_GoxAKes",
+    "profile_id": "ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac",
+    "member_urn": "urn:li:member:172674398",
+    "public_id": "anikolender",
+    "experience": [
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac,2238622798)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Category Manager Personal Care & Health Products",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Venlo, Limburg, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac,1933093990)",
+            "geoLocationName": "Venlo, Limburg, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100837545",
+            "companyName": "vidaXL",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "description": "Responsible for buying sanitair & plumbing products, pet supplies, household products, baby & toddler products, toys & games, health & beauty products and office supplies.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Buyer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:823465",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFjpWaCC2HinA/company-logo_"
+        },
+        {
+            "locationName": "Heerlen, Limburg, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac,1864685783)",
+            "geoLocationName": "Heerlen, Limburg, Netherlands",
+            "geoUrn": "urn:li:fs_geo:104593743",
+            "companyName": "KEMBIT",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Stagiaire/Intern Business Analytics (Power BI)",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:26513",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFyA2RwPLlYiA/company-logo_"
+        },
+        {
+            "locationName": "Eindhoven Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac,660132611)",
+            "geoLocationName": "Eindhoven Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009710",
+            "companyName": "Daymon Worldwide",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Business Manager",
+            "region": "urn:li:fs_region:(nl,5668)",
+            "companyUrn": "urn:li:fs_miniCompany:163373",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQH8na3j0qsWMA/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac,15)",
+                "urn:li:fs_course:(ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac,16)"
+            ],
+            "locationName": "Venlo, The Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac,264674855)",
+            "geoLocationName": "Venlo, The Netherlands",
+            "companyName": "Daymon Worldwide",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2009
+                }
+            },
+            "description": "Responsible for Own Brand Product Marketing in Paper, Filing and Archiving sections within Office Depot Europe. Understand and define roles of the different classes within the above mentioned categories in the different channels (contract, direct and retail). Develop Private Label items. Product lifecycle management. Category analysis. Touchpoint planning. People Management.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Business Manager",
+            "companyUrn": "urn:li:fs_miniCompany:163373",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQH8na3j0qsWMA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac,729898790)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2021
+                }
+            },
+            "schoolName": "GradeMatch",
+            "fieldOfStudy": "Business Intelligence"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac,102551017)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            },
+            "degreeName": "Bachelor of Business Administration (BBA)",
+            "schoolName": "Budapest Business School, College of International Management and Business",
+            "fieldOfStudy": "Stock Exchange and Financial Institutions"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAApKzV4B60FSyUuFK_4V1uKJuK7o-vCIuac,102551245)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            },
+            "degreeName": "Bachelor of Arts (BA)",
+            "schoolName": "University of West Hungary, Savaria Campus, BDF",
+            "fieldOfStudy": "English/Language Arts Teacher Education"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Hungarian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "EXIN",
+            "name": "EXIN Agile Scrum Foundation",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:24063",
+                "entityUrn": "urn:li:fs_miniCompany:24063",
+                "name": "EXIN",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1656919652964/exin_logo?e=1710374400&v=beta&t=qzStmjWIKFIU8Bse8AuCX-qWKwODrP350vkmZEIgqOA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1656919652964/exin_logo?e=1710374400&v=beta&t=k5cqdY5pkk6G95NX6sSMaqPUYGryhcdJkWJmEBASdv4",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1656919652964/exin_logo?e=1710374400&v=beta&t=XRM1VJ-bGDPBa47tH1rJs4DUPn0QoTWrWF8ePCm0Vwg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFi8TgZbeVOXw/company-logo_"
+                    }
+                },
+                "universalName": "exin",
+                "dashCompanyUrn": "urn:li:fsd_company:24063",
+                "trackingId": "BDCmLkhWR3+VjMXn2fX+lw=="
+            },
+            "displaySource": "exeed.pro",
+            "companyUrn": "urn:li:fs_miniCompany:24063",
+            "url": "https://app.exeed.pro/badge/87592"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,302 @@
+{
+    "summary": "Experienced Lawyer with a demonstrated history of working in the legal services industry. Skilled in Contract Law, Dutch, Legal Assistance, Coaching & Mentoring, and Legal Advice. Strong legal professional with a Master of law focused in Bijzondere overeenkomsten from Radboud University. ",
+    "industryName": "Law Practice",
+    "lastName": "Nortier",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:9",
+    "firstName": "Lodewijk",
+    "entityUrn": "urn:li:fs_profile:ACoAAADbMrUB8XcV6gU7zO7wJVs2IzjoZtJ9pCQ",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:107326260"
+    },
+    "geoLocationName": "Scheveningen, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Veelzijdige,praktische jurist met een passie voor sport",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQG6Kxz2TKi11Q/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1696088067174?e=1702972800&v=beta&t=dbEQqtL0KZAkpLVczlYaWKsRk6MV6NWIYRvHhg9kBeo",
+    "img_200_200": "200_200/0/1696088067174?e=1702972800&v=beta&t=z-dDQn893XmIL506UAPoPxP0k2-yKHaJFGHUTsT4Og4",
+    "img_800_800": "800_800/0/1696088067174?e=1702972800&v=beta&t=1EoI41kejEAJbIPGapNRC8wihXpCOaZ3psg4hDvaqUo",
+    "img_100_100": "100_100/0/1696088067174?e=1702972800&v=beta&t=A_R1JgHFJVABxML8cwivXnK5D947qbtcCmRTTJMNSyw",
+    "profile_id": "ACoAAADbMrUB8XcV6gU7zO7wJVs2IzjoZtJ9pCQ",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAADbMrUB8XcV6gU7zO7wJVs2IzjoZtJ9pCQ",
+    "member_urn": "urn:li:member:14365365",
+    "public_id": "lodewijk-nortier-3599894",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAADbMrUB8XcV6gU7zO7wJVs2IzjoZtJ9pCQ,2262794811)",
+            "companyName": "Op zoek naar een nieuwe uitdaging!",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Civic & Social Organization"
+                ]
+            },
+            "title": "Jurist",
+            "companyUrn": "urn:li:fs_miniCompany:1761877"
+        },
+        {
+            "locationName": "Den Haag",
+            "entityUrn": "urn:li:fs_position:(ACoAAADbMrUB8XcV6gU7zO7wJVs2IzjoZtJ9pCQ,1487128341)",
+            "geoLocationName": "Den Haag",
+            "companyName": "ARAG Rechtsbijstand",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Law Practice"
+                ]
+            },
+            "title": "Expert Jurist",
+            "companyUrn": "urn:li:fs_miniCompany:1982726",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFRZJu7hLYBrA/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAADbMrUB8XcV6gU7zO7wJVs2IzjoZtJ9pCQ,1322014756)"
+            ],
+            "locationName": "The Hague Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "SRK Rechtsbijstand",
+            "description": "Behandelen van zaken in minnelijk traject en in procedures op het gebied van huur,koop,buren,vve en bouw\nBegeleiden van paralegal in voornamelijk huurzaken\nVoorzitter van vakgroep koop,buren,vve",
+            "title": "Jurist",
+            "companyUrn": "urn:li:fs_miniCompany:31798",
+            "entityUrn": "urn:li:fs_position:(ACoAAADbMrUB8XcV6gU7zO7wJVs2IzjoZtJ9pCQ,31378981)",
+            "geoLocationName": "The Hague Area, Netherlands",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Law Practice"
+                ]
+            },
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQH9xacrXH5XnA/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAADbMrUB8XcV6gU7zO7wJVs2IzjoZtJ9pCQ,20505621)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Bots van Ravenhorst Advocaten",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2007
+                }
+            },
+            "description": "Ondersteunen van advocaten in algemene praktijk",
+            "title": "Juridisch medewerker",
+            "region": "urn:li:fs_region:(nl,5690)"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAADbMrUB8XcV6gU7zO7wJVs2IzjoZtJ9pCQ,76355345)",
+            "school": {
+                "objectUrn": "urn:li:school:15440",
+                "entityUrn": "urn:li:fs_miniSchool:15440",
+                "active": true,
+                "schoolName": "Radboud University",
+                "trackingId": "S9aGxa8AR3eQUFRz8h/ulg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHgdni-2v0psQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            },
+            "degreeName": "Master of law",
+            "schoolName": "Radboud University",
+            "fieldOfStudy": "Bijzondere overeenkomsten",
+            "schoolUrn": "urn:li:fs_miniSchool:15440"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Coach",
+            "companyName": "NSRV Phocas",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2000
+                }
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": "Coaching coxless,women's 8,4,2,1x,head coach, daily, 2005 2 rowers to world championships under 23",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:2905406",
+                    "entityUrn": "urn:li:fs_miniCompany:2905406",
+                    "name": "NSRV Phocas",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631374869905/nsrv_phocas_logo?e=1710374400&v=beta&t=dB_t-nwLD3CcIkMgqxIp4lnNEs09x9oshKCcpMXGe4k",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631374869906/nsrv_phocas_logo?e=1710374400&v=beta&t=8bDvLnppK_5G9xVRzBNHOz2mq3Ho_NOsg17SIR61hsU",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631374869906/nsrv_phocas_logo?e=1710374400&v=beta&t=-lMQwrl_ulV6qdXI6LeUONH-QYTfWbrQYfRkR3NfzBk",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEivfFEvJhkGw/company-logo_"
+                        }
+                    },
+                    "universalName": "nsrv-phocas",
+                    "dashCompanyUrn": "urn:li:fsd_company:2905406",
+                    "trackingId": "ALjYyQ/ARYa1BE/Y5rLWxQ=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2905406"
+        },
+        {
+            "role": "Coach",
+            "companyName": "Rv de Laak",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2010
+                }
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": "Boys 14-17, 3 times a week,1 rower to world championships juniors"
+        },
+        {
+            "role": "Wedstrijdcommissaris",
+            "companyName": "NSRV Phocas",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2001
+                }
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": "Daily,organizing teams,competions,making policy for professional coaches with ex national coaches",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:2905406",
+                    "entityUrn": "urn:li:fs_miniCompany:2905406",
+                    "name": "NSRV Phocas",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631374869905/nsrv_phocas_logo?e=1710374400&v=beta&t=dB_t-nwLD3CcIkMgqxIp4lnNEs09x9oshKCcpMXGe4k",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631374869906/nsrv_phocas_logo?e=1710374400&v=beta&t=8bDvLnppK_5G9xVRzBNHOz2mq3Ho_NOsg17SIR61hsU",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631374869906/nsrv_phocas_logo?e=1710374400&v=beta&t=-lMQwrl_ulV6qdXI6LeUONH-QYTfWbrQYfRkR3NfzBk",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEivfFEvJhkGw/company-logo_"
+                        }
+                    },
+                    "universalName": "nsrv-phocas",
+                    "dashCompanyUrn": "urn:li:fsd_company:2905406",
+                    "trackingId": "JD8SIFcMTHWVUMBnDPq2nQ=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2905406"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

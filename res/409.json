@@ -1,0 +1,304 @@
+{
+    "industryName": "Retail",
+    "lastName": "Mishra",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Vishal",
+    "entityUrn": "urn:li:fs_profile:ACoAAAKhirEBt6DQkdypm3PvIICWOukT2cucIDc",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Manager Cyber Defense & Operations EU at Ahold Delhaize",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQEJlDVlTR-qAg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1627485077062?e=1707955200&v=beta&t=dgtId9uDOyDagJ91vDhvcprmBq-tJAVruzxi2wGsENs",
+    "img_200_200": "200_200/0/1627485077062?e=1707955200&v=beta&t=yyqjAHbK8lwklerOXvxvHcOSGIltSeWiC1VBqyniH3Q",
+    "img_400_400": "400_400/0/1627485077062?e=1707955200&v=beta&t=A9ip6DdTSiDy0cYDCap6vYPZCPGQk2jXr5UCGoRGoS8",
+    "img_750_750": "800_800/0/1627485077062?e=1707955200&v=beta&t=21gpC1sI-Ve6E3uGvZ9h3IZeHdKTzKV9mX6WbOH64RE",
+    "profile_id": "ACoAAAKhirEBt6DQkdypm3PvIICWOukT2cucIDc",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAKhirEBt6DQkdypm3PvIICWOukT2cucIDc",
+    "member_urn": "urn:li:member:44141233",
+    "public_id": "vishalmishra-cybersecurity",
+    "experience": [
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKhirEBt6DQkdypm3PvIICWOukT2cucIDc,1832334721)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Ahold Delhaize",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Manager Cyber Defense & Operations EU",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10877849",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHBqCTwTO_nlA/company-logo_"
+        },
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKhirEBt6DQkdypm3PvIICWOukT2cucIDc,1251961589)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "IBM",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Managing Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1009",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_"
+        },
+        {
+            "locationName": "India",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKhirEBt6DQkdypm3PvIICWOukT2cucIDc,743787886)",
+            "geoLocationName": "India",
+            "geoUrn": "urn:li:fs_geo:102713980",
+            "companyName": "IBM",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior Advisory Consultant",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1009",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_"
+        },
+        {
+            "locationName": "Gurgaon, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKhirEBt6DQkdypm3PvIICWOukT2cucIDc,526287854)",
+            "geoLocationName": "Gurgaon, India",
+            "geoUrn": "urn:li:fs_geo:100899423",
+            "companyName": "Fidelity National Information Services",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Manager Information Security",
+            "region": "urn:li:fs_region:(in,7391)",
+            "companyUrn": "urn:li:fs_miniCompany:3128",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEok08w8MNWeg/company-logo_"
+        },
+        {
+            "locationName": "Gurgaon, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKhirEBt6DQkdypm3PvIICWOukT2cucIDc,288001769)",
+            "geoLocationName": "Gurgaon, India",
+            "geoUrn": "urn:li:fs_geo:100899423",
+            "companyName": "Fidelity National Information Services",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Assistant Manager - Information Security",
+            "region": "urn:li:fs_region:(in,7391)",
+            "companyUrn": "urn:li:fs_miniCompany:3128",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEok08w8MNWeg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAKhirEBt6DQkdypm3PvIICWOukT2cucIDc,212415808)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "description": "In this global world nothing can be thought without computers and for connecting them we need large and dedicated network based on different Operating System. Post Graduate Diploma in Systems & Database Administration (PGDSDA) programme is a six months(24 weeks) programme designed to fulfill the requirement of skilled manpower in the field of Networking and related technologies especially for installation, configuration & administration of different OS & Servers.",
+            "degreeName": "Post Graduation Diploma in System & Database Administration",
+            "schoolName": "CDAC",
+            "fieldOfStudy": "Computer Systems Networking and Telecommunications"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAKhirEBt6DQkdypm3PvIICWOukT2cucIDc,46449232)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "degreeName": "Btech",
+            "schoolName": "Dehradun Institute Of Technology",
+            "fieldOfStudy": "Electronics And Communication"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "(ISC)²",
+            "name": "Certified Information Systems Security Professional (CISSP)",
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "k6GM/wspROOoHbpjhVwJAA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:26753"
+        },
+        {
+            "authority": "GIAC Certifications",
+            "name": "GIAC Certified Incident Handler (GCIH)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2025
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2279112",
+                "entityUrn": "urn:li:fs_miniCompany:2279112",
+                "name": "GIAC Certifications",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630607297722/giac_logo?e=1710374400&v=beta&t=lesZk9lzyAJtTIoyY8HEEVeW2oOpIOx2veB0pnB0RwM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630607297722/giac_logo?e=1710374400&v=beta&t=-uYUVJWZJY2pvkAOOc0eC3Be0W4p9umq16_7g8_4awI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630607297722/giac_logo?e=1710374400&v=beta&t=uUnPbDRr2EuHqLRpatIIsxj6b6_eD2g8CODAoT-2-Mc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG2G6BQacJB6w/company-logo_"
+                    }
+                },
+                "universalName": "giac",
+                "dashCompanyUrn": "urn:li:fsd_company:2279112",
+                "trackingId": "aqQKeVGbSr+r+Ia8uUAyyA=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:2279112",
+            "url": "https://www.credly.com/badges/d8db8f1b-5c22-45d0-a0a5-4ecebf0d191f?source=linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

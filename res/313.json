@@ -1,0 +1,258 @@
+{
+    "industryName": "Financial Services",
+    "lastName": "van Dijk",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:43",
+    "firstName": "Erwin",
+    "entityUrn": "urn:li:fs_profile:ACoAABkry2oBYXOe2S9adX8hXIRyVCOx7hYTOCI",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Procurement Specialist",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFmoeYju-aBxw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1670255993090?e=1707955200&v=beta&t=1Im-uoVpmYMu10xI3U6UFssXE5jxEC-72Y-I8QjBRh0",
+    "img_200_200": "200_200/0/1670255993090?e=1707955200&v=beta&t=otT2QFjeKM4iIE1N0AaGUdnttUIe_zee7IzLfUl7Wtw",
+    "img_400_400": "400_400/0/1670255993090?e=1707955200&v=beta&t=kGPFcauoXP5vjpfm1nWV9SPWwwfIHuOG3MhZ2oqMiQQ",
+    "img_800_800": "800_800/0/1670255993090?e=1707955200&v=beta&t=M3P4g08foLh9rC3YTrQMnnp8y1jTx3wCELUlMHeFFxE",
+    "profile_id": "ACoAABkry2oBYXOe2S9adX8hXIRyVCOx7hYTOCI",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABkry2oBYXOe2S9adX8hXIRyVCOx7hYTOCI",
+    "member_urn": "urn:li:member:422300522",
+    "public_id": "erwin-van-dijk-a62516b9",
+    "experience": [
+        {
+            "locationName": "Den Haag, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABkry2oBYXOe2S9adX8hXIRyVCOx7hYTOCI,2201640813)",
+            "geoLocationName": "Den Haag, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "MN",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Buyer",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:11061",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQF8lFM0rnhl_g/company-logo_"
+        },
+        {
+            "locationName": "Roelofarendsveen, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABkry2oBYXOe2S9adX8hXIRyVCOx7hYTOCI,2059178080)",
+            "geoLocationName": "Roelofarendsveen, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102690049",
+            "companyName": "OppoSuits",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "description": "OppoSuits is a Dutch apparel company that produces eye-catching clothing, namely suits, blazers, shirts, shorts, sweaters and onesies, since 2012. The clothing, which are available for men, women and boys, are great for all kinds of occasions; Christmas, Halloween, Carnaval or any other party or festival are a few examples. \n\nAs Account Manager I was the first point of contact for our European and Australian wholesale customers. This means responsible for both existing customers as generating new business. One of the main ways of generating new business was through tradeshows. I was in the lead of preparing the trade shows, but also one of the representatives on our stand in Las Vegas, Berlin and Nuremberg",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Apparel & Fashion"
+                ]
+            },
+            "title": "Account Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2984661",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGynCnXymZ9lQ/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABkry2oBYXOe2S9adX8hXIRyVCOx7hYTOCI,1925270139)",
+            "geoLocationName": "Rotterdam, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100467493",
+            "companyName": "Coolblue",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "description": "Coolblue is one of the biggest online electronics retailers of The Netherlands. As a Category Buyer I am responsible for all buying activities for Camera Accessories. It is my job to optimize sales and margin as much as possible. Together with my Product Manager we arrange different pricing strategies to do so. Furthermore, I am continuously in contact with several suppliers, such as Canon, Sony and DJI, to get the best deals possible. You could see those assortments (e.g., Gimbals, binoculars, or camera bags) all as separate projects which I have to manage and balance all together.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Consumer Electronics"
+                ]
+            },
+            "title": "Category Buyer Photo & Video",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:21302",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQH9yPq7nb89tQ/company-logo_"
+        },
+        {
+            "locationName": "Warmond, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABkry2oBYXOe2S9adX8hXIRyVCOx7hYTOCI,1697089955)",
+            "geoLocationName": "Warmond, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100282676",
+            "companyName": "Passa Sports",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "description": "Passa Sports is the biggest online sports specialist of the Benelux and with that one of the biggest online webshops in The Netherlands.\n\nPassa Sports wants to be the specialist in every specific sports that we offer. We want to have the best product range, give you the best advice with the best knowledge and of course have the best customer satisfaction accomplished with the best service. Every sport has their own specialized team who works closely together to give you the best experience possible.\n\nAs Junior Buyer for VoetbalDirect I am responsible for several big assortments such as adidas and Puma to maximize KPI's such as revenue and margin. With VoetbalDirect we have realized a growth of 72% in 2021.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Junior Buyer - VoetbalDirect",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:69235787",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGjsLcsDtOHNA/company-logo_"
+        },
+        {
+            "locationName": "Leiden",
+            "entityUrn": "urn:li:fs_position:(ACoAABkry2oBYXOe2S9adX8hXIRyVCOx7hYTOCI,1557136785)",
+            "geoLocationName": "Leiden",
+            "companyName": "Debuut Horeca",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "description": "As a barmanager I was responsible for bartenders and waiters for days I worked. Because of the many part time workers in the restaurant, I had to manage a lot of different types of persons. Besides that, I was also the first point of contact for that day.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Restaurants"
+                ]
+            },
+            "title": "Barmanager",
+            "companyUrn": "urn:li:fs_miniCompany:365208",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHhOzcbnan5Ng/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABkry2oBYXOe2S9adX8hXIRyVCOx7hYTOCI,924362579)",
+            "school": {
+                "objectUrn": "urn:li:school:3205988",
+                "entityUrn": "urn:li:fs_miniSchool:3205988",
+                "active": true,
+                "schoolName": "Nevi",
+                "trackingId": "znhJFvj6S+OZhbcFNilTIA==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQH9oiBT4tTg6Q/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "schoolName": "Nevi",
+            "fieldOfStudy": "Nevi 1 - Privaat",
+            "schoolUrn": "urn:li:fs_miniSchool:3205988"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABkry2oBYXOe2S9adX8hXIRyVCOx7hYTOCI,442686207)",
+            "school": {
+                "objectUrn": "urn:li:school:15423",
+                "entityUrn": "urn:li:fs_miniSchool:15423",
+                "active": true,
+                "schoolName": "Inholland University of Applied Sciences",
+                "trackingId": "t2cDSoDiRpOIUiNfqsFegg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQF4kRIPNGd2sw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "schoolName": "Hogeschool Inholland",
+            "fieldOfStudy": "International Media and Entertainment management",
+            "schoolUrn": "urn:li:fs_miniSchool:15423"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABkry2oBYXOe2S9adX8hXIRyVCOx7hYTOCI,281565180)",
+            "school": {
+                "objectUrn": "urn:li:school:154080",
+                "entityUrn": "urn:li:fs_miniSchool:154080",
+                "active": true,
+                "schoolName": "ROC Leiden",
+                "trackingId": "2dsaYUPYQkmV+2jg13XMQA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHTHdBGaAJ2yg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "schoolName": "ROC Leiden",
+            "fieldOfStudy": "Marketing & Communicatie",
+            "schoolUrn": "urn:li:fs_miniSchool:154080"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

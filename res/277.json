@@ -1,0 +1,654 @@
+{
+    "industryName": "Retail",
+    "lastName": "Timmers",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 3,
+        "day": 15
+    },
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Luuk",
+    "entityUrn": "urn:li:fs_profile:ACoAABqoiIQBTsqO7DDk5Xp0w3C0iLSjxcpLmKU",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104443011"
+    },
+    "geoLocationName": "Oss, North Brabant",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Inkoper/Buyer HomeCare & Non-Food bij Jumbo Supermarkten",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQEDuKGYQqr2PA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1633976892168?e=1707955200&v=beta&t=OcNx8LiUFllnsq0wTiWW66-KGqa0OiRttIN8sGEU72E",
+    "img_200_200": "200_200/0/1633976892168?e=1707955200&v=beta&t=LmHX6ZOBzdzY7GNy3Ept66_ilqtFxBk5Em8uW-EPyY4",
+    "img_400_400": "400_400/0/1633976892168?e=1707955200&v=beta&t=jX79jdqGrmirfwRTOJbdQSkEeV9BA4bZwlie6g-DBzo",
+    "img_800_800": "800_800/0/1633976892168?e=1707955200&v=beta&t=Qyvczea1i1WXSM7UGorCQTiNZXfFZDWAtQ3N0J2a4VU",
+    "profile_id": "ACoAABqoiIQBTsqO7DDk5Xp0w3C0iLSjxcpLmKU",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABqoiIQBTsqO7DDk5Xp0w3C0iLSjxcpLmKU",
+    "member_urn": "urn:li:member:447252612",
+    "public_id": "luuk-timmers-8b094a105",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABqoiIQBTsqO7DDk5Xp0w3C0iLSjxcpLmKU,1999204436)",
+            "companyName": "Jumbo Supermarkten",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Inkoper",
+            "companyUrn": "urn:li:fs_miniCompany:27641",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHhEIWiva3_1g/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABqoiIQBTsqO7DDk5Xp0w3C0iLSjxcpLmKU,1902227370)",
+            "companyName": "Jumbo Supermarkten",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Inkoper a.i. ",
+            "companyUrn": "urn:li:fs_miniCompany:27641",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHhEIWiva3_1g/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABqoiIQBTsqO7DDk5Xp0w3C0iLSjxcpLmKU,1902446813)",
+            "companyName": "Jumbo Supermarkten",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Assistent inkoop",
+            "companyUrn": "urn:li:fs_miniCompany:27641",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHhEIWiva3_1g/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABqoiIQBTsqO7DDk5Xp0w3C0iLSjxcpLmKU,1496038090)",
+            "companyName": "Jumbo Supermarkten",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Assistent inkoop La Place ",
+            "companyUrn": "urn:li:fs_miniCompany:27641",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHhEIWiva3_1g/company-logo_"
+        },
+        {
+            "locationName": "Lieshout",
+            "entityUrn": "urn:li:fs_position:(ACoAABqoiIQBTsqO7DDk5Xp0w3C0iLSjxcpLmKU,1483422747)",
+            "geoLocationName": "Lieshout",
+            "companyName": "Royal Swinkels Family Brewers",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Food & Beverages"
+                ]
+            },
+            "title": "Administratief medewerker Shopper Trade Marketing",
+            "companyUrn": "urn:li:fs_miniCompany:29021382",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHrctY_YBarAg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABqoiIQBTsqO7DDk5Xp0w3C0iLSjxcpLmKU,863250769)",
+            "school": {
+                "objectUrn": "urn:li:school:3205988",
+                "entityUrn": "urn:li:fs_miniSchool:3205988",
+                "active": true,
+                "schoolName": "Nevi",
+                "trackingId": "bYbMQ1bBTIK1w06tC1Fnag==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQH9oiBT4tTg6Q/company-logo_"
+            },
+            "degreeName": "Nevi 1 Privaat ",
+            "schoolName": "Nevi",
+            "schoolUrn": "urn:li:fs_miniSchool:3205988"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABqoiIQBTsqO7DDk5Xp0w3C0iLSjxcpLmKU,302889757)",
+            "school": {
+                "objectUrn": "urn:li:school:23151",
+                "entityUrn": "urn:li:fs_miniSchool:23151",
+                "active": true,
+                "schoolName": "Avans University of Applied Sciences",
+                "trackingId": "j+61hIz1SlGxIKZ5HQ0N+A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "schoolName": "Avans Hogeschool Den Bosch",
+            "fieldOfStudy": "Ondernemerschap en Retail Management ",
+            "schoolUrn": "urn:li:fs_miniSchool:23151"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABqoiIQBTsqO7DDk5Xp0w3C0iLSjxcpLmKU,547506522)",
+            "school": {
+                "objectUrn": "urn:li:school:14526",
+                "entityUrn": "urn:li:fs_miniSchool:14526",
+                "active": true,
+                "schoolName": "Ajou University",
+                "trackingId": "Wevs0NxeT+SwWea6oTUszw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHYa6ScWlkSXA/company-logo_"
+            },
+            "grade": "9.4",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101408",
+            "degreeName": "Minor",
+            "schoolName": "아주대학교",
+            "fieldOfStudy": "Business administration",
+            "schoolUrn": "urn:li:fs_miniSchool:14526"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Engels"
+        },
+        {
+            "name": "Nederlands"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Avans Hogeschool",
+            "name": "Propedeuse Small Business & Retail Management",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:13515",
+                "entityUrn": "urn:li:fs_miniCompany:13515",
+                "name": "Avans University of Applied Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=tLTllbKmTGSF3zMtCU59Wcz9LY8q5d--3TqLEjYLhjA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=mRzVmOTbRuMo-QDxss0hIRytQ7ijRWsm8fFnZ4B5iEg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=1wOhIjCQaQ1voOqlRmad5sxBHDXsLyKl7HLBKf2SvF0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+                    }
+                },
+                "universalName": "avans-hogeschool",
+                "dashCompanyUrn": "urn:li:fsd_company:13515",
+                "trackingId": "apGdo8GzS1SXGGhuOtU++w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:13515"
+        },
+        {
+            "authority": "Medprevent B.V.",
+            "name": "Bedrijfshulpverlening (BHV)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:888245",
+                "entityUrn": "urn:li:fs_miniCompany:888245",
+                "name": "Medprevent",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1670249472086/medprevent_logo?e=1710374400&v=beta&t=RgH-dzHZD5VYmESGQQ6bFgoPoAlTdrLM9dKra6l_q54",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1670249472086/medprevent_logo?e=1710374400&v=beta&t=YpOdmbi0mQQwg1K5rwBGzXYwj0u3tikQ-X2VzZg9vqg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1670249472086/medprevent_logo?e=1710374400&v=beta&t=FwhtZj1uNxUQh9AwO8bIQ0sVZ-QDZ-15wjKYbX7IJiA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQGOoGu3ZITleg/company-logo_"
+                    }
+                },
+                "universalName": "medprevent",
+                "dashCompanyUrn": "urn:li:fsd_company:888245",
+                "trackingId": "MxzgWP35TKmu1JIeM22Waw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:888245"
+        },
+        {
+            "authority": "SVH (Stichting Vakbekwaamheid Horeca)",
+            "name": "Sociale Hygiëne Slijters",
+            "company": {
+                "objectUrn": "urn:li:company:1329893",
+                "entityUrn": "urn:li:fs_miniCompany:1329893",
+                "name": "SVH",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1691397945317/svh_logo?e=1710374400&v=beta&t=x1UOGpr3Le4IYl4cWS43AEiQ10tQTc7XDeg_Cv5VbSo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1691397945317/svh_logo?e=1710374400&v=beta&t=vq4d9m7CYFR1AXevW8Q1YgUwN0LWt1K0PJYNlLNCKoI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1691397945317/svh_logo?e=1710374400&v=beta&t=wDq3gpndlWGZTsSug9yAtec8H5FoihGTk-dtnQ6flcw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEHZaXvlXiwtA/company-logo_"
+                    }
+                },
+                "universalName": "svh",
+                "dashCompanyUrn": "urn:li:fsd_company:1329893",
+                "trackingId": "+Ly4ySHbQ4qi/wfEnzBdbg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1329893"
+        },
+        {
+            "authority": "Avans Hogeschool",
+            "name": "Peertutor",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:13515",
+                "entityUrn": "urn:li:fs_miniCompany:13515",
+                "name": "Avans University of Applied Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=tLTllbKmTGSF3zMtCU59Wcz9LY8q5d--3TqLEjYLhjA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=mRzVmOTbRuMo-QDxss0hIRytQ7ijRWsm8fFnZ4B5iEg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=1wOhIjCQaQ1voOqlRmad5sxBHDXsLyKl7HLBKf2SvF0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+                    }
+                },
+                "universalName": "avans-hogeschool",
+                "dashCompanyUrn": "urn:li:fsd_company:13515",
+                "trackingId": "9Jh/klR9Tg+/9g4rSF74DQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:13515"
+        },
+        {
+            "authority": "Google",
+            "name": "Online Marketing Certificering",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631311446380?e=1710374400&v=beta&t=_0gnABnVbe_EqmnW25OJ9a8a3eJJBiPUX4scKbZ3nJg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631311446380?e=1710374400&v=beta&t=AqetEFJOXMBuYXBnOT-x9YqzHuTxD8A-bLLLA4QAPcg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                    }
+                },
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "XzQQPNanSuazpUYaK5M3kQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1441"
+        },
+        {
+            "authority": "EF Education First",
+            "name": " EF SET English Certificate (C1 - Advanced) ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:4856",
+                "entityUrn": "urn:li:fs_miniCompany:4856",
+                "name": "EF Education First",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630578048102/ef_education_first_logo?e=1710374400&v=beta&t=KLZjuP1AoUBD5EOSTKVqWU-9b4TE03KYztAB_vzQ-nk",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630578048102/ef_education_first_logo?e=1710374400&v=beta&t=BdbK-oomA3SWghDQaa7442yztudfVWXfhUmOrXbHdwM",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630578048102/ef_education_first_logo?e=1710374400&v=beta&t=3KHyaYrk7moBiVqp3_U4M924VgXTz-7ciE9wPKtNrSI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQGrCP6CXBbjAA/company-logo_"
+                    }
+                },
+                "universalName": "ef-education-first",
+                "dashCompanyUrn": "urn:li:fsd_company:4856",
+                "trackingId": "+31T1W+VTOeiatIPx2jLZw=="
+            },
+            "displaySource": "efset.org",
+            "companyUrn": "urn:li:fs_miniCompany:4856",
+            "url": "https://www.efset.org/cert/mcZyn8"
+        },
+        {
+            "authority": "IRI",
+            "name": "XLeratePlus training",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3069",
+                "entityUrn": "urn:li:fs_miniCompany:3069",
+                "name": "IRI",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1656708839422/iri__logo?e=1710374400&v=beta&t=GIc7rxAKkLeG74DBoI7X__HxzN54ayR9dHsmqjvXBbI",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1656708839422/iri__logo?e=1710374400&v=beta&t=xqmcNvv2hjVDhvKFz7L87P7z1OoGptxfIziMW1-wcgQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1656708839422/iri__logo?e=1710374400&v=beta&t=6Idz5aB4dn1TVo_BJKpmwJdCytFv0MFkcETA5jyeIpw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQEbUbH47Dql8A/company-logo_"
+                    }
+                },
+                "universalName": "iri-",
+                "dashCompanyUrn": "urn:li:fsd_company:3069",
+                "trackingId": "VemhYCIlTcibEGeRXpzjkg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:3069"
+        },
+        {
+            "authority": "Hobéon",
+            "name": "3 Sterren Keurmerk Duurzaam Hoger Onderwijs ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1665487",
+                "entityUrn": "urn:li:fs_miniCompany:1665487",
+                "name": "Hobéon, Huis van het Onderwijs",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1634204913348/hob_on_logo?e=1710374400&v=beta&t=1ZvjSVNOD3wYwtH6SqkshQDmG9uqpFZ78bJS956C3bs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1634204913348/hob_on_logo?e=1710374400&v=beta&t=hOacMu1h41WwwfHPdO_Appl6A72XgbHdCFLNzkrdG-I",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1634204913348/hob_on_logo?e=1710374400&v=beta&t=px1vrbS1TsQ26u3AXmhiLJh8MSOZCzXTNtMzNRIfEVs",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQG1EvPnPQ3wXQ/company-logo_"
+                    }
+                },
+                "universalName": "hobeon",
+                "dashCompanyUrn": "urn:li:fsd_company:1665487",
+                "trackingId": "toryFfUhQ/+YbCYLr/T1zw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1665487"
+        },
+        {
+            "authority": "Thuiswinkel e-Academy",
+            "name": "e-Academy Graduate",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "licenseNumber": "002001190094",
+            "company": {
+                "objectUrn": "urn:li:company:10196656",
+                "entityUrn": "urn:li:fs_miniCompany:10196656",
+                "name": "e-Academy.org",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631332242470?e=1710374400&v=beta&t=mh3nvN5aTjho7Ezc0xg_kYdRm0OJOUoDPa4msVt9ahk",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631332242470?e=1710374400&v=beta&t=XUMCo_Upn32Yl3UJw9gGfuHIRmNQo7qaA-Ep-ZILfcQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631332242470?e=1710374400&v=beta&t=Dac7Ze4lxBX9ql-A-jY8haHaqg41ezjyeG4QkSktLu4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQH_-jclttr-Nw/company-logo_"
+                    }
+                },
+                "universalName": "thuiswinkel-e-academy",
+                "dashCompanyUrn": "urn:li:fsd_company:10196656",
+                "trackingId": "AH9fzVtATeuFd25oIBV5dA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:10196656"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

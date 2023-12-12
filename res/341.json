@@ -1,0 +1,254 @@
+{
+    "industryName": "Computer Software",
+    "lastName": "Ciobanu  (Stanescu)",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Ioana",
+    "entityUrn": "urn:li:fs_profile:ACoAABx4YBMBA9WvfVBmM6t4QJrIHoTOo8RA_Fk",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Engineering Manager",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQFK2FHPBJMDWA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1641812679937?e=1707955200&v=beta&t=11NYAZa6TOhJK1-yquuk-R2q-GaSj4ndOASeRqW9tmw",
+    "img_200_200": "200_200/0/1641812679937?e=1707955200&v=beta&t=chZi0EXAWnknHzdDNFKdKFTK7RE7gz-zJjKQPkOR7EM",
+    "img_400_400": "400_400/0/1641812679937?e=1707955200&v=beta&t=T4dVfvG_zOhIFPG78XjucIKi0b6vcZRGFqbFL90ZtqU",
+    "img_800_800": "800_800/0/1641812679937?e=1707955200&v=beta&t=k1eGThKEJXzcc5Vr8qifhgvetEv0O11DLM5q2c9cBN4",
+    "profile_id": "ACoAABx4YBMBA9WvfVBmM6t4QJrIHoTOo8RA_Fk",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABx4YBMBA9WvfVBmM6t4QJrIHoTOo8RA_Fk",
+    "member_urn": "urn:li:member:477650963",
+    "public_id": "ioana-stanescu-0318",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABx4YBMBA9WvfVBmM6t4QJrIHoTOo8RA_Fk,2247772063)",
+            "companyName": "Hubs",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Mechanical or Industrial Engineering"
+                ]
+            },
+            "title": "Engineering Manager",
+            "companyUrn": "urn:li:fs_miniCompany:2900019",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQG_UUoWDT-w_g/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABx4YBMBA9WvfVBmM6t4QJrIHoTOo8RA_Fk,1967503643)",
+            "companyName": "Secfi",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Backend Chapter Lead",
+            "companyUrn": "urn:li:fs_miniCompany:27185114",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFDX9i3q3kJhA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABx4YBMBA9WvfVBmM6t4QJrIHoTOo8RA_Fk,1802236216)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Secfi",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Senior Software Engineer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:27185114",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFDX9i3q3kJhA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABx4YBMBA9WvfVBmM6t4QJrIHoTOo8RA_Fk,1459090732)",
+            "companyName": "Secfi",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Backend engineer",
+            "companyUrn": "urn:li:fs_miniCompany:27185114",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFDX9i3q3kJhA/company-logo_"
+        },
+        {
+            "locationName": "Județul Iași, România",
+            "entityUrn": "urn:li:fs_position:(ACoAABx4YBMBA9WvfVBmM6t4QJrIHoTOo8RA_Fk,889658591)",
+            "geoLocationName": "Județul Iași, România",
+            "geoUrn": "urn:li:fs_geo:104487545",
+            "companyName": "Bitdefender",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2015
+                }
+            },
+            "description": "Part of the Cloud team. \nUsed technologies: NodeJs, RabbitMQ, MongoDB, MQTT, Docker, Kubernetes, ELK, ansible, AWS",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Software Engineer",
+            "region": "urn:li:fs_region:(ro,7552)",
+            "companyUrn": "urn:li:fs_miniCompany:6825",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQElWgEOzZnGIA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABx4YBMBA9WvfVBmM6t4QJrIHoTOo8RA_Fk,382514569)",
+            "school": {
+                "objectUrn": "urn:li:school:16121",
+                "entityUrn": "urn:li:fs_miniSchool:16121",
+                "active": true,
+                "schoolName": "Universitatea „Alexandru Ioan Cuza” din Iași",
+                "trackingId": "hV5NH/fZQvWyQKpxhOqL9A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C510BAQH7piuGzWOz0Q/company-logo_"
+            },
+            "activities": "Research assistant for the \"Applied Distributed Systems Research Group\"",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "degreeName": "Master of Science - MS",
+            "schoolName": "Universitatea „Alexandru Ioan Cuza” din Iași",
+            "fieldOfStudy": "Software Systems Engineering",
+            "degreeUrn": "urn:li:fs_degree:626",
+            "schoolUrn": "urn:li:fs_miniSchool:16121"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABx4YBMBA9WvfVBmM6t4QJrIHoTOo8RA_Fk,326933425)",
+            "school": {
+                "objectUrn": "urn:li:school:16121",
+                "entityUrn": "urn:li:fs_miniSchool:16121",
+                "active": true,
+                "schoolName": "Universitatea „Alexandru Ioan Cuza” din Iași",
+                "trackingId": "5wwB+C0DSruWv+a68MybrA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C510BAQH7piuGzWOz0Q/company-logo_"
+            },
+            "grade": "9.5",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "degreeName": "Bachelor of Science (BS)",
+            "schoolName": "Universitatea „Alexandru Ioan Cuza” din Iași",
+            "fieldOfStudy": "Informatică",
+            "schoolUrn": "urn:li:fs_miniSchool:16121"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABx4YBMBA9WvfVBmM6t4QJrIHoTOo8RA_Fk,382516011)",
+            "grade": "9.5",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "description": "Through the bilingual program, alongside with the Romanian Baccalaureate, I have passed a French Baccalaureate which consisted in a group project, DALF B2 diploma and a Mathematics exam. ",
+            "degreeName": "Bacalaureat",
+            "schoolName": "Colegiul National Mihai Eminescu",
+            "fieldOfStudy": "Matematică și informatică bilingv franceza"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Română",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

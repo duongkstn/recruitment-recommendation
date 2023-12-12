@@ -1,0 +1,861 @@
+{
+    "summary": "📝Wie ben ik?\nNa het afronden van de studie Bedrijfseconomie ben ik in 2013 gestart binnen de accountancy. Vier jaar later heb ik de overstap gemaakt naar het bedrijfsleven en heb ik bij diverse opdrachtgevers gewerkt. In 2020 ben ik gestart met JvdC Finance & Control. Enerzijds laat ik mezelf inhuren als ZZP’er voor diverse interim klussen, anderzijds voer ik ook administraties van MKB bedrijven. Ik ben een enthousiaste en ondernemende financial die pro-actief en probleemoplossend is en graag het management meer inzicht geeft in de financiële cijfers.\n\n📊 Waar kan je mij voor inschakelen?\nJe kan mij inschakelen voor een leuke interim klus als business/financial controller, project controller en manager finance, waarbij ik graag mijn Power BI kennis inzet. Daarnaast verzorg ik ook de financiële administraties van MKB-klanten, alsook de fiscale aangiften die daarbij horen.\n\n🔎 Tools en programma's\nMet behulp van diverse tools en boekhoudprogramma's help ik organisaties. Zo heb ik onder meer ervaring met onderstaande programma’s:\n\n* SAP\n* Snelstart\n* Unit 4 Multivers Accounting\n* Unit 4 Audition \n* Twinfield\n* Power BI\n* Qlik Sense\n\n🧮 Opdrachtgevers\nIn de afgelopen jaren heb ik voor diverse opdrachtgevers gewerkt:\n\n* Sligro Food Group\n* Kuehne + Nagel\n* Alliander\n* Jumbo Supermarkten\n* Laurentius\n* Oostappen Vakantieparken",
+    "industryName": "Financial Services",
+    "lastName": "van de Coolwijk",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:43",
+    "firstName": "Jack",
+    "entityUrn": "urn:li:fs_profile:ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104443011"
+    },
+    "geoLocationName": "Oss, North Brabant",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Freelance controller met kennis van Power BI 📊 Beschikbaar vanaf maart 2024 voor Power BI en controlling opdrachten ☎️ 0612963816 📧 Jack@jvdcfc.nl",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQEgJme6nwjrQw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1575448970632?e=1707955200&v=beta&t=WHqHL3tArUii2eR7AISQRWPbswtGyoDX3LosWOvydNI",
+    "img_200_200": "200_200/0/1575448970609?e=1707955200&v=beta&t=wM8YSRLcT2y_YpaMZ-9V7I4HhAFCHVMt2aLmRW3jPeI",
+    "img_400_400": "400_400/0/1575448970658?e=1707955200&v=beta&t=qniu40IIBpRNqDmldqhS1gJk7t9p-9AZEmz25MxUaY4",
+    "img_500_500": "800_800/0/1575448970682?e=1707955200&v=beta&t=8pLHkZNZ2g-iA3FJ-fwP6uoYpCB3Z01q16O4dCfTEzM",
+    "profile_id": "ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig",
+    "member_urn": "urn:li:member:62845627",
+    "public_id": "jack-van-de-coolwijk-bb706819",
+    "experience": [
+        {
+            "locationName": "Veghel, Noord-Brabant, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig,1871415253)",
+            "geoLocationName": "Veghel, Noord-Brabant, Nederland",
+            "geoUrn": "urn:li:fs_geo:103956343",
+            "companyName": "Sligro Food Group",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Wholesale"
+                ]
+            },
+            "title": "Financial controller a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:32591",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFJdzv_TSDvAw/company-logo_"
+        },
+        {
+            "locationName": "Megen",
+            "entityUrn": "urn:li:fs_position:(ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig,1589948891)",
+            "geoLocationName": "Megen",
+            "companyName": "JvdC Finance & Control",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "description": "Vanaf 1 maart 2020 ben ik gestart met mijn eenmanszaak onder de handelsnaam “JvdC Finance & Control”. Hierbij ben ik in te huren als ZZP'er voor ondere andere de volgende financiële diensten:\n• Financial controller\n• Business controller\n• Project controller\n• Power BI consultant",
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Freelance financial",
+            "companyUrn": "urn:li:fs_miniCompany:37480314",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGJxVMSm8nxyA/company-logo_"
+        },
+        {
+            "locationName": "Veghel",
+            "entityUrn": "urn:li:fs_position:(ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig,1741768185)",
+            "geoLocationName": "Veghel",
+            "companyName": "Kuehne+Nagel",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "description": "Als onderdeel van de afdeling controlling verantwoordelijke voor alle control werkzaamheden binnen de business unit FMCG.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "title": "Business controller FMCG a.i.",
+            "companyUrn": "urn:li:fs_miniCompany:4536",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHJHH8x4TJ9yg/company-logo_"
+        },
+        {
+            "locationName": "Tiel",
+            "entityUrn": "urn:li:fs_position:(ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig,1443327122)",
+            "geoLocationName": "Tiel",
+            "companyName": "Kuehne+Nagel",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "description": "Binnen deze brede opdracht onderdeel van de afdeling controlling en samen met een collega verantwoordelijk voor alle control werkzaamheden binnen de business unit Returns. Deze rol betreft onder andere het opstellen van de wekelijkse rapportages (ook niet-financieel), het afsluiten van de maand, het opstellen van de forecast per kwartaal, het opstellen van de target en het controleren van balansdossiers. Daarnaast gesprekspartner van de business unit manager en de site managers. Hierbij kan gedacht worden aan het presenteren van de maandcijfers aan de sites, het samen opstellen van een nieuw budget, het maken van business cases en andere ad-hoc vragen vanuit de business.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "title": "Financial controller Returns a.i.",
+            "companyUrn": "urn:li:fs_miniCompany:4536",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHJHH8x4TJ9yg/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig,760080237)",
+                "urn:li:fs_course:(ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig,760147523)"
+            ],
+            "locationName": "Eindhoven",
+            "entityUrn": "urn:li:fs_position:(ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig,991785910)",
+            "geoLocationName": "Eindhoven",
+            "companyName": "Fagro, Professionals in Finance & Control",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "description": "Fagro is een interim - en adviesbureau voor het functiegebied finance & control. Vanuit de gedachte \"Improving your performance\" creëert Fagro meerwaarde voor haar opdrachtgevers. Praktisch, pragmatisch en resultaatgericht. De inzet varieert van tijdelijke financieel-administratieve ondersteuning tot en met financieel management en directievoering, vanaf Hbo-niveau. Met ruim 200 interim finance professionals in vaste dienst is Fagro toonaangevend.\n\nDe portfolio van Fagro omvat de business lines business control, accounting & reporting en corporate governance.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Financial consultant",
+            "companyUrn": "urn:li:fs_miniCompany:46353",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQG6ebPuJgBYpQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig,583452838)",
+            "school": {
+                "objectUrn": "urn:li:school:15434",
+                "entityUrn": "urn:li:fs_miniSchool:15434",
+                "active": true,
+                "schoolName": "Zuyd Hogeschool | Zuyd University of Applied Sciences",
+                "trackingId": "pmqPe57VS3CCb8dhhYeMLg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQE8dXrQh1I4pQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "description": "Studie met de focus op Process Mining, Power BI en Robotic Process Automation.",
+            "degreeName": "Fintech, finance and data automation",
+            "schoolName": "Zuyd Hogeschool | Zuyd University of Applied Sciences",
+            "schoolUrn": "urn:li:fs_miniSchool:15434"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig,177437274)",
+            "school": {
+                "objectUrn": "urn:li:school:3186109",
+                "entityUrn": "urn:li:fs_miniSchool:3186109",
+                "active": true,
+                "schoolName": "Avans+",
+                "trackingId": "pz7qPquSRwqP1LEtMgfXJg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQGZjzQTnFzuMw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "degreeName": "NBA Beroepsopleiding Accountant-Administratieconsulent (theoretisch deel)",
+            "schoolName": "Avans+",
+            "schoolUrn": "urn:li:fs_miniSchool:3186109"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAO-8rsBgf3iFkAHIephyLIZ0azoetswFig,42933366)",
+            "school": {
+                "objectUrn": "urn:li:school:23151",
+                "entityUrn": "urn:li:fs_miniSchool:23151",
+                "active": true,
+                "schoolName": "Avans University of Applied Sciences",
+                "trackingId": "/C17uW+oTvyMsew0sl26eg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+            },
+            "activities": "Minor Financiële Dienstverlening\n- Particulier & Zakelijk",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "degreeName": "HBO Bedrijfseconomie",
+            "schoolName": "Avans Hogeschool Den Bosch",
+            "schoolUrn": "urn:li:fs_miniSchool:23151"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Coursera",
+            "name": "Programming for Everybody (Getting Started with Python)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "licenseNumber": "2U7SSPN8SRE6",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "zGd9ntssRs23uhjseGKHNQ=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/2U7SSPN8SRE6"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Python Data Structures",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "licenseNumber": "9TAUXZPZ9BRG",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "eOr0AW/5QsWyY6D7+GNtmw=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/9TAUXZPZ9BRG"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "Analyzing and Visualizing Data with Power BI ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "licenseNumber": "4FD53-26C6C-1C151-513CF-48418",
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "zfk11Sv+SgGZ+g6YqKxx5g=="
+            },
+            "displaySource": "microsoft.com",
+            "companyUrn": "urn:li:fs_miniCompany:1035",
+            "url": "https://academy.microsoft.com/en-us/certificates/83D20498-61B0-493D-9258-233FB4ECA7EB"
+        },
+        {
+            "authority": "UiPath",
+            "name": "UiPath RPA Developer Foundation Diploma",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1523656",
+                "entityUrn": "urn:li:fs_miniCompany:1523656",
+                "name": "UiPath",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630468240441/uipath_logo?e=1710374400&v=beta&t=wmr_zyRfppUZEe_UoUL9ac8K0lLQ0e4knIRNms6LpGg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630468240441/uipath_logo?e=1710374400&v=beta&t=d9vQZHxkjzkMkvsS6Oo4qjPAQD5uYj8J5VRT4YeWgBE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630468240441/uipath_logo?e=1710374400&v=beta&t=IYE_XlkLpMQPkjQikZA-rBhbvEnXwI8PsAh2IV2MP6U",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQF0v6S05nSsPw/company-logo_"
+                    }
+                },
+                "universalName": "uipath",
+                "dashCompanyUrn": "urn:li:fsd_company:1523656",
+                "trackingId": "TKOG9kSKSXiqd5Z8P3G7AQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1523656"
+        },
+        {
+            "authority": "Coursera",
+            "name": "What is Data Science?",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "licenseNumber": "GRFJK2R8KQA8",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "BIosVPB2QvSb2ZriIkGmUg=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/GRFJK2R8KQA8"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Data Science Orientation",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "Tj4+aO/sTei8aOHNiuV/Mg=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.youracclaim.com/badges/17976cf7-3d4c-408f-bc9d-dc7dc226d9c2/linked_i"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Open Source tools for Data Science",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "licenseNumber": "RPDMHVU2PFTA",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "rjhdrGfARqiovNmgceJOjg=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/RPDMHVU2PFTA"
+        },
+        {
+            "authority": "Coursera",
+            "name": "The Science of Well-Being",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "licenseNumber": " TMR2CK79YH28",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "ZJmDzh9+TKGBiY/XKoZrkw=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/TMR2CK79YH28"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Business English: Networking",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "licenseNumber": "7K6DDXKP6PVN",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "PtyseOKsRTW1CHOQtkoMQQ=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/7K6DDXKP6PVN"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Fundamentals of Visualization with Tableau",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "licenseNumber": "CHDQTHMTZD8D",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "jmyL5W8RQkWRq8GBnU64rA=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/verify/CHDQTHMTZD8D"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Bestuurslid en penningmeester",
+            "companyName": "Stichting CLM (Creatief Leefbaar Megen)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": "Stichting CLM (Creatief Leefbaar Megen) organiseert jaarlijks het Lulboompop festival in Megen. Een tweedaags festival waar dagelijks meer dan 1600 bezoekers op af komen en waar meer dan 25 muzikale acts op vier verschillende podia optreden. \n\nwww.lulboompop.nl"
+        },
+        {
+            "role": "Bestuurslid en penningmeester",
+            "companyName": "Soos 't trêpke Megen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2009
+                }
+            },
+            "description": "Het organiseren van feestavonden voor de gehele Megense gemeenschap in het Megense gemeenschapshuis Acropolis.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:31408961",
+                    "entityUrn": "urn:li:fs_miniCompany:31408961",
+                    "name": "Soos 't trêpke Megen",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630581012410?e=1710374400&v=beta&t=HNnLCEvYpDvNprcihXy4pp8R44jVkfdbcNC4d2gDZrA",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630581012410?e=1710374400&v=beta&t=o54go3JFz_-Nv60kLy5CTJhuKLqyK_OKYM6NC-wQvpo",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630581012410?e=1710374400&v=beta&t=XlsYJEd03VseueiVkV4KlXLgRWgk9t6TeE6cyVX9AXI",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C560BAQGkOBY5MA0eNA/company-logo_"
+                        }
+                    },
+                    "universalName": "soos-t-trêpke",
+                    "dashCompanyUrn": "urn:li:fsd_company:31408961",
+                    "trackingId": "cA2WDkyyQl23saeJZxVpVw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:31408961"
+        },
+        {
+            "role": "Sponsorcommissie",
+            "companyName": "R.K.S.V. Ulysses",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2012
+                }
+            },
+            "description": "De sponsorcommissie houdt zich bezig met het werven van sponsoren voor de voetbalvereniging en onderhoudt de contacten met de verschillende sponsoren. Daarnaast organiseert de sponsorcommissie aan het eind van het voetbalseizoen een sponsortoernooi.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:27163871",
+                    "entityUrn": "urn:li:fs_miniCompany:27163871",
+                    "name": "R.K.S.V. Ulysses",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631301762979?e=1710374400&v=beta&t=Xq9vAJO8zZCdeldAfOKDm10CClrm0lH8a5sZv7vVZW0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631301762979?e=1710374400&v=beta&t=uestHR115dPs2UjUTSltPh6WhEefnw2LPOwdtm2cM0U",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631301762979?e=1710374400&v=beta&t=A8qxIXpc_jiSb3WFLFz9yEX4Nzg2LOt5FLAXFXX1awk",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQH6buyr9TPzBA/company-logo_"
+                        }
+                    },
+                    "universalName": "r-k-s-v-ulysses",
+                    "dashCompanyUrn": "urn:li:fsd_company:27163871",
+                    "trackingId": "7sJBBhZdRCedHcrK4TPBbA=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:27163871"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

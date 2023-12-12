@@ -1,0 +1,134 @@
+{
+    "summary": "I'm a Indipendent Graphic Designer with more than 3 year's of experience. My expertise on\n\n🔸Social media design\n🔸Banner Design\n🔸Resturant Menu Design\n🔸Buisness Card Design\n🔸Logo Design\n🔸LinkedIn post Design",
+    "industryName": "Graphic Design",
+    "lastName": "Ali",
+    "locationName": "India",
+    "student": false,
+    "geoCountryName": "India",
+    "geoCountryUrn": "urn:li:fs_geo:102713980",
+    "geoLocationBackfilled": false,
+    "elt": true,
+    "birthDate": {
+        "month": 12,
+        "day": 12
+    },
+    "industryUrn": "urn:li:fs_industry:140",
+    "firstName": "Saief",
+    "entityUrn": "urn:li:fs_profile:ACoAAC5faN8BiiaQKwlNwRy19Sp07phMg9llhP4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:106652067"
+    },
+    "geoLocationName": "West Bengal",
+    "location": {
+        "basicLocation": {
+            "countryCode": "in"
+        }
+    },
+    "headline": "I Make Impactful Designs for Businesses 🚀",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQHdMbNSyv4SOA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1686426819156?e=1707955200&v=beta&t=jzXbrWaqQPC-yi_9xOUftygSXb4hgk-a6sgq-DAHl9g",
+    "img_200_200": "200_200/0/1686426819156?e=1707955200&v=beta&t=2ga8nNxBFp47YmexgA_56ddaHFko2Nv8l1J7xYNnPx0",
+    "img_400_400": "400_400/0/1686426819156?e=1707955200&v=beta&t=BRTx3yUKblZanp8cugdln4v7aiJZGqghKaQCifIbOc4",
+    "img_800_800": "800_800/0/1686426819156?e=1707955200&v=beta&t=7EKFt3bT1bT4LOeujkOMy8Od-q-Tm9LykKGP7WACsP4",
+    "profile_id": "ACoAAC5faN8BiiaQKwlNwRy19Sp07phMg9llhP4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAC5faN8BiiaQKwlNwRy19Sp07phMg9llhP4",
+    "member_urn": "urn:li:member:778004703",
+    "public_id": "saiefnil",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAC5faN8BiiaQKwlNwRy19Sp07phMg9llhP4,2089969810)",
+            "companyName": "Upwork ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "title": "Graphic Designer"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAC5faN8BiiaQKwlNwRy19Sp07phMg9llhP4,2221400804)",
+            "companyName": "Upwork",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Freelance Graphic Designer",
+            "companyUrn": "urn:li:fs_miniCompany:4827017",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFAvA55uI9RQQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAC5faN8BiiaQKwlNwRy19Sp07phMg9llhP4,911556458)",
+            "school": {
+                "objectUrn": "urn:li:school:207209",
+                "entityUrn": "urn:li:fs_miniSchool:207209",
+                "active": true,
+                "schoolName": "Dr. Sudhir Chandra Sur Degree Engineering College 255",
+                "trackingId": "2lLH5EMdSROuKWLrTg2YlA=="
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2024
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100347",
+            "degreeName": "Bachelor of Technology - BTech",
+            "schoolName": "Dr. Sudhir Chandra Sur Degree Engineering College 255",
+            "fieldOfStudy": "Computer Engineering",
+            "schoolUrn": "urn:li:fs_miniSchool:207209"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAC5faN8BiiaQKwlNwRy19Sp07phMg9llhP4,820493702)",
+            "school": {
+                "objectUrn": "urn:li:school:207209",
+                "entityUrn": "urn:li:fs_miniSchool:207209",
+                "active": true,
+                "schoolName": "Dr. Sudhir Chandra Sur Degree Engineering College 255",
+                "trackingId": "tRQqkacCT4qJfk/2MXm7aw=="
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2024
+                }
+            },
+            "degreeName": "Bachelor of Technology - BTech",
+            "schoolName": "Dr. Sudhir Chandra Sur Degree Engineering College 255",
+            "schoolUrn": "urn:li:fs_miniSchool:207209"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAC5faN8BiiaQKwlNwRy19Sp07phMg9llhP4,624065333)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "degreeName": "Diploma In Electrical Engineering",
+            "schoolName": "Berhampore Polytechnic College",
+            "fieldOfStudy": "Electrical Engineering"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,196 @@
+{
+    "summary": "Founder of CodeAlly.io\n\nFor a few years, I worked as a Front-end Engineer in companies like Deutsche Bank. During this time, I saw the fate of many skilled young developers who had trouble finding a job, regardless of their skills. I thought it was time for a change - that was when CodeAlly came to life.\n\nWe developed a platform that employers use to find developer talent not accessible elsewhere.\nDevelopers use CodeAlly to code, learn and find jobs in tech companies.\n\nIn my spare time, I like to do some tricks on my skateboard. Actually, I’m a skateboarding Guinness Record holder. 🏆",
+    "industryName": "E-learning",
+    "lastName": "Żaczek",
+    "locationName": "Poland",
+    "student": false,
+    "geoCountryName": "Poland",
+    "geoCountryUrn": "urn:li:fs_geo:105072130",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:132",
+    "firstName": "Adam",
+    "entityUrn": "urn:li:fs_profile:ACoAABvfZ9oBVAiPQnwMme82-tYvO61PsYdv9Ng",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100000957"
+    },
+    "geoLocationName": "Łódzkie",
+    "location": {
+        "basicLocation": {
+            "countryCode": "pl"
+        }
+    },
+    "headline": "Founder of CodeAlly.",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQH85pjt5ZtZBA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1659086695277?e=1707955200&v=beta&t=SQlrm77VPtDamolwY8LZX-MA9CBXK2ywQqZDK3kyITk",
+    "img_200_200": "200_200/0/1659086695277?e=1707955200&v=beta&t=Q6KWe-AuQvI1vD0pbX-cFGfxJgOIZwBLQhU-qY8sXGE",
+    "img_400_400": "400_400/0/1659086695277?e=1707955200&v=beta&t=fwIl0uRLR5qr2GYQDzGuvGemeSsS1I8hUYsffXz23Vg",
+    "img_500_500": "800_800/0/1659086695277?e=1707955200&v=beta&t=7OLsvJf3EfEOveY4AJWbvSWE6yEhfC8X23yhq6Da3xM",
+    "profile_id": "ACoAABvfZ9oBVAiPQnwMme82-tYvO61PsYdv9Ng",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABvfZ9oBVAiPQnwMme82-tYvO61PsYdv9Ng",
+    "member_urn": "urn:li:member:467625946",
+    "public_id": "adam-żaczek-a4a734110",
+    "experience": [
+        {
+            "locationName": "Łódź, woj. łódzkie, Polska",
+            "entityUrn": "urn:li:fs_position:(ACoAABvfZ9oBVAiPQnwMme82-tYvO61PsYdv9Ng,1427271950)",
+            "geoLocationName": "Łódź, woj. łódzkie, Polska",
+            "geoUrn": "urn:li:fs_geo:90009832",
+            "companyName": "CodeAlly.io",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Founder",
+            "region": "urn:li:fs_region:(pl,8274)",
+            "companyUrn": "urn:li:fs_miniCompany:13977893",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEPej9PPWoQgw/company-logo_"
+        },
+        {
+            "locationName": "Frankfurt am Main, Hessen, Germany",
+            "entityUrn": "urn:li:fs_position:(ACoAABvfZ9oBVAiPQnwMme82-tYvO61PsYdv9Ng,1274139739)",
+            "geoLocationName": "Frankfurt am Main, Hessen, Germany",
+            "companyName": "Deutsche Bank",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Senior React Developer",
+            "companyUrn": "urn:li:fs_miniCompany:1262",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFOCEBGAmZoyg/company-logo_"
+        },
+        {
+            "locationName": "Warszawa, woj. mazowieckie, Polska",
+            "entityUrn": "urn:li:fs_position:(ACoAABvfZ9oBVAiPQnwMme82-tYvO61PsYdv9Ng,1134101850)",
+            "geoLocationName": "Warszawa, woj. mazowieckie, Polska",
+            "companyName": "GogoApps",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "title": "Senior Frontend Developer"
+        },
+        {
+            "locationName": "Warszawa, woj. mazowieckie, Polska",
+            "entityUrn": "urn:li:fs_position:(ACoAABvfZ9oBVAiPQnwMme82-tYvO61PsYdv9Ng,1134102655)",
+            "geoLocationName": "Warszawa, woj. mazowieckie, Polska",
+            "companyName": "GogoApps",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Frontend Developer",
+            "companyUrn": "urn:li:fs_miniCompany:10669630",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQH_EZW00c5MbQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABvfZ9oBVAiPQnwMme82-tYvO61PsYdv9Ng,916809825)",
+            "companyName": "Netguru",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Frontend Developer",
+            "companyUrn": "urn:li:fs_miniCompany:2488424",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQHfmkUkqycw3Q/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABvfZ9oBVAiPQnwMme82-tYvO61PsYdv9Ng,377631364)",
+            "school": {
+                "objectUrn": "urn:li:school:15999",
+                "entityUrn": "urn:li:fs_miniSchool:15999",
+                "active": true,
+                "schoolName": "University of Lodz",
+                "trackingId": "hvy80opSRg6f/x5/DVi7iQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFHp4tsrW4J7Q/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "degreeName": "Licencjat (Lic.)",
+            "schoolName": "Uniwersytet Łódzki",
+            "fieldOfStudy": "zarządzanie",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15999"
+        }
+    ],
+    "languages": [
+        {
+            "name": "angielski",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

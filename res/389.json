@@ -1,0 +1,591 @@
+{
+    "industryName": "Management Consulting",
+    "lastName": "Prapa",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 6,
+        "day": 16
+    },
+    "industryUrn": "urn:li:fs_industry:11",
+    "firstName": "Fotini",
+    "entityUrn": "urn:li:fs_profile:ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Finance & IA",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQEveQfMAZZfLA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1700566768387?e=1707955200&v=beta&t=s4MJloGb55cw5jGU52Xmxq1K6NjNxHqfVYEqLJLyuRs",
+    "img_200_200": "200_200/0/1700566768387?e=1707955200&v=beta&t=-R-ccR4LTuC624a_X6fskvc2PpN_6XBk8AEYntub-bQ",
+    "img_400_400": "400_400/0/1700566768387?e=1707955200&v=beta&t=BHJWq0dXFVK0iEC0N6i1QDF8UR770eCIQg-KIf0nGZQ",
+    "img_800_800": "800_800/0/1700566768387?e=1707955200&v=beta&t=C8qCylTkC6RzLdEvCqW0y4d0SeMKANz5lMkyUc_5CHk",
+    "profile_id": "ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU",
+    "member_urn": "urn:li:member:201716351",
+    "public_id": "fotini-prapa-bbb67957",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU,1766650102)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "IDEXX",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Biotechnology"
+                ]
+            },
+            "title": "Pricing Specialist",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:7963",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHI2TT2WFki8w/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU,1335157506)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "companyName": "Booking.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Credit Controller",
+            "companyUrn": "urn:li:fs_miniCompany:11348",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU,863661843)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "KidKraft, Inc",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "Financial Analyst",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:68982",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGXLGJhohSv3g/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU,722347061)",
+            "companyName": "PAPOUTSANIS SA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2015
+                }
+            },
+            "description": "",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "Junior Accountant",
+            "companyUrn": "urn:li:fs_miniCompany:2981174",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGBc8spJFa7Eg/company-logo_"
+        },
+        {
+            "locationName": "Greece",
+            "entityUrn": "urn:li:fs_position:(ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU,340138271)",
+            "geoLocationName": "Greece",
+            "companyName": "Ethniki Insurance",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2007
+                }
+            },
+            "description": "Internship",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Insurance"
+                ]
+            },
+            "title": "Financial Services Officer",
+            "companyUrn": "urn:li:fs_miniCompany:28994854",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHJwx-OIb3C8g/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU,355368239)",
+            "school": {
+                "objectUrn": "urn:li:school:12830",
+                "entityUrn": "urn:li:fs_miniSchool:12830",
+                "active": true,
+                "schoolName": "Aristotle University of Thessaloniki (AUTH)",
+                "trackingId": "FkswLxJ0RS+a6BzIrDTM8g==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQFwFj7BLvLrjw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "description": "Business Economics\nCourses: Accounting, Banking, Marketing Theory, Marketing Strategy Advertising, Mathematics, Statistics, Econometrics, Microeconomics, Macroeconomics, Computer Science, Consumer Behaviour, European Union, Management, Economic  theory, Business Strategy.",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100990",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Aristotle University of Thessaloniki (AUTH)",
+            "fieldOfStudy": "Economics",
+            "schoolUrn": "urn:li:fs_miniSchool:12830"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU,135259964)",
+            "school": {
+                "objectUrn": "urn:li:school:12844",
+                "entityUrn": "urn:li:fs_miniSchool:12844",
+                "active": true,
+                "schoolName": "University of Macedonia",
+                "trackingId": "sJx8D/0+Q4+4eeUm9yWKGA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQEYqo0p0sdi7g/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "description": "Courses: Politics and Society in Europe,  Economics in Europe,  ΕU Integration,  Econometrics,  Parties and party systems in Eastern and South-eastern Europe,  Law for Business and Trade in Eastern and South-eastern Europe,  Financial Markets in Eastern and South-eastern Europe,  International Business and Regional Integration in Europe,  Industry and Public Policy in Europe.",
+            "degreeName": "Master's degree",
+            "schoolName": "University of Macedonia",
+            "fieldOfStudy": "Politics and Economics of contemporary Eastern and SE Europe",
+            "schoolUrn": "urn:li:fs_miniSchool:12844"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Greek",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [
+        {
+            "date": {
+                "month": 11,
+                "year": 2012
+            },
+            "name": "The tobacco market and smokers’ behaviour in Greece",
+            "publisher": "Foteini Prapa",
+            "description": "Smoking is one of the largest public health problems and a cause of major concern not only among European members such as Greece but also worldwide. Greece over the past years has been suffering from a smoking epidemic with harmful impacts on the economy and the cost of health services. Therefore, the purpose of this essay is to describe the extent of tobacco use, analyze the market in which developed, while examine the main reasons of anti-tobacco policy failure and the methods used to control tobacco consumption over the past decades in Greece.",
+            "url": "https://dspace.lib.uom.gr/handle/2159/15385",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Fotini",
+                        "lastName": "Prapa",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU",
+                        "occupation": "Finance & IA",
+                        "objectUrn": "urn:li:member:201716351",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU",
+                        "publicIdentifier": "fotini-prapa-bbb67957",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1700566768387?e=1707955200&v=beta&t=s4MJloGb55cw5jGU52Xmxq1K6NjNxHqfVYEqLJLyuRs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1700566768387?e=1707955200&v=beta&t=-R-ccR4LTuC624a_X6fskvc2PpN_6XBk8AEYntub-bQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1700566768387?e=1707955200&v=beta&t=BHJWq0dXFVK0iEC0N6i1QDF8UR770eCIQg-KIf0nGZQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1700566768387?e=1707955200&v=beta&t=C8qCylTkC6RzLdEvCqW0y4d0SeMKANz5lMkyUc_5CHk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQEveQfMAZZfLA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "YO0ioo0TQtKZOoXH/YCxOw=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAwF8n8B2QR9aX0_hCPYFCBA_fUNGm-05AU"
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "authority": "Celonis",
+            "name": "Certified to Build Analyses – Basics",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3118913",
+                "entityUrn": "urn:li:fs_miniCompany:3118913",
+                "name": "Celonis",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=qTviCL33PQeJba33RH3XQGeaH9qGgm5IkuxksOTVAo8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=MOjOgdFjOPDdS9Ew7qMbTcTCQ_HZkMK_5hTfLI-5zUg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=FAbJ_qY2sTgl5a7BsLoXf-ig2LQ4xb8H-Mv38-EcUzE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQHOOasUsMUlpQ/company-logo_"
+                    }
+                },
+                "universalName": "celonis",
+                "dashCompanyUrn": "urn:li:fsd_company:3118913",
+                "trackingId": "jyRjH/3hRxyISTYPDnhdSw=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:3118913",
+            "url": "https://www.credly.com/badges/caf05157-97fc-49ee-bba2-a980ad20343b/linked_in_profile"
+        },
+        {
+            "authority": "Celonis",
+            "name": "Certified to Build Action Flows",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3118913",
+                "entityUrn": "urn:li:fs_miniCompany:3118913",
+                "name": "Celonis",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=qTviCL33PQeJba33RH3XQGeaH9qGgm5IkuxksOTVAo8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=MOjOgdFjOPDdS9Ew7qMbTcTCQ_HZkMK_5hTfLI-5zUg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=FAbJ_qY2sTgl5a7BsLoXf-ig2LQ4xb8H-Mv38-EcUzE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQHOOasUsMUlpQ/company-logo_"
+                    }
+                },
+                "universalName": "celonis",
+                "dashCompanyUrn": "urn:li:fsd_company:3118913",
+                "trackingId": "4DFSwMRvSVK2YmyshgnbMg=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:3118913",
+            "url": "https://www.credly.com/badges/9a759054-874e-4a32-9839-5bda509c6010/linked_in_profile"
+        },
+        {
+            "authority": "Celonis",
+            "name": "Certified to Build Knowledge Models and Views",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3118913",
+                "entityUrn": "urn:li:fs_miniCompany:3118913",
+                "name": "Celonis",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=qTviCL33PQeJba33RH3XQGeaH9qGgm5IkuxksOTVAo8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=MOjOgdFjOPDdS9Ew7qMbTcTCQ_HZkMK_5hTfLI-5zUg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=FAbJ_qY2sTgl5a7BsLoXf-ig2LQ4xb8H-Mv38-EcUzE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQHOOasUsMUlpQ/company-logo_"
+                    }
+                },
+                "universalName": "celonis",
+                "dashCompanyUrn": "urn:li:fsd_company:3118913",
+                "trackingId": "aOixygEuQDekuNFntC3a6w=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:3118913",
+            "url": "https://www.credly.com/badges/69b4b26d-8569-453a-8e02-411493b10b2d/linked_in_profile"
+        },
+        {
+            "authority": "Celonis",
+            "name": "Build Analyses - Advanced",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3118913",
+                "entityUrn": "urn:li:fs_miniCompany:3118913",
+                "name": "Celonis",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=qTviCL33PQeJba33RH3XQGeaH9qGgm5IkuxksOTVAo8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=MOjOgdFjOPDdS9Ew7qMbTcTCQ_HZkMK_5hTfLI-5zUg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=FAbJ_qY2sTgl5a7BsLoXf-ig2LQ4xb8H-Mv38-EcUzE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQHOOasUsMUlpQ/company-logo_"
+                    }
+                },
+                "universalName": "celonis",
+                "dashCompanyUrn": "urn:li:fsd_company:3118913",
+                "trackingId": "l6am2sZ/RU22czso2yry4A=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:3118913",
+            "url": "https://www.credly.com/badges/85cd3cf2-f507-43b9-a008-87d86662e916/linked_in_profile"
+        },
+        {
+            "authority": "Celonis",
+            "name": "Certified to Write PQL Queries",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3118913",
+                "entityUrn": "urn:li:fs_miniCompany:3118913",
+                "name": "Celonis",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=qTviCL33PQeJba33RH3XQGeaH9qGgm5IkuxksOTVAo8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=MOjOgdFjOPDdS9Ew7qMbTcTCQ_HZkMK_5hTfLI-5zUg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=FAbJ_qY2sTgl5a7BsLoXf-ig2LQ4xb8H-Mv38-EcUzE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQHOOasUsMUlpQ/company-logo_"
+                    }
+                },
+                "universalName": "celonis",
+                "dashCompanyUrn": "urn:li:fsd_company:3118913",
+                "trackingId": "38n+HQdlSH60JupW+ncM1w=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:3118913",
+            "url": "https://www.credly.com/badges/eafbd035-41a8-4778-84cf-57f6545f9827/linked_in_profile"
+        },
+        {
+            "authority": "Celonis",
+            "name": "Certified to Get Data Into the EMS",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3118913",
+                "entityUrn": "urn:li:fs_miniCompany:3118913",
+                "name": "Celonis",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=qTviCL33PQeJba33RH3XQGeaH9qGgm5IkuxksOTVAo8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=MOjOgdFjOPDdS9Ew7qMbTcTCQ_HZkMK_5hTfLI-5zUg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1689793362579/celonis_logo?e=1710374400&v=beta&t=FAbJ_qY2sTgl5a7BsLoXf-ig2LQ4xb8H-Mv38-EcUzE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQHOOasUsMUlpQ/company-logo_"
+                    }
+                },
+                "universalName": "celonis",
+                "dashCompanyUrn": "urn:li:fsd_company:3118913",
+                "trackingId": "ZB7ha957S6qWpRB6TfaqGg=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:3118913",
+            "url": "https://www.credly.com/badges/1aee6580-702a-45e2-892e-b88ed1f87181/linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

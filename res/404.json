@@ -1,0 +1,171 @@
+{
+    "industryName": "Education Management",
+    "lastName": "Lopes",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:69",
+    "firstName": "Dominique",
+    "entityUrn": "urn:li:fs_profile:ACoAAD42Zc4BqM8boz1KySmYAkIyAOpY8x69zgM",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Student/stagiair",
+    "profile_id": "ACoAAD42Zc4BqM8boz1KySmYAkIyAOpY8x69zgM",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAD42Zc4BqM8boz1KySmYAkIyAOpY8x69zgM",
+    "member_urn": "urn:li:member:1043752398",
+    "public_id": "dominique-lopes-466673251",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAD42Zc4BqM8boz1KySmYAkIyAOpY8x69zgM,2273602822)",
+            "companyName": "Kinderopvang De Voetstapjes",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Primary/Secondary Education"
+                ]
+            },
+            "title": "Student/stagiair",
+            "companyUrn": "urn:li:fs_miniCompany:18127223",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGaCgrioVMZtg/company-logo_"
+        },
+        {
+            "locationName": "Den Haag, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAD42Zc4BqM8boz1KySmYAkIyAOpY8x69zgM,2120014923)",
+            "geoLocationName": "Den Haag, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "Rituals",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "description": "Mijn taak is om gastvrouw te zijn voor de klanten die in de winkel komen. Hierbij geef ik gericht aandacht aan iedere klant door ze bewust te groeten en bijvoorbeeld iets te drinken aan te bieden. Daarbij geef ik klanten verkoopadvies over de producten in de winkel. Ik geef klanten meer informatie over de verschillende producten, zodat zij de juiste keuze kunnen maken. Ik heb ervaring opgedaan met het verkopen en adviseren van producten. Daarnaast vielen ook schoonmaakwerkzaamheden, vakken vullen, kassawerkzaamheden en producten tellen onder mijn takenpakket.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Cosmetics"
+                ]
+            },
+            "title": "Winkelmedewerkster",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:65420",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQExp86EbOZHCA/company-logo_"
+        },
+        {
+            "locationName": "Den Haag, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAD42Zc4BqM8boz1KySmYAkIyAOpY8x69zgM,2120020162)",
+            "geoLocationName": "Den Haag, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "Bokstijn Feestartikelen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "description": "Bij Bokstijn feestartikelen ben ik voornamelijk bezig met klanten helpen uitzoeken van feestartikelen en reken ik na afloop met de klant af bij de kassa. Daarnaast ben ik ook creatief bezig met ballonen decoraties maken. Ik heb hier meer ervaring van klantvriendelijkheid opgedaan.",
+            "company": {},
+            "title": "Winkelmedewerker",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:6799858"
+        },
+        {
+            "locationName": "Den Haag, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAD42Zc4BqM8boz1KySmYAkIyAOpY8x69zgM,2120020233)",
+            "geoLocationName": "Den Haag, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "Albert Heijn",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "description": "Ik heb als caissière gewerkt bij Albert Heijn. Mijn taken waren: kassa draaien, helpen op het zelfscanplein, de bloemen af stickeren en inrichten, kassa’s schoonmaken, de vloer vegen, klanten helpen met retourartikelen en met het vinden van producten of juist iets uitleggen. Ik heb mijn communicatieve vaardigheden uitgebreid en hier ook meer ervaring opgedaan met het omgaan met geld.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Kassamedewerkster",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:10031312",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQE_asn6DhgWeg/company-logo_"
+        },
+        {
+            "locationName": "Den Haag, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAD42Zc4BqM8boz1KySmYAkIyAOpY8x69zgM,2120020291)",
+            "geoLocationName": "Den Haag, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "Stichting READY",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "description": "Ik heb als vrijwilliger meegeholpen aan een project voor de jongere in Escamp, Den Haag. Met een paar andere mensen hebben we een evenement opgezet. Ik heb hier veel van mijn eigenschappen kunnen toepassen en dus ook beter ontwikkeld. Ik heb bijvoorbeeld zowel mijn creatieve als mijn communicatieve vaardigheden enorm ontwikkeld. Naast dit heb ik ook cursussen gevolgd om mijn professionaliteit te versterken.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Professional Training & Coaching"
+                ]
+            },
+            "title": "Vrijwilligster",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:17886819",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF1xxpMm_uSiQ/company-logo_"
+        }
+    ],
+    "education": [],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

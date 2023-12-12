@@ -1,0 +1,206 @@
+{
+    "industryName": "Retail",
+    "lastName": "van de Velde",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Annemarie",
+    "entityUrn": "urn:li:fs_profile:ACoAABXp3MoBVeJbfP1CcHxj-1MXDcn12aTQ6yY",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90010382"
+    },
+    "geoLocationName": "s-Hertogenbosch Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Sr buyer bij Nelson Schoenen ",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQFosM8ByNXMVg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1565880018461?e=1707955200&v=beta&t=6-TDNlc8YTAE9hD6tJJ4htUEwYAj4IAN7nMaUMwOUTE",
+    "img_200_200": "200_200/0/1565880018413?e=1707955200&v=beta&t=zuHSiKg_IzARXrNb4hCLSCqCZC6teGabgL_j_T42YWE",
+    "img_400_400": "400_400/0/1565880018548?e=1707955200&v=beta&t=Phl8keHs7CHqxylzFaKQAk-T2yisfkzGLbKQnBBXGAY",
+    "img_800_800": "800_800/0/1565880018605?e=1707955200&v=beta&t=1b-UzFrjYUZxUatsUDddvSw9abQ--dMfURlm-uKkL4U",
+    "profile_id": "ACoAABXp3MoBVeJbfP1CcHxj-1MXDcn12aTQ6yY",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABXp3MoBVeJbfP1CcHxj-1MXDcn12aTQ6yY",
+    "member_urn": "urn:li:member:367647946",
+    "public_id": "annemarie-van-de-velde-28a15ba3",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABXp3MoBVeJbfP1CcHxj-1MXDcn12aTQ6yY,1945312787)",
+            "companyName": "Nelson Schoenen BV",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Senior buyer",
+            "companyUrn": "urn:li:fs_miniCompany:663238",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGfMyxTsqzumw/company-logo_"
+        },
+        {
+            "locationName": "Utrecht en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABXp3MoBVeJbfP1CcHxj-1MXDcn12aTQ6yY,1517534491)",
+            "geoLocationName": "Utrecht en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Key account developer schoenen",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABXp3MoBVeJbfP1CcHxj-1MXDcn12aTQ6yY,1148960989)",
+            "companyName": "Dungelmann Schoenen B.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Buyer",
+            "companyUrn": "urn:li:fs_miniCompany:5573016",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHe2jlmLVOFtw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABXp3MoBVeJbfP1CcHxj-1MXDcn12aTQ6yY,837619297)",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Buyer Wonen & Slapen",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht",
+            "entityUrn": "urn:li:fs_position:(ACoAABXp3MoBVeJbfP1CcHxj-1MXDcn12aTQ6yY,766591040)",
+            "geoLocationName": "Utrecht",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "description": "Afstudeerstage inkoop Wonen & Slapen",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Stagiaire inkoop wonen & slapen",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABXp3MoBVeJbfP1CcHxj-1MXDcn12aTQ6yY,237904011)",
+            "school": {
+                "objectUrn": "urn:li:school:15427",
+                "entityUrn": "urn:li:fs_miniSchool:15427",
+                "active": true,
+                "schoolName": "Rotterdam University of Applied Sciences",
+                "trackingId": "v4c5Y8A/Ra2PvjpUes4WSQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQG3Kyr4cUYEWQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "description": "- Fast track\n- Volledig Engelstalig \nGericht op:\n- Marketing and research\n- Finance and Business analysis\n- Business environment\n- Business communication\n- Development and learning skills \n",
+            "schoolName": "Hogeschool Rotterdam",
+            "fieldOfStudy": "International Business and Management Studies",
+            "schoolUrn": "urn:li:fs_miniSchool:15427"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Engels"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

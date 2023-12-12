@@ -1,0 +1,214 @@
+{
+    "industryName": "Internet",
+    "lastName": "Bollee",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:6",
+    "firstName": "Jasper",
+    "entityUrn": "urn:li:fs_profile:ACoAAB1Rf7EBHBmS0EntlFNysB_Y3_l9NeAAje0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103947359"
+    },
+    "geoLocationName": "Harderwijk, Gelderland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "BSc - Buying Assistent bij Wehkamp",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQGMOi8t7wncDQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1593418241256?e=1707955200&v=beta&t=tTo5ddAZ5MWxysN1rX6s9UDk_mv-BMaVko1OnLi-cZY",
+    "img_200_200": "200_200/0/1593418241257?e=1707955200&v=beta&t=aMyZ_25vmARXymHX_xWICWdZMSXkX4381b_sNKak1qQ",
+    "img_400_400": "400_400/0/1593418241257?e=1707955200&v=beta&t=o38kc-3Q9utmvprnf-_vt-HwTBO188RoyqZylDVmKCE",
+    "img_800_800": "800_800/0/1593418241257?e=1707955200&v=beta&t=0RPHzMIC7S_cd9h8bzEu0_EJFG_cz1WRTi0J6ec0UqU",
+    "profile_id": "ACoAAB1Rf7EBHBmS0EntlFNysB_Y3_l9NeAAje0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAB1Rf7EBHBmS0EntlFNysB_Y3_l9NeAAje0",
+    "member_urn": "urn:li:member:491880369",
+    "public_id": "jasper-bollee-ba9890118",
+    "experience": [
+        {
+            "locationName": "Zwolle, Overijssel, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAB1Rf7EBHBmS0EntlFNysB_Y3_l9NeAAje0,2028301501)",
+            "geoLocationName": "Zwolle, Overijssel, Nederland",
+            "geoUrn": "urn:li:fs_geo:105761261",
+            "companyName": "wehkamp",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Buying Assistent",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11551",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQECUavdoftbsA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAB1Rf7EBHBmS0EntlFNysB_Y3_l9NeAAje0,1583014310)",
+            "companyName": "wehkamp",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Product Content Specialist ",
+            "companyUrn": "urn:li:fs_miniCompany:11551",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQECUavdoftbsA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAB1Rf7EBHBmS0EntlFNysB_Y3_l9NeAAje0,1510480765)",
+            "companyName": "wehkamp",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Stagiair Content Centre of Excellence",
+            "companyUrn": "urn:li:fs_miniCompany:11551",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQECUavdoftbsA/company-logo_"
+        },
+        {
+            "locationName": "Ermelo",
+            "entityUrn": "urn:li:fs_position:(ACoAAB1Rf7EBHBmS0EntlFNysB_Y3_l9NeAAje0,1008978001)",
+            "geoLocationName": "Ermelo",
+            "companyName": "Fundustry Events",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "description": "Het verzorgen van recreatie (paintball/airsoft) events: horeca, verkoop, onderhoud, scheidsrechter en begeleider. Vanaf september 2018 tot augustus 2019 aanvullend een leidinggevende functie vervuld.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Entertainment"
+                ]
+            },
+            "title": "Activiteiten begeleider",
+            "companyUrn": "urn:li:fs_miniCompany:10365833",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFI3CrMy9pa0g/company-logo_"
+        },
+        {
+            "locationName": "Utrecht en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAB1Rf7EBHBmS0EntlFNysB_Y3_l9NeAAje0,1061127452)",
+            "geoLocationName": "Utrecht en omgeving, Nederland",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "description": "O.a. bezig geweest het verbeteren van SEO, klantvragen beantwoorden & (product)pagina’s optimaliseren. Onderzoek gedaan naar optimalisatie campagnes.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Stagiair Product Specialist Wonen en Slapen",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB1Rf7EBHBmS0EntlFNysB_Y3_l9NeAAje0,337778410)",
+            "school": {
+                "objectUrn": "urn:li:school:15431",
+                "entityUrn": "urn:li:fs_miniSchool:15431",
+                "active": true,
+                "schoolName": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+                "trackingId": "ecroP3O9Q4qSyRHUuENU3A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQE5MUvxbWmHLg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "schoolName": "Hogeschool Utrecht",
+            "fieldOfStudy": "Bedrijfskunde MER",
+            "schoolUrn": "urn:li:fs_miniSchool:15431"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB1Rf7EBHBmS0EntlFNysB_Y3_l9NeAAje0,426175285)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "degreeName": "HAVO",
+            "schoolName": "RSG Slingerbos",
+            "fieldOfStudy": "Economie en Maatschappij"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

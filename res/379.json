@@ -1,0 +1,655 @@
+{
+    "summary": "I'm a confident and self-motivated individual with the commitment and flexibility to work in a changing environment, possessing excellent teamwork skills combined with the discipline to work extremely well on my own.\n\nI see myself as a person with strong operational and technical background, having the capability to understand business problems and provide effective solutions.",
+    "industryName": "Telecommunications",
+    "lastName": "M.",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:8",
+    "firstName": "Mário",
+    "entityUrn": "urn:li:fs_profile:ACoAAA1N1W0B3J_AfqkCbleNYerXbvZupSZ1460",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102011674"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Major Incident Manager at Infosys",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQE_aWg0nssPYw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1556448468707?e=1707955200&v=beta&t=GTrQNm97mosgEia7m0ltmNEtrT3r3EoAz76UoDwL3dc",
+    "img_200_200": "200_200/0/1556448468814?e=1707955200&v=beta&t=Hf55EbTNGGWHA0jXkz0H2F-ga3yZpdKogmGLbkgrifM",
+    "img_400_400": "400_400/0/1556448468851?e=1707955200&v=beta&t=62ScxDXiUbdHmUA9TE4xZh4ypVcFILTIJe-nzzLuRqs",
+    "img_500_500": "800_800/0/1556448468752?e=1707955200&v=beta&t=zDWpC7PEVkOT-3iOXfLMaadUQ0RkaUUyY6PLBjiqOtU",
+    "profile_id": "ACoAAA1N1W0B3J_AfqkCbleNYerXbvZupSZ1460",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAA1N1W0B3J_AfqkCbleNYerXbvZupSZ1460",
+    "member_urn": "urn:li:member:223204717",
+    "public_id": "mariobvn",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA1N1W0B3J_AfqkCbleNYerXbvZupSZ1460,2054126537)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Infosys",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Major Incident Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1283",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQE7Zf1-vvfbUA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA1N1W0B3J_AfqkCbleNYerXbvZupSZ1460,1601946001)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Infosys",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "CSD IT Applications Engineer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1283",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQE7Zf1-vvfbUA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA1N1W0B3J_AfqkCbleNYerXbvZupSZ1460,1470421539)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Liberty Global",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "CSD IT Applications Engineer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2645",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQENFprSrRgA3g/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA1N1W0B3J_AfqkCbleNYerXbvZupSZ1460,1405568146)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Viacom International Media Networks Benelux",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Entertainment"
+                ]
+            },
+            "title": "Operations Coordinator",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10325731",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEbmr74FNBVTA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAA1N1W0B3J_AfqkCbleNYerXbvZupSZ1460,1405566741)",
+            "companyName": "Career Break",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "company": {},
+            "title": "Traveling & Entrepreneurship",
+            "companyUrn": "urn:li:fs_miniCompany:13700566",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQG_2fDhS_YO3w/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA1N1W0B3J_AfqkCbleNYerXbvZupSZ1460,149326202)",
+            "school": {
+                "objectUrn": "urn:li:school:16107",
+                "entityUrn": "urn:li:fs_miniSchool:16107",
+                "active": true,
+                "schoolName": "Universidade Lusófona - Centro Universitário Lisboa",
+                "trackingId": "csykypShRuWzSVMVWQwV5A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQFt8z_-OP9O2g/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "Unfinished Bachelor's degree",
+            "schoolName": "Universidade Lusófona de Humanidades e Tecnologias",
+            "fieldOfStudy": "Security Studies",
+            "schoolUrn": "urn:li:fs_miniSchool:16107"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA1N1W0B3J_AfqkCbleNYerXbvZupSZ1460,149325797)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "schoolName": "Instituto de Criatividade, Artes e Novas Tecnologias",
+            "fieldOfStudy": "Camera and Lighting Course"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Inglês",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Português",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "ELEMENTARY"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Pebble Beach Systems",
+            "name": "Pebble Beach Systems - Engineering Training",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:105193",
+                "entityUrn": "urn:li:fs_miniCompany:105193",
+                "name": "Pebble",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630648701839/pebble_beach_systems_logo?e=1710374400&v=beta&t=nDg1MMNDprRhZmOSKtJHe_4W4D1OlHkPlEzbUOl54tI",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630648701839/pebble_beach_systems_logo?e=1710374400&v=beta&t=bYUhhWPDC7R_qzB-Y61KRiwf3p4cFqomU4Rn92tUcN8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630648701839/pebble_beach_systems_logo?e=1710374400&v=beta&t=LaZqpXkYD2Ti-zdwu-HG57s6SLGX84qZoXNFncDkrtA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG-xuCFxMsImA/company-logo_"
+                    }
+                },
+                "universalName": "pebbletv",
+                "dashCompanyUrn": "urn:li:fsd_company:105193",
+                "trackingId": "/GaEA69lRV6X5cGPycu8jg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:105193"
+        },
+        {
+            "authority": "Global Knowledge Nederland",
+            "name": "ITIL Foundation",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2876000",
+                "entityUrn": "urn:li:fs_miniCompany:2876000",
+                "name": "Global Knowledge Netherlands",
+                "showcase": false,
+                "active": false,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638370617043/global_knowledge_network_netherlands_bv_logo?e=1710374400&v=beta&t=Y8iG42wdmRtPWuxuGjIUooCFBWljQ6Zr3iViAOdwni4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638370617043/global_knowledge_network_netherlands_bv_logo?e=1710374400&v=beta&t=5O5niasvUOrub3ar5yjac6EqoqWcVF2N-LmAxdSr0is",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638370617043/global_knowledge_network_netherlands_bv_logo?e=1710374400&v=beta&t=HvyCrJI-sKR-uDyvA5wUF66M2LKqxSj3HUjNpj-damU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGrUVgaqCXY6Q/company-logo_"
+                    }
+                },
+                "universalName": "global-knowledge-network-netherlands-bv",
+                "dashCompanyUrn": "urn:li:fsd_company:2876000",
+                "trackingId": "1sgAXdIMSNuYuLi/HDP+cg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2876000"
+        },
+        {
+            "authority": "Harris Corporation",
+            "name": "Harris Navigator and Centrio O&M Training",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2067",
+                "entityUrn": "urn:li:fs_miniCompany:2067",
+                "name": "Harris Corporation",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630604081576/harris_corporation_logo?e=1710374400&v=beta&t=4D5UKfXlQ0LWc5IuBkrkO65tPcrngzYTxhcj6zXKAjI",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630604081576/harris_corporation_logo?e=1710374400&v=beta&t=EEPg5-2nPj2MQXS90pNyblP9P6eelFRx8Duu7hRv9Bc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630604081576/harris_corporation_logo?e=1710374400&v=beta&t=1z7B1YxMEbQsk7DrCzqdko9r-Sxl6oepeS3vWMMORAU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEb285R4Kib0w/company-logo_"
+                    }
+                },
+                "universalName": "harris-corporation",
+                "dashCompanyUrn": "urn:li:fsd_company:2067",
+                "trackingId": "CND1vM4OTFaYRDPvV9jgBA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2067"
+        },
+        {
+            "authority": "MoMe",
+            "name": "Ericsson System Training",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3033529",
+                "entityUrn": "urn:li:fs_miniCompany:3033529",
+                "name": "MoMe",
+                "showcase": false,
+                "active": false,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631407137185?e=1710374400&v=beta&t=B0RlyKXLZCSkG_eiGlqX7UjAbvLNFbYTz-JPe3jxXFk",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631407137185?e=1710374400&v=beta&t=1gpvzrReCD-F6xh7VaRBNj7NNyLdLT_rNgg7unEwi74",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631407137185?e=1710374400&v=beta&t=a8fgkYCuSDofTjO36nriMEUdaAoAIf6iGGisY-2BPAc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQF7GoTJXu5AlA/company-logo_"
+                    }
+                },
+                "universalName": "mome",
+                "dashCompanyUrn": "urn:li:fsd_company:3033529",
+                "trackingId": "euI6/MwJQHWYN9oIKa0Kpw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:3033529"
+        },
+        {
+            "authority": "Restart",
+            "name": "Workshop Sound for Film and Video",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:502173",
+                "entityUrn": "urn:li:fs_miniCompany:502173",
+                "name": "Restart",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1635935043320/restart_logo?e=1710374400&v=beta&t=kr-XdDp99yVqhSdxuffX00PPt6qmAclt86Tmi7cYEos",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1635935043320/restart_logo?e=1710374400&v=beta&t=BTFcJC6boDZ5-gO0UABQDQotERSnJbal7AoE5zJjfEo",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1635935043320/restart_logo?e=1710374400&v=beta&t=5byIZKvvuMuFOzHO_g5RPB0z52oJ5HzxNumtVoaeq1k",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGbAmN4N-6UMQ/company-logo_"
+                    }
+                },
+                "universalName": "restart",
+                "dashCompanyUrn": "urn:li:fsd_company:502173",
+                "trackingId": "nsDB7NraScyNVKFnT1nKLw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:502173"
+        },
+        {
+            "authority": "Restart",
+            "name": "Workshop Jimmy Jib Crane Operation",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:502173",
+                "entityUrn": "urn:li:fs_miniCompany:502173",
+                "name": "Restart",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1635935043320/restart_logo?e=1710374400&v=beta&t=kr-XdDp99yVqhSdxuffX00PPt6qmAclt86Tmi7cYEos",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1635935043320/restart_logo?e=1710374400&v=beta&t=BTFcJC6boDZ5-gO0UABQDQotERSnJbal7AoE5zJjfEo",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1635935043320/restart_logo?e=1710374400&v=beta&t=5byIZKvvuMuFOzHO_g5RPB0z52oJ5HzxNumtVoaeq1k",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGbAmN4N-6UMQ/company-logo_"
+                    }
+                },
+                "universalName": "restart",
+                "dashCompanyUrn": "urn:li:fsd_company:502173",
+                "trackingId": "z+18McfJS3iBpmcBtAAQXw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:502173"
+        },
+        {
+            "authority": "Restart",
+            "name": "Workshop Creative Video Editing - Avid",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:502173",
+                "entityUrn": "urn:li:fs_miniCompany:502173",
+                "name": "Restart",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1635935043320/restart_logo?e=1710374400&v=beta&t=kr-XdDp99yVqhSdxuffX00PPt6qmAclt86Tmi7cYEos",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1635935043320/restart_logo?e=1710374400&v=beta&t=BTFcJC6boDZ5-gO0UABQDQotERSnJbal7AoE5zJjfEo",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1635935043320/restart_logo?e=1710374400&v=beta&t=5byIZKvvuMuFOzHO_g5RPB0z52oJ5HzxNumtVoaeq1k",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGbAmN4N-6UMQ/company-logo_"
+                    }
+                },
+                "universalName": "restart",
+                "dashCompanyUrn": "urn:li:fsd_company:502173",
+                "trackingId": "fHA2B0kMR3W4eOsm1pnoxQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:502173"
+        },
+        {
+            "authority": "Restart",
+            "name": "Workshop Operating Steadycam",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:502173",
+                "entityUrn": "urn:li:fs_miniCompany:502173",
+                "name": "Restart",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1635935043320/restart_logo?e=1710374400&v=beta&t=kr-XdDp99yVqhSdxuffX00PPt6qmAclt86Tmi7cYEos",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1635935043320/restart_logo?e=1710374400&v=beta&t=BTFcJC6boDZ5-gO0UABQDQotERSnJbal7AoE5zJjfEo",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1635935043320/restart_logo?e=1710374400&v=beta&t=5byIZKvvuMuFOzHO_g5RPB0z52oJ5HzxNumtVoaeq1k",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGbAmN4N-6UMQ/company-logo_"
+                    }
+                },
+                "universalName": "restart",
+                "dashCompanyUrn": "urn:li:fsd_company:502173",
+                "trackingId": "ObdccZF5SG2lSCnawPc8pQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:502173"
+        },
+        {
+            "authority": "Nederlands Instituut voor Bedrijfshulpverlening",
+            "name": "Emergency Response Officer - Basic Training",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            "licenseNumber": "840208077"
+        },
+        {
+            "authority": "Nederlands Instituut voor Bedrijfshulpverlening",
+            "name": "Firefighting & Evacuation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            "licenseNumber": "840208077"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "President of the General Assembly",
+            "companyName": "Associação Anjo Animal",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "cause": "ANIMAL_RIGHTS",
+            "description": "The objective of this Association is to rescue and provide assistance to abandoned animals and then find responsible people to adopt them.\nLink: https://www.facebook.com/cantinhodoanjoanimal/\nEmail: cantinhoanjoanimal@gmail.com"
+        }
+    ],
+    "honors": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAA1N1W0B3J_AfqkCbleNYerXbvZupSZ1460,372875360)",
+            "description": "- Occupation: Assistant Camera.\n- Meu Amor (My Love) is a Portuguese telenovela (soap opera) which aired from October 19, 2009 to October 23, 2010 on TVI. The show won the 2010 International Emmy award for best telenovela.",
+            "title": "Emmy - Best Telenovela",
+            "issueDate": {
+                "year": 2010
+            },
+            "issuer": "International Academy of Television Arts & Sciences"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAA1N1W0B3J_AfqkCbleNYerXbvZupSZ1460,372872390)",
+            "description": "Occupation: Radar Operator - First Corporal.",
+            "title": "Commendation - Portuguese Army",
+            "issueDate": {
+                "month": 6,
+                "year": 2007
+            },
+            "issuer": "Portuguese Army"
+        }
+    ],
+    "projects": []
+}

@@ -1,0 +1,1650 @@
+{
+    "summary": "I’m focused on working with multi-location businesses and creative agencies to help them streamline the way their marketing assets are localised across their entire organisation.\n\nMarvia is an Amsterdam based tech company that’s currently partnered with several agencies and international businesses and is expanding those efforts in Europe and North America. \n\nTelling a brand’s story and guiding users to the right resources for a consistent experience is imperative in today’s world. Our tech allows corporate and creative marketing teams to maintain a single source of truth while maximising productivity and brand consistency.\n\nTeams can also use our tech to create print and digital materials for all channels in minutes with zero design experience while also being able to find, organise, and share all digital brand assets without wasting time.\n\nSpecialties:\n\n- Brand management and corporate identity\n- Co Branding\n- Global / Local marketing automation\n- Employee Activation\n\nIf you’re curious to see our platform in action or chat about a potential collaboration - then let’s get in touch! \n\nContact: ✉  ray@getmarvia.com | www.getmarvia.com | ✆ +31 (0)6 40609484 |",
+    "industryName": "Computer Software",
+    "lastName": "de Jong",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Ray",
+    "entityUrn": "urn:li:fs_profile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Helps brands grow 📈 💡| Keeping marketing on-brand everywhere 🌍  | Digital Ambassador | SaaS 🚀  |",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQHgs7KkAhA6eA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1654198394698?e=1707955200&v=beta&t=dzaYFHr5oEHkZMU4iEtWQ2ok2hq6K8dFKlnD0-Tk6k8",
+    "img_200_200": "200_200/0/1654198394698?e=1707955200&v=beta&t=lfOB67VjU-gYajtmC55K3B2Rz3q9Qbycl85qj2F9fFc",
+    "img_400_400": "400_400/0/1654198394698?e=1707955200&v=beta&t=FkkcKY-445rijPw-LW8eFAjsp7Aua2XmoGclpqYdQ4A",
+    "img_560_560": "800_800/0/1654198394698?e=1707955200&v=beta&t=qdY7NZKIyE-Y0NFX0hkHB3F7fgxTIXuOqpEKxdNvMIA",
+    "profile_id": "ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+    "member_urn": "urn:li:member:97174314",
+    "public_id": "raydejong",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,2095665200)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Marvia",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Senior Account Executive Europe ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:202777",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHFJ0GniLjX4g/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,1433714169)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "Marvia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "description": "- Pro-actively identify new and different business opportunities to provide increased sales \n- Active as Partnership Manager (Connect, Build & Grow)\n- Chairman at the weekly (international) sales call to ensure that the sales team is in line KPIs. \n- C-Level, D-Level & V-Level management\n- Participated in the weekly MT meeting \n- Maintain up-to-date with all industry trends, issues, and news. \n- Worked closely with the product and marketing department to ensure all sales opportunities are maximized \n- Developing new business sales opportunities for the full range of products \n- Maximize sales opportunities, proactively create new opportunities and achieve KPIs \n- Managing and developing partnerships with industry partners to work on business growth. \n- Identify development opportunities in new markets \n- Onboarding all sales new employees (FTE, interns)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "(Global) Business Development Manager & Partnership Manager",
+            "companyUrn": "urn:li:fs_miniCompany:202777",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHFJ0GniLjX4g/company-logo_"
+        },
+        {
+            "locationName": "Breda",
+            "entityUrn": "urn:li:fs_position:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,1257028643)",
+            "geoLocationName": "Breda",
+            "companyName": "Techsharks B.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "description": "Als specialist in arbeid & techniek bij Techsharks Projecten ben ik als regiomanager verantwoordelijk geweest voor de Regio Midden-West & Oost (Tilburg/Eindhoven/Arnhem). Hierbij lag mijn focus op allround (project)engineers die zich continue willen ontwikkelen in de procesindustrie. Uitdaging, dynamisch, zelfstandig, zij die dagelijks het verschil willen maken!  Samen op zoek naar de juiste oplossing waarbij we het maximale resultaat samen gaan bereiken middels een persoonlijke samenwerking. Dagelijks werkte ik samen met uiteenlopende bedrijven in de procesindustrie.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Region Manager Mid-West",
+            "companyUrn": "urn:li:fs_miniCompany:1674116",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFF9Pq3gZZpOg/company-logo_"
+        },
+        {
+            "locationName": "Eindhoven",
+            "entityUrn": "urn:li:fs_position:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,938366578)",
+            "geoLocationName": "Eindhoven",
+            "companyName": "Techsharks B.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2017
+                }
+            },
+            "description": "Als specialist in arbeid & techniek bij Techsharks Projecten ben ik als regiomanager verantwoordelijk geweest voor Regio West (Rotterdam/Breda/Tilburg). Hierbij was mijn focus op allround (project)engineers die zich continue willen ontwikkelen in de procesindustrie. Uitdaging, dynamisch, zelfstandig, zij die dagelijks het verschil willen maken!  Samen op zoek naar de juiste oplossing waarbij we het maximale resultaat samen gaan bereiken middels een persoonlijke samenwerking. Dagelijks werkte ik samen met uiteenlopende bedrijven in de procesindustrie.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Region Manager West",
+            "companyUrn": "urn:li:fs_miniCompany:1674116",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFF9Pq3gZZpOg/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,223)",
+                "urn:li:fs_course:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,224)",
+                "urn:li:fs_course:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,225)",
+                "urn:li:fs_course:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,226)"
+            ],
+            "locationName": "Eindhoven Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:104171433",
+            "companyName": "Brunel",
+            "description": "In de 360 graden rol van Sales & Recruitment Consultant Industrie ben ik verantwoordelijk geweest voor het rekruten van technisch professionals, acquisitie van new business (en uitbouwen van bestaande klanten), relatie management. Binnen de branche industrie had ik een specialisme; Industriele automatisering. De focusprofielen waar ik mij hard voor maakte waren; PLC, SCADA, DCS, Electrical, System- en integratie engineers. Daarnaast op teken/hardware (AutoCAD, CAD-Systemen en Eplan) en embedded software profielen (C, C++, .NET, C#).",
+            "title": "Business Consultant Engineering",
+            "companyUrn": "urn:li:fs_miniCompany:162807",
+            "entityUrn": "urn:li:fs_position:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,754354012)",
+            "geoLocationName": "Eindhoven Area, Netherlands",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "region": "urn:li:fs_region:(nl,5668)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHLdgv4dmCReA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,97)",
+                "urn:li:fs_course:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,221)"
+            ],
+            "projects": [
+                "urn:li:fs_project:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,98)",
+                "urn:li:fs_project:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,92)",
+                "urn:li:fs_project:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,82)",
+                "urn:li:fs_project:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,32)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,60416985)",
+            "school": {
+                "objectUrn": "urn:li:school:15416",
+                "entityUrn": "urn:li:fs_miniSchool:15416",
+                "active": true,
+                "schoolName": "Fontys University of Applied Sciences",
+                "trackingId": "F6hyiRm4TymXAyI18ZDNnw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHoPshjTmIrAg/company-logo_"
+            },
+            "activities": "• Customer psychology\n• Business Economics\n• Customer relationship management (CRM)\n• Service marketing\n• E-Marketing\n• English\n• Industrial marketing\n• Innovation management\n• Corporate Social Responsibility (CSR)\n• Management & Organisation\n• (Online) Marketing \n• Marketing communications (SEO/SEA)\n• Market research\n• Network & Acquisition\n• Presenting \n• Project management\n• Law (rights)\n• International Law\n• Salesmanagement\n• Strategic marketing",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "degreeName": "Bachelor of Science (BSc), Marketing Management",
+            "schoolName": "Fontys Hogescholen",
+            "fieldOfStudy": "Commerce, Marketing/Marketing Management, General",
+            "schoolUrn": "urn:li:fs_miniSchool:15416"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,60418097)",
+            "school": {
+                "objectUrn": "urn:li:school:23153",
+                "entityUrn": "urn:li:fs_miniSchool:23153",
+                "active": true,
+                "schoolName": "Summa College",
+                "trackingId": "4pyFZfh0RfKczZBVm8AmCw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEgAUq3rF0JGA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "MBO, level 4",
+            "schoolName": "ROC Eindhoven",
+            "fieldOfStudy": "Entrepreneur",
+            "schoolUrn": "urn:li:fs_miniSchool:23153"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,60418167)",
+            "school": {
+                "objectUrn": "urn:li:school:23153",
+                "entityUrn": "urn:li:fs_miniSchool:23153",
+                "active": true,
+                "schoolName": "Summa College",
+                "trackingId": "g0Od2ymERTmrjio0vAHvdg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEgAUq3rF0JGA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "degreeName": "MBO, Level 3",
+            "schoolName": "Summa College",
+            "fieldOfStudy": "Sales specialist",
+            "schoolUrn": "urn:li:fs_miniSchool:23153"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "German",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Koningklijke PBNA",
+            "name": "Veiligheid voor Intercedenten en Leidinggevenden VCU (VIL-VCU)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2025
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:14783356",
+                "entityUrn": "urn:li:fs_miniCompany:14783356",
+                "name": "Koninklijke PBNA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1662025256958/koninklijke_pbna_logo?e=1710374400&v=beta&t=XRpY5fBcGLE9dAFyWzEB7BkPADrsL-lAYqrfXZdq_n8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1662025256958/koninklijke_pbna_logo?e=1710374400&v=beta&t=PvEd7v1CoEc5vW9hGNRuqpDUQDsGJDBEwVigByBUMBM",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1662025256958/koninklijke_pbna_logo?e=1710374400&v=beta&t=pYjcLa8fLBgoEbM6dkgXp8WiDQEXjnGWHPXK9R_1Ot4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHXrD2gYUZs8w/company-logo_"
+                    }
+                },
+                "universalName": "koninklijke-pbna",
+                "dashCompanyUrn": "urn:li:fsd_company:14783356",
+                "trackingId": "PN92i0XgQaiRCFbKPjLuxw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:14783356"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Social Selling with LinkedIn",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "P0+MsJrUSHW5XOcNBSUgTQ=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/32969c057e491dd8947d5abe9dda7b600ecab7361095da15b698c93ceac124e0?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Developing a Competitive Strategy",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "+bsaQtsPRgaJsN3B4Gubgw=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/eb6e9297086d6cf8a6209bd34519bc7afd8b7be329db9036954086df95d1934b?trk=backfilled_certificate"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Catering",
+            "companyName": "Stichting Kinderen Kankervrij (KiKa)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2007
+                }
+            },
+            "cause": "CHILDREN",
+            "description": "Children Cancer Foundation (Kika) was founded in 2002 by Frits Hirschstein and Maarten Stoopendaal.\n\nKiKa aims to enhance healing. Opportunity in 2025 to 95% To achieve this, there is still a lot of expensive research required.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:1446673",
+                    "entityUrn": "urn:li:fs_miniCompany:1446673",
+                    "name": "Stichting Kinderen Kankervrij (KiKa)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1689580993134/stichting_kinderen_kankervrij_kika__logo?e=1710374400&v=beta&t=2_PPfA514ILx8EqiG2QzOkwdyAB__BcXnBPOUp4VGyo",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1689580993134/stichting_kinderen_kankervrij_kika__logo?e=1710374400&v=beta&t=g9_ISKbzv6QeHhHU7vM9onClwZXVEcIvjsb91DrGEMY",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1689580993134/stichting_kinderen_kankervrij_kika__logo?e=1710374400&v=beta&t=oRcLGPL5tYvTzoO5ILnNqYu24pPz44FWkjEk4_Ntihw",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQGsGUPB_rPJNA/company-logo_"
+                        }
+                    },
+                    "universalName": "stichting-kinderen-kankervrij-kika",
+                    "dashCompanyUrn": "urn:li:fsd_company:1446673",
+                    "trackingId": "n0TkF3ArTI6ypo8mHIH+Tg=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1446673"
+        }
+    ],
+    "honors": [],
+    "projects": [
+        {
+            "occupation": "urn:li:fs_education:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,60416985)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Lieke",
+                        "lastName": "van Hooijdonk",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAWyga8BTF-sOQSdCwZlXPIj17IzHjXupMA",
+                        "occupation": "Manager Backoffice bij Heroes Only",
+                        "objectUrn": "urn:li:member:95584687",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAWyga8BTF-sOQSdCwZlXPIj17IzHjXupMA",
+                        "publicIdentifier": "lieke-de-greef",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1679046015314?e=1707955200&v=beta&t=NVWwkm82a6SpPyEBf6lJbFlUlUd3FSlV551rxOo23w0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1679046015314?e=1707955200&v=beta&t=S0fnHvBXSf4vU_454SL3wGUm1itPSc5NKrhGpyfQVSo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1679046015315?e=1707955200&v=beta&t=qpHDq8zrMjVaznRsB9qZmjLpZX53Gjo58l7CHLXaW_4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1679046015315?e=1707955200&v=beta&t=2LV8rRct1ZV37M3dkuPO643DmHCTCUiKzuDheV08I-U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQHRBjVupP6zXA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "nTKUJBJ3Sr+yQBWs2VfIZQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,98,99)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAWyga8BTF-sOQSdCwZlXPIj17IzHjXupMA"
+                },
+                {
+                    "member": {
+                        "firstName": "Ray",
+                        "lastName": "de Jong",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+                        "occupation": "Helps brands grow 📈 💡| Keeping marketing on-brand everywhere 🌍 | Digital Ambassador | SaaS 🚀 |",
+                        "objectUrn": "urn:li:member:97174314",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1698310691818?e=1707955200&v=beta&t=7-MpgYjEgt25aCS3qjI2yJUtmqB4tQ8yU_hMY9faNow",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1698310691818?e=1707955200&v=beta&t=dmEBzqR-O9lMDdeTA7nJpOPgTeUbWBj1cganpiohWAM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQHDdApSD4J1RQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "raydejong",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1654198394698?e=1707955200&v=beta&t=dzaYFHr5oEHkZMU4iEtWQ2ok2hq6K8dFKlnD0-Tk6k8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1654198394698?e=1707955200&v=beta&t=lfOB67VjU-gYajtmC55K3B2Rz3q9Qbycl85qj2F9fFc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1654198394698?e=1707955200&v=beta&t=FkkcKY-445rijPw-LW8eFAjsp7Aua2XmoGclpqYdQ4A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 560,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1654198394698?e=1707955200&v=beta&t=qdY7NZKIyE-Y0NFX0hkHB3F7fgxTIXuOqpEKxdNvMIA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 560
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQHgs7KkAhA6eA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "yCAsXvFnSMya2Cpw/nUMsA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,98,100)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2013
+                }
+            },
+            "description": "Brainport Eindhoven Region is one of the three economic pillars of the country, along with Airport (Amsterdam) and Seaport (Rotterdam)\n\nOur client Carl Heskes (chairman of MKB Eindhoven) wanted to point out a way to connect with generation Y ('85 - '95) through Brainport.\n\nWe had to make a specific advice to connect with the Y GEN.",
+            "title": "Brainport & MKB Eindhoven",
+            "url": "http://www.brainport.nl/en"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,60416985)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Ray",
+                        "lastName": "de Jong",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+                        "occupation": "Helps brands grow 📈 💡| Keeping marketing on-brand everywhere 🌍 | Digital Ambassador | SaaS 🚀 |",
+                        "objectUrn": "urn:li:member:97174314",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1698310691818?e=1707955200&v=beta&t=7-MpgYjEgt25aCS3qjI2yJUtmqB4tQ8yU_hMY9faNow",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1698310691818?e=1707955200&v=beta&t=dmEBzqR-O9lMDdeTA7nJpOPgTeUbWBj1cganpiohWAM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQHDdApSD4J1RQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "raydejong",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1654198394698?e=1707955200&v=beta&t=dzaYFHr5oEHkZMU4iEtWQ2ok2hq6K8dFKlnD0-Tk6k8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1654198394698?e=1707955200&v=beta&t=lfOB67VjU-gYajtmC55K3B2Rz3q9Qbycl85qj2F9fFc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1654198394698?e=1707955200&v=beta&t=FkkcKY-445rijPw-LW8eFAjsp7Aua2XmoGclpqYdQ4A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 560,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1654198394698?e=1707955200&v=beta&t=qdY7NZKIyE-Y0NFX0hkHB3F7fgxTIXuOqpEKxdNvMIA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 560
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQHgs7KkAhA6eA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "yCAsXvFnSMya2Cpw/nUMsA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,82,83)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE"
+                },
+                {
+                    "member": {
+                        "firstName": "Helma",
+                        "lastName": "Kurvers - van Meijl",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXIjCoB3dAxozxrTiTEJIOTI_-c-RfJWb0",
+                        "occupation": "Marketing coördinator at Mebu BV",
+                        "objectUrn": "urn:li:member:97029162",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAXIjCoB3dAxozxrTiTEJIOTI_-c-RfJWb0",
+                        "publicIdentifier": "helma-van-meijl",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1603363920886?e=1707955200&v=beta&t=7gwDyivMF17k3j3iTAczAN6jvTyR4al8CLZlTUwIClg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1603363920887?e=1707955200&v=beta&t=MXHN410IY631JfGNME_f8eoZxK7CRD-ooUdqv7IbX3s",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1603363920887?e=1707955200&v=beta&t=xKXoBiynbUHM8Q61Gv5NEqFA1H2ey36UhWNqSFYSivU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1603363920887?e=1707955200&v=beta&t=69B-E_Xaid4vwuUiyZYUpCzhvijxMEPQ_iEN6QU5Jo4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHAwVtM2YCq-w/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "X+vzllpcSz6n/mAWC4r4Hg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,82,84)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXIjCoB3dAxozxrTiTEJIOTI_-c-RfJWb0"
+                },
+                {
+                    "member": {
+                        "firstName": "Ralf",
+                        "lastName": "van Oosterhout",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAW6lygBdMvX4bjYaeRKk29UgyG7gfe5X2Y",
+                        "occupation": "Business Consultant / Projectmanager bij Spie Nederland",
+                        "objectUrn": "urn:li:member:96114472",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAW6lygBdMvX4bjYaeRKk29UgyG7gfe5X2Y",
+                        "publicIdentifier": "ralfvanoosterhout1",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1696495178359?e=1707955200&v=beta&t=a9qczQbDj0GdAcXLCuzi5fpMaFqhbSLpms7SPLEBxmk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1696495178359?e=1707955200&v=beta&t=bTTgJQBb5d9q5IBHViFRH8WsnAaEl7LBL5uctaCrX0Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1696495178359?e=1707955200&v=beta&t=X3Nxf8m_P4-VltAKXhWj49ivF1f_VeDJncM8Jr7Zc1Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 511,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1696495178359?e=1707955200&v=beta&t=jaEH4i7gHet77d1GygmIn_hmeeTRuFGs6X5xYYW0uOU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 511
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQG5ZihJrJImwg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "CBrPYgndRAeVWTQucEzRtg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,82,85)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAW6lygBdMvX4bjYaeRKk29UgyG7gfe5X2Y"
+                },
+                {
+                    "member": {
+                        "firstName": "Michelle",
+                        "lastName": "Renders - Rademakers",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXxUdABl8lJLVHuwctZ9XmV3aYxlPDYGLE",
+                        "occupation": "Label manager bij Heartfeldt Records & Marketing Manager bij Sam Feldt",
+                        "objectUrn": "urn:li:member:99701200",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAXxUdABl8lJLVHuwctZ9XmV3aYxlPDYGLE",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1636377055037?e=1707955200&v=beta&t=dJ22JxAQWdDrM0ANL7x8auI-WYCclO7DVkVxeQmgE7Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1636377055037?e=1707955200&v=beta&t=OIYtPBVOfjdVpoaFsbfKcv-xLanT8EzkkHoGMiVttrs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQFyhDcIUSdk8Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "michelle-renders-rademakers-55448129",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1621268037642?e=1707955200&v=beta&t=6XTJ4fJB4h9UXLKu7aYHlrwAzpTG6dPzr2ck4uA5Wvk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1621268037642?e=1707955200&v=beta&t=A6x3p7KLqniOylkXCIzYci6I0kYvfpLzmnf9mUkdFrY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1621268037642?e=1707955200&v=beta&t=9SnCPCQ_j1XSqf3v7AE_wLET5sJlLI6OKmRU20WC9eI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1621268037642?e=1707955200&v=beta&t=ynXSu8ChnkB9LwXsLt8EIp_a_yTinYoPhek7JztbCZk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGV-MrQTqNBGQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "AAIZaqvMS866c1joT1mCDw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,82,86)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXxUdABl8lJLVHuwctZ9XmV3aYxlPDYGLE"
+                },
+                {
+                    "member": {
+                        "firstName": "Frans",
+                        "lastName": "Peters",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAWsEY8BPL2Wun8z4lCPp-ZqTa8vLEc1CAc",
+                        "occupation": "Tender Specialist at Wiltec BV",
+                        "objectUrn": "urn:li:member:95162767",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAWsEY8BPL2Wun8z4lCPp-ZqTa8vLEc1CAc",
+                        "publicIdentifier": "frans-peters-wiltec",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1538657468847?e=1707955200&v=beta&t=mXJat_d0XBKVRAFfmr6S5d59o7qkEiTpsMkTZdpUwsE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1538657468928?e=1707955200&v=beta&t=smiQZI8oM2TarZYwYDpaY5T65V54aBRi1RE_GTkmbXQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1538657469223?e=1707955200&v=beta&t=Dmxfm93XNSuV3LjpL-wNyQOSR7jM2Gyn9IrJ_MmkmpI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 500,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1538657469013?e=1707955200&v=beta&t=9__N0YRekn5izBOEZsyg9SUiRZEWrX0G2J3ishjV0m4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 500
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQFdLfMxcAeUMQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "ITL6739fRNiLqCVJ9J5VYw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,82,87)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAWsEY8BPL2Wun8z4lCPp-ZqTa8vLEc1CAc"
+                },
+                {
+                    "member": {
+                        "firstName": "Pauline",
+                        "lastName": "Heuvelmans",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXKrT4BuH3gbMGbo2y7IW6O9HplAsGtLh8",
+                        "occupation": "Concept Developer at Jumbo Supermarkten",
+                        "objectUrn": "urn:li:member:97168702",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAXKrT4BuH3gbMGbo2y7IW6O9HplAsGtLh8",
+                        "publicIdentifier": "pauline-heuvelmans-a7a65b28",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1633372695624?e=1707955200&v=beta&t=PuoNpIyTWMrNB9RB5LjKQdgS5wLVGYf4Pk_3C7ttiBs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1633372695624?e=1707955200&v=beta&t=9PgmFJNWi8QNUc3JLFEiTXSU0IP0tn89izH9dQwR1qU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1633372695624?e=1707955200&v=beta&t=hrwdwYF4KxB-Dpqht73PC-hkp5oYwb-g3HdILnEzYQY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1633372695624?e=1707955200&v=beta&t=7ryeHYwHxRnODRMBntNhn5h5MZMbfIa_L4c9eKXa46k",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQFVgiRxBExTGg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "d/s5sW48Tkmnb4ZnpGleKA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,82,88)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXKrT4BuH3gbMGbo2y7IW6O9HplAsGtLh8"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2012
+                }
+            },
+            "description": "Together with five other team members during the second year of my study Commercial Economics, I wrote an innovation plan for Punt Extra. This organization wanted to develop a new innovative service for the target group of women under 35 with the theme of home and family.\n\nThis target is achieved by qualitative and quantitative research, to investigated the needs of this target group. After that we had a creativity session with the team for a new innovation service concept.",
+            "title": "Innovation plan Punt Extra",
+            "url": "http://www.puntextra.nl"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,60416985)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Ray",
+                        "lastName": "de Jong",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+                        "occupation": "Helps brands grow 📈 💡| Keeping marketing on-brand everywhere 🌍 | Digital Ambassador | SaaS 🚀 |",
+                        "objectUrn": "urn:li:member:97174314",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1698310691818?e=1707955200&v=beta&t=7-MpgYjEgt25aCS3qjI2yJUtmqB4tQ8yU_hMY9faNow",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1698310691818?e=1707955200&v=beta&t=dmEBzqR-O9lMDdeTA7nJpOPgTeUbWBj1cganpiohWAM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQHDdApSD4J1RQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "raydejong",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1654198394698?e=1707955200&v=beta&t=dzaYFHr5oEHkZMU4iEtWQ2ok2hq6K8dFKlnD0-Tk6k8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1654198394698?e=1707955200&v=beta&t=lfOB67VjU-gYajtmC55K3B2Rz3q9Qbycl85qj2F9fFc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1654198394698?e=1707955200&v=beta&t=FkkcKY-445rijPw-LW8eFAjsp7Aua2XmoGclpqYdQ4A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 560,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1654198394698?e=1707955200&v=beta&t=qdY7NZKIyE-Y0NFX0hkHB3F7fgxTIXuOqpEKxdNvMIA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 560
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQHgs7KkAhA6eA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "yCAsXvFnSMya2Cpw/nUMsA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,92,93)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE"
+                },
+                {
+                    "member": {
+                        "firstName": "Bram",
+                        "lastName": "Scheefhals",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAdOVYUBg2F-ewaKS3Ig1CLJVQqG51irlRg",
+                        "occupation": "Carmeleon | Verzekeren & Financieren",
+                        "objectUrn": "urn:li:member:122574213",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAdOVYUBg2F-ewaKS3Ig1CLJVQqG51irlRg",
+                        "publicIdentifier": "bramscheefhals",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1637824693841?e=1707955200&v=beta&t=diGxsQ43yHNtemCP-V3leIvdiHvtkrpLn0zO6JQ2Zdc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1637824693841?e=1707955200&v=beta&t=YajxKtF-tLbiqT3QyRZKhbenxEHa8BuiEBTrycP8uw8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1637824693841?e=1707955200&v=beta&t=smStvHJJMPDwpEnzZW-Zs5cU4tTugf44tvxEbDnMbsg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1637824693841?e=1707955200&v=beta&t=Jj09LBr89ZIsAi8pNTsDStokTvZz_b5aYS49GV_hVto",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQE9CK978ye9WQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "fSSdAKLHRO2WanedTHdR0A=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,92,94)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAdOVYUBg2F-ewaKS3Ig1CLJVQqG51irlRg"
+                },
+                {
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,92,95)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXKuXIBo9iVkIynXQhSGj4HtBhew35Hb5g"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2013
+                }
+            },
+            "description": "The goal of this export project was to solve a problem that ALT Montage B.V. had in 2013. ALT Montage B.V. has predicted a shrink in the Dutch market while it is looking to expand her market. The most favourable option for ALT Montage B.V. was to export their products. Therefore the project group made a international market selection model to analyse the market potential in foreign countries. The project group visited Germany for 5 days to do further research (networking, creating business relations).",
+            "title": "Exportplan ALT Montage",
+            "url": "http://www.altmontage.nl"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,60416985)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Ray",
+                        "lastName": "de Jong",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+                        "occupation": "Helps brands grow 📈 💡| Keeping marketing on-brand everywhere 🌍 | Digital Ambassador | SaaS 🚀 |",
+                        "objectUrn": "urn:li:member:97174314",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1698310691818?e=1707955200&v=beta&t=7-MpgYjEgt25aCS3qjI2yJUtmqB4tQ8yU_hMY9faNow",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1698310691818?e=1707955200&v=beta&t=dmEBzqR-O9lMDdeTA7nJpOPgTeUbWBj1cganpiohWAM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQHDdApSD4J1RQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "raydejong",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1654198394698?e=1707955200&v=beta&t=dzaYFHr5oEHkZMU4iEtWQ2ok2hq6K8dFKlnD0-Tk6k8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1654198394698?e=1707955200&v=beta&t=lfOB67VjU-gYajtmC55K3B2Rz3q9Qbycl85qj2F9fFc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1654198394698?e=1707955200&v=beta&t=FkkcKY-445rijPw-LW8eFAjsp7Aua2XmoGclpqYdQ4A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 560,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1654198394698?e=1707955200&v=beta&t=qdY7NZKIyE-Y0NFX0hkHB3F7fgxTIXuOqpEKxdNvMIA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 560
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQHgs7KkAhA6eA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "yCAsXvFnSMya2Cpw/nUMsA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,32,33)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE"
+                },
+                {
+                    "member": {
+                        "firstName": "Mike",
+                        "lastName": "van der Veen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXJuFoBBeZhNVQiLS2-hHf5j8w7o_vef8Y",
+                        "occupation": "Productmanager 3B-Bruggen en RNSS bij Rijkswaterstaat | MScBA Bedrijfskunde | Advanced IT Management, Strategie & Leiderschap",
+                        "objectUrn": "urn:li:member:97106010",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAXJuFoBBeZhNVQiLS2-hHf5j8w7o_vef8Y",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1643354366588?e=1707955200&v=beta&t=HgD202ttdUBpDk4dPz0Dy3wTlHqufKz9_MFXkLZyFlE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 199
+                                    },
+                                    {
+                                        "width": 999,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1643354366589?e=1707955200&v=beta&t=UNg8PRwRvK1Qc_L1xq4YxwtAptKB5fir2gajOYiA41M",
+                                        "expiresAt": 1707955200000,
+                                        "height": 249
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQF8dOM6OHmE7w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mike-van-der-veen-73662b28",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1658947482108?e=1707955200&v=beta&t=RdOrio65WWzGst--8N2CawvuznglLlomziDBUsvOfeY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1658947482108?e=1707955200&v=beta&t=ubks6gLbgxipPFhXWwCBv8-bt7PruEdTiYrRZDO3AUg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1658947482108?e=1707955200&v=beta&t=KkHvGCbMEozWBVg9CnvXfSlAwFddsKoq8ABwsUOQP-M",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1658947482108?e=1707955200&v=beta&t=Y8748gYWnDvsR8lyfnuyHr-4rkpJO7PRB35jeg95A0g",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQEO8wEBVWobEw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "I2r6qb1+Qgu68KqJe7sJPw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,32,34)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXJuFoBBeZhNVQiLS2-hHf5j8w7o_vef8Y"
+                },
+                {
+                    "member": {
+                        "firstName": "Frans",
+                        "lastName": "Peters",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAWsEY8BPL2Wun8z4lCPp-ZqTa8vLEc1CAc",
+                        "occupation": "Tender Specialist at Wiltec BV",
+                        "objectUrn": "urn:li:member:95162767",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAWsEY8BPL2Wun8z4lCPp-ZqTa8vLEc1CAc",
+                        "publicIdentifier": "frans-peters-wiltec",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1538657468847?e=1707955200&v=beta&t=mXJat_d0XBKVRAFfmr6S5d59o7qkEiTpsMkTZdpUwsE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1538657468928?e=1707955200&v=beta&t=smiQZI8oM2TarZYwYDpaY5T65V54aBRi1RE_GTkmbXQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1538657469223?e=1707955200&v=beta&t=Dmxfm93XNSuV3LjpL-wNyQOSR7jM2Gyn9IrJ_MmkmpI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 500,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1538657469013?e=1707955200&v=beta&t=9__N0YRekn5izBOEZsyg9SUiRZEWrX0G2J3ishjV0m4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 500
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQFdLfMxcAeUMQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "ITL6739fRNiLqCVJ9J5VYw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,32,35)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAWsEY8BPL2Wun8z4lCPp-ZqTa8vLEc1CAc"
+                },
+                {
+                    "member": {
+                        "firstName": "Erik",
+                        "lastName": "Pieterse",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXNpF4BkGbTMtPxAeKqXR1uEt9Eoc4OEYk",
+                        "occupation": "Key Account Support at RUBIX-BNL",
+                        "objectUrn": "urn:li:member:97363038",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAXNpF4BkGbTMtPxAeKqXR1uEt9Eoc4OEYk",
+                        "publicIdentifier": "erik-pieterse-42673428",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517507444142?e=1707955200&v=beta&t=K7VkrjHQtvahNsITSdcGPQ2MrJReXV2SMTaMyTMQlos",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517507444139?e=1707955200&v=beta&t=G5ylkFnBtbmOLFv4Iwlt9rmBFulndC4G0JSepaYSKvE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 315,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517507443884?e=1707955200&v=beta&t=ryRn1XPz8IgB0QHAjZrqiDLzVKAqeSJ6_SDKG2jFjjo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 315
+                                    },
+                                    {
+                                        "width": 315,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517507443953?e=1707955200&v=beta&t=qKaeL6ketQvlmGtB3f4EiS81f6HsIw7OoPMtajonA20",
+                                        "expiresAt": 1707955200000,
+                                        "height": 315
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQFeAYIq-vhrbA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "D4GIDTaARx2G1q6GIH1Mpg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,32,58)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXNpF4BkGbTMtPxAeKqXR1uEt9Eoc4OEYk"
+                },
+                {
+                    "member": {
+                        "firstName": "Nick",
+                        "lastName": "Pennings",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAWrlyoBRVgTHI4EbidjhThO9Dt8NQD9kG4",
+                        "occupation": "Customer Development Leader Mars",
+                        "objectUrn": "urn:li:member:95131434",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAWrlyoBRVgTHI4EbidjhThO9Dt8NQD9kG4",
+                        "publicIdentifier": "nick-pennings-ab6a3827",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1609832049797?e=1707955200&v=beta&t=1MVXNJ3I9SNLLCwtB8zzUTBinY1qFkhICpPxucCK9zg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1609832049797?e=1707955200&v=beta&t=Ipl-337FUtGrQN9kwcs3z74YtcGOsm9Wza3MlJ6sXSE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1609832049797?e=1707955200&v=beta&t=19nDIeXNOgdFNdQlyF1uXQD1WMa38DfD11kjY_CUuUQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 409,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1609832049797?e=1707955200&v=beta&t=qOa87QK_1d5SMUBaPTuGXjo8Tqu_P5gQofoQSQ0H2-E",
+                                        "expiresAt": 1707955200000,
+                                        "height": 409
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGDEOPJ6G_Umw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "MLptonpuRuuGPJtZbZxAEA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,32,89)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAWrlyoBRVgTHI4EbidjhThO9Dt8NQD9kG4"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2011
+                }
+            },
+            "description": "This marketing plan consist the key to get a brand awareness and a better identity. Namely creativity, innovation and the right market adjustment are the success factors.\n\nOur group won the 1st prize: a voucher of 500 euro",
+            "title": "Brand awareness Plan-it by Praxis Eindhoven",
+            "url": "http://www.plan-it-by-praxis.nl/"
+        },
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Ray",
+                        "lastName": "de Jong",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+                        "occupation": "Helps brands grow 📈 💡| Keeping marketing on-brand everywhere 🌍 | Digital Ambassador | SaaS 🚀 |",
+                        "objectUrn": "urn:li:member:97174314",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1698310691818?e=1707955200&v=beta&t=7-MpgYjEgt25aCS3qjI2yJUtmqB4tQ8yU_hMY9faNow",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1698310691818?e=1707955200&v=beta&t=dmEBzqR-O9lMDdeTA7nJpOPgTeUbWBj1cganpiohWAM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQHDdApSD4J1RQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "raydejong",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1654198394698?e=1707955200&v=beta&t=dzaYFHr5oEHkZMU4iEtWQ2ok2hq6K8dFKlnD0-Tk6k8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1654198394698?e=1707955200&v=beta&t=lfOB67VjU-gYajtmC55K3B2Rz3q9Qbycl85qj2F9fFc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1654198394698?e=1707955200&v=beta&t=FkkcKY-445rijPw-LW8eFAjsp7Aua2XmoGclpqYdQ4A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 560,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1654198394698?e=1707955200&v=beta&t=qdY7NZKIyE-Y0NFX0hkHB3F7fgxTIXuOqpEKxdNvMIA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 560
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQHgs7KkAhA6eA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "yCAsXvFnSMya2Cpw/nUMsA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,36,37)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE"
+                },
+                {
+                    "member": {
+                        "firstName": "Manon",
+                        "lastName": "Bogman",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXQrfkBsOItqYK685nRznJwd46zh706iVs",
+                        "occupation": "Marketing Data Analyst at Vescom B.V.",
+                        "objectUrn": "urn:li:member:97562105",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAXQrfkBsOItqYK685nRznJwd46zh706iVs",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517510525070?e=1707955200&v=beta&t=qzDplLUaab5R0ss7ezA6uUH31p2DvM8Bd9VCad2B-bQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1024,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517510525056?e=1707955200&v=beta&t=LVnbFE7t8b-q5sF10BRqOHU9_lrGDiX0t5f8e4h_I5A",
+                                        "expiresAt": 1707955200000,
+                                        "height": 256
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQEl-3p7IeUfcQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "manon-bogman",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1562269205152?e=1707955200&v=beta&t=w2eaDmP3gpc93W3uO3GRajZQo69-m-RItQ1sE5UN7uk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1562269205233?e=1707955200&v=beta&t=s0YUWmcjCFriytmwthNNsu0r_F9NX6Pl5AX9qyowWcY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1562269205270?e=1707955200&v=beta&t=047t2ouhUbydGdrYlFPitSw9BeKuH2fRZQCimQ1TANk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 500,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1562269205166?e=1707955200&v=beta&t=t73rZp797KnNCXtTGqPo92emqInBp7Dn5f3bwRefQaE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 500
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQG1Yjve20RVRg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "xdiUeyUfTe+TexolRV3Bsw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,36,38)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXQrfkBsOItqYK685nRznJwd46zh706iVs"
+                },
+                {
+                    "member": {
+                        "firstName": "Maxime",
+                        "lastName": "Janssen",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAWrBmIBnmR4yamE-pQd4LoVzcmPhkuyWrQ",
+                        "occupation": "Content Marketeer bij Parkstad Limburg Theater",
+                        "objectUrn": "urn:li:member:95094370",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAWrBmIBnmR4yamE-pQd4LoVzcmPhkuyWrQ",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1517473177403?e=1707955200&v=beta&t=kyIgAqleVFtWUda2jUak4icMrb1EtmBIteEZyjrI4Pw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1517473177407?e=1707955200&v=beta&t=3Oa4mHNfSpG7ITY-dJKY48XSYkGUMLXn2NU4XF1ZD2s",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQF65EnbV1n4vA/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "maxime-janssen-56aa1b27",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1608219176637?e=1707955200&v=beta&t=vDYxuZ__0LlLqo-HQqySBIiNPVHx2d77C4zjk0UZBrk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1608219176637?e=1707955200&v=beta&t=ey49Em0Zm31YnHif-5UZCYayCXqebWmgN7lALve1GnM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1608219176637?e=1707955200&v=beta&t=7jqk8v29SvN1uMY91RUxN36JkVTIWbRaX_wdG5_lgVk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1608219176637?e=1707955200&v=beta&t=bfs1_8BeO8xytC3WmIMGkpEi7QggQznx0huqhRejtSs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGaZBudqYEt-A/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "GDCpVUAFS6OovH02VncGQw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,36,39)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAWrBmIBnmR4yamE-pQd4LoVzcmPhkuyWrQ"
+                },
+                {
+                    "member": {
+                        "firstName": "Boudewijn",
+                        "lastName": "Muskens",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUgWf4BGELVPbMbAgOGfIEbzjLWAfOmtUc",
+                        "occupation": "Account Manager @ BAS Parts & Tyres",
+                        "objectUrn": "urn:li:member:86006270",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAUgWf4BGELVPbMbAgOGfIEbzjLWAfOmtUc",
+                        "publicIdentifier": "boudewijnmuskens",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1593535622048?e=1707955200&v=beta&t=6kU-5LvNJuNIiqeDpWA_CEyuZkh62bCY1d9HJAIs-3k",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1593535622048?e=1707955200&v=beta&t=vcjOJJxK4l-gZdRQ8GyCJMi2EfCWYtcpoPqtUnuIlC4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1593535622048?e=1707955200&v=beta&t=KncKAB3T-5-ug6yNhK5TwhDwbGwaXrdizC0N_-5D5G4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1593535622048?e=1707955200&v=beta&t=Y22qdebM9jwMq96O98-kUwp7rdUoi9voSkm0538v8DM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQEgMGDF1-hjgg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "X4Uwg1q9R2eWMlOIDcj0hQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,36,40)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAUgWf4BGELVPbMbAgOGfIEbzjLWAfOmtUc"
+                },
+                {
+                    "member": {
+                        "firstName": "Yassine",
+                        "lastName": "Bnouhoud",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAXO2AwBkvlx643HUHtGtqz-RSG-SGWhfSQ",
+                        "occupation": "at Comtree",
+                        "objectUrn": "urn:li:member:97441804",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAXO2AwBkvlx643HUHtGtqz-RSG-SGWhfSQ",
+                        "publicIdentifier": "yassine-bnouhoud-b2477128",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517508647022?e=1707955200&v=beta&t=vfpjk-zzfrpmE4QTPUCH89Mg0apO6xmVzrH8Bo_4sOk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517508646988?e=1707955200&v=beta&t=wDCXWxyV7oacQ0ewOvKRyP6Lub6iaYOXcgPNjJMDu4c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517508646978?e=1707955200&v=beta&t=GNJ2Z2Ex74rmvrI3EhDHTO_cJ0Rt1PGc1VnqFKxwg9c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 500,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517508647335?e=1707955200&v=beta&t=nUWkWwrV98PL1OBlKChPX2gMsq2wlqeafs5yIK828Xk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 500
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQELTfVJ9qHaMw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7SU9dn6mTxqLxahOfFayvw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAXKwyoBMmZ0CE_waX-ThItqjAi0pqMxHNE,36,41)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAXO2AwBkvlx643HUHtGtqz-RSG-SGWhfSQ"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2011
+                }
+            },
+            "description": "Ruijters financial advisors had two problems, their identity and to get more prospects in times of economic crisis. This sales plan consists some creative sales activities and other opportunities to reach more prospects of their target group.",
+            "title": "Advisory plan for Ruijters financial advisors",
+            "url": "http://www.ruijters.nl/go/pages/home.html"
+        }
+    ]
+}

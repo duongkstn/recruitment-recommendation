@@ -1,0 +1,244 @@
+{
+    "summary": "I am a senior developer of websites that utilize PHP and CMS (WordPress / Joomla / Drupal / Magento, etc.). I believe in adhering to strict coding standards but also like to keep up with the latest technologies and languages. For more than 15 years, I have created and executed multiple sites on the WordPress and PHP platforms. I have solid experience in developing themes and templates, plugins in WordPress, and modules in Joomla. Up front client communication is an important part of my workflow.\n\nMore recently I have focused my development skills on WordPress customization. This has allowed me to master internal functionality, which in turn allows me to build exceptionally dynamic, unique, and personalized WordPress experiences, regardless of business or genre.\n\nSKILLS\n\n1. PHP, Woocommerce, Javascript, jQuery, AJAX, MySQL \n2. Wordpress, Drupal, Magento, Laravel, Node.js, Angular, CodeIgniter, CakePHP, YII\n3. HTML/HTML5, CSS/CSS3, Responsive HTML\n4. Object Oriented Programming\n5. Web services, MVC Structure, Json, Restful API\n\nPlease contact me if you have any type of work related to my skills.\nEmail: tohemant.mca@gmail.com\nSkype: hapani.hemant\nPhone: +91 9723000534 (Whatsapp + Telegram)",
+    "industryName": "Computer Software",
+    "lastName": "Hapani",
+    "locationName": "India",
+    "student": false,
+    "geoCountryName": "India",
+    "geoCountryUrn": "urn:li:fs_geo:102713980",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 8,
+        "day": 10
+    },
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Hemant",
+    "entityUrn": "urn:li:fs_profile:ACoAAATZtCcBK1ky53TXSP3Xe9MWFBWCBy49z-Y",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103758613"
+    },
+    "geoLocationName": "Ahmedabad, Gujarat",
+    "location": {
+        "basicLocation": {
+            "countryCode": "in"
+        }
+    },
+    "headline": "Full Time Freelancer (PHP, WordPress, Webflow, Shopify, Drupal, Laravel, CodeIgniter, React, Node, Angular, Mobile Apps, SEO etc)",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5103AQEBQ121WIl73g/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1558943873808?e=1707955200&v=beta&t=qX_S1kGelrnd1jUzdLP3TSSP251G7zg9a9S7m5MiAgI",
+    "img_200_200": "200_200/0/1558943873816?e=1707955200&v=beta&t=wvfDyDlxdkMvSBOG8q38HqXEaCp_DuEuffFmPPzUqo4",
+    "img_400_400": "400_400/0/1558943873875?e=1707955200&v=beta&t=evWnzlHVr3VwdlYBAKxYD5uHtkecruwxfBF_LHhqS_Y",
+    "img_500_500": "800_800/0/1558943873839?e=1707955200&v=beta&t=kY2epkevzgmQ5SGMSbMNXD5OvsbLqdwJLHhY9eoITDE",
+    "profile_id": "ACoAAATZtCcBK1ky53TXSP3Xe9MWFBWCBy49z-Y",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAATZtCcBK1ky53TXSP3Xe9MWFBWCBy49z-Y",
+    "member_urn": "urn:li:member:81376295",
+    "public_id": "hemant-hapani-91b30423",
+    "experience": [
+        {
+            "locationName": "Ahmedabad Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAATZtCcBK1ky53TXSP3Xe9MWFBWCBy49z-Y,1465972178)",
+            "geoLocationName": "Ahmedabad Area, India",
+            "companyName": "Self Employed",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "description": "Full Stack Developer (PHP, Wordpress, Magento, Drupal, Laravel, Codeigniter, Node, Angular etc)",
+            "title": "Project Manager"
+        },
+        {
+            "locationName": "Ahmedabad",
+            "entityUrn": "urn:li:fs_position:(ACoAAATZtCcBK1ky53TXSP3Xe9MWFBWCBy49z-Y,131421946)",
+            "geoLocationName": "Ahmedabad",
+            "companyName": "RTD Pvt Ltd",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2010
+                }
+            },
+            "title": "Sr.Web Developer (PHP,Wordpress,Joomla,Smarty,Magento,Html,Css,Mysql,SEO)"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAATZtCcBK1ky53TXSP3Xe9MWFBWCBy49z-Y,131917808)",
+            "companyName": "Global Service Consultancy",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2009
+                }
+            },
+            "title": "Sr.PHP Developer"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAATZtCcBK1ky53TXSP3Xe9MWFBWCBy49z-Y,52486841)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "degreeName": "Master of Computer Applications (MCA)",
+            "schoolName": "Shreeji vidhayalay",
+            "degreeUrn": "urn:li:fs_degree:594"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English"
+        },
+        {
+            "name": "Gujarati"
+        },
+        {
+            "name": "Hindi"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "SoloLearn",
+            "name": "PHP ",
+            "company": {
+                "objectUrn": "urn:li:company:9435690",
+                "entityUrn": "urn:li:fs_miniCompany:9435690",
+                "name": "Sololearn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630576160230/sololearn_inc__logo?e=1710374400&v=beta&t=yLxQk0O4rHSA_4mtl5Y37mc7_-IATm1t1swrM0uXBCM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630576160230/sololearn_inc__logo?e=1710374400&v=beta&t=A77YQp-H491ueK3m2GzlwVsaU-HhJmj8329_13TCPNg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630576160230/sololearn_inc__logo?e=1710374400&v=beta&t=3zuNdUKLi6Wvn-MKr7cPDl-hhBssWM7HggO0mZ5dttQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+                    }
+                },
+                "universalName": "sololearn-inc-",
+                "dashCompanyUrn": "urn:li:fsd_company:9435690",
+                "trackingId": "xzR6gcrNQ+WQN8FdDu4hSg=="
+            },
+            "displaySource": "sololearn.com",
+            "companyUrn": "urn:li:fs_miniCompany:9435690",
+            "url": "https://www.sololearn.com/Certificate/1059-7227170/pdf/"
+        },
+        {
+            "authority": "SoloLearn",
+            "name": "HTML",
+            "company": {
+                "objectUrn": "urn:li:company:9435690",
+                "entityUrn": "urn:li:fs_miniCompany:9435690",
+                "name": "Sololearn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630576160230/sololearn_inc__logo?e=1710374400&v=beta&t=yLxQk0O4rHSA_4mtl5Y37mc7_-IATm1t1swrM0uXBCM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630576160230/sololearn_inc__logo?e=1710374400&v=beta&t=A77YQp-H491ueK3m2GzlwVsaU-HhJmj8329_13TCPNg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630576160230/sololearn_inc__logo?e=1710374400&v=beta&t=3zuNdUKLi6Wvn-MKr7cPDl-hhBssWM7HggO0mZ5dttQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+                    }
+                },
+                "universalName": "sololearn-inc-",
+                "dashCompanyUrn": "urn:li:fsd_company:9435690",
+                "trackingId": "Cfb9RZ6cS6uMlaKsRYipxA=="
+            },
+            "displaySource": "sololearn.com",
+            "companyUrn": "urn:li:fs_miniCompany:9435690",
+            "url": "https://www.sololearn.com/Certificate/1014-7227170/pdf/"
+        },
+        {
+            "authority": "Udemy",
+            "name": "Hosting Websites with Amazon LightSail | AWS for 2020",
+            "company": {
+                "objectUrn": "urn:li:company:822535",
+                "entityUrn": "urn:li:fs_miniCompany:822535",
+                "name": "Udemy",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630536914848/udemy_logo?e=1710374400&v=beta&t=CNH_uJP3wyp3dMkDFMphBjNYWvGRYVTgPTrxofSxsEA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630536914848/udemy_logo?e=1710374400&v=beta&t=3-OkXFRrJxXM1X4awWMlC9Sx6djj_f0-JL9UHRE0cls",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630536914848/udemy_logo?e=1710374400&v=beta&t=TRfjAFfHzeWW5E0ErbC_acDTYW2NMD8o1FNngdB3lE8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                    }
+                },
+                "universalName": "udemy",
+                "dashCompanyUrn": "urn:li:fsd_company:822535",
+                "trackingId": "d6/Ulj8+TsqyAiXG8JALMg=="
+            },
+            "displaySource": "udemy.com",
+            "companyUrn": "urn:li:fs_miniCompany:822535",
+            "url": "https://www.udemy.com/certificate/UC-2dc96cca-33ca-4cb4-8675-ce96c9cd7236/"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

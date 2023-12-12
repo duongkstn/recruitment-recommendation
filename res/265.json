@@ -1,0 +1,88 @@
+{
+    "summary": "🌟 Helping You Transform Your Life 🌟\n\nAre you feeling stuck, uncertain, or lacking direction in your personal or professional life? Do you aspire to achieve greatness and tap into your full potential? As a dedicated Section Life Coach, I specialize in empowering individuals to break through barriers, set meaningful goals, and create lasting positive change.\n\n🔑 Unlocking Your Inner Strength and Clarity 🔑",
+    "industryName": "Education Management",
+    "lastName": "Sonia",
+    "locationName": "Pakistan",
+    "student": false,
+    "geoCountryName": "Pakistan",
+    "geoCountryUrn": "urn:li:fs_geo:101022442",
+    "geoLocationBackfilled": false,
+    "elt": true,
+    "industryUrn": "urn:li:fs_industry:69",
+    "firstName": "Nayab",
+    "entityUrn": "urn:li:fs_profile:ACoAADOygekBBWC0j8aNiBEEjlCl97sxnWf6gvk",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102866583"
+    },
+    "geoLocationName": "Islamabad, Islāmābād",
+    "location": {
+        "basicLocation": {
+            "countryCode": "pk"
+        }
+    },
+    "headline": "Entrepreneur | Work | Life Coach",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQGF87Gy0bjx2w/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1675915661050?e=1707955200&v=beta&t=wMW-gYUDQPesgMDhua3W9Vb7iU-8XJPk9QPmIxw6q38",
+    "img_200_200": "200_200/0/1675915661050?e=1707955200&v=beta&t=RF4DK98QJUnN9SsrU5itOsWEj6x35ND-JsNpZkINvrY",
+    "img_400_400": "400_400/0/1675915661050?e=1707955200&v=beta&t=0jHtaiH8TzovA0bz0Nr2DKRCjzl6BPas7c-d6rjpJGk",
+    "img_800_800": "800_800/0/1675915661050?e=1707955200&v=beta&t=LBmra9hG204oke_yHyOT3VxxRwKtXP_J5fQksSeVOjU",
+    "profile_id": "ACoAADOygekBBWC0j8aNiBEEjlCl97sxnWf6gvk",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADOygekBBWC0j8aNiBEEjlCl97sxnWf6gvk",
+    "member_urn": "urn:li:member:867336681",
+    "public_id": "nayab-sonia-b49576202",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADOygekBBWC0j8aNiBEEjlCl97sxnWf6gvk,2195715105)",
+            "companyName": "University of Engineering and Technology, Lahore",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Project Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:15098182",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQHB8ssxOzksRA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADOygekBBWC0j8aNiBEEjlCl97sxnWf6gvk,695723219)",
+            "school": {
+                "objectUrn": "urn:li:school:15891",
+                "entityUrn": "urn:li:fs_miniSchool:15891",
+                "active": true,
+                "schoolName": "University of Engineering and Technology, Lahore",
+                "trackingId": "4PmpnEmDSWK0GPPF6Y2Wag==",
+                "logoUrl": "https://media.licdn.com/dms/image/C510BAQHB8ssxOzksRA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2024
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100693",
+            "degreeName": "Bachelor of Science - BS",
+            "schoolName": "University of Engineering and Technology, Lahore",
+            "fieldOfStudy": "Mathematics",
+            "schoolUrn": "urn:li:fs_miniSchool:15891"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

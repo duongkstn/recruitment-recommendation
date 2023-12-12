@@ -1,0 +1,208 @@
+{
+    "summary": "👋 Hello there! Welcome to my profile! 👨‍💻\n\nI'm a passionate web developer and WordPress expert, equipped with a diverse skill set to bring your digital dreams to life. 💪💻\n\nWith expertise in HTML, CSS, and JavaScript, I craft visually stunning and interactive websites that captivate audiences. 🌐✨ I combine these front-end skills with Bootstrap to ensure your site is not only visually appealing but also responsive and user-friendly across all devices. 📱🖥️\n\nBut that's not all! I also bring PHP to the table, enabling me to create dynamic and robust web solutions. 🚀✨ And when it comes to WordPress, consider me your go-to guru! 🌟🔌 I have extensive experience customizing WordPress themes and plugins, tailoring them to your unique brand identity and specific requirements. ✨🎨\n\nWhether you need a sleek and modern website, an e-commerce platform, or a personalized blog, I'm here to turn your vision into a pixel-perfect reality. 🌈🖼️\n\nWith a proven track record of delivering top-notch projects for clients at Fiverr and Upwork, I pride myself on providing exceptional customer service and ensuring your utmost satisfaction throughout the development process. 💯🤝\n\nSo, let's collaborate and transform your online presence with creativity, technical expertise, and a touch of magic! ✨🚀 Contact me today and let's bring your digital dreams to life! 🌟💻",
+    "industryName": "Computer Software",
+    "lastName": "Bashar",
+    "locationName": "Bangladesh",
+    "student": false,
+    "geoCountryName": "Bangladesh",
+    "geoCountryUrn": "urn:li:fs_geo:106215326",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 1,
+        "day": 1
+    },
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Md. Abul",
+    "entityUrn": "urn:li:fs_profile:ACoAADi6ZPABZhBqfyzw81juUDFu99I4IiNHvDo",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:105795179"
+    },
+    "geoLocationName": "Comilla District, Chattogram",
+    "location": {
+        "basicLocation": {
+            "countryCode": "bd"
+        }
+    },
+    "headline": "👨‍💻 Web Developer and WordPress Expert | HTML ✨ CSS ✨ JavaScript ⚡ Bootstrap 🎨 PHP 🧰 WordPress 🌟 WordPress theme & Plugin customization",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D5635AQHJ5KsKweReew/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1694939474129?e=1702972800&v=beta&t=34fVe8-KPQ22rL8ZN5-1bPFZeuF4l7INENkZ-RAlu-Q",
+    "img_200_200": "200_200/0/1694939474129?e=1702972800&v=beta&t=-CX0bkEQKGBtx-Ts-U0_0TZWmFljdj8JTo6rGLNPZFs",
+    "img_600_600": "800_800/0/1694939474129?e=1702972800&v=beta&t=LHe5BKjLxa-iPpRrBejKZJfPzy81jhahoQCRRsW4E_U",
+    "img_100_100": "100_100/0/1694939474129?e=1702972800&v=beta&t=abUCHaA_fkSCuoQdai1lY31tUlyTjfQ04AlMeXzZB2k",
+    "profile_id": "ACoAADi6ZPABZhBqfyzw81juUDFu99I4IiNHvDo",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADi6ZPABZhBqfyzw81juUDFu99I4IiNHvDo",
+    "member_urn": "urn:li:member:951739632",
+    "public_id": "md-abul-bashar-30089b226",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADi6ZPABZhBqfyzw81juUDFu99I4IiNHvDo,2215845172)",
+            "companyName": "Upwork",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "description": "Developed and maintained websites for a diverse range of clients, ensuring a seamless user experience and optimal performance.\nCustomized WordPress themes and plugins to match clients' branding requirements and enhance website functionality.\nCollaborated with cross-functional teams to deliver projects on time and within budget.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "💼 Web Developer and WordPress Expert",
+            "companyUrn": "urn:li:fs_miniCompany:4827017",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFAvA55uI9RQQ/company-logo_"
+        },
+        {
+            "locationName": "Bangladesh",
+            "entityUrn": "urn:li:fs_position:(ACoAADi6ZPABZhBqfyzw81juUDFu99I4IiNHvDo,2118599612)",
+            "geoLocationName": "Bangladesh",
+            "geoUrn": "urn:li:fs_geo:106215326",
+            "companyName": "Fiverr",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "description": "My main goal is to solve all the problems of my clients and satisfy them through the right work.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Front-end Web-Developer and WordPress expert",
+            "region": "urn:li:fs_region:(bd,0)",
+            "companyUrn": "urn:li:fs_miniCompany:861427",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFHz9agyy675A/company-logo_"
+        },
+        {
+            "locationName": "Bangladesh",
+            "entityUrn": "urn:li:fs_position:(ACoAADi6ZPABZhBqfyzw81juUDFu99I4IiNHvDo,2118592769)",
+            "geoLocationName": "Bangladesh",
+            "geoUrn": "urn:li:fs_geo:106215326",
+            "companyName": "Freelancer.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "description": "I provide my best work to the customer. I build not only websites also friendships.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Front-end Web-Developer and WordPress expert",
+            "region": "urn:li:fs_region:(bd,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3477553",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEJe-MEhPTm7w/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADi6ZPABZhBqfyzw81juUDFu99I4IiNHvDo,2215841292)",
+            "companyName": "Freelance",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "description": "Worked with Fever & Reward to deliver high-quality websites for clients, leveraging my expertise in HTML, CSS, JavaScript, Bootstrap, PHP, and WordPress.\nImplemented responsive design principles to ensure compatibility across various devices and browsers.\nConducted thorough testing and debugging to optimize website performance and user experience.",
+            "title": "🚀 Freelance Web Developer"
+        },
+        {
+            "locationName": "Comilla, Chattogram, Bangladesh",
+            "entityUrn": "urn:li:fs_position:(ACoAADi6ZPABZhBqfyzw81juUDFu99I4IiNHvDo,2145481043)",
+            "geoLocationName": "Comilla, Chattogram, Bangladesh",
+            "geoUrn": "urn:li:fs_geo:103446496",
+            "companyName": "Noted IT Institute ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "description": "This Institute is a stands for all students, Unemployment, freelancer who are interested in IT Sector",
+            "title": "Founder & CEO",
+            "region": "urn:li:fs_region:(bd,0)"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADi6ZPABZhBqfyzw81juUDFu99I4IiNHvDo,761283471)",
+            "school": {
+                "objectUrn": "urn:li:school:10303",
+                "entityUrn": "urn:li:fs_miniSchool:10303",
+                "active": true,
+                "schoolName": "Comilla University",
+                "trackingId": "1pHmHWb2Q6y4Q03FGub52Q=="
+            },
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "degreeName": "BSc",
+            "schoolName": "Comilla University",
+            "fieldOfStudy": "ICT",
+            "schoolUrn": "urn:li:fs_miniSchool:10303"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADi6ZPABZhBqfyzw81juUDFu99I4IiNHvDo,861513953)",
+            "grade": "3.58",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2014
+                }
+            },
+            "degreeName": "HSC",
+            "schoolName": "Comilla Bigyan College"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADi6ZPABZhBqfyzw81juUDFu99I4IiNHvDo,861518139)",
+            "grade": "4.94 out of 5.00",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2012
+                }
+            },
+            "degreeName": "Dakhil (SSC)",
+            "schoolName": "Badarpur Fazil Madrasah"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,720 @@
+{
+    "summary": "Security Engineer with 10+ years of experience. Currently working at Palo Alto Networks as Senior Cybersecurity Specialist support\u0000ing NGFW (Next Gen Firewall) customers with technical questions/challenges with a strong focus on our Threat Prevention feature-set. Enablement and escalation reference point for current/new engineers.\nCurious attitude, always seeking to explore the latest emerging threats and security countermeasures; lately developing in areas like Ethical Hacking, Digital Forensics and Malware Analysis. Last 5 years focused on Network Security/Cybersecurity with Zero-Trust approach",
+    "industryName": "Information Technology & Services",
+    "lastName": "Bogo",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Adrian",
+    "entityUrn": "urn:li:fs_profile:ACoAAAr5PwABJ3Pad1lr0V3AvjeWHtTSzszQy68",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Cybersecurity Specialist, CISSP | CCIE Security | GPEN",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQEgVP60LbPI-Q/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1537128407046?e=1707955200&v=beta&t=k2PeWXzvJJFaub73IN_gxOfA64kh7AR4SI0NrRGytFA",
+    "img_200_200": "200_200/0/1537128405371?e=1707955200&v=beta&t=4Nj6VxrUjPk-FSSfBzsnfElS-5txy0Ct4MQQ77U2WF4",
+    "img_400_400": "400_400/0/1537128405535?e=1707955200&v=beta&t=6_d3kb8nmzUZPAtIP9vDf1B7Ny4YKB6lhWg6TDcDUN4",
+    "img_600_600": "800_800/0/1537128405396?e=1707955200&v=beta&t=Pn5jwX0jbJYUFSRYDf3mpea40WcVaMV2lBoPN_2mTkY",
+    "profile_id": "ACoAAAr5PwABJ3Pad1lr0V3AvjeWHtTSzszQy68",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAr5PwABJ3Pad1lr0V3AvjeWHtTSzszQy68",
+    "member_urn": "urn:li:member:184106752",
+    "public_id": "adrianbogo",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAr5PwABJ3Pad1lr0V3AvjeWHtTSzszQy68,1731629030)",
+            "companyName": "Palo Alto Networks",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer & Network Security"
+                ]
+            },
+            "title": "Senior Cybersecurity Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:30086",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFZg72Sfni4SA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAr5PwABJ3Pad1lr0V3AvjeWHtTSzszQy68,1457489070)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Palo Alto Networks",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer & Network Security"
+                ]
+            },
+            "title": "Technical Support Engineer",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:30086",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFZg72Sfni4SA/company-logo_"
+        },
+        {
+            "locationName": "Cracow, Lesser Poland District, Poland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAr5PwABJ3Pad1lr0V3AvjeWHtTSzszQy68,1471012689)",
+            "geoLocationName": "Cracow, Lesser Poland District, Poland",
+            "geoUrn": "urn:li:fs_geo:90009830",
+            "companyName": "Cisco",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Customer Success Specialist - Security",
+            "region": "urn:li:fs_region:(pl,8447)",
+            "companyUrn": "urn:li:fs_miniCompany:1063",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+        },
+        {
+            "locationName": "Cracow, Lesser Poland District, Poland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAr5PwABJ3Pad1lr0V3AvjeWHtTSzszQy68,1062019546)",
+            "geoLocationName": "Cracow, Lesser Poland District, Poland",
+            "companyName": "Cisco",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "description": "NGFW Cisco TAC\n-Network/Security Technologies: FirePOWER, Firepower Management Center, Firepower Threat Defense; Advanced Malware Protection, Threatgrid sandboxing technology.\n-ASA 55xx-X, FPR2100,4100,9300 series",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Customer Support Engineer",
+            "companyUrn": "urn:li:fs_miniCompany:1063",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+        },
+        {
+            "locationName": "Tirane, Albania",
+            "entityUrn": "urn:li:fs_position:(ACoAAAr5PwABJ3Pad1lr0V3AvjeWHtTSzszQy68,736245956)",
+            "geoLocationName": "Tirane, Albania",
+            "companyName": "Tetra Solutions",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "description": "- I designed, implemented and supported various network systems with focus on the Unified Communications product suite\n- Worked on a daily basis with Cisco technologies such as CUCME, CUCM, CUC, CUPS, UCCX; versions 8.x, 9.x,10.x 11.x.\n- Handleed configurations on Routing & Switching, Security with Cisco ASA and Wireless technologies",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Network Engineer",
+            "companyUrn": "urn:li:fs_miniCompany:1251311",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEigVzSYKBgUg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAr5PwABJ3Pad1lr0V3AvjeWHtTSzszQy68,135030265)",
+            "school": {
+                "objectUrn": "urn:li:school:10018",
+                "entityUrn": "urn:li:fs_miniSchool:10018",
+                "active": true,
+                "schoolName": "Universiteti Politeknik i Tiranës",
+                "trackingId": "CmHgKgEwSAmuvP4aHPIdSA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFtZCX8BmQpqA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "Bachelor",
+            "schoolName": "Universiteti Politeknik i Tiranës",
+            "fieldOfStudy": "Computer Engineering; Information Technology",
+            "schoolUrn": "urn:li:fs_miniSchool:10018"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Albanian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "German",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Italian",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Cisco",
+            "name": "Cisco Certified Network Professional (CCNP) R & S",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2015
+                }
+            },
+            "licenseNumber": "422044169127CLBI",
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "oezigibdRla7O6bcrxc9Kw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "Cisco",
+            "name": "Cisco Certified Network Associate (CCNA) Collaboration",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "licenseNumber": "425634169282EPXL",
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "WGOz3c4mR1imIaGnzhCZ6g=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "Cisco",
+            "name": "Cisco Video Network Specialist",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "rvwUUy22QnOxQInBMrSmPA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "Cisco",
+            "name": "Cisco Certified Network Associate (CCNA) R & S",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2015
+                }
+            },
+            "licenseNumber": "420874170069EPUG",
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "9Ty4i3aUQ++t3zeyYKmBSw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "Cisco",
+            "name": "Cisco Certified Network Associate (CCNA) Security",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2015
+                }
+            },
+            "licenseNumber": "422464171155DTDM",
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "ny+hvbHjTpOUcTFhSeHa7A=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "Cisco",
+            "name": "Cisco Certified Design Associate (CCDA)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            },
+            "licenseNumber": "422884169172JLDJ",
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "d75dVd3pTLieNW/4F48TcQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "MCP: Installing and Configuring Windows Server 2012 R2",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "pPd+4Ib6RIWGhFBvV7/fnQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1035"
+        },
+        {
+            "authority": "Cisco",
+            "name": "Cisco Certified Network Associate Cyber Ops",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "licenseNumber": "431074169329FMCN",
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "CaK3rSpFT7uhYcp6Cb/67w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1063"
+        },
+        {
+            "authority": "Cisco",
+            "name": "CCIE Security #59840",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1063",
+                "entityUrn": "urn:li:fs_miniCompany:1063",
+                "name": "Cisco",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=2wNcKB6RdDKBnuJScnRVjMbGPZL8UqZzqt0wLzjQ2G0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=ZitARagRW6-H3_LTrq7YTO7PPm6zlm0DgWc5uKaxxPw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688482473854/cisco_logo?e=1710374400&v=beta&t=M1TV96az7jh8W9RVRMt2yUTVaeyfg4c9wbuUXPez3Ys",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_"
+                    }
+                },
+                "universalName": "cisco",
+                "dashCompanyUrn": "urn:li:fsd_company:1063",
+                "trackingId": "1ivL8yYmQiKyoLLDiHL0GA=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:1063",
+            "url": "https://www.credly.com/badges/05671390-8bfd-4f26-92ac-60341e0c5142"
+        },
+        {
+            "authority": "Cybrary",
+            "name": "Penetration Testing and Ethical Hacking",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "licenseNumber": "C-eb24177326-a2f5b1",
+            "company": {
+                "objectUrn": "urn:li:company:9243102",
+                "entityUrn": "urn:li:fs_miniCompany:9243102",
+                "name": "Cybrary",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1689082039515/cybrary_logo?e=1710374400&v=beta&t=Jb4WqlVjFLfykiByqJMInvUpQViwXh5exi8N1-V8a6I",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1689082039515/cybrary_logo?e=1710374400&v=beta&t=fwSMEdUfh_TxySVN-3QTvLgDMVtmudcXm1c2CKvTugQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1689082039515/cybrary_logo?e=1710374400&v=beta&t=qABNRFknTBWCyacegxQP9r81x4PRAReLkOcEIWm59Bo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQE2B9wUAFRdyw/company-logo_"
+                    }
+                },
+                "universalName": "cybrary",
+                "dashCompanyUrn": "urn:li:fsd_company:9243102",
+                "trackingId": "xoLEHD8SSM+GL2Fz+JSGaw=="
+            },
+            "displaySource": "cybrary.it",
+            "companyUrn": "urn:li:fs_miniCompany:9243102",
+            "url": "https://www.cybrary.it/verify-certificate/"
+        }
+    ],
+    "volunteer": [],
+    "honors": [
+        {
+            "title": "4011 Recognition",
+            "issueDate": {
+                "month": 8,
+                "year": 2015
+            },
+            "issuer": "National Security Agency, CNSS, United States of America"
+        }
+    ],
+    "projects": []
+}

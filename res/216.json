@@ -1,0 +1,213 @@
+{
+    "summary": "Started my working life in marketing and made the transition to executive search, working for boutique and worldwide firms. This may seem like a hard left turn, but it happened pretty organically. I am interested in change leadership and in people - their life stories, motivations, behaviours, main achievements and also reasons for failure.  \n\nFocusing on commercial and general management roles. Passionate about the marketing and digital domain.",
+    "industryName": "Management Consulting",
+    "lastName": "Keijzer",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:11",
+    "firstName": "Wenda",
+    "entityUrn": "urn:li:fs_profile:ACoAAAAzCoEBIb_Mt30uAU92KpVpYE9zvvflRgY",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90010383"
+    },
+    "geoLocationName": "Amsterdam Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Managing Consultant Executive Search",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQHRu_UsJ4k6PA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1700997921005?e=1707955200&v=beta&t=VmZEuu0IEI8GdKBzVbielaVYlH8y417tpEPB_dQUdMM",
+    "img_200_200": "200_200/0/1700997921005?e=1707955200&v=beta&t=nddLcmieFNmkEGdeUx0-KShSgd0j5f5kxwANvRWpsE4",
+    "img_400_400": "400_400/0/1700997921005?e=1707955200&v=beta&t=e3DL0Obs1q8xONf4-xcPp8Icci8zsEVR6L2x153lR1Q",
+    "img_666_666": "800_800/0/1700997921005?e=1707955200&v=beta&t=hnXqBccwdv3jRLh79EYfszkXrTC_3t-6KaZLZPZlz-E",
+    "profile_id": "ACoAAAAzCoEBIb_Mt30uAU92KpVpYE9zvvflRgY",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAAzCoEBIb_Mt30uAU92KpVpYE9zvvflRgY",
+    "member_urn": "urn:li:member:3345025",
+    "public_id": "wendakeijzer",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAzCoEBIb_Mt30uAU92KpVpYE9zvvflRgY,1113244742)",
+            "geoLocationName": "Amsterdam, Netherlands",
+            "companyName": "Career Openers Executive Search",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2017
+                }
+            },
+            "description": "Career Openers Executive Search is the specialist in C-level searches for mid-market organisations. Our clients range from private equity portfolios, to director-major shareholder organisations (DGAs), to family businesses. We also have long-standing, intensive relationships with prominent corporates.\n\nWe are part of PRAXI Alliance which provides worldwide executive search in 70 offices and spans in more than 35 countries.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Managing Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:67380",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHekRLtulwo6A/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAzCoEBIb_Mt30uAU92KpVpYE9zvvflRgY,709411463)",
+            "geoLocationName": "Amsterdam, Netherlands",
+            "companyName": "Page Executive",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Principal Consumer Practice",
+            "companyUrn": "urn:li:fs_miniCompany:1950050",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGA6mQpRYurlQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAzCoEBIb_Mt30uAU92KpVpYE9zvvflRgY,229305541)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "companyName": "SchaalX",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior Consultant Marketing & Digital",
+            "companyUrn": "urn:li:fs_miniCompany:39465",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHCZpkE-GttwQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam,Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAzCoEBIb_Mt30uAU92KpVpYE9zvvflRgY,42929634)",
+            "geoLocationName": "Amsterdam,Netherlands",
+            "companyName": "USG Marketing & Communications",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior Consultant Marketing & Digital",
+            "companyUrn": "urn:li:fs_miniCompany:16200",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGBRh0-8_Szzw/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAzCoEBIb_Mt30uAU92KpVpYE9zvvflRgY,6062746)",
+            "geoLocationName": "Rotterdam, Netherlands",
+            "companyName": "EY",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2006
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2005
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Manager Business Development Randstad Zuid a.i.",
+            "companyUrn": "urn:li:fs_miniCompany:1073",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQGpRhkpxp5A9A/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAzCoEBIb_Mt30uAU92KpVpYE9zvvflRgY,747476543)",
+            "school": {
+                "objectUrn": "urn:li:school:19970",
+                "entityUrn": "urn:li:fs_miniSchool:19970",
+                "active": true,
+                "schoolName": "Nyenrode Business University",
+                "trackingId": "k2v2GSimRKy6zlau1WiNCg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHiutSI3qcscQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                }
+            },
+            "schoolName": "Nyenrode Business Universiteit",
+            "fieldOfStudy": "Masterclass Digital Leadership",
+            "schoolUrn": "urn:li:fs_miniSchool:19970"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAzCoEBIb_Mt30uAU92KpVpYE9zvvflRgY,747477531)",
+            "degreeName": "Bachelor of Commerce (BCom) ",
+            "schoolName": "Haarlem Business School",
+            "fieldOfStudy": "Marketing Management"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

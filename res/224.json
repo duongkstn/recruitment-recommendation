@@ -1,0 +1,175 @@
+{
+    "summary": "Indu-Tools is de verhuurspecialist voor de Industrie, Petrochemie en Maritieme sector. Wij bieden aan onze klanten professionele totaaloplossingen voor industriële projecten en turnarounds, waarbij wij gebruik maken van gereedschappen en machines van A-merken, die aan de modernste technologie voldoen, bijdragen aan een energiezuinig gebruik en een lagere CO₂-uitstoot. Dit betekent ook dat wij onze kennis over het materieel en de ontwikkelingen op de markt up-to-date houden, zodat wij altijd de beste oplossing voor u kunnen vinden.\n\nEind 2020 is I-Rental onderdeel geworden van de Nederlandse Indu-Tools Group, waardoor wij onze klanten van dienst zijn in maar liefst 9 vestigingen, verspreid over Nederland, België en Frankrijk. Door de overname zijn wij in staat onze verhuurvloot nog efficiënter in te zetten, zodat u als klant kosten kunt besparen en kunt profiteren van de kennis en expertise van beide organisaties. Voorop staat hierbij uiteraard het behouden van de uitstekende dienstverlening aan onze klanten en het uitbreiden van de business.\n\nSinds 30 mei is de Indu-Tools Group de samenwerking aan gegaan met EQIN, eigendom van de Nederlandse investeringsmaatschappij Value Enhancement Partners (VEP). Samen vormen zij de EQIN | Indu-Tools Group. Met de combinatie EQIN | Indu-Tools ontstaat één van de grotere verhuurders van industrieel materiaal in West-Europa met in totaal 28 vestigingen in Nederland, België en Duitsland en 335 medewerkers.  \n \nIndu-Tools blijft een organisatie waarbij persoonlijk contact centraal staat. Wij vinden het belangrijk om met u mee te denken en u te adviseren over het materieel op uw project of turnaround. Wilt u weten wat wij voor u kunnen betekenen?\nBel me dan op +31 (0)6 45 31 91 07 of mail naar r.westenborg@indu-tools.nl",
+    "industryName": "Business Supplies & Equipment",
+    "lastName": "Westenborg",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:138",
+    "firstName": "Ramon",
+    "entityUrn": "urn:li:fs_profile:ACoAAAkLoIoB227zXq4QJusss_sL1JwtgqKkKzg",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101329598"
+    },
+    "geoLocationName": "Beverwijk, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Accountmanager Indu-Tools",
+    "profile_id": "ACoAAAkLoIoB227zXq4QJusss_sL1JwtgqKkKzg",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAkLoIoB227zXq4QJusss_sL1JwtgqKkKzg",
+    "member_urn": "urn:li:member:151756938",
+    "public_id": "ramon-westenborg-3769a642",
+    "experience": [
+        {
+            "locationName": "Beverwijk, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAkLoIoB227zXq4QJusss_sL1JwtgqKkKzg,2189525128)",
+            "geoLocationName": "Beverwijk, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:101329598",
+            "companyName": "Indu-Tools",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "description": "Indu-Tools is de verhuurspecialist voor de Industrie, Petrochemie en Maritieme sector. Wij bieden aan onze klanten professionele totaaloplossingen voor industriële projecten en turnarounds, waarbij wij gebruik maken van gereedschappen en machines van A-merken, die aan de modernste technologie voldoen, bijdragen aan een energiezuinig gebruik en een lagere CO₂-uitstoot. Dit betekent ook dat wij onze kennis over het materieel en de ontwikkelingen op de markt up-to-date houden, zodat wij altijd de beste oplossing voor u kunnen vinden.\n\nWilt u meer weten wat wij voor u kunnen betekenen? \nBel me dan op +31 (0)6 45 31 91 07 of mail naar r.westenborg@indu-tools.nl",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Machinery"
+                ]
+            },
+            "title": "Accountmanager verhuur",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2814722",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFSZy8zPrWO8Q/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAkLoIoB227zXq4QJusss_sL1JwtgqKkKzg,1902830637)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "BMN Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "description": "BMN (Bouwmaterialen Nederland) biedt alle materialen en diensten voor professionele bouwers. Een ruim assortiment onder één dak. Van hout en plaat, ruwbouw, chemie & bindmiddelen, afbouw, tegels tot en met ijzerwaren en gereedschap. De materialen zijn af te halen op bijna 80 locaties in Nederland of just-in-time te leveren.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Commercieel medewerker buitendienst",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1708480",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGh8gec5tb4Lg/company-logo_"
+        },
+        {
+            "locationName": "Noord Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAkLoIoB227zXq4QJusss_sL1JwtgqKkKzg,1479354637)",
+            "geoLocationName": "Noord Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "LOXAM Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "description": "Commercieel technisch adviseur\n\nLocation Amsterdam en omgeving, Nederland.\n\nLoxam Access\nLOXAM Access staat al jarenlang voor kwaliteit, deskundigheid, veiligheid, bereikbaarheid en service.\nMet een vloot van 1.000 hoogwerkers in 90 verschillende types is er altijd een oplossing voor uw “bereikbaarheidsprobleem”.\n\nMob nr. 06-20191600\nemail : ramon.westenborg@loxam.nl",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Business Supplies and Equipment"
+                ]
+            },
+            "title": "commercieel technisch adviseur ",
+            "region": "urn:li:fs_region:(nl,5682)",
+            "companyUrn": "urn:li:fs_miniCompany:1808694",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFN2JOJu-G8wA/company-logo_"
+        },
+        {
+            "locationName": "Noord Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAkLoIoB227zXq4QJusss_sL1JwtgqKkKzg,1436628824)",
+            "geoLocationName": "Noord Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Skyworks BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2017
+                }
+            },
+            "description": "Veilig en productief werken op hoogte brengt vele uitdagingen en kennis met zich mee. Ondanks alle goede bedoelingen zie ik helaas nog te veel onveilige situaties.\n\nSkyworks uw partner als het gaat om op een veilige manier te werken op hoogte. Verantwoordelijk voor de verkoop (ladders, trappen, rolsteigers en valbeveiliging) alsmede de mogelijkheden tot huur inclusief montage en demontage door onze eigen monteurs. Huur mogelijkheden : steigers, hangbruggen, hoogwerkers. of het hier een project is voor 1 woning of voor een project waar de kennis van skyworks nodig is als partner. \n\nNodig me uit om te linken of bel me vandaag nog voor een advies om veilig op hoogte te kunnen werken:\n\n\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Construction"
+                ]
+            },
+            "title": "Account  Manager",
+            "region": "urn:li:fs_region:(nl,5682)",
+            "companyUrn": "urn:li:fs_miniCompany:1392378",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHkJpCAbwdACw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAkLoIoB227zXq4QJusss_sL1JwtgqKkKzg,1436632258)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "Howden Keukens",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "description": "Relatiebeheer bij de bestaande klanten van Howden keukens met als doel het vergroten van de omzet. het bespreken en verkopen van bestaande alsmede nieuwe producten bij de bestaande klanten. Het actief benaderen van potentieel nieuwe klanten (aannemers, renovatiebedrijven, bouwbedrijven, en timmerbedrijven) ",
+            "title": "Account Manager"
+        }
+    ],
+    "education": [],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

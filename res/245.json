@@ -1,0 +1,402 @@
+{
+    "summary": "Lisette is the Founder and Managing Director of SPRING TODAY, the initiator of The Change Management Platform, and a driven entrepreneur. A lady with a mission to support organizations in their transformation to the organization of tomorrow, ensuring their continuous success.   \n\nShe was named one of the 50 'Women to Watch' as a successful female entrepreneur by The Next Women in NL for two consecutive years (2019, 2020). Her mottos are:\n- 'Achieving results that matter, together.'   \n- 'Start today to succeed tomorrow.'   \n- 'If not now, when?'  \n\nWith change as the new constant, agility and speed have become crucial to ensure the success of organizations tomorrow. Accelerating organizational Change & Transformation is vital and requires specific expertise.     \n\nSPRING TODAY provides Interim, Search & Consulting services, connecting the best experts in Change & Transformation with the top 100 companies in The Netherlands and beyond. Professionals, whether ‘flex’ or ‘fixed’, who understand the context, complexity, and challenges every organizational adaptation brings. They know how to engage stakeholders in the best way. \n\nSince Lisette launched SPRING TODAY on the first day of Spring in 2016, the company has become an entity for large corporates and multinationals. Together with the passionate change & transformation professionals, it is her drive to increase and accelerate the change capacity of organizations and help them stay ahead.   \n\nBesides connecting the best change & transformation experts to organizations, she initiated the Change Management Platform NL. Change thought-leaders of the top 100 organizations, science, and relevant stakeholders, share and accelerate knowledge, skills, and strengths in Change & Transformation. This way, Lisette connects, creates movement and wants to contribute to ánd generate impact on the route to the organization of tomorrow.    \n\nMore additional assets she brings along besides her entrepreneurial- and execution power are: \n- enthusiasm\n- authenticity, and \n- drive. \n\nAre you also facing significant changes in your organization? \n\nContact SPRING TODAY to discuss your transformation challenge and learn how SPRING TODAY guides you to a successful transformation.",
+    "industryName": "Management Consulting",
+    "lastName": "Weersink",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 8,
+        "day": 30
+    },
+    "industryUrn": "urn:li:fs_industry:11",
+    "firstName": "Lisette",
+    "entityUrn": "urn:li:fs_profile:ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Managing Director at SPRING TODAY: Your Partner in Change,  Interim | Search | Consulting (Top 100 Companies); Founder Change Management Platform; SER Topvrouwen; The Next Women to Watch",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D35AQGIep11R-8mPw/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1638920481832?e=1702972800&v=beta&t=tdHHUV4zrUBtZTljOy7wXt6QA8VG6zsg56uic9Ejdeg",
+    "img_200_200": "200_200/0/1638920481833?e=1702972800&v=beta&t=0xZc-xK2sN-ZrMhV3ghY3SOYDpbnFr3gS8vxkv_kJlM",
+    "img_800_800": "800_800/0/1638920481833?e=1702972800&v=beta&t=vnv8oHU-1P_FvTZx8eGmyThD0cQBh5hpR-y-XMeyRno",
+    "img_100_100": "100_100/0/1638920481833?e=1702972800&v=beta&t=Dld-PLzDhipLdwqyLusl13d0g1K3GEdY3lPPJ_Xa_R0",
+    "profile_id": "ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ",
+    "member_urn": "urn:li:member:5341108",
+    "public_id": "lisetteweersink",
+    "experience": [
+        {
+            "locationName": "Utrecht",
+            "entityUrn": "urn:li:fs_position:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,1560385593)",
+            "geoLocationName": "Utrecht",
+            "companyName": "SPRING TODAY: Your partner in Change,  Interim | Search | Consulting",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "description": "SPRING TODAY believes in the power of knowledge sharing to strengthen each other and accelerate change & transformation. We have initiated and founded the Change Management Platform to impact the capability for change and the agility of the top 100 organizations. \n\nAn inspiring and impactful platform of Change Leads in which knowledge and expertise about change & transformation from the larger organizations and science are brought together, shared and distributed. Passionate people who want to take their organization to the next level. With all the changes coming their way, their task is to prepare their organization for tomorrow.  \n\nThis way we strengthen these professionals in their roles ánd their organizations. Accelerating all the necessary changes & transformations helps them stay relevant in a rapidly changing environment. \n\nAlso interested in participating in the Change Management Platform as an organization? Contact us!",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Initiator Change Management Platform, powered by SPRING TODAY",
+            "companyUrn": "urn:li:fs_miniCompany:10366301",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEpsCDp3kPWYw/company-logo_"
+        },
+        {
+            "locationName": "https://www.springtoday.nl/",
+            "entityUrn": "urn:li:fs_position:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,718701763)",
+            "geoLocationName": "https://www.springtoday.nl/",
+            "companyName": "SPRING TODAY: Your partner in Change,  Interim | Search | Consulting",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "description": "With change as the new constant, agility and speed have become crucial to ensure the success of your organization tomorrow. Accelerating organizational Change & Transformation is vital and requires specific expertise.\n\nAcquire the best experts in Change & Transformation for your change projects with SPRING TODAY as your interim, search, and consulting partner. Whether 'flex' or 'fixed', our professionals understand the context, complexity, and challenges every organizational adaptation brings. They know how to engage stakeholders in the best way. They connect, create movement and set a route to the organization of tomorrow.\n\nIt is our drive to strengthen change capability and match the best Change & Transformation experts to our clients. We contribute to the success of organizations by accelerating the necessary change & transformation. Our refreshingly personal approach helped us establish valuable partnerships with the top 100 companies in The Netherlands and beyond.\n\nWe initiated the industry-leading Change Management Platform to bring inspiration for change management from the outside in. We unite Change Leads from big corporates to exchange experiences and learn from thought leaders.\n\nSince the launch of SPRING TODAY on the 21st of March 2016, the company has become an entity in the field of Change management for large corporates and multinationals. Empowering change & transformation professionals is what we do, thus growing the change capability within your organization.     \n\nJoin SPRING TODAY, your partner in change! Visit our website: https://www.springtoday.nl/",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Founder & Managing Director",
+            "companyUrn": "urn:li:fs_miniCompany:10366301",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEpsCDp3kPWYw/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,205294833)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "a.s.r. verzekeringen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2011
+                }
+            },
+            "description": "Assigments:\n-Trainer/Change consultant: Implementation of a competence development-/culture change programm \n-Projectleader: Coordination of the internal and external communciation around SEPA implementation. \n-Transitionmanager/change consultant within the 'New way of Working' program at ASR. Development of the program, coordination, and implementation.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Insurance"
+                ]
+            },
+            "title": "Senior Transitionmanager/Change Consultant",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:272702",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFFIhJKYrnRCA/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,38)",
+                "urn:li:fs_course:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,39)",
+                "urn:li:fs_course:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,40)",
+                "urn:li:fs_course:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,41)",
+                "urn:li:fs_course:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,42)",
+                "urn:li:fs_course:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,43)",
+                "urn:li:fs_course:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,44)",
+                "urn:li:fs_course:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,45)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,7402087)",
+            "companyName": "Atos",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2005
+                }
+            },
+            "description": "Change- and HRM Consultant\n\nAssignments:\n- University Medical Center Groningen: Implementation a new ICT system concerning ‘De nieuwe zorg’ (zorgpaden, EPD, etc): Projectleader Changemangement\n- Achmea Interpolis/Agro: Implementation of a Knowledge base/system: Projectleader Change, Communication, and Education \n-- Atos Consulting Academy: Advisor at professionalisation of the internal Academy\n- Alliander: Shaping of a supported portal for management consulting issues. Projectleader/Changemanager\n- Rochdale: Trainer Training Absence Mgmt\n- ING OIB: Implementation of a Resource matchings System. Projectleader Change, Communication, and Education. Leading a team of 5 people\n- Achmea Divisie Directe Distributie: Implementation of a Knowledge base/system: Projectleader Change, Communication, and Education \n- Atos Consulting Financial Services: A.i. HR Manager, Manager of the HR department. Leading a team of 3 people. Also set up of the Development Programm for Executive and Principal Consultants\n- Rijkswaterstaat: Writing the implementationplan for the Magamenent Operations of the 'Corporate Dienst within the project of Agency formation\n- Rijkswaterstaat: Change, Communicatión & Education Manager for 'Staf DG' and 'Corporate Dienst'  within the project of Agency formation \n- Belastingdienst Toeslagen: Coördinator Education \n- Gemeente Amsterdam Oud Zuid: Culture change project: Projectmember",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "KPMG/ Executive Business Consultant HRM/Change Management",
+            "companyUrn": "urn:li:fs_miniCompany:1259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEYl-E6odacMA/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,46)",
+                "urn:li:fs_course:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,47)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,7402838)",
+            "companyName": "VNU Media",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2005
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2000
+                }
+            },
+            "description": "Advising and supporting management about operational & tactical HR activities. Contributing to development and professionalisation of HR policy and instruments.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Publishing"
+                ]
+            },
+            "title": "HRM Advisor Gouden Gids",
+            "companyUrn": "urn:li:fs_miniCompany:4266",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQE7qccCUMPi7w/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,652975456)",
+            "school": {
+                "objectUrn": "urn:li:school:10422",
+                "entityUrn": "urn:li:fs_miniSchool:10422",
+                "active": true,
+                "schoolName": "Vlerick Business School",
+                "trackingId": "sclOLA1rSx2198NN7xzGcw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHcnmQSdao0mA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "degreeName": "Change agent certification 6 Batteries of Change",
+            "schoolName": "Vlerick Business School",
+            "schoolUrn": "urn:li:fs_miniSchool:10422"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,600416811)",
+            "school": {
+                "objectUrn": "urn:li:school:19970",
+                "entityUrn": "urn:li:fs_miniSchool:19970",
+                "active": true,
+                "schoolName": "Nyenrode Business University",
+                "trackingId": "q3697ckZRbquEgW7Ih4sDQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHiutSI3qcscQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "schoolName": "Nyenrode Business Universiteit",
+            "fieldOfStudy": "Mini-MBA Fempower your Business",
+            "schoolUrn": "urn:li:fs_miniSchool:19970"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,600418437)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "schoolName": "Open circle",
+            "fieldOfStudy": "Master Business University"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Deutsch",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "name": "Prince 2 Foundation",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2005
+                }
+            }
+        },
+        {
+            "name": "NLP Business Practitioner (Neuro Linguistisch Programmeren)",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        },
+        {
+            "authority": "Prosci",
+            "name": "PROSCI Practinioner",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:107223",
+                "entityUrn": "urn:li:fs_miniCompany:107223",
+                "name": "Prosci",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631302982899?e=1710374400&v=beta&t=uIgnKhgSb77EdaXmn9wRLBc_kd8tndYhU2rOwUw6PNg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631302982899?e=1710374400&v=beta&t=3wTkyjxVlzt3IKzXLPignnmypNYsPxlOoqqocxBuulY",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631302982899?e=1710374400&v=beta&t=06_0FhqPmMzxk9VZJ0aerwGlWVJAH4Me_nph-5yQMgc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQElIJPVhsoMHA/company-logo_"
+                    }
+                },
+                "universalName": "prosci",
+                "dashCompanyUrn": "urn:li:fsd_company:107223",
+                "trackingId": "bXqYSEGuTbuzT0AUMix30w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:107223"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Lisette",
+                        "lastName": "Weersink",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ",
+                        "occupation": "Managing Director at SPRING TODAY: Your Partner in Change, Interim | Search | Consulting (Top 100 Companies); Founder Change Management Platform; SER Topvrouwen; The Next Women to Watch",
+                        "objectUrn": "urn:li:member:5341108",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1606771859614?e=1707955200&v=beta&t=EsrFWbGwBJ22082kBmsVG-3sRZ8FGiuAI7PGJnjT9qc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1606771859614?e=1707955200&v=beta&t=l316h9rEiA88lPfHU3gMC2YAVrD038GuLoWZMzmssNQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQEhw_gRX-5v3w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "lisetteweersink",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1638920481832?e=1702972800&v=beta&t=tdHHUV4zrUBtZTljOy7wXt6QA8VG6zsg56uic9Ejdeg",
+                                        "expiresAt": 1702972800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1638920481833?e=1702972800&v=beta&t=0xZc-xK2sN-ZrMhV3ghY3SOYDpbnFr3gS8vxkv_kJlM",
+                                        "expiresAt": 1702972800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1638920481833?e=1702972800&v=beta&t=vnv8oHU-1P_FvTZx8eGmyThD0cQBh5hpR-y-XMeyRno",
+                                        "expiresAt": 1702972800000,
+                                        "height": 800
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1638920481833?e=1702972800&v=beta&t=Dld-PLzDhipLdwqyLusl13d0g1K3GEdY3lPPJ_Xa_R0",
+                                        "expiresAt": 1702972800000,
+                                        "height": 100
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D35AQGIep11R-8mPw/profile-framedphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "Bez1TahTQOm47DwArB/8rQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ,52,53)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAABRf7QBkNAQo5cwu-N-ikrSGpR0b-i97oQ"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "title": "Development of own boat (sloep) and launched it on the market",
+            "url": "https://www.youtube.com/watch?v=An6qjaWGFSQ"
+        }
+    ]
+}

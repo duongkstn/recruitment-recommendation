@@ -1,0 +1,632 @@
+{
+    "industryName": "Computer & Network Security",
+    "lastName": "McCafferty",
+    "locationName": "Ireland",
+    "student": false,
+    "geoCountryName": "Ireland",
+    "geoCountryUrn": "urn:li:fs_geo:104738515",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:118",
+    "firstName": "Christopher",
+    "entityUrn": "urn:li:fs_profile:ACoAADP1z0IBP0o32AAgE4qsLdYrvOcFAMizfo8",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:105178154"
+    },
+    "geoLocationName": "Dublin, County Dublin",
+    "location": {
+        "basicLocation": {
+            "countryCode": "ie"
+        }
+    },
+    "headline": "Senior Threat Assessment",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQHSRyGsb04zhQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1680967800656?e=1707955200&v=beta&t=2TtdDZfniQ-CtuBmnGB1J_7yRLDsTkE0JImlBByO_zE",
+    "img_200_200": "200_200/0/1680967800656?e=1707955200&v=beta&t=qHEdsNQ5XDZdlv5IOjO6zdX7meEXX-utxUdoHc5uMy8",
+    "img_400_400": "400_400/0/1680967800656?e=1707955200&v=beta&t=VA11CdEz_3P4dPX5YXICW0CXiMwfxdX1J6RTkBNx0d0",
+    "img_800_800": "800_800/0/1680967800656?e=1707955200&v=beta&t=V-dFCME_mBoJqCLl-bp0uHu_tB02MJEsrH4ehOowEBE",
+    "profile_id": "ACoAADP1z0IBP0o32AAgE4qsLdYrvOcFAMizfo8",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADP1z0IBP0o32AAgE4qsLdYrvOcFAMizfo8",
+    "member_urn": "urn:li:member:871747394",
+    "public_id": "christopher-mc-cafferty",
+    "experience": [
+        {
+            "locationName": "Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAADP1z0IBP0o32AAgE4qsLdYrvOcFAMizfo8,2206314847)",
+            "geoLocationName": "Ireland",
+            "geoUrn": "urn:li:fs_geo:104738515",
+            "companyName": "Carelon Global Solutions Ireland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior Threat Assessment",
+            "region": "urn:li:fs_region:(ie,0)",
+            "companyUrn": "urn:li:fs_miniCompany:92180660",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFVkL-CGvoQVg/company-logo_"
+        },
+        {
+            "locationName": "Dublin, County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAADP1z0IBP0o32AAgE4qsLdYrvOcFAMizfo8,2053608637)",
+            "geoLocationName": "Dublin, County Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:105178154",
+            "companyName": "ReliaQuest",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer & Network Security"
+                ]
+            },
+            "title": "Threat Detection Developer",
+            "region": "urn:li:fs_region:(ie,0)",
+            "companyUrn": "urn:li:fs_miniCompany:240158",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHYz54xyuYtdg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADP1z0IBP0o32AAgE4qsLdYrvOcFAMizfo8,1932444133)",
+            "companyName": "Flogas Ireland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Oil & Energy"
+                ]
+            },
+            "title": "Information Security Administrator",
+            "companyUrn": "urn:li:fs_miniCompany:2465232",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGcIhhJ8VeSYQ/company-logo_"
+        },
+        {
+            "locationName": "Dublin, County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAADP1z0IBP0o32AAgE4qsLdYrvOcFAMizfo8,1788988287)",
+            "geoLocationName": "Dublin, County Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:105178154",
+            "companyName": "DHL Express Ireland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "title": "IT Technical Support Engineer",
+            "region": "urn:li:fs_region:(ie,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10284321",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQE6BKaPxjTD0A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADP1z0IBP0o32AAgE4qsLdYrvOcFAMizfo8,1722013177)",
+            "companyName": "Fidelity Investments",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Cyber Security Analyst",
+            "companyUrn": "urn:li:fs_miniCompany:1307",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEp8IZ2oEGxKA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADP1z0IBP0o32AAgE4qsLdYrvOcFAMizfo8,768613027)",
+            "school": {
+                "objectUrn": "urn:li:school:245010",
+                "entityUrn": "urn:li:fs_miniSchool:245010",
+                "active": true,
+                "schoolName": "CCT College Dublin",
+                "trackingId": "8qOFfBzfTDeQN62Vt+tClg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQET5cj0dkLekg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "description": "Level 7 Diploma in Networking and Systems Security",
+            "degreeName": "Diploma of Education",
+            "schoolName": "CCT College Dublin",
+            "fieldOfStudy": "Networking and Systems Security",
+            "degreeUrn": "urn:li:fs_degree:513",
+            "schoolUrn": "urn:li:fs_miniSchool:245010"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADP1z0IBP0o32AAgE4qsLdYrvOcFAMizfo8,699065795)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "degreeName": "Level 6 Certificate",
+            "schoolName": "FIT Ireland",
+            "fieldOfStudy": "Cybersecurity"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "CompTIA",
+            "name": "CompTIA CySA+ ce Certification",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:16529",
+                "entityUrn": "urn:li:fs_miniCompany:16529",
+                "name": "CompTIA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631322282570?e=1710374400&v=beta&t=1I6zdIUSXXADqXJmg5G4fxU-Kt2kkCYUcIT68Lx50z4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631322282570?e=1710374400&v=beta&t=BM4pM7N6qgVN-zlyBplHjlEu0CFhohXnAMYp3Hhk1AU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631322282570?e=1710374400&v=beta&t=QvmM7PcJy2XS_33MtnK0kPGBZdUXvWHfWK4ZAhnTcyI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQERAz2JBkUHzw/company-logo_"
+                    }
+                },
+                "universalName": "comptia",
+                "dashCompanyUrn": "urn:li:fsd_company:16529",
+                "trackingId": "jkNIBxXmS+mJW0pWxELYFw=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:16529",
+            "url": "https://www.youracclaim.com/badges/375e0848-f8f4-4264-99e7-1236ccb95c83?source=linked_in_profile"
+        },
+        {
+            "authority": "CompTIA",
+            "name": "CompTIA Security+ ce Certification",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:16529",
+                "entityUrn": "urn:li:fs_miniCompany:16529",
+                "name": "CompTIA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631322282570?e=1710374400&v=beta&t=1I6zdIUSXXADqXJmg5G4fxU-Kt2kkCYUcIT68Lx50z4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631322282570?e=1710374400&v=beta&t=BM4pM7N6qgVN-zlyBplHjlEu0CFhohXnAMYp3Hhk1AU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631322282570?e=1710374400&v=beta&t=QvmM7PcJy2XS_33MtnK0kPGBZdUXvWHfWK4ZAhnTcyI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQERAz2JBkUHzw/company-logo_"
+                    }
+                },
+                "universalName": "comptia",
+                "dashCompanyUrn": "urn:li:fsd_company:16529",
+                "trackingId": "qLeVV4i0RE6wETfOBEFRvQ=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:16529",
+            "url": "https://www.youracclaim.com/badges/a182a4e5-0895-4ac0-9248-3239df311c1b?source=linked_in_profile"
+        },
+        {
+            "authority": "CompTIA",
+            "name": "CompTIA Network+ ce Certification",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:16529",
+                "entityUrn": "urn:li:fs_miniCompany:16529",
+                "name": "CompTIA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631322282570?e=1710374400&v=beta&t=1I6zdIUSXXADqXJmg5G4fxU-Kt2kkCYUcIT68Lx50z4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631322282570?e=1710374400&v=beta&t=BM4pM7N6qgVN-zlyBplHjlEu0CFhohXnAMYp3Hhk1AU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631322282570?e=1710374400&v=beta&t=QvmM7PcJy2XS_33MtnK0kPGBZdUXvWHfWK4ZAhnTcyI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQERAz2JBkUHzw/company-logo_"
+                    }
+                },
+                "universalName": "comptia",
+                "dashCompanyUrn": "urn:li:fsd_company:16529",
+                "trackingId": "HUfZtTwCQYiPXry+7Zf/iA=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:16529",
+            "url": "https://www.youracclaim.com/badges/00957b7d-a954-4e88-98ca-7765a14cb454?source=linked_in_profile"
+        },
+        {
+            "authority": "CompTIA",
+            "name": "CompTIA IT Fundamentals (ITF+) Certification",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:16529",
+                "entityUrn": "urn:li:fs_miniCompany:16529",
+                "name": "CompTIA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631322282570?e=1710374400&v=beta&t=1I6zdIUSXXADqXJmg5G4fxU-Kt2kkCYUcIT68Lx50z4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631322282570?e=1710374400&v=beta&t=BM4pM7N6qgVN-zlyBplHjlEu0CFhohXnAMYp3Hhk1AU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631322282570?e=1710374400&v=beta&t=QvmM7PcJy2XS_33MtnK0kPGBZdUXvWHfWK4ZAhnTcyI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQERAz2JBkUHzw/company-logo_"
+                    }
+                },
+                "universalName": "comptia",
+                "dashCompanyUrn": "urn:li:fsd_company:16529",
+                "trackingId": "3MOiSwf3S6yZlpxKdpVTeg=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:16529",
+            "url": "https://www.youracclaim.com/badges/fc9c7172-1a91-476a-b7d4-a258c74168a5?source=linked_in_profile"
+        },
+        {
+            "authority": "CompTIA",
+            "name": "CompTIA Security Analytics Professional – CSAP Stackable Certification",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:16529",
+                "entityUrn": "urn:li:fs_miniCompany:16529",
+                "name": "CompTIA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631322282570?e=1710374400&v=beta&t=1I6zdIUSXXADqXJmg5G4fxU-Kt2kkCYUcIT68Lx50z4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631322282570?e=1710374400&v=beta&t=BM4pM7N6qgVN-zlyBplHjlEu0CFhohXnAMYp3Hhk1AU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631322282570?e=1710374400&v=beta&t=QvmM7PcJy2XS_33MtnK0kPGBZdUXvWHfWK4ZAhnTcyI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQERAz2JBkUHzw/company-logo_"
+                    }
+                },
+                "universalName": "comptia",
+                "dashCompanyUrn": "urn:li:fsd_company:16529",
+                "trackingId": "rif4NcBmS3m4qa+rms1UwA=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:16529",
+            "url": "https://www.youracclaim.com/badges/ec6b4149-12bc-4d66-928a-e48a79b36c67?source=linked_in_profile"
+        },
+        {
+            "authority": "CompTIA",
+            "name": "CompTIA PenTest+ ce Certification",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:16529",
+                "entityUrn": "urn:li:fs_miniCompany:16529",
+                "name": "CompTIA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631322282570?e=1710374400&v=beta&t=1I6zdIUSXXADqXJmg5G4fxU-Kt2kkCYUcIT68Lx50z4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631322282570?e=1710374400&v=beta&t=BM4pM7N6qgVN-zlyBplHjlEu0CFhohXnAMYp3Hhk1AU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631322282570?e=1710374400&v=beta&t=QvmM7PcJy2XS_33MtnK0kPGBZdUXvWHfWK4ZAhnTcyI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQERAz2JBkUHzw/company-logo_"
+                    }
+                },
+                "universalName": "comptia",
+                "dashCompanyUrn": "urn:li:fsd_company:16529",
+                "trackingId": "DgxWGpW/RBO/TxnvYcmGEw=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:16529",
+            "url": "https://www.youracclaim.com/badges/2cf21d8c-8018-4de4-88f4-b84686254c06?source=linked_in_profile"
+        },
+        {
+            "authority": "CompTIA",
+            "name": "CompTIA Network Security Professional – CNSP Stackable Certification",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:16529",
+                "entityUrn": "urn:li:fs_miniCompany:16529",
+                "name": "CompTIA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631322282570?e=1710374400&v=beta&t=1I6zdIUSXXADqXJmg5G4fxU-Kt2kkCYUcIT68Lx50z4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631322282570?e=1710374400&v=beta&t=BM4pM7N6qgVN-zlyBplHjlEu0CFhohXnAMYp3Hhk1AU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631322282570?e=1710374400&v=beta&t=QvmM7PcJy2XS_33MtnK0kPGBZdUXvWHfWK4ZAhnTcyI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQERAz2JBkUHzw/company-logo_"
+                    }
+                },
+                "universalName": "comptia",
+                "dashCompanyUrn": "urn:li:fsd_company:16529",
+                "trackingId": "O1urtyWYQJeHaMkGLNKfnA=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:16529",
+            "url": "https://www.youracclaim.com/badges/e3fef238-74af-4025-b344-bfbac2c3407f?source=linked_in_profile"
+        },
+        {
+            "authority": "CompTIA",
+            "name": "CompTIA Network Vulnerability Assessment Professional – CNVP Stackable Certification",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:16529",
+                "entityUrn": "urn:li:fs_miniCompany:16529",
+                "name": "CompTIA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631322282570?e=1710374400&v=beta&t=1I6zdIUSXXADqXJmg5G4fxU-Kt2kkCYUcIT68Lx50z4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631322282570?e=1710374400&v=beta&t=BM4pM7N6qgVN-zlyBplHjlEu0CFhohXnAMYp3Hhk1AU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631322282570?e=1710374400&v=beta&t=QvmM7PcJy2XS_33MtnK0kPGBZdUXvWHfWK4ZAhnTcyI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQERAz2JBkUHzw/company-logo_"
+                    }
+                },
+                "universalName": "comptia",
+                "dashCompanyUrn": "urn:li:fsd_company:16529",
+                "trackingId": "Q6a8JDvGQTWsYbJ8gDMhIw=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:16529",
+            "url": "https://www.youracclaim.com/badges/67689f7b-62d9-4d2e-97bf-933abf7af173?source=linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

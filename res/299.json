@@ -1,0 +1,261 @@
+{
+    "industryName": "Retail",
+    "lastName": "Bakker",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Julien",
+    "entityUrn": "urn:li:fs_profile:ACoAAButqs0BuSWpd0YKKRC4CKSV0XF1AtSjBrU",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102059141"
+    },
+    "geoLocationName": "Alkmaar, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Senior Account Manager AVD Samsung Electronics Benelux",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQEa8K2dg044XA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1523461133938?e=1707955200&v=beta&t=fr7LFgUh0sY5MlqhRc_NIyinb5BbSloznMYz_-gl7sU",
+    "img_200_200": "200_200/0/1523461134043?e=1707955200&v=beta&t=N8VBMnpwMoPOuYr18zL9nLnnhm7rz0IR3se7ajE_ns0",
+    "img_400_400": "400_400/0/1523461133991?e=1707955200&v=beta&t=h39qFr7Gp0h3AFVpjrSq0JN3ieioZ0ksOdI8zEOd5uw",
+    "img_800_800": "800_800/0/1523461134256?e=1707955200&v=beta&t=aROM4Qxv7mQMLzMFv4KfO087jdBxHJ9KHfh0AkM64Zo",
+    "profile_id": "ACoAAButqs0BuSWpd0YKKRC4CKSV0XF1AtSjBrU",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAButqs0BuSWpd0YKKRC4CKSV0XF1AtSjBrU",
+    "member_urn": "urn:li:member:464366285",
+    "public_id": "julien-bakker-5a562210b",
+    "experience": [
+        {
+            "locationName": "Schiphol",
+            "entityUrn": "urn:li:fs_position:(ACoAAButqs0BuSWpd0YKKRC4CKSV0XF1AtSjBrU,2245563758)",
+            "geoLocationName": "Schiphol",
+            "companyName": "Samsung Electronics Benelux",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Consumer Electronics"
+                ]
+            },
+            "title": "Senior Account Manager AVD",
+            "companyUrn": "urn:li:fs_miniCompany:2711168",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQG3bIXYh3FxKA/company-logo_"
+        },
+        {
+            "locationName": "Schiphol-Rijk, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAButqs0BuSWpd0YKKRC4CKSV0XF1AtSjBrU,1754438884)",
+            "geoLocationName": "Schiphol-Rijk, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:105826335",
+            "companyName": "BCC Elektro-speciaalzaken BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Category Manager SDA",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:924483",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQG2_BNPid-RSA/company-logo_"
+        },
+        {
+            "locationName": "Schiphol-Rijk, Schiphol-Zuidoost, Provincie Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAButqs0BuSWpd0YKKRC4CKSV0XF1AtSjBrU,1516584915)",
+            "geoLocationName": "Schiphol-Rijk, Schiphol-Zuidoost, Provincie Noord-Holland, Nederland",
+            "companyName": "BCC Elektro-speciaalzaken BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Product Manager Gaming",
+            "companyUrn": "urn:li:fs_miniCompany:924483",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQG2_BNPid-RSA/company-logo_"
+        },
+        {
+            "locationName": "Schipol-Rijk",
+            "entityUrn": "urn:li:fs_position:(ACoAAButqs0BuSWpd0YKKRC4CKSV0XF1AtSjBrU,1363994954)",
+            "geoLocationName": "Schipol-Rijk",
+            "companyName": "BCC Elektro-speciaalzaken BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Assistent Category Manager",
+            "companyUrn": "urn:li:fs_miniCompany:924483",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQG2_BNPid-RSA/company-logo_"
+        },
+        {
+            "locationName": "Alkmaar en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAButqs0BuSWpd0YKKRC4CKSV0XF1AtSjBrU,746497070)",
+            "geoLocationName": "Alkmaar en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:102059141",
+            "companyName": "Albert Heijn",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Teamleider",
+            "region": "urn:li:fs_region:(nl,5662)",
+            "companyUrn": "urn:li:fs_miniCompany:10031312",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQE_asn6DhgWeg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAButqs0BuSWpd0YKKRC4CKSV0XF1AtSjBrU,363528907)",
+            "school": {
+                "objectUrn": "urn:li:school:15453",
+                "entityUrn": "urn:li:fs_miniSchool:15453",
+                "active": true,
+                "schoolName": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "trackingId": "UlwyPcipSv6La0jigNg6Vg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "degreeName": "Master's degree",
+            "schoolName": "Vrije Universiteit Amsterdam",
+            "fieldOfStudy": "Business Administration specialization in Transport & Supply Chain Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15453"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAButqs0BuSWpd0YKKRC4CKSV0XF1AtSjBrU,324809275)",
+            "school": {
+                "objectUrn": "urn:li:school:164210",
+                "entityUrn": "urn:li:fs_miniSchool:164210",
+                "active": true,
+                "schoolName": "Jönköping International Business School",
+                "trackingId": "AlKI0iCKS1S+3T0rSyLyrg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQEq2H8LdFwmhg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "degreeName": "Bachelorgraad",
+            "schoolName": "Jönköping International Business School",
+            "fieldOfStudy": "Business administration / Bedrijfskunde / Business management / Bedrijfsmanagement",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:164210"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAButqs0BuSWpd0YKKRC4CKSV0XF1AtSjBrU,316753453)",
+            "school": {
+                "objectUrn": "urn:li:school:15453",
+                "entityUrn": "urn:li:fs_miniSchool:15453",
+                "active": true,
+                "schoolName": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "trackingId": "EpPKEditTkqLzIzHWLHcjQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Bachelorgraad",
+            "schoolName": "Vrije Universiteit Amsterdam",
+            "fieldOfStudy": "Bedrijfskunde",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15453"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Engels",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

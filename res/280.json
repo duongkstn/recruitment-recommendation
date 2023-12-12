@@ -1,0 +1,188 @@
+{
+    "industryName": "Retail",
+    "lastName": "van Ingen",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Corielle",
+    "entityUrn": "urn:li:fs_profile:ACoAAAGkIQMBrx32y0x5G6n15ASUE2B3M6DMwzk",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102042271"
+    },
+    "geoLocationName": "Nieuwegein, Utrecht",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "People& (HR) Services Expert bij bol.com",
+    "profile_id": "ACoAAAGkIQMBrx32y0x5G6n15ASUE2B3M6DMwzk",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAGkIQMBrx32y0x5G6n15ASUE2B3M6DMwzk",
+    "member_urn": "urn:li:member:27533571",
+    "public_id": "corielle-van-ingen-9432799",
+    "experience": [
+        {
+            "locationName": "Utrecht en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAGkIQMBrx32y0x5G6n15ASUE2B3M6DMwzk,1469697453)",
+            "geoLocationName": "Utrecht en omgeving, Nederland",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "People& (HR) Services Expert",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAGkIQMBrx32y0x5G6n15ASUE2B3M6DMwzk,109483890)",
+            "companyName": "Ymere",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Real Estate"
+                ]
+            },
+            "title": "Medewerker HR&O",
+            "companyUrn": "urn:li:fs_miniCompany:20497",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQG4Y8R1SFjZRA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAGkIQMBrx32y0x5G6n15ASUE2B3M6DMwzk,62924063)",
+            "companyName": "Meeùs",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Insurance"
+                ]
+            },
+            "title": "HR Assistent",
+            "companyUrn": "urn:li:fs_miniCompany:164927",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHApMCZGAPG3Q/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAGkIQMBrx32y0x5G6n15ASUE2B3M6DMwzk,43601725)",
+            "companyName": "Ordina",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Medewerker Administratie",
+            "companyUrn": "urn:li:fs_miniCompany:2257",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEwbO37wBxNgQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAGkIQMBrx32y0x5G6n15ASUE2B3M6DMwzk,23216184)",
+            "school": {
+                "objectUrn": "urn:li:school:15431",
+                "entityUrn": "urn:li:fs_miniSchool:15431",
+                "active": true,
+                "schoolName": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+                "trackingId": "VhkInvB/Q0u3chdcjW45sw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQE5MUvxbWmHLg/company-logo_"
+            },
+            "activities": "No activities en Societies",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "degreeName": "2006",
+            "schoolName": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+            "fieldOfStudy": "Personeel & Arbeid",
+            "schoolUrn": "urn:li:fs_miniSchool:15431"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAGkIQMBrx32y0x5G6n15ASUE2B3M6DMwzk,36870026)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            },
+            "degreeName": "2002",
+            "schoolName": "ID College, MBO",
+            "fieldOfStudy": "Bestuurlijk Juridisch"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAGkIQMBrx32y0x5G6n15ASUE2B3M6DMwzk,36870077)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            },
+            "degreeName": "1998",
+            "schoolName": "Maarten Luther, MAVO"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

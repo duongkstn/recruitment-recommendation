@@ -1,0 +1,249 @@
+{
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Dietz",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Bart",
+    "entityUrn": "urn:li:fs_profile:ACoAAAAeeLsBvEz-nt3Z4OBdEyrUw2PB8kFCXJA",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Partner at SalesQuarters",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQFR5e5jrkFM1Q/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1601393592833?e=1707955200&v=beta&t=jybYMnPE8AQ_em_1ilswxLJAZOftfJ_lhL0vX6KHjF0",
+    "img_200_200": "200_200/0/1601393592833?e=1707955200&v=beta&t=uMqN6pnELao6syxWItYGPbOQzJ46sToB13MpixDIaRM",
+    "img_311_311": "800_800/0/1601393592833?e=1707955200&v=beta&t=UENPFNd9lxsR1oHTcEjOPh1MaYHig_7brDdFNeRoYqo",
+    "profile_id": "ACoAAAAeeLsBvEz-nt3Z4OBdEyrUw2PB8kFCXJA",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAAeeLsBvEz-nt3Z4OBdEyrUw2PB8kFCXJA",
+    "member_urn": "urn:li:member:1996987",
+    "public_id": "bart-dietz",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAeeLsBvEz-nt3Z4OBdEyrUw2PB8kFCXJA,1994091601)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "companyName": "SalesQuarters",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "description": "U weet hoe belangrijk uw salesafdeling is voor het succes van uw bedrijf. Hoe salesresultaten precies ontstaan én verder kunnen groeien, voelt eerder als een black box. SalesQuarters geeft u de regie in handen. Wij vinden en ontwikkelen leiders en high-potentials die uw salesprestaties verbeteren en we verbeteren de productiviteit van uw salesteams. Dat doen we op basis van ruim 10 jaar ervaring, met een groot netwerk en volledig gebaseerd op bewezen methoden. Benader uw beslissingen in sales leiderschap als investeringsbeslissingen en behaal een maximaal rendement, met SalesQuarters.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Partner",
+            "companyUrn": "urn:li:fs_miniCompany:86681613",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGSJJRcxeYXUg/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAeeLsBvEz-nt3Z4OBdEyrUw2PB8kFCXJA,776501214)",
+            "geoLocationName": "Rotterdam",
+            "companyName": "Rotterdam School of Management, Erasmus University",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2009
+                }
+            },
+            "description": "My research concentrates on the performance and leadership of salespeople",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Assistant Professor",
+            "companyUrn": "urn:li:fs_miniCompany:165790",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGxI95CurHtdA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAeeLsBvEz-nt3Z4OBdEyrUw2PB8kFCXJA,776398982)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Career Openers",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Partner",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:67380",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHekRLtulwo6A/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAeeLsBvEz-nt3Z4OBdEyrUw2PB8kFCXJA,643183063)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Career Openers",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Sr. Consultant",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:67380",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHekRLtulwo6A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAAeeLsBvEz-nt3Z4OBdEyrUw2PB8kFCXJA,2659725)",
+            "companyName": "Rotterdam School of Management, Erasmus University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2003
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "PhD-Candidate",
+            "companyUrn": "urn:li:fs_miniCompany:165790",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGxI95CurHtdA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAeeLsBvEz-nt3Z4OBdEyrUw2PB8kFCXJA,35260538)",
+            "school": {
+                "objectUrn": "urn:li:school:19929",
+                "entityUrn": "urn:li:fs_miniSchool:19929",
+                "active": true,
+                "schoolName": "Rotterdam School of Management, Erasmus University",
+                "trackingId": "3FgmokwNSTOHMNTRNaY40A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGxI95CurHtdA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "description": "Dissertation on the management of salespeople;",
+            "degreeName": "PhD",
+            "schoolName": "Rotterdam School of Management, Erasmus University",
+            "fieldOfStudy": "General Management",
+            "schoolUrn": "urn:li:fs_miniSchool:19929"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAeeLsBvEz-nt3Z4OBdEyrUw2PB8kFCXJA,8482827)",
+            "school": {
+                "objectUrn": "urn:li:school:18467",
+                "entityUrn": "urn:li:fs_miniSchool:18467",
+                "active": true,
+                "schoolName": "Brandeis International Business School",
+                "trackingId": "GQFECcgiR5qiOvvs25NOAQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFzNhKSehePIA/company-logo_"
+            },
+            "activities": "Also took graduate courses at the school of Psychology",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "degreeName": "MBA",
+            "schoolName": "Brandeis International Business School",
+            "fieldOfStudy": "Exchange Semester",
+            "schoolUrn": "urn:li:fs_miniSchool:18467"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAeeLsBvEz-nt3Z4OBdEyrUw2PB8kFCXJA,8482823)",
+            "school": {
+                "objectUrn": "urn:li:school:19929",
+                "entityUrn": "urn:li:fs_miniSchool:19929",
+                "active": true,
+                "schoolName": "Rotterdam School of Management, Erasmus University",
+                "trackingId": "/yJKhjGAR/ux6zxlA04LvA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGxI95CurHtdA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            },
+            "description": "Graduate thesis topic: \"street-smartness in sales\"",
+            "degreeName": "MSc",
+            "schoolName": "Rotterdam School of Management, Erasmus University",
+            "fieldOfStudy": "Marketing",
+            "schoolUrn": "urn:li:fs_miniSchool:19929"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

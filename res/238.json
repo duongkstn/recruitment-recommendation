@@ -1,0 +1,719 @@
+{
+    "industryName": "Apparel & Fashion",
+    "lastName": "Baas",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:19",
+    "firstName": "Carmen",
+    "entityUrn": "urn:li:fs_profile:ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102434816"
+    },
+    "geoLocationName": "Utrecht, Utrecht",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Buyer bij NIKKIE / NP Fashion BV",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQHt40IPXTJLgg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1538582120714?e=1707955200&v=beta&t=8oryf4vrSosqgdjTv5oSV8T7BneQxMCo9WXubotkzlQ",
+    "img_200_200": "200_200/0/1538582120102?e=1707955200&v=beta&t=4B3KmRxvQa88s9epoanHY0JjLTnMz4zXaEKUofDmsPc",
+    "img_400_400": "400_400/0/1538582120356?e=1707955200&v=beta&t=lGZ-Y29Xy0_Gsv31_IO6P6hym5mNNJdG1q6v6olXSAk",
+    "img_800_800": "800_800/0/1538582120272?e=1707955200&v=beta&t=8palXAyrsqVWMHRVcFC4jYFKgGNGzn4yGKg8mElUGpw",
+    "profile_id": "ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE",
+    "member_urn": "urn:li:member:422630902",
+    "public_id": "carmen-baas-09a656b9",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,1863825159)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "NIKKIE / NP Fashion BV",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Apparel & Fashion"
+                ]
+            },
+            "title": "Buyer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:4991597",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQED1NAyR4r-7A/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,1716074493)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "NIKKIE / NP Fashion BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2020
+                }
+            },
+            "title": "Junior Buyer",
+            "region": "urn:li:fs_region:(nl,0)"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,1584582938)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "NIKKIE / NP Fashion BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Apparel & Fashion"
+                ]
+            },
+            "title": "Production Coordinator",
+            "companyUrn": "urn:li:fs_miniCompany:4991597",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQED1NAyR4r-7A/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,1395422128)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "companyName": "NIKKIE / NP Fashion BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Apparel & Fashion"
+                ]
+            },
+            "title": "Buying Assistant",
+            "companyUrn": "urn:li:fs_miniCompany:4991597",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQED1NAyR4r-7A/company-logo_"
+        },
+        {
+            "locationName": "Houten, Provincie Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,1265433310)",
+            "geoLocationName": "Houten, Provincie Utrecht, Nederland",
+            "companyName": "Sapph Distribution b.v.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Design"
+                ]
+            },
+            "title": "Buying Assistant",
+            "companyUrn": "urn:li:fs_miniCompany:1182389",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFi6Lezcj8kbQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,281868775)",
+            "school": {
+                "objectUrn": "urn:li:school:153053",
+                "entityUrn": "urn:li:fs_miniSchool:153053",
+                "active": true,
+                "schoolName": "TMO Fashion Business School",
+                "trackingId": "ogt4RCE0RGK56ZPTlMwyHQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHlJgKXzcMk0g/company-logo_"
+            },
+            "activities": "Studentenvereniging Changeant TMO",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "description": "Op TMO heb ik veel geleerd op commercieel-, ondernemend-, fashion- en businessgebied",
+            "schoolName": "TMO Fashion Business School",
+            "schoolUrn": "urn:li:fs_miniSchool:153053"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,279435534)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "degreeName": "HAVO",
+            "schoolName": "Krimpenerwaard College",
+            "fieldOfStudy": "Economie en maatschappij\nCultuur en maatschappij"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Duits"
+        },
+        {
+            "name": "Engels"
+        },
+        {
+            "name": "Nederlands"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Detex Opleidingen",
+            "name": "Schoen Adviseur / Shoe Advisor",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3161998",
+                "entityUrn": "urn:li:fs_miniCompany:3161998",
+                "name": "Detex Opleidingen",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1674640683361/detex_opleidingen_logo?e=1710374400&v=beta&t=TzTvT_8AZbiyAK0RgYuAh9wKXAPIc3OZ0QqFBLFakAQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1674640683361/detex_opleidingen_logo?e=1710374400&v=beta&t=0BvgGsqUmYsz7QXgtIXAODv4xFvk4uu3mW7NpA-Za1c",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1674640683361/detex_opleidingen_logo?e=1710374400&v=beta&t=zE35A7Ubeqadgu75GviLtUlGlGATp_XAzO063LT69Z0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGdznYca9EDeQ/company-logo_"
+                    }
+                },
+                "universalName": "detex-opleidingen",
+                "dashCompanyUrn": "urn:li:fsd_company:3161998",
+                "trackingId": "7s2VKPmBQQ2U8g221Xai/Q=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:3161998"
+        },
+        {
+            "authority": "Detex Opleidingen",
+            "name": "Jeans Adviseur / Jeans Advisor",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3161998",
+                "entityUrn": "urn:li:fs_miniCompany:3161998",
+                "name": "Detex Opleidingen",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1674640683361/detex_opleidingen_logo?e=1710374400&v=beta&t=TzTvT_8AZbiyAK0RgYuAh9wKXAPIc3OZ0QqFBLFakAQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1674640683361/detex_opleidingen_logo?e=1710374400&v=beta&t=0BvgGsqUmYsz7QXgtIXAODv4xFvk4uu3mW7NpA-Za1c",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1674640683361/detex_opleidingen_logo?e=1710374400&v=beta&t=zE35A7Ubeqadgu75GviLtUlGlGATp_XAzO063LT69Z0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGdznYca9EDeQ/company-logo_"
+                    }
+                },
+                "universalName": "detex-opleidingen",
+                "dashCompanyUrn": "urn:li:fsd_company:3161998",
+                "trackingId": "IuN4v8XgTr+rRITWyKHr5w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:3161998"
+        },
+        {
+            "authority": "Detex Opleidingen",
+            "name": "Sport Adviseur / Sport Advisor",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3161998",
+                "entityUrn": "urn:li:fs_miniCompany:3161998",
+                "name": "Detex Opleidingen",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1674640683361/detex_opleidingen_logo?e=1710374400&v=beta&t=TzTvT_8AZbiyAK0RgYuAh9wKXAPIc3OZ0QqFBLFakAQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1674640683361/detex_opleidingen_logo?e=1710374400&v=beta&t=0BvgGsqUmYsz7QXgtIXAODv4xFvk4uu3mW7NpA-Za1c",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1674640683361/detex_opleidingen_logo?e=1710374400&v=beta&t=zE35A7Ubeqadgu75GviLtUlGlGATp_XAzO063LT69Z0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGdznYca9EDeQ/company-logo_"
+                    }
+                },
+                "universalName": "detex-opleidingen",
+                "dashCompanyUrn": "urn:li:fsd_company:3161998",
+                "trackingId": "E0SpWProQuypFzbV6s3iuw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:3161998"
+        },
+        {
+            "authority": "Detex Opleidingen",
+            "name": "Mode Adviseur / Fashion Advisor",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3161998",
+                "entityUrn": "urn:li:fs_miniCompany:3161998",
+                "name": "Detex Opleidingen",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1674640683361/detex_opleidingen_logo?e=1710374400&v=beta&t=TzTvT_8AZbiyAK0RgYuAh9wKXAPIc3OZ0QqFBLFakAQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1674640683361/detex_opleidingen_logo?e=1710374400&v=beta&t=0BvgGsqUmYsz7QXgtIXAODv4xFvk4uu3mW7NpA-Za1c",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1674640683361/detex_opleidingen_logo?e=1710374400&v=beta&t=zE35A7Ubeqadgu75GviLtUlGlGATp_XAzO063LT69Z0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGdznYca9EDeQ/company-logo_"
+                    }
+                },
+                "universalName": "detex-opleidingen",
+                "dashCompanyUrn": "urn:li:fsd_company:3161998",
+                "trackingId": "YdCCzkPuSmquts7qrZW2mA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:3161998"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Carmen",
+                        "lastName": "Baas",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE",
+                        "occupation": "Buyer bij NIKKIE / NP Fashion BV",
+                        "objectUrn": "urn:li:member:422630902",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE",
+                        "publicIdentifier": "carmen-baas-09a656b9",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1538582120714?e=1707955200&v=beta&t=8oryf4vrSosqgdjTv5oSV8T7BneQxMCo9WXubotkzlQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1538582120102?e=1707955200&v=beta&t=4B3KmRxvQa88s9epoanHY0JjLTnMz4zXaEKUofDmsPc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1538582120356?e=1707955200&v=beta&t=lGZ-Y29Xy0_Gsv31_IO6P6hym5mNNJdG1q6v6olXSAk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1538582120272?e=1707955200&v=beta&t=8palXAyrsqVWMHRVcFC4jYFKgGNGzn4yGKg8mElUGpw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHt40IPXTJLgg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "CJtSzqUZR3iToUFGqEcrmg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,1901706208,1905166801)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE"
+                },
+                {
+                    "member": {
+                        "firstName": "Joëlle",
+                        "lastName": "Van den Bosch",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAzEwVsBhG1AYtX_iqn2EKH8YscLqGekDuE",
+                        "occupation": "Webshop Manager Sienna Goodies I Innovation, Marketing & Retail Enthusiast",
+                        "objectUrn": "urn:li:member:214221147",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAzEwVsBhG1AYtX_iqn2EKH8YscLqGekDuE",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1667940298605?e=1707955200&v=beta&t=MmDwSq0v2JT5wSrHgO2bTVEU9Nn-9AEZIfWV2uIwfIU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1320,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1667940298605?e=1707955200&v=beta&t=oWr3BXdZsP100x9McbXKokkRdCJkibX65mvTq7SU1zQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 330
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQGFsa6EoOgcWQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "joellevandenbosch",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1667939400866?e=1707955200&v=beta&t=ELV_L8kBRYkdd3dO_NpNz8a4hf02P3UgC5RlZnZXuH0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1667939400866?e=1707955200&v=beta&t=5eSbGnJCOxXE03t-vaTX7fuV3YbRJb-GCzxKmkT4M7o",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1667939400866?e=1707955200&v=beta&t=K-p9JzTkqTEpPR-YLUN1RQxb_D_vlUBkrPT8lla8apQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1667939400866?e=1707955200&v=beta&t=BMnSnlK7L1H6vZumC2xrmD2r84wsxMP34nk5pX3HUVM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQF3pU-a_jcepQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "gb5HcgjbSdunJrFRPBSQ3g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,1901706208,1905166802)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAzEwVsBhG1AYtX_iqn2EKH8YscLqGekDuE"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2015
+                }
+            },
+            "description": "Voor het bedrijf Groenendijk een nieuw concept gelanceerd. Het concept uitgewerkt in het kader van financiën, logistiek, sourcing, CSR, kwaliteit en productmanagement. Voor dit project zijn we afgereisd naar Istanbul. Veel bedrijven bezocht, waaronder Emin Denim, TAYPA Factory, Stenim Denim, LOFT Design Department en Borusan Loijstik. \nFunctie: Financieel manager",
+            "title": "IP4 Inkoopproject"
+        },
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Carmen",
+                        "lastName": "Baas",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE",
+                        "occupation": "Buyer bij NIKKIE / NP Fashion BV",
+                        "objectUrn": "urn:li:member:422630902",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE",
+                        "publicIdentifier": "carmen-baas-09a656b9",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1538582120714?e=1707955200&v=beta&t=8oryf4vrSosqgdjTv5oSV8T7BneQxMCo9WXubotkzlQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1538582120102?e=1707955200&v=beta&t=4B3KmRxvQa88s9epoanHY0JjLTnMz4zXaEKUofDmsPc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1538582120356?e=1707955200&v=beta&t=lGZ-Y29Xy0_Gsv31_IO6P6hym5mNNJdG1q6v6olXSAk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1538582120272?e=1707955200&v=beta&t=8palXAyrsqVWMHRVcFC4jYFKgGNGzn4yGKg8mElUGpw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHt40IPXTJLgg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "CJtSzqUZR3iToUFGqEcrmg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,1905166800,2)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE"
+                },
+                {
+                    "member": {
+                        "firstName": "Joëlle",
+                        "lastName": "Van den Bosch",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAzEwVsBhG1AYtX_iqn2EKH8YscLqGekDuE",
+                        "occupation": "Webshop Manager Sienna Goodies I Innovation, Marketing & Retail Enthusiast",
+                        "objectUrn": "urn:li:member:214221147",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAzEwVsBhG1AYtX_iqn2EKH8YscLqGekDuE",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1667940298605?e=1707955200&v=beta&t=MmDwSq0v2JT5wSrHgO2bTVEU9Nn-9AEZIfWV2uIwfIU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1320,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1667940298605?e=1707955200&v=beta&t=oWr3BXdZsP100x9McbXKokkRdCJkibX65mvTq7SU1zQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 330
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQGFsa6EoOgcWQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "joellevandenbosch",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1667939400866?e=1707955200&v=beta&t=ELV_L8kBRYkdd3dO_NpNz8a4hf02P3UgC5RlZnZXuH0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1667939400866?e=1707955200&v=beta&t=5eSbGnJCOxXE03t-vaTX7fuV3YbRJb-GCzxKmkT4M7o",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1667939400866?e=1707955200&v=beta&t=K-p9JzTkqTEpPR-YLUN1RQxb_D_vlUBkrPT8lla8apQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1667939400866?e=1707955200&v=beta&t=BMnSnlK7L1H6vZumC2xrmD2r84wsxMP34nk5pX3HUVM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQF3pU-a_jcepQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "gb5HcgjbSdunJrFRPBSQ3g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,1905166800,1)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAzEwVsBhG1AYtX_iqn2EKH8YscLqGekDuE"
+                },
+                {
+                    "name": "Michelle De Bruijn",
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,1905166800,3)"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2015
+                }
+            },
+            "description": "TP4 Trend Event 1 april 2015 \"Aequi Librium\" \nOnderzoek gedaan naar consumententrends en –behoeftes, vanuit hier concepten bedacht en gerealiseerd. Zo is er een inspirerend Trend Event ontstaan die toegankelijk was voor iedereen. \nFunctie: Trenddirecteur Financiën",
+            "title": "TP4 Trend Project/ Trend Event"
+        },
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Carmen",
+                        "lastName": "Baas",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE",
+                        "occupation": "Buyer bij NIKKIE / NP Fashion BV",
+                        "objectUrn": "urn:li:member:422630902",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE",
+                        "publicIdentifier": "carmen-baas-09a656b9",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1538582120714?e=1707955200&v=beta&t=8oryf4vrSosqgdjTv5oSV8T7BneQxMCo9WXubotkzlQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1538582120102?e=1707955200&v=beta&t=4B3KmRxvQa88s9epoanHY0JjLTnMz4zXaEKUofDmsPc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1538582120356?e=1707955200&v=beta&t=lGZ-Y29Xy0_Gsv31_IO6P6hym5mNNJdG1q6v6olXSAk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1538582120272?e=1707955200&v=beta&t=8palXAyrsqVWMHRVcFC4jYFKgGNGzn4yGKg8mElUGpw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHt40IPXTJLgg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "CJtSzqUZR3iToUFGqEcrmg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE,696389614,1)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABkw1fYBGSM0MniDNLqLlaJNAvqskrmBTWE"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2013
+                }
+            },
+            "description": "Tijdens dit project verschillende mode gerelateerde bedrijven onderzocht en bezoekt, zoals: H&M, Mud Jeans, Just Brands en Zeeman. Onder andere presentaties gezien op het hoofdkantoor van Zeeman en Just Brands. Mystery shopping gedaan voor H&M. De opgestelde managementsamenvatting beoordeeld door de directie Zeeman.",
+            "title": "WP1 Waarneemproject"
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "industryName": "Building Materials",
+    "lastName": "Reynolds",
+    "locationName": "Australia",
+    "student": false,
+    "geoCountryName": "Australia",
+    "geoCountryUrn": "urn:li:fs_geo:101452733",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Alison",
+    "entityUrn": "urn:li:fs_profile:ACoAAAAl0kEBRRe3XA6QtMwReDhogYvVEU3r1WA",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100534788"
+    },
+    "geoLocationName": "Brisbane City, Queensland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "au"
+        }
+    },
+    "headline": "HR Programme Manager, Global Functions - CRH",
+    "profile_id": "ACoAAAAl0kEBRRe3XA6QtMwReDhogYvVEU3r1WA",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAAl0kEBRRe3XA6QtMwReDhogYvVEU3r1WA",
+    "member_urn": "urn:li:member:2478657",
+    "public_id": "alisonreynoldsbatters",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAl0kEBRRe3XA6QtMwReDhogYvVEU3r1WA,1956189725)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "description": "CRH is the leading building materials business in the world, employing c. 77,400 people at 3,235 locations in 28 countries. CRH is the largest building materials business in both North America and Europe and we also have regional positions in Asia.\n\nWe manufacture and supply a diverse range of integrated building materials, products and innovative end-to-end solutions, which can be found throughout the built environment, from major public infrastructure projects to commercial buildings and residential homes.\n\nA Fortune 500 company, CRH is a constituent member of the FTSE 100 index, the EURO STOXX 50 index, the ISEQ 20 and the Dow Jones Sustainability Index (DJSI) Europe. CRH’s American Depositary Shares are listed on the NYSE.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "HR Programme Manager, Global Functions",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Brisbane, Australia",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAl0kEBRRe3XA6QtMwReDhogYvVEU3r1WA,251995015)",
+            "geoLocationName": "Brisbane, Australia",
+            "geoUrn": "urn:li:fs_geo:90009518",
+            "companyName": "Rio Tinto",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Mining & Metals"
+                ]
+            },
+            "title": "General Manager - Support Strategy Review",
+            "region": "urn:li:fs_region:(au,4909)",
+            "companyUrn": "urn:li:fs_miniCompany:5204",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGMqwAQn8Gpqg/company-logo_"
+        },
+        {
+            "locationName": "London, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAl0kEBRRe3XA6QtMwReDhogYvVEU3r1WA,87029330)",
+            "geoLocationName": "London, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009496",
+            "companyName": "Rio Tinto",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Mining & Metals"
+                ]
+            },
+            "title": "General Manager HR, Corporate Functions",
+            "region": "urn:li:fs_region:(gb,4573)",
+            "companyUrn": "urn:li:fs_miniCompany:5204",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGMqwAQn8Gpqg/company-logo_"
+        },
+        {
+            "locationName": "Paris",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAl0kEBRRe3XA6QtMwReDhogYvVEU3r1WA,50532611)",
+            "geoLocationName": "Paris",
+            "companyName": "Rio Tinto",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Mining & Metals"
+                ]
+            },
+            "title": "Recruitment & Talent Manager EMEA",
+            "companyUrn": "urn:li:fs_miniCompany:5204",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGMqwAQn8Gpqg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAAl0kEBRRe3XA6QtMwReDhogYvVEU3r1WA,3345296)",
+            "companyName": "Saipem SA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2002
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "HR Manager",
+            "companyUrn": "urn:li:fs_miniCompany:3592",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGDiP-Ae4UqnA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAl0kEBRRe3XA6QtMwReDhogYvVEU3r1WA,10232530)",
+            "school": {
+                "objectUrn": "urn:li:school:12723",
+                "entityUrn": "urn:li:fs_miniSchool:12723",
+                "active": true,
+                "schoolName": "University of Strathclyde",
+                "trackingId": "m7cb8DdeSr+hVmeiJ65rvg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQHRqfG0T3INqw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            },
+            "degreeName": "BA JOINT HONS 2:1",
+            "schoolName": "University of Strathclyde",
+            "fieldOfStudy": "Marketing & French",
+            "schoolUrn": "urn:li:fs_miniSchool:12723"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Founder & Director",
+            "companyName": "The Brisbane Care Project",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "cause": "HUMANITARIAN_RELIEF",
+            "description": "Supporting asylum seeking / refugee children and their families through the provision of essential school supplies, clothing, toiletries, toys, books and pantry items / grocery vouchers.  "
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

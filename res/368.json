@@ -1,0 +1,357 @@
+{
+    "summary": "I have 5 years business experience in Global Procurement Management, Global Sourcing Management and Global Supplier Relationship Management. Strong leadership skills and energy, focusing on building team spirit and developing individuals to achieve high performance. Results-oriented and experienced manager skilled at finding new resources, cost management, overseas supplier relations, evaluating vendors, negotiating prices and leading the procurement team.",
+    "industryName": "Automotive",
+    "lastName": "Ulas",
+    "locationName": "Turkey",
+    "student": false,
+    "geoCountryName": "Turkey",
+    "geoCountryUrn": "urn:li:fs_geo:102105699",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 3,
+        "day": 15
+    },
+    "industryUrn": "urn:li:fs_industry:53",
+    "firstName": "Tunc",
+    "entityUrn": "urn:li:fs_profile:ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102105699"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "tr"
+        }
+    },
+    "headline": "Global Procurement Management | Global Sourcing Management | Global Supplier Management",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D35AQE7YfOIgavf7g/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1694020269327?e=1702972800&v=beta&t=TRQwsNfc_JJr9r-V1wOnVmbzVLSwlofhobeMqzVlApo",
+    "img_200_200": "200_200/0/1694020269327?e=1702972800&v=beta&t=JQ9TZs56AjZ4ucdkeIl4OOPcLprvdMaQBkn7aHKFgSg",
+    "img_800_800": "800_800/0/1694020269327?e=1702972800&v=beta&t=zj6cYy5KHk1C-EAfKDCJ5jV6H5_decXGwd3DC8bXXdI",
+    "img_100_100": "100_100/0/1694020269327?e=1702972800&v=beta&t=igVgp6ZJ5q3v9cS1gewAPIjjVLnf-S2YSSI9Nsujr5A",
+    "profile_id": "ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw",
+    "member_urn": "urn:li:member:357035646",
+    "public_id": "tunc-ulas",
+    "experience": [
+        {
+            "locationName": "Moscow, Russia",
+            "entityUrn": "urn:li:fs_position:(ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw,2043455839)",
+            "geoLocationName": "Moscow, Russia",
+            "geoUrn": "urn:li:fs_geo:104359155",
+            "companyName": "AUGER Autotechnik GmbH #auger",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Automotive"
+                ]
+            },
+            "title": "Deputy Managing Director",
+            "region": "urn:li:fs_region:(ru,0)",
+            "companyUrn": "urn:li:fs_miniCompany:36751914",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEV8xZ0H_VaJg/company-logo_"
+        },
+        {
+            "locationName": "Kampala, Uganda",
+            "entityUrn": "urn:li:fs_position:(ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw,1670672848)",
+            "geoLocationName": "Kampala, Uganda",
+            "geoUrn": "urn:li:fs_geo:116355726",
+            "companyName": "Onko-Med Medical Systems",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "title": "Procurement Manager",
+            "region": "urn:li:fs_region:(ug,0)"
+        },
+        {
+            "locationName": "Shanghai, China",
+            "entityUrn": "urn:li:fs_position:(ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw,1315874994)",
+            "geoLocationName": "Shanghai, China",
+            "geoUrn": "urn:li:fs_geo:102772228",
+            "companyName": "Sampa Automotive",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Automotive"
+                ]
+            },
+            "title": "Procurement Specialist",
+            "region": "urn:li:fs_region:(cn,0)",
+            "companyUrn": "urn:li:fs_miniCompany:5287031",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQGy4kYqK8BeKw/company-logo_"
+        },
+        {
+            "locationName": "İstanbul, Türkiye",
+            "entityUrn": "urn:li:fs_position:(ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw,777224785)",
+            "geoLocationName": "İstanbul, Türkiye",
+            "geoUrn": "urn:li:fs_geo:102424322",
+            "companyName": "BNP Paribas",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Deposit and Investment Products Marketing Supervisor",
+            "region": "urn:li:fs_region:(tr,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1508",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGaPfduOoKCJA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw,230163845)",
+            "school": {
+                "objectUrn": "urn:li:school:20482",
+                "entityUrn": "urn:li:fs_miniSchool:20482",
+                "active": true,
+                "schoolName": "Orta Doğu Teknik Üniversitesi / Middle East Technical University",
+                "trackingId": "wPul/9ukQgGv2L9kDfVm0Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQGKAGYwZHJA_g/company-logo_"
+            },
+            "activities": "Swimming Team",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                }
+            },
+            "degreeName": "Bachelor of Science (B.S.)",
+            "schoolName": "Middle East Technical University",
+            "fieldOfStudy": "Economics",
+            "schoolUrn": "urn:li:fs_miniSchool:20482"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Türkçe",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "İngilizce",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "İspanyolca",
+            "proficiency": "ELEMENTARY"
+        }
+    ],
+    "publications": [
+        {
+            "date": {
+                "month": 1,
+                "year": 2015
+            },
+            "name": "The Effect of Real Exchange Rate on Economic Growth",
+            "url": "https://www.academia.edu/10417575/The_Effect_of_Real_Exchange_Rate_on_Economic_Growth",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Tunc",
+                        "lastName": "Ulas",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw",
+                        "occupation": "Global Procurement Management | Global Sourcing Management | Global Supplier Management",
+                        "objectUrn": "urn:li:member:357035646",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1668342239089?e=1707955200&v=beta&t=ZB3ct2Kuyd_KP6g8_QCEtR5tS4Zfx-H3XV_Q3pInU-0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1668342239090?e=1707955200&v=beta&t=5MUgMBF5HEWWpSBdFDbTgQm_yQBcabXgfaeP9XPO2s4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQErolfZ_ON9iw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "tunc-ulas",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1694020269327?e=1702972800&v=beta&t=TRQwsNfc_JJr9r-V1wOnVmbzVLSwlofhobeMqzVlApo",
+                                        "expiresAt": 1702972800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1694020269327?e=1702972800&v=beta&t=JQ9TZs56AjZ4ucdkeIl4OOPcLprvdMaQBkn7aHKFgSg",
+                                        "expiresAt": 1702972800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1694020269327?e=1702972800&v=beta&t=zj6cYy5KHk1C-EAfKDCJ5jV6H5_decXGwd3DC8bXXdI",
+                                        "expiresAt": 1702972800000,
+                                        "height": 800
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1694020269327?e=1702972800&v=beta&t=igVgp6ZJ5q3v9cS1gewAPIjjVLnf-S2YSSI9Nsujr5A",
+                                        "expiresAt": 1702972800000,
+                                        "height": 100
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D35AQE7YfOIgavf7g/profile-framedphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "RtSX5n77QQOvBAZc0LK9Jg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw"
+                }
+            ]
+        }
+    ],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Team Leader",
+            "companyName": "Middle East Technical University Swimming Club",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2010
+                }
+            }
+        }
+    ],
+    "honors": [],
+    "projects": [
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Tunc",
+                        "lastName": "Ulas",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw",
+                        "occupation": "Global Procurement Management | Global Sourcing Management | Global Supplier Management",
+                        "objectUrn": "urn:li:member:357035646",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1668342239089?e=1707955200&v=beta&t=ZB3ct2Kuyd_KP6g8_QCEtR5tS4Zfx-H3XV_Q3pInU-0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1668342239090?e=1707955200&v=beta&t=5MUgMBF5HEWWpSBdFDbTgQm_yQBcabXgfaeP9XPO2s4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQErolfZ_ON9iw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "tunc-ulas",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1694020269327?e=1702972800&v=beta&t=TRQwsNfc_JJr9r-V1wOnVmbzVLSwlofhobeMqzVlApo",
+                                        "expiresAt": 1702972800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1694020269327?e=1702972800&v=beta&t=JQ9TZs56AjZ4ucdkeIl4OOPcLprvdMaQBkn7aHKFgSg",
+                                        "expiresAt": 1702972800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1694020269327?e=1702972800&v=beta&t=zj6cYy5KHk1C-EAfKDCJ5jV6H5_decXGwd3DC8bXXdI",
+                                        "expiresAt": 1702972800000,
+                                        "height": 800
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1694020269327?e=1702972800&v=beta&t=igVgp6ZJ5q3v9cS1gewAPIjjVLnf-S2YSSI9Nsujr5A",
+                                        "expiresAt": 1702972800000,
+                                        "height": 100
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D35AQE7YfOIgavf7g/profile-framedphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "RtSX5n77QQOvBAZc0LK9Jg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw,1934613140,1)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABVH7n4Brtr0AI02CTbKs1sMXQrFLoaWvEw"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2012
+                }
+            },
+            "title": "Orientation Leadership Project"
+        }
+    ]
+}

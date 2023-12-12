@@ -1,0 +1,366 @@
+{
+    "summary": "Experienced recruiter with focus on recruitment in  IT, Technical and Staffing positions.",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "F.",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 10,
+        "day": 26
+    },
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Danilo",
+    "entityUrn": "urn:li:fs_profile:ACoAAAGoHowBTLWQAIxiDw3nfc-jXt_hTBMLHRo",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Tech recruiter a.i. @bol. | Interim Talent Acquisition Specialist | Founder and Owner @Recruit4Office",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQFayjBnV0289w/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1698933280962?e=1702972800&v=beta&t=jNR6w9xBpmmy-nC60xaunnTxQ2mGQa_mBrAURV6Hd6U",
+    "img_200_200": "200_200/0/1698933280962?e=1702972800&v=beta&t=C55njsMuKOWywHvk2fMyegk-h32XeIaCVpZv5DMFU9c",
+    "img_800_800": "800_800/0/1698933280962?e=1702972800&v=beta&t=buBGn1w4dWiQ9gOU_HoYbJ4BUnyhY2iREJlq88ZmC04",
+    "img_100_100": "100_100/0/1698933280962?e=1702972800&v=beta&t=4uoAql_PgJ_9gGaJFjSuvntFvREXvsuOJS1HYOw_lOU",
+    "profile_id": "ACoAAAGoHowBTLWQAIxiDw3nfc-jXt_hTBMLHRo",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAGoHowBTLWQAIxiDw3nfc-jXt_hTBMLHRo",
+    "member_urn": "urn:li:member:27795084",
+    "public_id": "danilofabrie",
+    "experience": [
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAGoHowBTLWQAIxiDw3nfc-jXt_hTBMLHRo,1937248838)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Recruit4Office",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "description": "Recruit4Office specializes in staffing in the areas of HR, IT, and Sales. Our goal is to make the \"time to hire\" as well as the \"cost per hire\" for our clients as appealing as possible.\n\nWe do this by primarily using our own network which has been built up through years of practice. Our approach succeeds mainly through personal connection with our candidates as well as with our clients.\n\nIdentifying the corporate culture and atmosphere on the work floor of our clients is an important part of making the right connection with our candidates.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Founder and Owner | Talent Acquisition Specialist",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:84152492",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEfu37Cc78aKg/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAGoHowBTLWQAIxiDw3nfc-jXt_hTBMLHRo,2281955572)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Senior Technical Recruiter a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Eindhoven, Noord-Brabant, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAGoHowBTLWQAIxiDw3nfc-jXt_hTBMLHRo,2122847743)",
+            "geoLocationName": "Eindhoven, Noord-Brabant, Nederland",
+            "geoUrn": "urn:li:fs_geo:104102503",
+            "companyName": "Veiligheidsregio Brabant-Zuidoost (VRBZO)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "description": "The Netherlands has 25 security regions. Safety regions have their focus on protecting the inhabitants of the Netherlands against disasters and crises. Veiligheidsregio Brabant-Zuidoost (VRBZO) is the safety region for Southeast Brabant. In our organization, the fire department and GHOR work together to prevent, limit and combat incidents and disasters. We do this for and together with the 21 municipalities in our working area and the people who live or stay here.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Public Safety"
+                ]
+            },
+            "title": "Recruitmentmanager a.i",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:922453",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQF16aKRgGxDLg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAGoHowBTLWQAIxiDw3nfc-jXt_hTBMLHRo,2201371045)",
+            "companyName": "Undisclosed",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Corporate recruiter a.i.",
+            "companyUrn": "urn:li:fs_miniCompany:90652317",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQGR2aHq4thQSg/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAGoHowBTLWQAIxiDw3nfc-jXt_hTBMLHRo,1937240775)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "CloudNation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "description": "CloudNation brings public cloud knowledge, skill and experience to companies in order to accelerate IT transformations. We enable, empower and deliver successful cloud solutions, while focussing on people and process.\n\nWe support multiple platforms and related tooling. This results in full transparency and independent cloud advisory for all of our clients. We are continuously on top of new developments and have multiple certifications in Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) and Oracle Cloud Infrastructure (OCI).",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Corporate recruiter a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:18498000",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQF3MauhiAfKdw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAGoHowBTLWQAIxiDw3nfc-jXt_hTBMLHRo,30076133)",
+            "school": {
+                "objectUrn": "urn:li:school:15416",
+                "entityUrn": "urn:li:fs_miniSchool:15416",
+                "active": true,
+                "schoolName": "Fontys University of Applied Sciences",
+                "trackingId": "od+DK6l2R5OwNzmFufxdLQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHoPshjTmIrAg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "degreeName": "Associate's degree",
+            "schoolName": "Fontys Hogescholen",
+            "fieldOfStudy": "HTS Bedrijfskader",
+            "degreeUrn": "urn:li:fs_degree:100",
+            "schoolUrn": "urn:li:fs_miniSchool:15416"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAGoHowBTLWQAIxiDw3nfc-jXt_hTBMLHRo,76412794)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            },
+            "degreeName": "HAVO",
+            "schoolName": "College Den Hulster"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "German",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Malay",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Ruckus Wireless",
+            "name": "Ruckus Wise Guy",
+            "licenseNumber": "jdkxJM4TjP",
+            "company": {
+                "objectUrn": "urn:li:company:165796",
+                "entityUrn": "urn:li:fs_miniCompany:165796",
+                "name": "RUCKUS Networks",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1648043834339/ruckus_networks_logo?e=1710374400&v=beta&t=4eYasymgVauzJug2xs5D2SL_U6gDEUaG_mtZbeCp6js",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1648043834339/ruckus_networks_logo?e=1710374400&v=beta&t=dhKZbPu3L3bnhmvnPP35j8dBdSe4VCCIWVAjZwJKlLM",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1648043834339/ruckus_networks_logo?e=1710374400&v=beta&t=7O-YnSoEUolsjz97yeBVkaiyRKrnW36hMwWJ15Gz-I0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQHyl4oWfQcl5Q/company-logo_"
+                    }
+                },
+                "universalName": "ruckus-networks",
+                "dashCompanyUrn": "urn:li:fsd_company:165796",
+                "trackingId": "U7cD6JQYRQu6EE30cv6G2w=="
+            },
+            "displaySource": "ruckuswireless.com",
+            "companyUrn": "urn:li:fs_miniCompany:165796",
+            "url": "https://training.ruckuswireless.com/mod/certificate/view.php?id=69&action=get"
+        },
+        {
+            "authority": "Dirksen Opleidingen",
+            "name": "Basiskennis Glasvezeltechniek",
+            "company": {
+                "objectUrn": "urn:li:company:90334",
+                "entityUrn": "urn:li:fs_miniCompany:90334",
+                "name": "Dirksen Opleidingen",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1666689467901/dirksen_opleidingen_logo?e=1710374400&v=beta&t=91CSMxCkQa0zZ__iYHBiqa0i0d0JA2sHdoP1kdvLR9o",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1666689467901/dirksen_opleidingen_logo?e=1710374400&v=beta&t=WLQGffdkbw3Nh92MFz4TE1_FBuYRMGybgZ80ogDtOsk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1666689467901/dirksen_opleidingen_logo?e=1710374400&v=beta&t=vrjlvvgRSdnMjccDQMi9PAn8EFRHIF38CslAvL1yBf4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEQxtS1PEOaiA/company-logo_"
+                    }
+                },
+                "universalName": "dirksen-opleidingen",
+                "dashCompanyUrn": "urn:li:fsd_company:90334",
+                "trackingId": "fsmLXbBHTEWFeQJFFQrUHQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:90334"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "LinkedIn Sales Navigator",
+            "licenseNumber": "AUUermdfq6Fe4S39WSbTy-17ycuz",
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "9QCPuuHbSvKBYwY6bvrSkQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1337"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

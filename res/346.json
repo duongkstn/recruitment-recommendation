@@ -1,0 +1,252 @@
+{
+    "summary": "For nearly 30 years dealing with the wider trade in various fields; experience in the international market allows me to communicate freely with potential business partners; I do not have one specific specialization - through years of work, I learned many differentiated products and trades, so I'm open for business contacts in many fields; I confess principle of mutual respect regardless of color, creed or origin and place of residence; I trade with people reliable, open to the modern world and cooperation, and most importantly - willing to collaborate in real terms; I invite you to contact - let's do together business!",
+    "industryName": "Food Production",
+    "lastName": "Wąsowski",
+    "locationName": "Poland",
+    "student": false,
+    "geoCountryName": "Poland",
+    "geoCountryUrn": "urn:li:fs_geo:105072130",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:23",
+    "firstName": "Robert",
+    "entityUrn": "urn:li:fs_profile:ACoAABQP5OwBRGd2Xu-qXWhGrd9tIlZ6djmwopg",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009856"
+    },
+    "geoLocationName": "Slupsk Metropolitan Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "pl"
+        }
+    },
+    "headline": "Senior Sourcing Merchant at Milarex",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQHtcqmwLw3yrA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1571743895496?e=1707955200&v=beta&t=AXVNof3k5qu1MsJ0QARdQPUf_DB1ekvlJ-2Ebirv5fA",
+    "img_200_200": "200_200/0/1571743895467?e=1707955200&v=beta&t=i-IrkVNsYGwbwh0wlBNwfxmSzhy93TNJsIKl3MBSxtM",
+    "img_400_400": "400_400/0/1571743895530?e=1707955200&v=beta&t=IK6CbIPaars8ImWc8oQrCAwaz7hfK8V4n4t4cxCKP5k",
+    "img_500_500": "800_800/0/1571743895566?e=1707955200&v=beta&t=kJ4Ds9U0hhYCCua45VKZ8UEnChsdVRnVMkeKKtaVscE",
+    "profile_id": "ACoAABQP5OwBRGd2Xu-qXWhGrd9tIlZ6djmwopg",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABQP5OwBRGd2Xu-qXWhGrd9tIlZ6djmwopg",
+    "member_urn": "urn:li:member:336585964",
+    "public_id": "robert-wąsowski-66487b94",
+    "experience": [
+        {
+            "locationName": "Ustka, Woj. Pomorskie, Polska",
+            "entityUrn": "urn:li:fs_position:(ACoAABQP5OwBRGd2Xu-qXWhGrd9tIlZ6djmwopg,1841212234)",
+            "geoLocationName": "Ustka, Woj. Pomorskie, Polska",
+            "geoUrn": "urn:li:fs_geo:105126151",
+            "companyName": "Milarex",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Food Production"
+                ]
+            },
+            "title": "Kupiec kategorii ryby",
+            "region": "urn:li:fs_region:(pl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:37190659",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQH5KntMp40B9g/company-logo_"
+        },
+        {
+            "locationName": "Halifax, Anglia, Zjednoczone Królestwo Wielkiej Brytanii",
+            "entityUrn": "urn:li:fs_position:(ACoAABQP5OwBRGd2Xu-qXWhGrd9tIlZ6djmwopg,1596257448)",
+            "geoLocationName": "Halifax, Anglia, Zjednoczone Królestwo Wielkiej Brytanii",
+            "geoUrn": "urn:li:fs_geo:100598324",
+            "companyName": "Solina Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Food Production"
+                ]
+            },
+            "title": "Procurement Lead (Ingredients)/ AX Project Lead (Business analysis)",
+            "region": "urn:li:fs_region:(gb,4590)",
+            "companyUrn": "urn:li:fs_miniCompany:5065430",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEeBbMApPCr-w/company-logo_"
+        },
+        {
+            "locationName": "Halifax, Anglia, Zjednoczone Królestwo Wielkiej Brytanii",
+            "entityUrn": "urn:li:fs_position:(ACoAABQP5OwBRGd2Xu-qXWhGrd9tIlZ6djmwopg,1589737894)",
+            "geoLocationName": "Halifax, Anglia, Zjednoczone Królestwo Wielkiej Brytanii",
+            "geoUrn": "urn:li:fs_geo:100598324",
+            "companyName": "SOLINA UK LIMITED",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "industries": [
+                    "Wholesale"
+                ]
+            },
+            "title": "Raw Material Planner/AX Project Lead",
+            "region": "urn:li:fs_region:(gb,4590)",
+            "companyUrn": "urn:li:fs_miniCompany:16294603"
+        },
+        {
+            "locationName": "Halifax, Zjednoczone Królestwo",
+            "entityUrn": "urn:li:fs_position:(ACoAABQP5OwBRGd2Xu-qXWhGrd9tIlZ6djmwopg,1541699857)",
+            "geoLocationName": "Halifax, Zjednoczone Królestwo",
+            "geoUrn": "urn:li:fs_geo:100598324",
+            "companyName": "Solina Group",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Food Production"
+                ]
+            },
+            "title": "AX Project Lead/Supply Chain",
+            "region": "urn:li:fs_region:(gb,4590)",
+            "companyUrn": "urn:li:fs_miniCompany:5065430",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEeBbMApPCr-w/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABQP5OwBRGd2Xu-qXWhGrd9tIlZ6djmwopg,292183228)",
+            "school": {
+                "objectUrn": "urn:li:school:22926",
+                "entityUrn": "urn:li:fs_miniSchool:22926",
+                "active": true,
+                "schoolName": "Wyższa Szkoła Turystyki i Rekreacji im. Mieczysława Orłowicza",
+                "trackingId": "tkOB4oz6QN29PEN5wwoMcw=="
+            },
+            "activities": "UEFA-B football trainer; football referee of PZPN",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            },
+            "degreeName": "Sport Manager",
+            "schoolName": "Wyższa Szkoła Turystyki i Rekreacji im. Mieczysława Orłowicza",
+            "fieldOfStudy": "Zarządzanie w Sporcie",
+            "schoolUrn": "urn:li:fs_miniSchool:22926"
+        }
+    ],
+    "languages": [
+        {
+            "name": "angielski",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "bośniacki",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "chorwacki",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "francuski",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "hiszpański",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "polski",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "rosyjski",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "serbski",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Board President",
+            "companyName": "Klub Sportowy",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:0",
+                    "entityUrn": "urn:li:fs_miniCompany:0",
+                    "name": "United Latino Students Association",
+                    "showcase": false,
+                    "active": false,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630622575809?e=1710374400&v=beta&t=Psg07kycYPmEiMfzBTacBRZ7HvZfh9DkUoMlxJcWu_U",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630622575809?e=1710374400&v=beta&t=aVltz89e-ptl3WNAfWk_9YM9b_F9zcpOSXvXgQ4rQy0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630622575809?e=1710374400&v=beta&t=8H8GY4k5gvGgdOVarWYLHmDnSImKhtP8Wvf98mUiq34",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C560BAQHGhly_87bnSw/company-logo_"
+                        }
+                    },
+                    "universalName": "united-latino-students-association",
+                    "dashCompanyUrn": "urn:li:fsd_company:0",
+                    "trackingId": "hEQxscZvQpG9+0+IeDoAwA=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:0"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

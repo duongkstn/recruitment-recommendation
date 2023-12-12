@@ -1,0 +1,241 @@
+{
+    "industryName": "Retail",
+    "lastName": "Kemmink",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Britt",
+    "entityUrn": "urn:li:fs_profile:ACoAADi9RaIBZz17MmMpvuJYsyjVphbzFhfs3FA",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100208608"
+    },
+    "geoLocationName": "Epe, Gelderland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Student Human Resource Management ",
+    "profile_id": "ACoAADi9RaIBZz17MmMpvuJYsyjVphbzFhfs3FA",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADi9RaIBZz17MmMpvuJYsyjVphbzFhfs3FA",
+    "member_urn": "urn:li:member:951928226",
+    "public_id": "britt-kemmink-482970226",
+    "experience": [
+        {
+            "locationName": "Apeldoorn, Gelderland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADi9RaIBZz17MmMpvuJYsyjVphbzFhfs3FA,2268554801)",
+            "geoLocationName": "Apeldoorn, Gelderland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102395014",
+            "companyName": "Online Star Register",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Junior Online Marketeer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:77016432",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGeNASOPGEGuw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADi9RaIBZz17MmMpvuJYsyjVphbzFhfs3FA,2208075789)",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Campus Coördinator",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Apeldoorn, Gelderland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADi9RaIBZz17MmMpvuJYsyjVphbzFhfs3FA,2030125289)",
+            "geoLocationName": "Apeldoorn, Gelderland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102395014",
+            "companyName": "Bianco Ristorante Pizzeria",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "title": "Horecamedewerker",
+            "region": "urn:li:fs_region:(nl,0)"
+        },
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADi9RaIBZz17MmMpvuJYsyjVphbzFhfs3FA,2114658986)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "description": "- Stakeholdermanagement\n- Employer Branding \n- Building and maintaining relationships with external suppliers \n- Campus events \n\nFinal evaluation: 9",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "HR Campus Intern",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Apeldoorn, Gelderland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADi9RaIBZz17MmMpvuJYsyjVphbzFhfs3FA,1887602850)",
+            "geoLocationName": "Apeldoorn, Gelderland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102395014",
+            "companyName": "Het Apeldoorns Koffiehuys",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "title": "Horecamedewerker",
+            "region": "urn:li:fs_region:(nl,0)"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADi9RaIBZz17MmMpvuJYsyjVphbzFhfs3FA,761290018)",
+            "school": {
+                "objectUrn": "urn:li:school:15412",
+                "entityUrn": "urn:li:fs_miniSchool:15412",
+                "active": true,
+                "schoolName": "Windesheim",
+                "trackingId": "ZekAq27NSl61xhtbVyKq8A==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGQqD5vAOBKkQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2025
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "degreeName": "bachelor",
+            "schoolName": "Windesheim",
+            "fieldOfStudy": "Human Resource Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15412"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADi9RaIBZz17MmMpvuJYsyjVphbzFhfs3FA,781537275)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "description": "Education profile: Economics and Society",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101502",
+            "schoolName": "Koninklijke Scholengemeenschap Apeldoorn",
+            "fieldOfStudy": "Hoger algemeen voortgezet onderwijs (Havo)"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Windesheim",
+            "name": "Propedeuse Human Resource Management",
+            "company": {
+                "objectUrn": "urn:li:company:21329",
+                "entityUrn": "urn:li:fs_miniCompany:21329",
+                "name": "Windesheim",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1664798647527/hogeschool_windesheim_logo?e=1710374400&v=beta&t=htVZuenG3Qx5_qgaq_Ra7RvUMRB1Xi0Wp61M5bs3w0c",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1664798647527/hogeschool_windesheim_logo?e=1710374400&v=beta&t=ozJtalqgvx07kkpXsBkLK6svxT6sAs0rGrLhjU5yFtc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1664798647527/hogeschool_windesheim_logo?e=1710374400&v=beta&t=qvuEbEe1GXdPCrg7_ExukQ191EwCUOUgNYX4zLeOvqw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQGQqD5vAOBKkQ/company-logo_"
+                    }
+                },
+                "universalName": "hogeschool-windesheim",
+                "dashCompanyUrn": "urn:li:fsd_company:21329",
+                "trackingId": "G+r97gS9RY2c+cNkhDffGQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:21329"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

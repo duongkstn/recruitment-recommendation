@@ -1,0 +1,263 @@
+{
+    "industryName": "Retail",
+    "lastName": "Marie",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Marnix",
+    "entityUrn": "urn:li:fs_profile:ACoAAAoaZlcBAO20t4razoT3Gh-y5lfNyDJIQp0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102011674"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Sr HR Business Partner Logistics & RE&WM - bol.",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQH9A6PXKUieaw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1685537610746?e=1707955200&v=beta&t=wWxHKBx3PPOEHwzRk25hnka-CWtU79wcHfhz8p0dddg",
+    "img_200_200": "200_200/0/1685537610746?e=1707955200&v=beta&t=MjMIB779hJO2GyYmHnty10dP6rlZZTdbTpOwEMrGkEI",
+    "img_400_400": "400_400/0/1685537610746?e=1707955200&v=beta&t=v3SLgJTJa8lEjWaaI8PFHk0TXYuf_UPWH179bMrr45s",
+    "img_800_800": "800_800/0/1685537610746?e=1707955200&v=beta&t=szPbZFCjy3sQ8VafvfDsjXjM2zHJ11cnB-3jNqLl7tM",
+    "profile_id": "ACoAAAoaZlcBAO20t4razoT3Gh-y5lfNyDJIQp0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAoaZlcBAO20t4razoT3Gh-y5lfNyDJIQp0",
+    "member_urn": "urn:li:member:169502295",
+    "public_id": "marnixmarie",
+    "experience": [
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAoaZlcBAO20t4razoT3Gh-y5lfNyDJIQp0,2050347273)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Sr HR Business Partner Logistics and Real Estate & Workplace Management",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAoaZlcBAO20t4razoT3Gh-y5lfNyDJIQp0,1361629665)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "companyName": "ING",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "HR Business Partner",
+            "companyUrn": "urn:li:fs_miniCompany:2594164",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEzlL9vyovZuw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAoaZlcBAO20t4razoT3Gh-y5lfNyDJIQp0,1289872697)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "ING",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Business Manager to Director HR ING Netherlands (temp) & HR Business Partner",
+            "companyUrn": "urn:li:fs_miniCompany:2594164",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEzlL9vyovZuw/company-logo_"
+        },
+        {
+            "locationName": "Madrid en omgeving, Spanje",
+            "entityUrn": "urn:li:fs_position:(ACoAAAoaZlcBAO20t4razoT3Gh-y5lfNyDJIQp0,1147297549)",
+            "geoLocationName": "Madrid en omgeving, Spanje",
+            "companyName": "ING España & Portugal",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "ITP HR Trainee - Performance & Recognition Management",
+            "companyUrn": "urn:li:fs_miniCompany:2105579",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQFam_O4efdN_Q/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAoaZlcBAO20t4razoT3Gh-y5lfNyDJIQp0,968367743)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "companyName": "ING",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            "description": "Started the HR traineeship at the Community of Expertise (CoE) Craftsmanship & Way of Working. Responsible for supporting and taking the lead in certain projects, within the different areas of the Expertise. Majority of the current projects I worked on were focused on improving and optimizing the areas talent management and talent acquisition. ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "ITP HR Trainee - Community of Expertise: Craftsmanship & Way of Working",
+            "companyUrn": "urn:li:fs_miniCompany:2594164",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEzlL9vyovZuw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAoaZlcBAO20t4razoT3Gh-y5lfNyDJIQp0,236967404)",
+            "school": {
+                "objectUrn": "urn:li:school:15441",
+                "entityUrn": "urn:li:fs_miniSchool:15441",
+                "active": true,
+                "schoolName": "University of Groningen",
+                "trackingId": "kxVC8FFCSGioSqkcGFos5g==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_"
+            },
+            "grade": "Average 7,5 (both Pre-MSc as well as MSc)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "description": "Mijn thesis geschreven bij het UMCG met als hoofdvraag: How does the use of a Health Information System evolve during the post-implementation phase and how do the interactions between and within the professional health care groups play a role in this?",
+            "degreeName": "Master's degree",
+            "schoolName": "Rijksuniversiteit Groningen",
+            "fieldOfStudy": "BA Change Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15441"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAoaZlcBAO20t4razoT3Gh-y5lfNyDJIQp0,100327073)",
+            "school": {
+                "objectUrn": "urn:li:school:15419",
+                "entityUrn": "urn:li:fs_miniSchool:15419",
+                "active": true,
+                "schoolName": "Hanzehogeschool Groningen / Hanze University of Applied Sciences Groningen",
+                "trackingId": "rsTW40MUToaVwcDOZlXlUg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQG_6IEYDiaIOw/company-logo_"
+            },
+            "activities": "Pubquiz committee van Erasmus Students Network (ESN)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "Bachelor of Applied Science (BASc)",
+            "schoolName": "Hanzehogeschool Groningen",
+            "fieldOfStudy": "Human Resource Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15419"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAoaZlcBAO20t4razoT3Gh-y5lfNyDJIQp0,151773329)",
+            "school": {
+                "objectUrn": "urn:li:school:11846",
+                "entityUrn": "urn:li:fs_miniSchool:11846",
+                "active": true,
+                "schoolName": "HSB Hochschule Bremen – City University of Applied Sciences",
+                "trackingId": "86HdSgxjScm4CGWSM1cKiw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQEIN6jRyjj0nQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Minor",
+            "schoolName": "Hochschule Bremen",
+            "fieldOfStudy": "Business/Commerce, General",
+            "schoolUrn": "urn:li:fs_miniSchool:11846"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Duits"
+        },
+        {
+            "name": "Engels"
+        },
+        {
+            "name": "Frans"
+        },
+        {
+            "name": "Nederlands"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,250 @@
+{
+    "industryName": "Building Materials",
+    "lastName": "Gordon",
+    "locationName": "Ireland",
+    "student": false,
+    "geoCountryName": "Ireland",
+    "geoCountryUrn": "urn:li:fs_geo:104738515",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Patricia",
+    "entityUrn": "urn:li:fs_profile:ACoAAAPF0VEBIdgiEJTDXF3rkAIxKKP04utMTh0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104738515"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "ie"
+        }
+    },
+    "headline": "Senior Vice President Human Resources - Global Functions at CRH",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQE3b1wtRa0ueQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1516804718804?e=1707955200&v=beta&t=vktta_Dz9zQitkMnnp8PWw6_Ue7BAmfpsA3EwuiDD0U",
+    "img_163_163": "800_800/0/1516804726230?e=1707955200&v=beta&t=WboZB6yX6fPUbDIquvDC8okcg3FY_pIy-QUhVIyU7NU",
+    "profile_id": "ACoAAAPF0VEBIdgiEJTDXF3rkAIxKKP04utMTh0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAPF0VEBIdgiEJTDXF3rkAIxKKP04utMTh0",
+    "member_urn": "urn:li:member:63295825",
+    "public_id": "patricia-gordon-64124519",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAPF0VEBIdgiEJTDXF3rkAIxKKP04utMTh0,2125802128)",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Senior Vice President Human Resources - Global Functions ",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAPF0VEBIdgiEJTDXF3rkAIxKKP04utMTh0,1698587222)",
+            "companyName": "Leviat",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "description": "The name of Construction Accessories at CRH Building Products",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Vice President Human Resources at Leviat, a CRH company",
+            "companyUrn": "urn:li:fs_miniCompany:31269576",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEuJwB5z0JXsA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAPF0VEBIdgiEJTDXF3rkAIxKKP04utMTh0,1698585291)",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "HR Director",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAPF0VEBIdgiEJTDXF3rkAIxKKP04utMTh0,469531454)",
+            "geoLocationName": "Dublin, Ireland",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Group HR Business Partner",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAPF0VEBIdgiEJTDXF3rkAIxKKP04utMTh0,207245014)",
+            "geoLocationName": "Dublin, Ireland",
+            "companyName": "RSM Ireland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Accounting"
+                ]
+            },
+            "title": "HR Manager",
+            "companyUrn": "urn:li:fs_miniCompany:357246",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGlsv_mWsCt3Q/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAPF0VEBIdgiEJTDXF3rkAIxKKP04utMTh0,607028018)",
+            "school": {
+                "objectUrn": "urn:li:school:374058",
+                "entityUrn": "urn:li:fs_miniSchool:374058",
+                "active": true,
+                "schoolName": "UCD Michael Smurfit Graduate Business School",
+                "trackingId": "85EuUAyZTsC3WIHWA+Fjkg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFeoY8iuxxI6Q/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "degreeName": "Executive Diploma Strategy Development & Innovation",
+            "schoolName": "UCD Michael Smurfit Graduate Business School",
+            "schoolUrn": "urn:li:fs_miniSchool:374058"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAPF0VEBIdgiEJTDXF3rkAIxKKP04utMTh0,336047271)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                }
+            },
+            "degreeName": "QQI Certificate, Project Management",
+            "schoolName": "Professional Development"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAPF0VEBIdgiEJTDXF3rkAIxKKP04utMTh0,46552938)",
+            "school": {
+                "objectUrn": "urn:li:school:13379",
+                "entityUrn": "urn:li:fs_miniSchool:13379",
+                "active": true,
+                "schoolName": "Dublin City University",
+                "trackingId": "ZgMksnUOSRmHOuPUmzVNYQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQFPxkpvHFH-Lg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "Masters Human Resource Strategies",
+            "schoolName": "Dublin City University",
+            "schoolUrn": "urn:li:fs_miniSchool:13379"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Non-Executive Director",
+            "companyName": "Ballymun Regional Youth Resource (BRYR)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2014
+                }
+            }
+        },
+        {
+            "role": "Mentor",
+            "companyName": "DCU Mentorship Programme",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            }
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

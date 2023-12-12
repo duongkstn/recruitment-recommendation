@@ -1,0 +1,710 @@
+{
+    "summary": "Procurement Professional with an ICT background. Experienced in vendor sourcing and selection, contract negotiation, project management, supplier & customer relationship management and driving standard operating procedures. Possess excellent problem-solving skills, detail-oriented and a great team player.",
+    "industryName": "Consumer Goods",
+    "lastName": "Kukoyi ♠",
+    "locationName": "Nigeria",
+    "student": false,
+    "geoCountryName": "Nigeria",
+    "geoCountryUrn": "urn:li:fs_geo:105365761",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:25",
+    "firstName": "Opeyemi",
+    "entityUrn": "urn:li:fs_profile:ACoAABDg7I8BXkdFZm12vrmI7izwyG8BFtbOZxQ",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:107917960"
+    },
+    "geoLocationName": "Lagos Island, Lagos State",
+    "location": {
+        "basicLocation": {
+            "countryCode": "ng"
+        }
+    },
+    "headline": "Procurement Manager - Sahara Group",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQEwxcRNkt-1eQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1561070537378?e=1707955200&v=beta&t=y6LTUdSg9gmo9zNyCQw_49DJc_u1x7T-GZg-MJftNno",
+    "img_200_200": "200_200/0/1561070537435?e=1707955200&v=beta&t=iN1ZWi1wBf5PR7zf4gd-Isk4gfyA33Go0O71tnBB5Zs",
+    "img_384_384": "800_800/0/1561070537385?e=1707955200&v=beta&t=ls3loFq-pIjlvubF-B4G1wm24RT7hHvIwiRGK6bKrXM",
+    "profile_id": "ACoAABDg7I8BXkdFZm12vrmI7izwyG8BFtbOZxQ",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABDg7I8BXkdFZm12vrmI7izwyG8BFtbOZxQ",
+    "member_urn": "urn:li:member:283176079",
+    "public_id": "opeyemi-kukoyi-♠-067a037a",
+    "experience": [
+        {
+            "locationName": "Lagos State, Nigeria",
+            "entityUrn": "urn:li:fs_position:(ACoAABDg7I8BXkdFZm12vrmI7izwyG8BFtbOZxQ,2088373086)",
+            "geoLocationName": "Lagos State, Nigeria",
+            "geoUrn": "urn:li:fs_geo:104197452",
+            "companyName": "Sahara Group",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Oil & Energy"
+                ]
+            },
+            "title": "Procurement Manager",
+            "region": "urn:li:fs_region:(ng,0)",
+            "companyUrn": "urn:li:fs_miniCompany:374981",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQGtjMYcLX6NZA/company-logo_"
+        },
+        {
+            "locationName": "Lagos, Nigeria",
+            "entityUrn": "urn:li:fs_position:(ACoAABDg7I8BXkdFZm12vrmI7izwyG8BFtbOZxQ,1944716877)",
+            "geoLocationName": "Lagos, Nigeria",
+            "geoUrn": "urn:li:fs_geo:104197452",
+            "companyName": "Unilever",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "description": "• Responsible for the development and execution of sourcing plans and strategy of all MRO spend worth more than 4M Euros annually.\n• Covers CAPEX/MRO procurement across 6 Unilever Nigeria factories viz; Oral care, Savoury, NSD, HPC, Tea & Soaps including the Mega Distribution Centre (MDC).\n• Negotiates terms and conditions favorable considering quality, delivery and price. Conduct a price analysis on all vendor quotes and services to determine most desirable and cost-effective suppliers. This resulted in savings of approximately 20-50% or more.\n• Manages the reporting for weekly, monthly and yearly metrics to track key data used for trending, analysis and monthly score-carding.\n• Responsible for the negotiation of all Maintenance contract and SLAs; managing supplier relationship within the MRO portfolio.\n• Maintains procurement pipelines with alternative vendors to ensure corporate standards are maintained in accordance with required margins.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "Procurement Operations MRO & CAPEX Officer",
+            "region": "urn:li:fs_region:(ng,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1248",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF6TJKa56uLAg/company-logo_"
+        },
+        {
+            "locationName": "Lagos, Nigeria",
+            "entityUrn": "urn:li:fs_position:(ACoAABDg7I8BXkdFZm12vrmI7izwyG8BFtbOZxQ,1944717073)",
+            "geoLocationName": "Lagos, Nigeria",
+            "geoUrn": "urn:li:fs_geo:104197452",
+            "companyName": "Unilever",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "description": "•Drive procurement KPIs and other deliverables – RSP, SUSO PTE, E- Invoicing, etc\n• Lead business reviews to discuss best practices with aim to ultimately improve supplier performance, savings delivery and to strengthen business partnerships. (Steercom Meetings & 5s Workshops)\n• Collaborate with other key functions like Finance & R&D on aspects that impact procurement to ensure optimal business performance.\n• Drive effective cost saving measures on all Procurement/Materials Management initiatives across the region and ensured the savings\n• Prepare and analyze spend reports for the region and drive global/local reporting initiative across the region. E.g. PPV reports, forecast cycle data updates.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "Ag. Asst Procurement Manager Capabilities & Projects West – Africa",
+            "region": "urn:li:fs_region:(ng,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1248",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF6TJKa56uLAg/company-logo_"
+        },
+        {
+            "locationName": "Nigeria",
+            "entityUrn": "urn:li:fs_position:(ACoAABDg7I8BXkdFZm12vrmI7izwyG8BFtbOZxQ,1445439350)",
+            "geoLocationName": "Nigeria",
+            "companyName": "Unilever",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "description": "• Conduct e-Tender in the space of Capex Projects and MRO to drive competition and generate better values.\n• Worked collaboratively with Global Procurement team, clearing agent and other stakeholders for timely delivery of foreign equipment, completion, and commissioning of projects in record time.\n• Managed LC and import documentation process for indirect procurement orders.\n• Managed sourcing of factory spares and consumables and ensured 100% available to ensure OEE (Overall Equipment Efficiency) is met.\n• Reviewed the current supplier base and make recommendations to stakeholders on the need to increase the pool of vendors to drive competition and generate better values\n• Qualified certified Auctioneers for the sales of company idle assets to generate higher proceeds and cash release to the business\n• Established weekly reviews with Project Engineers and Factory Managers to discuss milestones covered on project network as well as factory challenges with supports needed from Procurement.\n• Championed migration of vendors to the E-Invoicing platform for West Africa.\n• Identified learning opportunity among the team with aligned development plans.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "Procurement Operations - Capex & MRO",
+            "companyUrn": "urn:li:fs_miniCompany:1248",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF6TJKa56uLAg/company-logo_"
+        },
+        {
+            "locationName": "Nigeria",
+            "entityUrn": "urn:li:fs_position:(ACoAABDg7I8BXkdFZm12vrmI7izwyG8BFtbOZxQ,1620788712)",
+            "geoLocationName": "Nigeria",
+            "geoUrn": "urn:li:fs_geo:105365761",
+            "companyName": "Unilever",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "description": "• Tracked vendor compliance and achieved 90% compliance (RS & SQA)\n• Review SNCR (Supplier Non-Conformance Report) and work with the supplier to improve quality of materials supplied.\n• Follow up import delivery schedules, track goods in transit to confirm ETA of spare with special attention on identified critical materials.\n• Vendor Master Data Maintenance. (Registration & Information Update)\n• Update import tracker daily to for visibility of current status of all requests and escalate where necessary.\n• Collate data for price forecasting and DDP Upload.\n• Work cross functionally with stakeholders to ensure actions are closed promptly according to the S&OP.\n• Support in tender process.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "Unilever Leadership Internship Program- Direct Procurement (RM&PM)",
+            "region": "urn:li:fs_region:(ng,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1248",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF6TJKa56uLAg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABDg7I8BXkdFZm12vrmI7izwyG8BFtbOZxQ,585687329)",
+            "school": {
+                "objectUrn": "urn:li:school:4072353",
+                "entityUrn": "urn:li:fs_miniSchool:4072353",
+                "active": true,
+                "schoolName": "IRGIB-Africa University",
+                "trackingId": "hh2viBfEQC+eoW9gNS6NSg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEAXmODPd50lw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "IRGIB-Africa University",
+            "fieldOfStudy": "Communication and Information Technology",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:4072353"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABDg7I8BXkdFZm12vrmI7izwyG8BFtbOZxQ,656368734)",
+            "grade": "Upper-Credit",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+            "degreeName": "National Diploma",
+            "schoolName": "The Gateway Polytechnic Saapade",
+            "fieldOfStudy": "Computer Science"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "CIPS - The Chartered Institute of Procurement & Supply",
+            "name": "Student Member, The Chartered Institute of Procurement & Supply",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "005769499",
+            "company": {
+                "objectUrn": "urn:li:company:43826",
+                "entityUrn": "urn:li:fs_miniCompany:43826",
+                "name": "CIPS - The Chartered Institute of Procurement & Supply",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1655208033015/cips_logo?e=1710374400&v=beta&t=iALQVQfHere2bhgkfGFOi4-Kz2_USIbnzOnqfPRjIRU",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1655208033015/cips_logo?e=1710374400&v=beta&t=uEca2GGY1APFnZG2_XMjmj2Uejc5NZ1_Wpu2gIKRASU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1655208033015/cips_logo?e=1710374400&v=beta&t=Mj4WdKCyMUy5WZ8eNXREvkGF-gRPoDbD-d2QR_JcLMQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGAXeGhLHEVxw/company-logo_"
+                    }
+                },
+                "universalName": "cips",
+                "dashCompanyUrn": "urn:li:fsd_company:43826",
+                "trackingId": "v/ufk2/GTGmW+5hHR/9AUg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:43826"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Compassionate Directness",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "tjjkeyUVReqyhc6GHKq9oA=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/e3a9384b1b94337be26ea6f92fe64b1d29945e842b05c219bf1d461c93240525?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Finance for Non-Financial Managers",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "5Hd5tX53Sdeen645ZrOeew=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/96c79858e2b2cec05c8c019a3cf493c4e797df2e5f1938d8bba105883943324f?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Time Management Tips: Teamwork",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "XPUooq/tQUymJ0bNP1LRcQ=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/f81d1e88631e5e6ea0dd3721a7710c409dd8b21804cba4139c1788075cf4bccd?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Job Skills: Learning the Basics",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "RYC6ZUUmTMurzpr9AdqNDA=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/2b4f0b0721d307feada6b552a5beb9bd5b4c4f96f2f0287e3ec8404d48710b4b?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Negotiation Skills",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "NMREMnToT6yeApu+b+r9gQ=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/464b59b1247c7db4117949c47880441fd86547d8532271b87b92dce78e457950?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Project Management Foundations: Procurement",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "oAjXOaj/SSCYYxRxeV48mw=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/ac21bdad85bbe905f2a2bcef8eb877614758089afdbc5228a446142676dbb5d5?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Strategic Thinking",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "2zTu5qpHR2ibUd2WtLxhsA=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/4d6009263cb1398e495475ce8d7fdc27cf2424b8e4282b44992fbc54ec6b6442?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "15 Secrets Successful People Know About Time Management (getAbstract Summary)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "Fb73MqI5S42okJUkhEjwtQ=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/a730bff42cf2a246ae17110202b0642d8c5e3609f6bb68c64e75e80dafa6d554?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Become a Supply Chain Manager",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "xJgo9YDTQ7mE5KiVhiMuKw=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/9c4f56a55b5eb44e7379e3084fc1f97938b246466a7c928337a8612630f5173c?trk=backfilled_certificate"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

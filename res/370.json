@@ -1,0 +1,478 @@
+{
+    "industryName": "Consumer Services",
+    "lastName": "Spiering",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:91",
+    "firstName": "Tommy",
+    "entityUrn": "urn:li:fs_profile:ACoAAA0ZZM0BfcTfHmeiGdUnmpp3UBf9Yxy6LC0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101461601"
+    },
+    "geoLocationName": "The Hague, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Information Security Officer - Regional IT Security Officer (Region 1 METRO AG) - Security Architect",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQE8_iBfqDYHCA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1517580045388?e=1707955200&v=beta&t=Br9_jkxC_EoxJRsv_5yD_ExzBbUaAd-L2JY0F7-CIlk",
+    "img_200_200": "200_200/0/1517580045159?e=1707955200&v=beta&t=7TCjsN1Jtuuvkk0zviM2d1KnGYLFyOiVPPRfwqoAwmU",
+    "img_400_400": "400_400/0/1517580045340?e=1707955200&v=beta&t=FQO4MO5C_R5tcOqIH1pXiFYppsjZJdknRKbZ2aRIL5I",
+    "img_450_450": "800_800/0/1517580045480?e=1707955200&v=beta&t=TFqQxa6jErOzyT7yx9m0UBPdeKSfgYx347iwkaQNA7E",
+    "profile_id": "ACoAAA0ZZM0BfcTfHmeiGdUnmpp3UBf9Yxy6LC0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAA0ZZM0BfcTfHmeiGdUnmpp3UBf9Yxy6LC0",
+    "member_urn": "urn:li:member:219768013",
+    "public_id": "tommyspiering1",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAA0ZZM0BfcTfHmeiGdUnmpp3UBf9Yxy6LC0,1614985148)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "METRO/MAKRO Cash and Carry",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Wholesale"
+                ]
+            },
+            "title": "Information Security Officer - Regional IT Security Officer (Region 1 METRO AG) - Security Architect",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:164955",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFjDPdY9QWLiA/company-logo_"
+        },
+        {
+            "locationName": "Rijswijk",
+            "entityUrn": "urn:li:fs_position:(ACoAAA0ZZM0BfcTfHmeiGdUnmpp3UBf9Yxy6LC0,1424344843)",
+            "geoLocationName": "Rijswijk",
+            "companyName": "Nederlandse Loterij",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Gambling & Casinos"
+                ]
+            },
+            "title": "Information Security Officer",
+            "companyUrn": "urn:li:fs_miniCompany:10860233",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEAhlhFVF1B1w/company-logo_"
+        },
+        {
+            "locationName": "Almere-Stad en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAA0ZZM0BfcTfHmeiGdUnmpp3UBf9Yxy6LC0,1170541903)",
+            "geoLocationName": "Almere-Stad en omgeving, Nederland",
+            "companyName": "Yarden Uitvaartorganisatie",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2017
+                }
+            },
+            "description": "Reports to: Chief Financial Officer (CFO).\nDescription: Overall 2nd line responsibility for the information security and privacy of the Yarden group. \n\nActivities include:\n•\tGeneral Data Protection Regulation (GDPR) /Algemene Verordening Gegevensbescherming (AVG)     gap-analysis and implementation \n•\tPolicy writing\n•\tVulnerability management\n•\t3rd party assurance (ISAE 3000 - 3402 / SOC 1/2/3)\n•\tAwareness program development\n•\tIdentity and Access management\n•\tRisk management \n•\tPoint of Contact (information security and privacy) for regulatory bodies such as De Nederlandse Bank (DNB), Autoriteit Persoonsgegevens (AP), etc.\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Consumer Services"
+                ]
+            },
+            "title": "Information Security and Privacy Officer (Functionaris Gegevensbescherming/FG)",
+            "companyUrn": "urn:li:fs_miniCompany:21363",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEMU_CyhxU0Bw/company-logo_"
+        },
+        {
+            "locationName": "Almere-Stad en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAA0ZZM0BfcTfHmeiGdUnmpp3UBf9Yxy6LC0,753520681)",
+            "geoLocationName": "Almere-Stad en omgeving, Nederland",
+            "companyName": "Yarden uitvaartorganisatie",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "description": "Reports to: Chief Financial Officer (CFO).\nOverall 2nd line responsibility for  information security of the Yarden group. \n\nActivities include:\n•\tPolicy writing\n•\tVulnerability management\n•\t3rd party assurance (ISAE 3000 - 3402 / SOC 1/2/3)\n•\tAwareness program development\n•\tIdentity and Access management\n•\tRisk management\n•\tPoint of Contact (information security) for regulatory bodies such as De Nederlandse Bank (DNB), Autoriteit Persoonsgegevens (AP), etc. \n\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Consumer Services"
+                ]
+            },
+            "title": "Information Security Officer",
+            "companyUrn": "urn:li:fs_miniCompany:21363",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEMU_CyhxU0Bw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAA0ZZM0BfcTfHmeiGdUnmpp3UBf9Yxy6LC0,680672361)",
+            "companyName": "USG Engineering Professionals",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "description": "Security awareness\nVulnerability assessment ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Security Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:10956",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHPaDvZ-XKSJw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA0ZZM0BfcTfHmeiGdUnmpp3UBf9Yxy6LC0,136457679)",
+            "school": {
+                "objectUrn": "urn:li:school:15418",
+                "entityUrn": "urn:li:fs_miniSchool:15418",
+                "active": true,
+                "schoolName": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+                "trackingId": "h2GTvwClT4y4DVFtEgEO3w==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFtr7VqGaVWcQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "degreeName": "B-ICT",
+            "schoolName": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+            "fieldOfStudy": "Information Security Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15418"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "ISACA",
+            "name": "Certified Information Systems Auditor (CISA) ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:21062",
+                "entityUrn": "urn:li:fs_miniCompany:21062",
+                "name": "ISACA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=cwzBvUoMgtr8ZvUvUoMsprbGmEqJ8GUYyYxY8zJoCN0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=tKdg4zFODP83AIGTCAYzrxoeUHyP4sBtLNBdvzoeUbE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=ghFMKYB-nC9QajVN9vtalPvv2k6CxLTyCsEyGbQzIx0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEbgaF0IMoyIw/company-logo_"
+                    }
+                },
+                "universalName": "isaca",
+                "dashCompanyUrn": "urn:li:fsd_company:21062",
+                "trackingId": "etgqs5+tTOqfGOd7OZ4kVw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:21062"
+        },
+        {
+            "authority": "ISACA",
+            "name": "Certified Information Security Manager  (CISM) ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:21062",
+                "entityUrn": "urn:li:fs_miniCompany:21062",
+                "name": "ISACA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=cwzBvUoMgtr8ZvUvUoMsprbGmEqJ8GUYyYxY8zJoCN0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=tKdg4zFODP83AIGTCAYzrxoeUHyP4sBtLNBdvzoeUbE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=ghFMKYB-nC9QajVN9vtalPvv2k6CxLTyCsEyGbQzIx0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEbgaF0IMoyIw/company-logo_"
+                    }
+                },
+                "universalName": "isaca",
+                "dashCompanyUrn": "urn:li:fsd_company:21062",
+                "trackingId": "WED+T73TT0iJoUTSp2QWBw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:21062"
+        },
+        {
+            "authority": "ICM",
+            "name": "PRINCE2  Foundation",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:28765",
+                "entityUrn": "urn:li:fs_miniCompany:28765",
+                "name": "ICM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631322794341?e=1710374400&v=beta&t=BUo2KzwYHBROlWzGDAofyQkRR7bUvsAFFFoYBJX9m4Y",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631322794341?e=1710374400&v=beta&t=Re8nIvP5R1AaSIPbaw1uV9ezaSdldVCvrI1GAZ204Wg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631322794341?e=1710374400&v=beta&t=I3I_U88Gyr64hqzfOJ8k3krp4KG-OupWkC160xk0xJU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHyYLUAnQL8wQ/company-logo_"
+                    }
+                },
+                "universalName": "icm-ltd",
+                "dashCompanyUrn": "urn:li:fsd_company:28765",
+                "trackingId": "Ic97bxU6TJOUO5QM7Gmgcw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:28765"
+        },
+        {
+            "authority": "Security Academy",
+            "name": "ISO 27001 Certified Practioner",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:713953",
+                "entityUrn": "urn:li:fs_miniCompany:713953",
+                "name": "Security Academy",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631336285973?e=1710374400&v=beta&t=pi913o4uAisTins_8Zpxt4zJ-mRUWB7NFgt8MmuXta4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631336285973?e=1710374400&v=beta&t=3KrgMF_X8xRxeCuogIcF4XdC4yq86TP7CqydgbsruxA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631336285973?e=1710374400&v=beta&t=TwVIAgoUPrct7rMvw9kVnXU5sGJj_WX9hPwsPRMwEA0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQGbbQKTKbau9A/company-logo_"
+                    }
+                },
+                "universalName": "security-academy",
+                "dashCompanyUrn": "urn:li:fsd_company:713953",
+                "trackingId": "9+Jd5F3rRhKhJ1nfSFSxvQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:713953"
+        },
+        {
+            "authority": "EC-Council",
+            "name": "Certfied Ethical Hacker (CEH)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:569038",
+                "entityUrn": "urn:li:fs_miniCompany:569038",
+                "name": "EC-Council",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631371916365?e=1710374400&v=beta&t=oFwr04RjAQGs582Amme68VJvroX72dIuU7CVGoJhkPg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631371916365?e=1710374400&v=beta&t=PR_X7d3iD7Tm92YyFZSSBV5TLrzQ3t5vfaQQ5iyA0Pk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631371916365?e=1710374400&v=beta&t=YFC5Ztndw9cGK6BcmSiPdYp4KLAm4rUYDLWbwF-LTvA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHPon7g_XjJpA/company-logo_"
+                    }
+                },
+                "universalName": "ec-council",
+                "dashCompanyUrn": "urn:li:fsd_company:569038",
+                "trackingId": "tvbvxg4yT4WZZZJ39duqWQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:569038"
+        },
+        {
+            "authority": "PECB",
+            "name": "Certified Data Protection Officer (CDPO) ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1798225",
+                "entityUrn": "urn:li:fs_miniCompany:1798225",
+                "name": "PECB",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1673336623790/pecb_logo?e=1710374400&v=beta&t=syD0XFWdmdSJWs5nputuG-Cf-P7sRKG0EHMXW7eegC4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1673336623790/pecb_logo?e=1710374400&v=beta&t=8BzeXF0M6wtgaZbTRpZySKaC3kQMI1z3GRi02H8Pw1E",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1673336623790/pecb_logo?e=1710374400&v=beta&t=ZT68CYtfQwfZMRFok4YTKDeBrYwqSAulkiYBcq1X6dc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEeqbchgODRPw/company-logo_"
+                    }
+                },
+                "universalName": "pecb",
+                "dashCompanyUrn": "urn:li:fsd_company:1798225",
+                "trackingId": "05iXWRxQRl6mfWEfkoll6Q=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1798225"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

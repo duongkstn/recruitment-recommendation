@@ -1,0 +1,856 @@
+{
+    "summary": "I am a recent MBA graduate with 10+ years of professional experience across various functional areas in multiple sectors such as public sector, oil & gas, healthcare manufacturing and retail. I offer a unique blend of strategic thinking, problem-solving, interpersonal, and analytical skills, underpinned by an engineering mindset.\n\nFunctional areas:\n- Strategy development and implementation\n- Sustainability\n- Stakeholder management\n- Regulatory affairs\n- Policies, guidelines and frameworks\n- Business development/ administration\n- Project monitoring\n- Digitalization\n- Finance \n- Audit\n- Team leadership\n- Operations management\n- Commercial due diligence\n- Energy transition / Decarbonization",
+    "industryName": "Apparel & Fashion",
+    "lastName": "Badewale",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 1,
+        "day": 22
+    },
+    "industryUrn": "urn:li:fs_industry:19",
+    "firstName": "Nikhil",
+    "entityUrn": "urn:li:fs_profile:ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:106341412"
+    },
+    "geoLocationName": "Groningen, Groningen",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "MBA | Engineer | Strategy & Operations | Problem Solving | Leadership",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQHnLM6WzFrlyg/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1697963896605?e=1702972800&v=beta&t=HrVZsQvkOoO6VuGofbdLxlcG5IOh7sh0z1OeCMtWV9o",
+    "img_200_200": "200_200/0/1697963896605?e=1702972800&v=beta&t=PVg_Zt0WVZHram1GIzM98uZu5lXVA601CSeAfU2_KrY",
+    "img_800_800": "800_800/0/1697963896605?e=1702972800&v=beta&t=HdV7wuhwwwAdbE_9kpYkMcKEGOeut33DJ5GF2WQL4k8",
+    "img_100_100": "100_100/0/1697963896605?e=1702972800&v=beta&t=-gcJ427e72Ad-LTv3A5jAPr3AopEm28_aNf3u8gEl44",
+    "profile_id": "ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ",
+    "member_urn": "urn:li:member:66630097",
+    "public_id": "nikhil-badewale-1013931a",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ,2255004772)",
+            "companyName": "Arion Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "description": "The main goal was to develop a strategic plan for the measurement and reduction of greenhouse gas emissions from the company's supply chain.\n\nActivities involved:\n-\tAnalysing the case\n-\tAnalyse the supply chain of the company\n-\tIdentify different GHG measurement techniques and methodologies.\n-\tDevelop GHG emissions measurement and reduction strategies.\n-\tDesign a “centralized data management platform” for data collection.\n-\tRecommend the necessary steps to improve overall sustainability from the company’s operations, aiming to achieve net-zero carbon emissions by 2050 as per the European Green Deal.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ]
+            },
+            "title": "Consultant (Sustainability Strategy)",
+            "companyUrn": "urn:li:fs_miniCompany:54438",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFrAD8oETIsEA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ,2177112934)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Primark",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "description": "As a member of the sales team, I assisted customers with their purchases by providing great customer service and resolving purchase-related customer issues to enhance customer satisfaction.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Sales Associate",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:70640",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGxlc19ntRJhg/company-logo_"
+        },
+        {
+            "locationName": "Delhi-NCR, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ,1155887079)",
+            "geoLocationName": "Delhi-NCR, India",
+            "companyName": "Directorate General of Hydrocarbons under MOPNG",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "description": "DGH is a regulatory authority and a part of Ministry of Petroleum and Natural Gas of India. As a government officer, I worked on various country-level assignments and strategy-making practices for the continuous improvement of governmental administrative processes and to reduce India's hydrocarbon dependency on other countries.\n\nMain responsibilities:\n-\tMonitoring and reviewing the performance of ONGC Ltd. as a nodal officer\n-\tCommunicating with company executives, government agencies, research institutes, consulting firms, and cross-functional teams\n-\tMonitoring the progress of multimillion-dollar projects\n-\tSolving administrative issues faced by the company\n-\tIdentifying areas for improvement in regulatory practices\n-\tDeveloping strategies for the government to boost domestic hydrocarbon production\n-\tReviewing field development plans and investment proposals\n-\tEnsuring compliance with government policies and regulations\n-\tWitnessing field operations\n-\tFormulating policies, guidelines and frameworks\n-\tEngaging stakeholders in CO2 emission reduction initiatives\n-\tReviewing work programs, budgets, and audit reports\n-\tImplementing digitalization practices along with the IT team\n-\tConducting company performance review meetings\n-\tReplying to Parliament queries",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Oil & Energy"
+                ]
+            },
+            "title": "Senior Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:10785435",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFm5kWGuglQwg/company-logo_"
+        },
+        {
+            "locationName": "Gandhinagar, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ,292882552)",
+            "geoLocationName": "Gandhinagar, India",
+            "companyName": "Gujarat State Petroleum Corporation Ltd",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2012
+                }
+            },
+            "description": "As a reservoir engineer in the Exploration and Production division of GSPC Ltd., I oversaw various offshore and onshore blocks and implemented efficient reservoir management practices to maintain and improve the performance and productivity of the field.\n \nMain responsibilities:\n-\tFinding the location of oil and gas beneath the earth's surface\n-\tDeveloping data-driven reservoir simulation models and profitable development strategies\n-\tPerforming financial analysis to check the commerciality of the project\n-\tPresenting development plans to the government authority\n-\tPlanning and supervising field reservoir operations\n-\tExecuting workover jobs with revival strategies for sick wells\n-\tOptimizing production in the fields\n-\tConducting reservoir studies to diagnose and troubleshoot production issues\n-\tCollecting operational data and analyzing the data for better understanding of the sub-surface and enabling accurate future production strategies\n-\tStreamlining and migrating reservoir data for effective data management\n-\tPreparing detailed work programs and budgets (AFEs)\n-\tEstimating the commercial potential of the company’s assets",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Oil & Energy"
+                ]
+            },
+            "title": "Strategy & Operations Lead (Reservoir Engineering)",
+            "companyUrn": "urn:li:fs_miniCompany:143743",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHW2DLfCpvy1Q/company-logo_"
+        },
+        {
+            "locationName": "Ahmedabad Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ,208482791)",
+            "geoLocationName": "Ahmedabad Area, India",
+            "geoUrn": "urn:li:fs_geo:90009627",
+            "companyName": "ONGC",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2011
+                }
+            },
+            "description": "During an internship, I learned Material balance for gas condensate reservoirs and reservoir drive mechanisms for the reserves estimation and reservoir production performance analysis.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Oil & Energy"
+                ]
+            },
+            "title": "summer internship",
+            "region": "urn:li:fs_region:(in,7065)",
+            "companyUrn": "urn:li:fs_miniCompany:10219",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEVKfWaQUifVw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "projects": [
+                "urn:li:fs_project:(ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ,1912732045)"
+            ],
+            "description": "•  Agile leadership with scrum alliance\n•  Solved multiple case studies\n•  SDG Challenge\n•  Courses included: Digital Economy,  Big data and business analytics, Digital commerce, Digital marketing, Fintech, Industry 4.0, Accounting for managers, Change management, Corporate Responsibly & Ethics, Decision making tools, Digital transformation, Economics for managers, Entrepreneurship, Finance, Global Corporate Strategy, Global supply chain management, Leadership and organizational behaviour, Managing cultural diversity, Marketing in the global context",
+            "degreeName": "Master of Business Administration - MBA",
+            "schoolUrn": "urn:li:fs_miniSchool:42948",
+            "entityUrn": "urn:li:fs_education:(ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ,830607113)",
+            "school": {
+                "objectUrn": "urn:li:school:42948",
+                "entityUrn": "urn:li:fs_miniSchool:42948",
+                "active": true,
+                "schoolName": "Maastricht University School of Business and Economics",
+                "trackingId": "S/ojZ8uTRVm21OFlbljIAg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHfHQcKud_mbQ/company-logo_"
+            },
+            "activities": "Served as a consultant for Gemeente Maastricht, SDG House Maastricht, and Inspiratiehuis voor Ondernemers and delivered a solution to address one of their sustainability-related business obstacles to make Maastricht city sustainable.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101409",
+            "schoolName": "Maastricht University School of Business and Economics",
+            "fieldOfStudy": "Business Administration and Management, General",
+            "degreeUrn": "urn:li:fs_degree:700"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ,122812346)",
+            "school": {
+                "objectUrn": "urn:li:school:21080",
+                "entityUrn": "urn:li:fs_miniSchool:21080",
+                "active": true,
+                "schoolName": "Maharashtra Institute of Technology",
+                "trackingId": "anse1AaDRy+hH40d2YJwvA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFGZtKuW-zcig/company-logo_"
+            },
+            "activities": "Society of Petroleum Engineers",
+            "grade": "First class with distinction",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "description": "Won 2nd prize in Darcy's Business Challenge competition",
+            "degreeName": "Bachelor of Engineering",
+            "schoolName": "Maharashtra Institute of Technology",
+            "fieldOfStudy": "Petroleum Engineering",
+            "schoolUrn": "urn:li:fs_miniSchool:21080"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "Hindi"
+        },
+        {
+            "name": "Marathi"
+        }
+    ],
+    "publications": [
+        {
+            "date": {
+                "month": 1,
+                "year": 2015,
+                "day": 1
+            },
+            "name": "Pressure Transient Analysis - Comparative Review Study on Candidate Wells in Cambay Basin, India",
+            "publisher": "SPG / Geo-horizons",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Nikhil",
+                        "lastName": "Badewale",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ",
+                        "occupation": "MBA | Engineer | Strategy & Operations | Problem Solving | Leadership",
+                        "objectUrn": "urn:li:member:66630097",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1695366023524?e=1707955200&v=beta&t=QXJI25UozhvYoCjGp6Yl3jttJyEodkONkDABnYFMCxM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1695366023525?e=1707955200&v=beta&t=VClOq33SzM6l6PFCwhKG0SgJg3m25r61EslvfDdFNpg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQGov6tir8MANQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "nikhil-badewale-1013931a",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1697963896605?e=1702972800&v=beta&t=HrVZsQvkOoO6VuGofbdLxlcG5IOh7sh0z1OeCMtWV9o",
+                                        "expiresAt": 1702972800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1697963896605?e=1702972800&v=beta&t=PVg_Zt0WVZHram1GIzM98uZu5lXVA601CSeAfU2_KrY",
+                                        "expiresAt": 1702972800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1697963896605?e=1702972800&v=beta&t=HdV7wuhwwwAdbE_9kpYkMcKEGOeut33DJ5GF2WQL4k8",
+                                        "expiresAt": 1702972800000,
+                                        "height": 800
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1697963896605?e=1702972800&v=beta&t=-gcJ427e72Ad-LTv3A5jAPr3AopEm28_aNf3u8gEl44",
+                                        "expiresAt": 1702972800000,
+                                        "height": 100
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E35AQHnLM6WzFrlyg/profile-framedphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "QimAk71/QyuJN9DQK4cMWg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ"
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "authority": "IHRDC",
+            "name": "Six Sigma Yellow Belt",
+            "company": {
+                "objectUrn": "urn:li:company:33025",
+                "entityUrn": "urn:li:fs_miniCompany:33025",
+                "name": "IHRDC",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1649266945495/ihrdc_logo?e=1710374400&v=beta&t=cdy7zzZhccFwQsoVomC0CtH-WKSQiIdGoVzRrMJdSU4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1649266945495/ihrdc_logo?e=1710374400&v=beta&t=yEs8MgLAHmLiqcy4c-F0qeiKcPf25DERimJBpESiTXI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1649266945495/ihrdc_logo?e=1710374400&v=beta&t=_9vboH60YUKcv0dlJS_mfaKlfxGBfd5DxnGRnTj3H2M",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFlc4-uymc8Ww/company-logo_"
+                    }
+                },
+                "universalName": "ihrdc",
+                "dashCompanyUrn": "urn:li:fsd_company:33025",
+                "trackingId": "r7RffPPTQEyDksSYSVboPA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:33025"
+        },
+        {
+            "authority": "IHRDC",
+            "name": "Introduction to marketing",
+            "company": {
+                "objectUrn": "urn:li:company:33025",
+                "entityUrn": "urn:li:fs_miniCompany:33025",
+                "name": "IHRDC",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1649266945495/ihrdc_logo?e=1710374400&v=beta&t=cdy7zzZhccFwQsoVomC0CtH-WKSQiIdGoVzRrMJdSU4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1649266945495/ihrdc_logo?e=1710374400&v=beta&t=yEs8MgLAHmLiqcy4c-F0qeiKcPf25DERimJBpESiTXI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1649266945495/ihrdc_logo?e=1710374400&v=beta&t=_9vboH60YUKcv0dlJS_mfaKlfxGBfd5DxnGRnTj3H2M",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFlc4-uymc8Ww/company-logo_"
+                    }
+                },
+                "universalName": "ihrdc",
+                "dashCompanyUrn": "urn:li:fsd_company:33025",
+                "trackingId": "sEbdIxcCQ3O1yquKZ+tFmw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:33025"
+        },
+        {
+            "authority": "Indian Institute of Technology, Kharagpur",
+            "name": "Reservoir simulation & management and socio-environmental issues in conventional & unconventional reservoirs",
+            "company": {
+                "objectUrn": "urn:li:company:157265",
+                "entityUrn": "urn:li:fs_miniCompany:157265",
+                "name": "Indian Institute of Technology, Kharagpur",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1661239083431/indian_institute_of_technology_kharagpur_logo?e=1710374400&v=beta&t=10r-Qzqbd8nRAdBVxTeMi8h96Z43cyHlZemCYpwwwko",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1661239083431/indian_institute_of_technology_kharagpur_logo?e=1710374400&v=beta&t=3vatwLVPed35ofExY3yumHYqYOTPOY6vMc2tDHyP5g0",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1661239083431/indian_institute_of_technology_kharagpur_logo?e=1710374400&v=beta&t=AK3DAg6aIri30sgeQ9Sa7Jya5W9yxCYbnxepldWI_kg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQE0lxIeTKBTAw/company-logo_"
+                    }
+                },
+                "universalName": "indian-institute-of-technology-kharagpur",
+                "dashCompanyUrn": "urn:li:fsd_company:157265",
+                "trackingId": "bvsiwydGSuKG428rXVZ6IA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:157265"
+        },
+        {
+            "authority": "Computer Modelling Group Ltd.",
+            "name": "Reservoir simulation application to reservoir engineering problems",
+            "company": {
+                "objectUrn": "urn:li:company:686825",
+                "entityUrn": "urn:li:fs_miniCompany:686825",
+                "name": "Computer Modelling Group",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1681139897291/computer_modelling_group_ltd_logo?e=1710374400&v=beta&t=CYb9abXlGm5n__vpLLQJyk1KuV-zW4m2q3cbquziPa8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1681139897291/computer_modelling_group_ltd_logo?e=1710374400&v=beta&t=erCU8xPfga4tHZSDJ0wQO9AxplHv--2vib_36drOwPM",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1681139897291/computer_modelling_group_ltd_logo?e=1710374400&v=beta&t=QpP9FaLbElzUlw3ui-9UEzzlnTwY1WCtByd_xmCObZI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQEunZ41YeKaaA/company-logo_"
+                    }
+                },
+                "universalName": "computer-modelling-group-ltd",
+                "dashCompanyUrn": "urn:li:fsd_company:686825",
+                "trackingId": "caXwn9ptQPyhGFdGv1jx4A=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:686825"
+        },
+        {
+            "authority": "All India Management Association (AIMA)",
+            "name": "High Impact Business Presentation",
+            "company": {
+                "objectUrn": "urn:li:company:938613",
+                "entityUrn": "urn:li:fs_miniCompany:938613",
+                "name": "All India Management Association (AIMA)",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631372994185?e=1710374400&v=beta&t=6D3-yBm-5JLZK19OEcC1yqSzLktkF_cW2UAXqE9FGeI",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631372994185?e=1710374400&v=beta&t=fQSAZzAZnXJTqVF9C1ORsj42wPcOW2BKc6Ej4xHYK0Q",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631372994185?e=1710374400&v=beta&t=gRL_oBV6yVvdMSFQFtPCKVyGdoiL3xMA6eoDPlrTZHY",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQEmCfQZ_9H09A/company-logo_"
+                    }
+                },
+                "universalName": "aimaindia",
+                "dashCompanyUrn": "urn:li:fsd_company:938613",
+                "trackingId": "vDmNvvyCT8aYXxpkbJFcNA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:938613"
+        },
+        {
+            "authority": "Survival Systems India",
+            "name": "•\tPST (Personal Survival Techniques)-HUET (Helicopter Underwater Escape Training) ",
+            "company": {
+                "objectUrn": "urn:li:company:30265649",
+                "entityUrn": "urn:li:fs_miniCompany:30265649",
+                "name": "Survival Systems India",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1657115380166/survivalsystems_india_logo?e=1710374400&v=beta&t=pm8NFIwAdhS7rtKJnyNNhVQRV81ISHQiyCNXU1tstJ0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1657115380166/survivalsystems_india_logo?e=1710374400&v=beta&t=hZYPXCKmduFlFqbgHCOKKSx01pSGhuPY12mekIpaR8M",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1657115380166/survivalsystems_india_logo?e=1710374400&v=beta&t=iTtLgw1GJfZasi9KWAur2dj2DRrUeruJnY6QUEQWrBA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGEsbt0vQ6few/company-logo_"
+                    }
+                },
+                "universalName": "survivalsystems-india",
+                "dashCompanyUrn": "urn:li:fsd_company:30265649",
+                "trackingId": "0DVS1xDqSpmUQz2bUQAP6Q=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:30265649"
+        },
+        {
+            "authority": "IHRDC",
+            "name": "Introduction to finance",
+            "company": {
+                "objectUrn": "urn:li:company:33025",
+                "entityUrn": "urn:li:fs_miniCompany:33025",
+                "name": "IHRDC",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1649266945495/ihrdc_logo?e=1710374400&v=beta&t=cdy7zzZhccFwQsoVomC0CtH-WKSQiIdGoVzRrMJdSU4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1649266945495/ihrdc_logo?e=1710374400&v=beta&t=yEs8MgLAHmLiqcy4c-F0qeiKcPf25DERimJBpESiTXI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1649266945495/ihrdc_logo?e=1710374400&v=beta&t=_9vboH60YUKcv0dlJS_mfaKlfxGBfd5DxnGRnTj3H2M",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFlc4-uymc8Ww/company-logo_"
+                    }
+                },
+                "universalName": "ihrdc",
+                "dashCompanyUrn": "urn:li:fsd_company:33025",
+                "trackingId": "UO9LqXO3Qze8gHCAcACTQg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:33025"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Management of Fashion and Luxury Companies (SDA Bocconi School of Management)",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "1CrfXKTxSWarCUaZwQVKNg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2453129"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Volunteer",
+            "companyName": "Webcom Foundation",
+            "cause": "EDUCATION",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:14518565",
+                    "entityUrn": "urn:li:fs_miniCompany:14518565",
+                    "name": "Webcom Foundation",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630635232143/webcom_foundation_logo?e=1710374400&v=beta&t=GJQwEdXyTNfXC6HaFmQJGMJqsgIqmDmnAyeO3--U92U",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630635232143/webcom_foundation_logo?e=1710374400&v=beta&t=-BN70Jl7OP0GkqNhe7FcVJWsNcAJz_oZ7Fcy7SDDIgM",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630635232143/webcom_foundation_logo?e=1710374400&v=beta&t=hBOF1sl_4ETmIcrzTrNyQ1O-aHnEIVNmVJ69MNz6XjM",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C510BAQGicF8ILhk55g/company-logo_"
+                        }
+                    },
+                    "universalName": "webcom-foundation",
+                    "dashCompanyUrn": "urn:li:fsd_company:14518565",
+                    "trackingId": "QVGX920dRLiSO88FVGhvOw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:14518565"
+        },
+        {
+            "role": "Volunteer",
+            "companyName": "Shishu Grih Ahmedabad",
+            "cause": "CHILDREN"
+        },
+        {
+            "role": "Volunteer",
+            "companyName": "Beach Clean-up Kakinada",
+            "cause": "ENVIRONMENT"
+        }
+    ],
+    "honors": [],
+    "projects": [
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Nikhil",
+                        "lastName": "Badewale",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ",
+                        "occupation": "MBA | Engineer | Strategy & Operations | Problem Solving | Leadership",
+                        "objectUrn": "urn:li:member:66630097",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1695366023524?e=1707955200&v=beta&t=QXJI25UozhvYoCjGp6Yl3jttJyEodkONkDABnYFMCxM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1695366023525?e=1707955200&v=beta&t=VClOq33SzM6l6PFCwhKG0SgJg3m25r61EslvfDdFNpg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQGov6tir8MANQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "nikhil-badewale-1013931a",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1697963896605?e=1702972800&v=beta&t=HrVZsQvkOoO6VuGofbdLxlcG5IOh7sh0z1OeCMtWV9o",
+                                        "expiresAt": 1702972800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1697963896605?e=1702972800&v=beta&t=PVg_Zt0WVZHram1GIzM98uZu5lXVA601CSeAfU2_KrY",
+                                        "expiresAt": 1702972800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1697963896605?e=1702972800&v=beta&t=HdV7wuhwwwAdbE_9kpYkMcKEGOeut33DJ5GF2WQL4k8",
+                                        "expiresAt": 1702972800000,
+                                        "height": 800
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1697963896605?e=1702972800&v=beta&t=-gcJ427e72Ad-LTv3A5jAPr3AopEm28_aNf3u8gEl44",
+                                        "expiresAt": 1702972800000,
+                                        "height": 100
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E35AQHnLM6WzFrlyg/profile-framedphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "QimAk71/QyuJN9DQK4cMWg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ,1912807541,405097305)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ"
+                }
+            ],
+            "description": "Financial Management and Accounting: Performed financial analysis of Loreal Group and Estee Lauder companies and recommended measures for further improvement.\n\nEconomics: Investigated the critical issue of overfishing in the European Union, offering insights and recommendations to address this economical challenge.\n\nFintech: Analyzed the fintech industry, with a focus on success stories like Bunq in the neo-banking segment and Esty in e-commerce. Analyzed the fintech landscape with the introduction of mobile wallets with e-commerce by Esty Company.\n\nDigital Transformation: Recommended action plan for digital transformation initiatives to enhance business operations and efficiency within the organization.\n\nBig Data and Data Analytics: Analyzed the effectiveness of a virtual try-on experience using big data and analytics, enhancing the customer experience at Inditex Group.\n \nSupply Chain Analysis: Analyzed the supply chain processes of the company, identifying critical issues such as poor data management systems and gaps in inventory data, and developed a strategic action plan to address these issues, resulting in enhanced supply chain efficiency.\n\nIndustry 4.0: Performed a comprehensive study on the development of fully automated offshore rigs using Industry 4.0 technology.",
+            "title": "Case studies / Projects"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ,830607113)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Nikhil",
+                        "lastName": "Badewale",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ",
+                        "occupation": "MBA | Engineer | Strategy & Operations | Problem Solving | Leadership",
+                        "objectUrn": "urn:li:member:66630097",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1695366023524?e=1707955200&v=beta&t=QXJI25UozhvYoCjGp6Yl3jttJyEodkONkDABnYFMCxM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1695366023525?e=1707955200&v=beta&t=VClOq33SzM6l6PFCwhKG0SgJg3m25r61EslvfDdFNpg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQGov6tir8MANQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "nikhil-badewale-1013931a",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1697963896605?e=1702972800&v=beta&t=HrVZsQvkOoO6VuGofbdLxlcG5IOh7sh0z1OeCMtWV9o",
+                                        "expiresAt": 1702972800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1697963896605?e=1702972800&v=beta&t=PVg_Zt0WVZHram1GIzM98uZu5lXVA601CSeAfU2_KrY",
+                                        "expiresAt": 1702972800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1697963896605?e=1702972800&v=beta&t=HdV7wuhwwwAdbE_9kpYkMcKEGOeut33DJ5GF2WQL4k8",
+                                        "expiresAt": 1702972800000,
+                                        "height": 800
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1697963896605?e=1702972800&v=beta&t=-gcJ427e72Ad-LTv3A5jAPr3AopEm28_aNf3u8gEl44",
+                                        "expiresAt": 1702972800000,
+                                        "height": 100
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E35AQHnLM6WzFrlyg/profile-framedphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "QimAk71/QyuJN9DQK4cMWg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ,1912732045,405094786)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAP4sdEBAJtX0gw9Bg-8LK6aiVa_IZ7FPFQ"
+                }
+            ],
+            "description": "Corporate and Business Strategy: Developed a comprehensive corporate and business strategy to navigate Coffee Day company out of a financial crisis, resulting in significant financial improvement and stability.\n \nMarket Research and Product Development: Performed a customer satisfaction study using data analytics to identify the significance of various attributes on overall customer satisfaction for the \"Coffee 09\" brand, enabling data-driven, profitable strategies.\n\nMarketing Strategy: Developed marketing strategies and Go-To-Market (GTM) plans to facilitate market expansion for products within the Arion Group portfolio.\n\nDigital Commerce and Marketing: Conducted a comprehensive analysis of digital commerce and marketing strategies, offering recommendations to enhance Carrefour's market presence.\n\nLeadership and Organizational Culture: Applied leadership approaches to foster diversity and cultivate a positive mindset within organizations, addressing organizational culture concerns.\n \nChange Management: Conducted an in-depth analysis of organizational work culture issues within a government organization, focusing on organizational culture, mindset, and leadership, addressing concerns, and recommending improvements.\n\nCorporate Responsibility and Ethics: Analyzed corporate responsibility and ethics within Inditex Group, identifying areas for enhancement and proposing actionable recommendations.",
+            "title": "Case studies/Projects"
+        }
+    ]
+}

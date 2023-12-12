@@ -1,0 +1,245 @@
+{
+    "summary": "Ik ben altijd op zoek naar nieuwe uitdagingen en kansen om mijn vaardigheden verder te ontwikkelen en te groeien in mijn carrière. Ik ben ervan overtuigd dat door continu te leren en te groeien, ik waardevolle bijdragen kan leveren aan elke organisatie waarvoor ik werk.",
+    "industryName": "Financial Services",
+    "lastName": "Büyükharman",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:43",
+    "firstName": "Mahmut",
+    "entityUrn": "urn:li:fs_profile:ACoAACUujyMB7SDFVQNGTRVifYguPREk_N3e4A8",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Interim Finance Professional | Beschikbaar per 1-5-2024",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQGCArstWLxIag/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1684091641947?e=1707955200&v=beta&t=bnp8w5gK0iGGOR9qTshMAF1QUtSrRczAHEyqQxJb7y0",
+    "img_200_200": "200_200/0/1684091641947?e=1707955200&v=beta&t=-qAe5W3q_Y0pCcTBI391nFmuVC43mReHU7Br_j4OwJA",
+    "img_400_400": "400_400/0/1684091641947?e=1707955200&v=beta&t=0Nw7RwRvfi7JCH1MAk_wjtoeYyk8jgs3ChGv_knppO8",
+    "img_800_800": "800_800/0/1684091641947?e=1707955200&v=beta&t=R42bneNJOxBfveZzdg5jmpaX7bnxUsIHnmAIMU3pDrs",
+    "profile_id": "ACoAACUujyMB7SDFVQNGTRVifYguPREk_N3e4A8",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACUujyMB7SDFVQNGTRVifYguPREk_N3e4A8",
+    "member_urn": "urn:li:member:623808291",
+    "public_id": "mahmut-büyükharman",
+    "experience": [
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACUujyMB7SDFVQNGTRVifYguPREk_N3e4A8,2281450733)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "HB RTS",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "description": "Verantwoordelijkheden:\n• Maandafsluitingen\n• Maken van rapportages en analyses\n• VAT-Compliance",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "title": "Controller a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:202086",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFKluvyP64-8g/company-logo_"
+        },
+        {
+            "locationName": "Almere, Flevoland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACUujyMB7SDFVQNGTRVifYguPREk_N3e4A8,2237923930)",
+            "geoLocationName": "Almere, Flevoland, Nederland",
+            "geoUrn": "urn:li:fs_geo:104447608",
+            "companyName": "DK Accountants & Adviseurs",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "description": "Verantwoordelijkheden:\n- Samenstellen van jaarrekeningen\n- Holdings, bv's, VOF's\n- Caseware, Infine, Exact",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Accounting"
+                ]
+            },
+            "title": "Assistant-accountant a.i. samenstel",
+            "region": "urn:li:fs_region:(nl,5663)",
+            "companyUrn": "urn:li:fs_miniCompany:27132245",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFiEQevFERFOA/company-logo_"
+        },
+        {
+            "locationName": "Vianen, Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACUujyMB7SDFVQNGTRVifYguPREk_N3e4A8,2186635530)",
+            "geoLocationName": "Vianen, Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100082639",
+            "companyName": "Avit Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "description": "Mijn verantwoordelijkheden: \n- Onderhandenwerk Analyses\n- Account view (Visma) & Power Bi\n- Purchase & Sales\n- Marges",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Financial controller a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10449462",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHCXbVlVlAEeA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACUujyMB7SDFVQNGTRVifYguPREk_N3e4A8,2085699762)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Happy Horizon",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "description": "Mijn verantwoordelijkheden:\n- Bewaken en onderhouden van de financiële administraties van de BV's \n- Identificeren van mogelijkheden voor procesverbetering binnen het financiële team (Automatisering)\n- Afstemmen van financiële transacties tussen verschillende BV's binnen Happy Horizon (intercompany afstemming).\n- Verantwoordelijk voor het correct indienen van BTW-aangiftes en Intracommunautaire Prestaties (ICP) aangiftes.\n- Bijhouden van financiële gegevens, grootboekrekeningen en subadministraties.\n- Onderhandenwerk / Accruals / Projectadministratie\n- Voorbereiding van de jaarrekeningen\n- Exact Online, Gripp, Blue10 en Sysmsys",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "Alround Financial a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11417159",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQES8MtKL3VWMQ/company-logo_"
+        },
+        {
+            "locationName": "Weesp, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACUujyMB7SDFVQNGTRVifYguPREk_N3e4A8,2034150355)",
+            "geoLocationName": "Weesp, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:104096693",
+            "companyName": "Samen Financial Services B.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "description": "Mijn verantwoordelijkheden:\n- Bewaken en onderhouden van de financiële administratie van meerdere entiteiten\n- Analyseren van de financiële resultaten\n- Verzorgen van fiscale aangiftes\n- Beheren en optimaliseren van de AO/IC-processen\n- Opstellen en aanleveren van maand- kwartaal- en jaarafsluitingen\n- Twinfield accounting & Basecone & PowerBi",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Accounting"
+                ]
+            },
+            "title": "Financial controller a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1777009",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHWsaCoHnvVKg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACUujyMB7SDFVQNGTRVifYguPREk_N3e4A8,901799999)",
+            "school": {
+                "objectUrn": "urn:li:school:172018",
+                "entityUrn": "urn:li:fs_miniSchool:172018",
+                "active": true,
+                "schoolName": "NIVE",
+                "trackingId": "F6dbHzBaTdO0YB1izEx11g==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQFpBNVNd9tffQ/company-logo_"
+            },
+            "timePeriod": {
+                "startDate": {
+                    "year": 2023
+                }
+            },
+            "degreeName": "Post Bachelor, HOFAM, Qualifed Controller (QC)",
+            "schoolName": "NIVE",
+            "schoolUrn": "urn:li:fs_miniSchool:172018"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACUujyMB7SDFVQNGTRVifYguPREk_N3e4A8,936387703)",
+            "school": {
+                "objectUrn": "urn:li:school:15439",
+                "entityUrn": "urn:li:fs_miniSchool:15439",
+                "active": true,
+                "schoolName": "Open Universiteit",
+                "trackingId": "i+ylCvz1TbmnYTSfvAkxyw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQFNyoH9WSgoKw/company-logo_"
+            },
+            "timePeriod": {
+                "startDate": {
+                    "year": 2023
+                }
+            },
+            "degreeName": "Bachelor Business Administration - (BSc)",
+            "schoolName": "Open Universiteit",
+            "schoolUrn": "urn:li:fs_miniSchool:15439"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Türkçe",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

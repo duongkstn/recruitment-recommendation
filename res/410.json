@@ -1,0 +1,438 @@
+{
+    "industryName": "Construction",
+    "lastName": "Brooks",
+    "locationName": "United Kingdom",
+    "student": false,
+    "geoCountryName": "United Kingdom",
+    "geoCountryUrn": "urn:li:fs_geo:101165590",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:48",
+    "firstName": "Martin",
+    "entityUrn": "urn:li:fs_profile:ACoAABeWlqYBcsMob0ZqxHc-vM3M8puAVjvRbL4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009499"
+    },
+    "geoLocationName": "Greater Newport Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "gb"
+        }
+    },
+    "headline": "CISSP | CISM | Senior Security Manager",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQGprJwJA96xPQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1517533912639?e=1707955200&v=beta&t=eUlqEkPiY4I2nwy-03IacfOV9uwYwBRf9l6-XeiKA28",
+    "img_200_200": "200_200/0/1517533912648?e=1707955200&v=beta&t=wEND7Z7QyatqexR-PVZkrlbySR1Gj2tuUff8DhmbxaI",
+    "img_400_400": "400_400/0/1517533912694?e=1707955200&v=beta&t=QpXoXEGUcud3508EW-4BkUTt0IC_mfT7yiDpCJgJkp8",
+    "img_410_410": "800_800/0/1517533913014?e=1707955200&v=beta&t=DAjyT0HriTfKw02pF8KxdeO3BwE0Iz0XU5APbd7BrAE",
+    "profile_id": "ACoAABeWlqYBcsMob0ZqxHc-vM3M8puAVjvRbL4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABeWlqYBcsMob0ZqxHc-vM3M8puAVjvRbL4",
+    "member_urn": "urn:li:member:395744934",
+    "public_id": "martinjamesbrooks",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABeWlqYBcsMob0ZqxHc-vM3M8puAVjvRbL4,2221810500)",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "description": "CRH is the leading provider of building materials solutions that build, connect and improve our world. Employing c.75,800 people at c.3,160 locations in 29 countries, CRH has market leadership positions in both North America and in Europe.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Senior Security Manager",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABeWlqYBcsMob0ZqxHc-vM3M8puAVjvRbL4,1906734702)",
+            "companyName": "Tarmac",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Construction"
+                ]
+            },
+            "title": "Information Security Manager",
+            "companyUrn": "urn:li:fs_miniCompany:3336431",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQGWO7w2y9quYw/company-logo_"
+        },
+        {
+            "locationName": "Abergavenny",
+            "entityUrn": "urn:li:fs_position:(ACoAABeWlqYBcsMob0ZqxHc-vM3M8puAVjvRbL4,795869115)",
+            "geoLocationName": "Abergavenny",
+            "companyName": "Alun Griffiths Contractors Ltd",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2016
+                }
+            },
+            "description": "Alun Griffiths (Contractors) Ltd are a leading regional civil engineering and construction contractor with a track record stretching back over forty years. Operating out of strategically located centres, with a large directly employed workforce and extensive plant fleet we have the flexibility and resources to respond swiftly to clients' needs. Our experience embraces both the public and private sectors and includes major and minor capital projects, framework and term maintenance contracts, partnering and joint venture alliances. \n\nFounded in 1968 and still privately owned, Alun Griffiths (Contractors) Ltd is one of the leading civil engineering and construction contractors working in Wales, the English border counties and the West Country. \n\nWe currently have an annual turnover of circa £130m+ placing us as the 20th largest civil engineering contractor in the UK. We have a strong client base, including central government, local authorities and private sector organisations. \n\nBy putting the needs of our clients first we are able to deliver the optimum solution. Our professional, collaborative approach combined with our value engineering expertise is proven to add value whilst minimising disruption and other adverse impacts. This ensures that we consistently deliver successful frameworks and award winning projects on time and to budget.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Civil Engineering"
+                ]
+            },
+            "title": "Head of IT",
+            "companyUrn": "urn:li:fs_miniCompany:3003654",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQG2U1tH1JRuNw/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAABeWlqYBcsMob0ZqxHc-vM3M8puAVjvRbL4,909573561)",
+                "urn:li:fs_course:(ACoAABeWlqYBcsMob0ZqxHc-vM3M8puAVjvRbL4,909573562)"
+            ],
+            "locationName": "Newport, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009499",
+            "companyName": "South Wales Chamber of Commerce (NGCCEI)",
+            "description": "* Full responsibility for ICT structure for £6m turnover company via 11 offices and 100+ staff throughout South and Mid Wales.\n* Directly manage a team of 5+ ranging from IT Support, commercial & internal website development, CRM and training.\n* This included physical and virtual servers (2003 to 2012), Exchange, Active Directory, Dynamics CRM, traditional phone systems (Mitel, Avaya, Siemens) as well as hosted VoIP.\n* Create and engage the strategic plan and objectives for the ICT infrastructure, managing & implementing projects, budget responsibility and present these to the Board.\n*  To identify and negotiate best fit for all ICT contracts such as broadband, mobile phone, landline, photocopier, AV and antispam not just on a cost basis but functionality also.\n     - Evidenced savings of: \n        £33k on photocopiers\n        £6k on mobile phones\n        £50k+ on Microsoft licencing once I recognised we should be on a more beneficial pricing structure.\n* Project Managed the South East region of the Superfast Broadband project - This was a £648k project of which my team delivered £170k. Welsh Government asked me to personally train all of the advisors delivering this content Pan Wales.\n* Managed migrating company over to new CRM system. My chosen direction increased the efficiency of the company exponentially but development also saved the company £95k+.",
+            "title": "IT Manager",
+            "companyUrn": "urn:li:fs_miniCompany:1071047",
+            "entityUrn": "urn:li:fs_position:(ACoAABeWlqYBcsMob0ZqxHc-vM3M8puAVjvRbL4,624728581)",
+            "geoLocationName": "Newport, United Kingdom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Nonprofit Organization Management"
+                ]
+            },
+            "region": "urn:li:fs_region:(gb,4615)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZIOu5qiteIA/company-logo_"
+        },
+        {
+            "locationName": "Newport, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAABeWlqYBcsMob0ZqxHc-vM3M8puAVjvRbL4,625047477)",
+            "geoLocationName": "Newport, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009499",
+            "companyName": "The Centre for Business (NGCCEI)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2009
+                }
+            },
+            "description": "* Full responsibility for ICT structure for £6m turnover company via 11 offices and 100+ staff throughout South and Mid Wales.\n* Directly manage a team of 5+ ranging from IT Support, commercial & internal website development, CRM and training.\n* This included physical and virtual servers (2003 to 2012), Exchange, Active Directory, Dynamics CRM, traditional phone systems (Mitel, Avaya, Siemens) as well as hosted VoIP.\n* Create and engage the strategic plan and objectives for the ICT infrastructure, managing & implementing projects, budget responsibility and present these to the Board.\n*  To identify and negotiate best fit for all ICT contracts such as broadband, mobile phone, landline, photocopier, AV and antispam not just on a cost basis but functionality also.\n     - Evidenced savings of: \n        £33k on photocopiers\n        £6k on mobile phones\n        £50k+ on Microsoft licencing once I recognised we should be on a more beneficial pricing structure.\n* Project Managed the South East region of the Superfast Broadband project - This was a £648k project of which my team delivered £170k. Welsh Government asked me to personally train all of the advisors delivering this content Pan Wales.\n* Managed migrating company over to new CRM system. My chosen direction increased the efficiency of the company exponentially but development also saved the company £95k+.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "IT Manager",
+            "region": "urn:li:fs_region:(gb,4615)",
+            "companyUrn": "urn:li:fs_miniCompany:2406728",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQG92lxi5rYa4A/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABeWlqYBcsMob0ZqxHc-vM3M8puAVjvRbL4,331710756)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1992
+                }
+            },
+            "schoolName": "Duffryn High School"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "ILM",
+            "name": "ILM Level 5 Leadership & Management",
+            "company": {
+                "objectUrn": "urn:li:company:250623",
+                "entityUrn": "urn:li:fs_miniCompany:250623",
+                "name": "ILM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631407511029?e=1710374400&v=beta&t=VnjZo8jYdUq6KOU_qpjv3cv4An_CZSXvRnvvaH7oTp0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631407511029?e=1710374400&v=beta&t=rkNACkPGlRTy2PJ8tpG7gYcd8LAwc-yiC3M90JJOwYU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631407511029?e=1710374400&v=beta&t=b5erVeF6wGIkRw5tvS4p3jyqNei312BG-KhjwvnmhXw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQH4U8WuU9eAWg/company-logo_"
+                    }
+                },
+                "universalName": "ilm_uk",
+                "dashCompanyUrn": "urn:li:fsd_company:250623",
+                "trackingId": "MqpHmxtXT920Pm9xt0SaeQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:250623"
+        },
+        {
+            "authority": "(ISC)²",
+            "name": "Certified in Cybersecurity (CC)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2025
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "gWNvkYgfSiiWDyiHn5Afag=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:26753",
+            "url": "https://www.credly.com/badges/df6e3758-d396-44d9-a44b-81209c92b0c6/linked_in_profile"
+        },
+        {
+            "authority": "(ISC)²",
+            "name": "Cybersecurity Exam Development Volunteer",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "CDrNjt6VSw+SmjdoRHJd+g=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:26753",
+            "url": "https://www.credly.com/badges/7505d1a7-12ca-4edc-a435-94512cc3c1b0/linked_in_profile"
+        },
+        {
+            "authority": "(ISC)²",
+            "name": "Certified Information Systems Security Professional (CISSP)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:26753",
+                "entityUrn": "urn:li:fs_miniCompany:26753",
+                "name": "ISC2",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1692269546870?e=1710374400&v=beta&t=T17JbdCj3xZlwb8rckkGO-932c-qgHSUmXgtA5aMIdY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1692269546870?e=1710374400&v=beta&t=yvFXrpys5SWemMBwK_59c61FwVursf3XFukCgWX54Gw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1692269546870?e=1710374400&v=beta&t=TN3JnZBB6cM_gl81cpMkoqDHVxC9YEMzfOjo8uHZxZA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_"
+                    }
+                },
+                "universalName": "isc2",
+                "dashCompanyUrn": "urn:li:fsd_company:26753",
+                "trackingId": "6P31tnxHQmO++ZJ2ZeuNUQ=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:26753",
+            "url": "https://www.credly.com/badges/5efc020c-3991-405d-b461-1396a0a5bdc7/linked_in_profile"
+        },
+        {
+            "authority": "ISACA",
+            "name": "Certified Information Security Manager® (CISM)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:21062",
+                "entityUrn": "urn:li:fs_miniCompany:21062",
+                "name": "ISACA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=cwzBvUoMgtr8ZvUvUoMsprbGmEqJ8GUYyYxY8zJoCN0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=tKdg4zFODP83AIGTCAYzrxoeUHyP4sBtLNBdvzoeUbE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=ghFMKYB-nC9QajVN9vtalPvv2k6CxLTyCsEyGbQzIx0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEbgaF0IMoyIw/company-logo_"
+                    }
+                },
+                "universalName": "isaca",
+                "dashCompanyUrn": "urn:li:fsd_company:21062",
+                "trackingId": "2r2QrAFHRXSnsisN/bDU5A=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:21062",
+            "url": "https://www.credly.com/badges/43bd3590-788e-46b9-849e-37049e707665/linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

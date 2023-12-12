@@ -1,0 +1,96 @@
+{
+    "summary": "As a Business Development Assistant at SANS Institute, I support the growth and expansion of the world's leading provider of cybersecurity training and certification. I leverage my skills in customer relationship management (CRM), and cybersecurity to identify and engage with potential clients, partners, and stakeholders in various sectors and regions. I enjoy working with a diverse and collaborative team of experts and professionals who share the mission of empowering the global cybersecurity community with cutting-edge education and resources. I am always eager to learn new skills and technologies and to contribute to the success and innovation of SANS Institute.",
+    "industryName": "Computer & Network Security",
+    "lastName": "Williams",
+    "locationName": "United Kingdom",
+    "student": false,
+    "geoCountryName": "United Kingdom",
+    "geoCountryUrn": "urn:li:fs_geo:101165590",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:118",
+    "firstName": "Keira",
+    "entityUrn": "urn:li:fs_profile:ACoAADdDD9gB7N9-GqPvvAi7LFUBC6_F_5xcNmY",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:105432527"
+    },
+    "geoLocationName": "Swansea, Wales",
+    "location": {
+        "basicLocation": {
+            "countryCode": "gb"
+        }
+    },
+    "headline": "Cybersecurity: It’s not just about technology, it’s about trust",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQF7ou6zTIJ8FQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1629209178173?e=1707955200&v=beta&t=MxeRT_Xetqm2hpv7_bebE9T4NKy-f2X9x_4lNMqKkzA",
+    "img_200_200": "200_200/0/1629209178173?e=1707955200&v=beta&t=5USZvTCn1laf7Xk8nHNyH98s1R37ol314yPZkfQe4XE",
+    "img_400_400": "400_400/0/1629209178173?e=1707955200&v=beta&t=m9X1xlBg7xAMAymD5EkWx989t27diEeWTn0i-wzkM38",
+    "img_800_800": "800_800/0/1629209178173?e=1707955200&v=beta&t=ncNCMKmYKgSNFC4TqfMuzEFzx-a2tt8MZ3gvgLdOMpw",
+    "profile_id": "ACoAADdDD9gB7N9-GqPvvAi7LFUBC6_F_5xcNmY",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADdDD9gB7N9-GqPvvAi7LFUBC6_F_5xcNmY",
+    "member_urn": "urn:li:member:927141848",
+    "public_id": "keira-williams-5085b821a",
+    "experience": [
+        {
+            "locationName": "Swansea, Wales, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAADdDD9gB7N9-GqPvvAi7LFUBC6_F_5xcNmY,1825036347)",
+            "geoLocationName": "Swansea, Wales, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:100332179",
+            "companyName": "SANS Institute",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer & Network Security"
+                ]
+            },
+            "title": "Business Development Assistant",
+            "region": "urn:li:fs_region:(gb,0)",
+            "companyUrn": "urn:li:fs_miniCompany:14104",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFXP6rIfo489A/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADdDD9gB7N9-GqPvvAi7LFUBC6_F_5xcNmY,843930438)",
+            "school": {
+                "objectUrn": "urn:li:school:20076",
+                "entityUrn": "urn:li:fs_miniSchool:20076",
+                "active": true,
+                "schoolName": "Swansea University",
+                "trackingId": "XHpdY6KIQBmVqrFqVo77PQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQH7FFJTUFRvTw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100824",
+            "degreeName": "Bachelor of Science - BS",
+            "schoolName": "Swansea University",
+            "fieldOfStudy": "Sports and Exercise",
+            "degreeUrn": "urn:li:fs_degree:400",
+            "schoolUrn": "urn:li:fs_miniSchool:20076"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

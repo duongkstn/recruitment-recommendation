@@ -1,0 +1,209 @@
+{
+    "industryName": "Building Materials",
+    "lastName": "Cripps",
+    "locationName": "United Kingdom",
+    "student": false,
+    "geoCountryName": "United Kingdom",
+    "geoCountryUrn": "urn:li:fs_geo:101165590",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "James",
+    "entityUrn": "urn:li:fs_profile:ACoAAAwvrrQBMNmDxQhXeOhBM2HH6ci548f6V0A",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102938009"
+    },
+    "geoLocationName": "West Midlands, England",
+    "location": {
+        "basicLocation": {
+            "countryCode": "gb"
+        }
+    },
+    "headline": "Senior Reward Manager Europe at CRH",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5103AQGsgmSK6mJc5Q/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1517050408457?e=1707955200&v=beta&t=WTIzvVL4tFEU37tqSGOyHRFagG4vLDgBMnLkaOIYg0U",
+    "img_200_200": "200_200/0/1517050408468?e=1707955200&v=beta&t=5hA5s_m1IGVXj2F1j1Y3SFashAfZT9uhixqqWwaKuUo",
+    "img_400_400": "400_400/0/1517050408608?e=1707955200&v=beta&t=PTvrb3Bf9vaZ-luRT31E7mGuj18nYKMDugfvSJGRlek",
+    "img_450_450": "800_800/0/1517050411151?e=1707955200&v=beta&t=1fIK9qakLTYvZVCWk5MiiNHWrgQJByX__NOXUMFbyfI",
+    "profile_id": "ACoAAAwvrrQBMNmDxQhXeOhBM2HH6ci548f6V0A",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAwvrrQBMNmDxQhXeOhBM2HH6ci548f6V0A",
+    "member_urn": "urn:li:member:204451508",
+    "public_id": "jameslcripps",
+    "experience": [
+        {
+            "locationName": "Birmingham, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAAwvrrQBMNmDxQhXeOhBM2HH6ci548f6V0A,1469587512)",
+            "geoLocationName": "Birmingham, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009513",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Senior Reward Manager Europe",
+            "region": "urn:li:fs_region:(gb,4544)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Birmingham, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAAwvrrQBMNmDxQhXeOhBM2HH6ci548f6V0A,1469590274)",
+            "geoLocationName": "Birmingham, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009513",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Senior Manager Executive Remuneration & Talent Mobility",
+            "region": "urn:li:fs_region:(gb,4544)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Birmingham, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAAwvrrQBMNmDxQhXeOhBM2HH6ci548f6V0A,1003910463)",
+            "geoLocationName": "Birmingham, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009513",
+            "companyName": "Tarmac",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Construction"
+                ]
+            },
+            "title": "Senior Manager Executive Remuneration & Talent Mobility ",
+            "region": "urn:li:fs_region:(gb,4544)",
+            "companyUrn": "urn:li:fs_miniCompany:3336431",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQGWO7w2y9quYw/company-logo_"
+        },
+        {
+            "locationName": "Birmingham, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAAwvrrQBMNmDxQhXeOhBM2HH6ci548f6V0A,587793755)",
+            "geoLocationName": "Birmingham, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009513",
+            "companyName": "Lafarge Tarmac",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Construction"
+                ]
+            },
+            "title": "Performance & Incentives Manager",
+            "region": "urn:li:fs_region:(gb,4544)",
+            "companyUrn": "urn:li:fs_miniCompany:3336431",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQGWO7w2y9quYw/company-logo_"
+        },
+        {
+            "locationName": "Solihull",
+            "entityUrn": "urn:li:fs_position:(ACoAAAwvrrQBMNmDxQhXeOhBM2HH6ci548f6V0A,316938069)",
+            "geoLocationName": "Solihull",
+            "companyName": "Lafarge Tarmac",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2010
+                }
+            },
+            "description": "Delivering a diverse portfolio of IT projects:\n\nJV Office Footprint - Delivered IT services to 18 office locations hosting 1,200 employees within 9 months\n\nJV IT Separation - Managed a team of 43 resources over 7 months to successfully enable asset divestment.\n\nSAP Upgrade - Managed a team of 103 internal and external resources contributing 6,000 man days effort during a £2 million SAP upgrade programme.\n\nNational Contracting Terms and Conditions - Implemented IT changes to enable revision of employee Terms and Conditions.\n\nFirst Time Match Rate 2011 - Delivered solutions enabling the Procurement team to improve First Time Invoice matching by 20%.\n\nSAP Carbon Impact - Successfully implemented an innovative Software as a Service solution to support Carbon Accounting.\n\nNational Technical Laboratory System - Rapidly assessed laboratory system replacement solutions to drive cost savings.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Construction"
+                ]
+            },
+            "title": "IT Project manager",
+            "companyUrn": "urn:li:fs_miniCompany:3336431",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQGWO7w2y9quYw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAwvrrQBMNmDxQhXeOhBM2HH6ci548f6V0A,125040586)",
+            "school": {
+                "objectUrn": "urn:li:school:12721",
+                "entityUrn": "urn:li:fs_miniSchool:12721",
+                "active": true,
+                "schoolName": "University of Southampton",
+                "trackingId": "0yaHf2sISU6ymz9voZO81g==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQEOlU_74GJ2lA/company-logo_"
+            },
+            "grade": "Second Class Honours (Upper Division)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 1999
+                }
+            },
+            "degreeName": "Master of Geology",
+            "schoolName": "Southampton University",
+            "fieldOfStudy": "Geology/Earth Science",
+            "schoolUrn": "urn:li:fs_miniSchool:12721"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

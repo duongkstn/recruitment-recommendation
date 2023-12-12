@@ -1,0 +1,361 @@
+{
+    "summary": "I am a strategic Sales & Business Development professional with a pragmatic hands-on mentality and get energized by achieving results with a team in an agile way of working. I have conceptual skills, as well the ability to implement the idea into practice.\n\nKey words: result driven, pro-active, problem solving, committed, positive, team player, self- reflective, open minded and social with strong communication skills.",
+    "industryName": "Retail",
+    "lastName": "Resink",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Robbert-Jan",
+    "entityUrn": "urn:li:fs_profile:ACoAAAB27cMBTjm3Wi_vZU55ZrC-6j9GYs6Akec",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:106630165"
+    },
+    "geoLocationName": "Bussum, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Bol.com | New Business Development | E-commerce | Marketplaces | Sales",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQH9aHF0KLm7nA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1578930916449?e=1707955200&v=beta&t=22FN9NqvkjG-_dqjxfx5KnzLufXWtuEHIRFrJIC7PDc",
+    "img_200_200": "200_200/0/1578930916421?e=1707955200&v=beta&t=rE030XyROIu7ifxwXdqwA9uSDGyTmxFhjH8BIta_4dk",
+    "img_400_400": "400_400/0/1578930916476?e=1707955200&v=beta&t=v7vuDO5RKOagwGCJQEhC1YhsiX32rXO0SdH0xQG0hAg",
+    "img_800_800": "800_800/0/1578930916520?e=1707955200&v=beta&t=z0NrWUJpUzYgZz2HW-Ibd-0Q9dRlS_ZbM0y3-zjhQjU",
+    "profile_id": "ACoAAAB27cMBTjm3Wi_vZU55ZrC-6j9GYs6Akec",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAB27cMBTjm3Wi_vZU55ZrC-6j9GYs6Akec",
+    "member_urn": "urn:li:member:7794115",
+    "public_id": "robbert-jan-resink",
+    "experience": [
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAB27cMBTjm3Wi_vZU55ZrC-6j9GYs6Akec,2161788623)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "description": "Responsible for the commercial strategy of further expanding the EU seller base on bol.com with top European marketplace sellers in all categories. Together with a team of 7 New Business Developers we are looking around in Europe to attract EU based sellers to offer better prices and a broader assortment for the 13 million bol.com customers.\n\nBol.com is the number 1 marketplace in The Netherlands and Belgium and offers consumer goods in a wide range of categories: https://www.bol.com/.\n\nWhen you are interested in becoming a seller, with stock in an EU country + EU legal entity and believe your company could do >€500K GMV in the first 12 months on the bol.com marketplace, feel free to contact me. Looking forward to talk to you!",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Manager International Network Development",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAB27cMBTjm3Wi_vZU55ZrC-6j9GYs6Akec,1872086902)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "description": "Together with a team of 3 sales professionals responsible to attract top EU sellers from Northern Europe to expand the seller portfolio on bol.com. Key focus was to offer a better and broader assortment to our 13 million customers in all categories.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Lead New Business Development Northern Europe",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAB27cMBTjm3Wi_vZU55ZrC-6j9GYs6Akec,1567054580)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "description": "Responsible for the acquisition of key European sellers on the bol.com marketplace for the categories in Fashion, Sports & Outdoor, Home & Garden and Lightning.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "New Business Developer International",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Amstelveen & Paris",
+            "entityUrn": "urn:li:fs_position:(ACoAAAB27cMBTjm3Wi_vZU55ZrC-6j9GYs6Akec,856451568)",
+            "geoLocationName": "Amstelveen & Paris",
+            "companyName": "Air France-KLM",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "description": "Optimize and steer sales performance for European markets with geographical focus on Iberian Peninsula, Northern Europe and Russia/CIS region (total revenues >1,4 billion p/y). Activities include indicate and execute sales opportunities, managing change management projects and steering sales teams on KPI's and budget targets.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Airlines/Aviation"
+                ]
+            },
+            "title": "Sales Manager Europe",
+            "companyUrn": "urn:li:fs_miniCompany:10181422",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHHr2Fvtdnn0w/company-logo_"
+        },
+        {
+            "locationName": "Amstelveen & Paris",
+            "entityUrn": "urn:li:fs_position:(ACoAAAB27cMBTjm3Wi_vZU55ZrC-6j9GYs6Akec,626389316)",
+            "geoLocationName": "Amstelveen & Paris",
+            "companyName": "Air France-KLM",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2014
+                }
+            },
+            "description": "Responsible for Business Development within 11 African Markets for Air France and KLM. The African market is responsble for almost €400 million of revenues. Activities include initiate and manage new destination projects for AF-KL, initiate new partnerships with local African airlines to expand AF-KL Network and stimulate Sales to/from Africa .",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Airlines/Aviation"
+                ]
+            },
+            "title": "Business Development Manager Africa",
+            "companyUrn": "urn:li:fs_miniCompany:10181422",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHHr2Fvtdnn0w/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAB27cMBTjm3Wi_vZU55ZrC-6j9GYs6Akec,293832094)",
+            "school": {
+                "objectUrn": "urn:li:school:12436",
+                "entityUrn": "urn:li:fs_miniSchool:12436",
+                "active": true,
+                "schoolName": "ESSEC Business School",
+                "trackingId": "NDVEMFztQ7yfbNw+a2+ECg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHOyFUSQ_Q2ww/company-logo_"
+            },
+            "grade": "2011",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "schoolName": "ESSEC Business School",
+            "fieldOfStudy": "Marketing Management & Strategies",
+            "schoolUrn": "urn:li:fs_miniSchool:12436"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAB27cMBTjm3Wi_vZU55ZrC-6j9GYs6Akec,7341541)",
+            "school": {
+                "objectUrn": "urn:li:school:15438",
+                "entityUrn": "urn:li:fs_miniSchool:15438",
+                "active": true,
+                "schoolName": "NHL Hogeschool",
+                "trackingId": "onxb5G7HTgeMOprGBPF1zw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQF9DTfxNYSk6g/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            },
+            "degreeName": "Bachelor's Degree",
+            "schoolName": "Noordelijke Hogeschool Leeuwarden",
+            "fieldOfStudy": "Marketing Communication",
+            "schoolUrn": "urn:li:fs_miniSchool:15438"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAB27cMBTjm3Wi_vZU55ZrC-6j9GYs6Akec,4216177)",
+            "school": {
+                "objectUrn": "urn:li:school:15419",
+                "entityUrn": "urn:li:fs_miniSchool:15419",
+                "active": true,
+                "schoolName": "Hanzehogeschool Groningen / Hanze University of Applied Sciences Groningen",
+                "trackingId": "9R9YJYlfTpSA5ctfQtPynw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQG_6IEYDiaIOw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2000
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            },
+            "degreeName": "HBO",
+            "schoolName": "Hanzehogeschool Groningen",
+            "fieldOfStudy": "Communcatie Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15419"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "ISBW Opleiding & Training",
+            "name": "Agile Scrum Foundation",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:82860",
+                "entityUrn": "urn:li:fs_miniCompany:82860",
+                "name": "ISBW Opleiding & Training",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631329771890?e=1710374400&v=beta&t=7QB9UDRtX5JAFkv4l2aTCrZ2x_nz6oxzDCTHPdzvrEk",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631329771890?e=1710374400&v=beta&t=y4ITJ56sf6P0ZqAPxudjCJ6Ke5oZnZOW1VqRGEQX3ic",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631329771890?e=1710374400&v=beta&t=EQLTEyI5WChh3rzBaZFqjQAh3b8DRy98tOzIe3_v4zs",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQHGE7QhSYvwtw/company-logo_"
+                    }
+                },
+                "universalName": "isbw-opleidingen",
+                "dashCompanyUrn": "urn:li:fsd_company:82860",
+                "trackingId": "X0wZnTPrSE+4EZbFE7UkXg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:82860"
+        },
+        {
+            "authority": "Hovingh & Partners",
+            "name": "Sales Funnel Management",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:17905800",
+                "entityUrn": "urn:li:fs_miniCompany:17905800",
+                "name": "Hovingh & Partners",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631349235293?e=1710374400&v=beta&t=Cq-zGUJ_3G7bl6vs3-jya-9UF3QFyP4-tWf-E9JlWIU",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631349235293?e=1710374400&v=beta&t=MzEAStrW2bBQvH6XqJTVNY6xXKug-Kj076aBtXPebRg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631349235293?e=1710374400&v=beta&t=L0KHVFhAX5UmMCgqq99qenKA3rMJzeiDcN_PpKFsyj0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQFYLpJ6DECUAg/company-logo_"
+                    }
+                },
+                "universalName": "hovingh-&-partners",
+                "dashCompanyUrn": "urn:li:fsd_company:17905800",
+                "trackingId": "mJhOjgzyTu2lrMs3npRlZw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:17905800"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

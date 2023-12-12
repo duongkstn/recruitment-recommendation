@@ -1,0 +1,311 @@
+{
+    "summary": ".",
+    "industryName": "Retail",
+    "lastName": "Benali",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Jill",
+    "entityUrn": "urn:li:fs_profile:ACoAACHK1twBOUkqkrTe87IPoMlDManW4Qrn0xI",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:106418057"
+    },
+    "geoLocationName": "Amsterdam-Zuidoost, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Junior Buyer Food bij de Bijenkorf",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFStj3a1oaYyg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1684321033003?e=1707955200&v=beta&t=FU0XVykd5jmedkLdBSFkRJJ-F6m2FbP7edjs_vV40qY",
+    "img_200_200": "200_200/0/1684321033003?e=1707955200&v=beta&t=2QnARZ8EmHdhUcGdsiPTjnlKdm2Z4dSBuUFUjjplxIs",
+    "img_400_400": "400_400/0/1684321033003?e=1707955200&v=beta&t=qMyGKfE-_dxFAeFlWpsgwNDU7B0N_CDQjUGBvqIjYOw",
+    "img_800_800": "800_800/0/1684321033003?e=1707955200&v=beta&t=PN3v_xxaH0-8uMyFqYg6JDR1MziTDaYEWKCqhaRvrRg",
+    "profile_id": "ACoAACHK1twBOUkqkrTe87IPoMlDManW4Qrn0xI",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACHK1twBOUkqkrTe87IPoMlDManW4Qrn0xI",
+    "member_urn": "urn:li:member:566941404",
+    "public_id": "jillbenali",
+    "experience": [
+        {
+            "locationName": "Amsterdam en omgeving",
+            "entityUrn": "urn:li:fs_position:(ACoAACHK1twBOUkqkrTe87IPoMlDManW4Qrn0xI,1734245723)",
+            "geoLocationName": "Amsterdam en omgeving",
+            "geoUrn": "urn:li:fs_geo:90010383",
+            "companyName": "de Bijenkorf",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Junior Buyer Food",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:394077",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQE_sfO0H0q0CA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAACHK1twBOUkqkrTe87IPoMlDManW4Qrn0xI,1483110316)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "de Bijenkorf",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Commercieel Coördinator B2B",
+            "companyUrn": "urn:li:fs_miniCompany:394077",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQE_sfO0H0q0CA/company-logo_"
+        },
+        {
+            "locationName": "Den Haag en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACHK1twBOUkqkrTe87IPoMlDManW4Qrn0xI,927762110)",
+            "geoLocationName": "Den Haag en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "GoodDay Hospitality Services bv",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "description": "\n\n\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Events Services"
+                ]
+            },
+            "title": "Hostess",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:1073917",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFOBw3794HZ4g/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACHK1twBOUkqkrTe87IPoMlDManW4Qrn0xI,1340706608)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "de Bijenkorf",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Stagiair",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:394077",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQE_sfO0H0q0CA/company-logo_"
+        },
+        {
+            "locationName": "The Hague Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACHK1twBOUkqkrTe87IPoMlDManW4Qrn0xI,927754241)",
+            "geoLocationName": "The Hague Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "ICI PARIS XL",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "description": "\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Verkoopadviseur",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:2314355",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHUw6eBiahNgA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACHK1twBOUkqkrTe87IPoMlDManW4Qrn0xI,400257484)",
+            "school": {
+                "objectUrn": "urn:li:school:15418",
+                "entityUrn": "urn:li:fs_miniSchool:15418",
+                "active": true,
+                "schoolName": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+                "trackingId": "fcvo4+aSS/K0dKqo7i7Lfg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFtr7VqGaVWcQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "description": "- Specialized in Sales\n- Minor: Spanish \n- Minor: Entrepreneurship\n- 2015-2016: Mentor of first-year students\n\n",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101407",
+            "degreeName": "Bachelor of Commerce (B.Com.)",
+            "schoolName": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+            "fieldOfStudy": "Business/Commerce, General",
+            "degreeUrn": "urn:li:fs_degree:215",
+            "schoolUrn": "urn:li:fs_miniSchool:15418"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACHK1twBOUkqkrTe87IPoMlDManW4Qrn0xI,399664817)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "Higher General Secondary Education",
+            "schoolName": "Alfrink College Zoetermeer",
+            "fieldOfStudy": "Economy and Society"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "ELEMENTARY"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Alfrink College Zoetermeer",
+            "name": "HAVO certificate",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1932455",
+                "entityUrn": "urn:li:fs_miniCompany:1932455",
+                "name": "Alfrink College Zoetermeer",
+                "showcase": false,
+                "active": false,
+                "universalName": "alfrink-college-zoetermeer",
+                "dashCompanyUrn": "urn:li:fsd_company:1932455",
+                "trackingId": "HWgGMVtQTYapebfX1yGR+w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1932455"
+        },
+        {
+            "authority": "The Hague University of Applied Sciences",
+            "name": "Propaedeutics Commercial Economics",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2015
+                }
+            },
+            "licenseNumber": "7.4",
+            "company": {
+                "objectUrn": "urn:li:company:345121",
+                "entityUrn": "urn:li:fs_miniCompany:345121",
+                "name": "The Hague University of Applied Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631313445349?e=1710374400&v=beta&t=UxpebXu5cf_74DuDGb-S_zqYiJlLex_x1cMmPOnZLZU",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631313445349?e=1710374400&v=beta&t=prN5uZjTQIM7Tm5TwT4RSLW1Gt2i352_ezb7Bjs6N2E",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631313445349?e=1710374400&v=beta&t=DSCz09gDsaJppK4NUioRM3G-UzshwXWdWW5epSuxW1c",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFNO5uWnai0PA/company-logo_"
+                    }
+                },
+                "universalName": "the-hague-university",
+                "dashCompanyUrn": "urn:li:fsd_company:345121",
+                "trackingId": "SiZOwg6kS6OPhgGUBT4IxQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:345121"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

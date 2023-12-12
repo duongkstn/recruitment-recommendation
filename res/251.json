@@ -1,0 +1,141 @@
+{
+    "industryName": "Law Enforcement",
+    "lastName": "Kok",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:77",
+    "firstName": "Stefan",
+    "entityUrn": "urn:li:fs_profile:ACoAADSdYVwBJYjivzBjZqN6BkxPLHCYbpmVQCM",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101461601"
+    },
+    "geoLocationName": "The Hague, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Juridisch/administratief medewerker || gerechtshof Den Haag, afdeling Strafrecht || Open Universiteit, Bachelor LLB rechtsgeleerdheid",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQG7V0zrA7w8CQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1614152759558?e=1707955200&v=beta&t=1SzNXNyu0avMsDS2EyWZtj1c_MqAt5KwxJ60-T_xkrI",
+    "img_200_200": "200_200/0/1614152759558?e=1707955200&v=beta&t=AEdPDueRPvMAOIdDs7M9ZTa2f5D61VjC-SouOTI1WOc",
+    "img_400_400": "400_400/0/1614152759558?e=1707955200&v=beta&t=2My5G6ZJpBC9BsIM_0b6E0w66Z8qxujGXYmMizmXQvA",
+    "img_800_800": "800_800/0/1614152759558?e=1707955200&v=beta&t=0i6YZlRVwscNwW2xMhP_cFVTpSfa0tbEJ9ftoM9Hprk",
+    "profile_id": "ACoAADSdYVwBJYjivzBjZqN6BkxPLHCYbpmVQCM",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADSdYVwBJYjivzBjZqN6BkxPLHCYbpmVQCM",
+    "member_urn": "urn:li:member:882729308",
+    "public_id": "stefan-kok-87875a207",
+    "experience": [
+        {
+            "locationName": "Den Haag, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADSdYVwBJYjivzBjZqN6BkxPLHCYbpmVQCM,2221125004)",
+            "geoLocationName": "Den Haag, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "Gerechtshof Den Haag",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Judiciary"
+                ]
+            },
+            "title": "Juridisch/administratief medewerker en griffier",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:16252369",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEhZLpcyYpzAg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADSdYVwBJYjivzBjZqN6BkxPLHCYbpmVQCM,1741667004)",
+            "companyName": "Openbaar Ministerie",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Law Enforcement"
+                ]
+            },
+            "title": "Senior administratief medewerker",
+            "companyUrn": "urn:li:fs_miniCompany:165320",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQH-DxYLkHLZUA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADSdYVwBJYjivzBjZqN6BkxPLHCYbpmVQCM,911321973)",
+            "school": {
+                "objectUrn": "urn:li:school:15439",
+                "entityUrn": "urn:li:fs_miniSchool:15439",
+                "active": true,
+                "schoolName": "Open Universiteit",
+                "trackingId": "V9LonmFRTW6NohkFKWSy1Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQFNyoH9WSgoKw/company-logo_"
+            },
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "degreeName": "Bachelor degree, Rechtsgeleerdheid",
+            "schoolName": "Open Universiteit",
+            "schoolUrn": "urn:li:fs_miniSchool:15439"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADSdYVwBJYjivzBjZqN6BkxPLHCYbpmVQCM,748110272)",
+            "school": {
+                "objectUrn": "urn:li:school:15418",
+                "entityUrn": "urn:li:fs_miniSchool:15418",
+                "active": true,
+                "schoolName": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+                "trackingId": "/LRZLIpuR3WM1xHopZm7HQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFtr7VqGaVWcQ/company-logo_"
+            },
+            "grade": "7,2",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "degreeName": "Bachelor of Laws - LLB",
+            "schoolName": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+            "fieldOfStudy": "Propedeuse",
+            "degreeUrn": "urn:li:fs_degree:232",
+            "schoolUrn": "urn:li:fs_miniSchool:15418"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

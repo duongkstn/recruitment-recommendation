@@ -1,0 +1,228 @@
+{
+    "summary": "Several years of experience in marketplace, retail buying, category- and team management. In perspective of the shopper's needs and company purpose, I love to work with a team to set strategies on different levels. Work on constructive supplier management to achieve a strong propostion is what I like. Personal development, craftmanship and psychological safety has my highest priority in building teams.\n\nMy promise is to deliver a balanced business strategy based on strong analysis, vision and a sustainable relationship with suppliers and team members.",
+    "industryName": "Internet",
+    "lastName": "Bomas",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 4,
+        "day": 29
+    },
+    "industryUrn": "urn:li:fs_industry:6",
+    "firstName": "Dirk",
+    "entityUrn": "urn:li:fs_profile:ACoAAAE338cBXIhcU4OqdsVY1FpvgNuc136VBrs",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Manager Buying at Bol.com (Ahold Delhaize)",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQG8Ys-mxPxqnA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1583441985345?e=1707955200&v=beta&t=co1P7N2ZrwJRrLLAPEfErlFGiJTDXst5xoi8wxjxcCo",
+    "img_200_200": "200_200/0/1583441985321?e=1707955200&v=beta&t=F-EUaIX1aaJlgosxt2V0NaxjUUClz05dRVQliF9SMT8",
+    "img_400_400": "400_400/0/1583441985373?e=1707955200&v=beta&t=1AnEzL2A653Zlv1XwfeSNl08KaBT5k1vsW5uM4gvzqk",
+    "img_640_640": "800_800/0/1583441985403?e=1707955200&v=beta&t=JgJnxLpH_-LvsFCJFMN8Bdp5G17YxMBk12uCJOc6lAU",
+    "profile_id": "ACoAAAE338cBXIhcU4OqdsVY1FpvgNuc136VBrs",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAE338cBXIhcU4OqdsVY1FpvgNuc136VBrs",
+    "member_urn": "urn:li:member:20438983",
+    "public_id": "dirkbomas",
+    "experience": [
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAE338cBXIhcU4OqdsVY1FpvgNuc136VBrs,2245536953)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "description": "DIY, Garden, Xmas, Outdoor & Mobility",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Manager Buying",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAE338cBXIhcU4OqdsVY1FpvgNuc136VBrs,1834969256)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "description": "FMCG, Lifestyle & Books",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Strategic Buying",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAE338cBXIhcU4OqdsVY1FpvgNuc136VBrs,1987618623)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "description": "Supermarket & Pet",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Manager Buying a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAE338cBXIhcU4OqdsVY1FpvgNuc136VBrs,1747561683)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "description": "Baby Hardware & Lifestyle\nBeauty & Personal Care (FMCG)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Senior Buyer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Doorn, Provincie Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAE338cBXIhcU4OqdsVY1FpvgNuc136VBrs,1425292001)",
+            "geoLocationName": "Doorn, Provincie Utrecht, Nederland",
+            "companyName": "TMO Fashion Business School",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "description": "-   Lecturer Category management\n-   Expert coach research program\n-   Internship coaching\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Lecturer Category Management",
+            "companyUrn": "urn:li:fs_miniCompany:499490",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHlJgKXzcMk0g/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAE338cBXIhcU4OqdsVY1FpvgNuc136VBrs,16899884)",
+            "school": {
+                "objectUrn": "urn:li:school:164126",
+                "entityUrn": "urn:li:fs_miniSchool:164126",
+                "active": true,
+                "schoolName": "Amsterdam Fashion Institute",
+                "trackingId": "78qj/MgiStywU18ml1XquQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGT5KalveJwrg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "degreeName": "Bachelor of Science",
+            "schoolName": "Amsterdam Fashion Institute",
+            "fieldOfStudy": "Fashion Management",
+            "schoolUrn": "urn:li:fs_miniSchool:164126"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

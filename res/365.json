@@ -1,0 +1,231 @@
+{
+    "summary": "I am an IT Recruiter Consultant at Michael Page Amsterdam, specialized in the recruitment of mid to senior permanent positions within IT and Information Security.\n\nWould you like to get in contact for the next step in your career? Feel free to reach out.\nAndreaRequena@michaelpage.nl",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Requena",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Andrea",
+    "entityUrn": "urn:li:fs_profile:ACoAACXFjnsBf5naEcH1OTMYMKITc0t4F_1iwHE",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Sales & Marketing Recruitment Consultant - Michael Page",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQEeiuG5Cf3ANA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1667809402230?e=1707955200&v=beta&t=IBSo0Aez_zRds8QEpdCNll7FT0Du5QXUzZsXcfSjD9c",
+    "img_200_200": "200_200/0/1667809402230?e=1707955200&v=beta&t=lFpxsB_iJpGLwkWaQjgNh1mXWWZavnf7-O79UUkj1c8",
+    "img_400_400": "400_400/0/1667809402230?e=1707955200&v=beta&t=0M1iPEgwGHcSDTAJD6IQRkPySKGMANvb0uRn1MNaVv4",
+    "img_800_800": "800_800/0/1667809402230?e=1707955200&v=beta&t=5-p3QC5j7lEQdosPz8IWBrd89Glf9QoKXeuGodUN64g",
+    "profile_id": "ACoAACXFjnsBf5naEcH1OTMYMKITc0t4F_1iwHE",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACXFjnsBf5naEcH1OTMYMKITc0t4F_1iwHE",
+    "member_urn": "urn:li:member:633704059",
+    "public_id": "andrea-requena-a77286158",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACXFjnsBf5naEcH1OTMYMKITc0t4F_1iwHE,2293969036)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Michael Page",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Sales & Marketing Recruitment Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3476",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACXFjnsBf5naEcH1OTMYMKITc0t4F_1iwHE,2069216250)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Michael Page",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "description": "Michael Page is one of the world's leading professional recruitment consultancies, specializing in the placement of candidates in permanent, contract, temporary and interim positions with clients around the world.\n\nI am currently based in Amsterdam and have a focus on information technology roles such as:\n\n•\tCIO, IT Director & IT Manager\n•\tProgram, Project & Portfolio Management\n\nIf you are looking for your next role or recruiting talent for your business please feel free to contact me:\nandrearequena@michaelpage.nl\n+31 6 33 04 75 09",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": " Information Technology Recruitment Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3476",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_"
+        },
+        {
+            "locationName": "Huizen, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACXFjnsBf5naEcH1OTMYMKITc0t4F_1iwHE,1959899460)",
+            "geoLocationName": "Huizen, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:101940424",
+            "companyName": "My Own Filo",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "description": "Developing the brand concept, brand strategy & brand image. \nCreation of product collection, categories and corresponding target audiences.\nBuilt the base of the backend on Shopify and internal connections.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Communication and E-Commerce Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:88282896",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFioKLPXWieQg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACXFjnsBf5naEcH1OTMYMKITc0t4F_1iwHE,1838262413)",
+            "companyName": "Farouk Systems",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Cosmetics"
+                ]
+            },
+            "title": "Ecommerce Manager EU",
+            "companyUrn": "urn:li:fs_miniCompany:707765",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFqETCWYk-68g/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACXFjnsBf5naEcH1OTMYMKITc0t4F_1iwHE,1774286721)",
+            "companyName": "Farouk Systems",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Cosmetics"
+                ]
+            },
+            "title": "Junior Ecommerce Manager",
+            "companyUrn": "urn:li:fs_miniCompany:707765",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFqETCWYk-68g/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACXFjnsBf5naEcH1OTMYMKITc0t4F_1iwHE,568095478)",
+            "school": {
+                "objectUrn": "urn:li:school:15431",
+                "entityUrn": "urn:li:fs_miniSchool:15431",
+                "active": true,
+                "schoolName": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+                "trackingId": "OoQxvJKEQmCik1iF3AATAA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQE5MUvxbWmHLg/company-logo_"
+            },
+            "grade": "2",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100139",
+            "degreeName": "Creative Business",
+            "schoolName": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+            "fieldOfStudy": "Communication and Media Studies",
+            "schoolUrn": "urn:li:fs_miniSchool:15431"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACXFjnsBf5naEcH1OTMYMKITc0t4F_1iwHE,495248679)",
+            "school": {
+                "objectUrn": "urn:li:school:3156133",
+                "entityUrn": "urn:li:fs_miniSchool:3156133",
+                "active": true,
+                "schoolName": "Ankara Yıldırım Beyazıt Üniversitesi",
+                "trackingId": "YonNRz9lQqSN5AL8MG7alg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQFcPCuQzbJstQ/company-logo_"
+            },
+            "grade": "4",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "schoolName": "Ankara Yıldırım Beyazıt Üniversitesi",
+            "fieldOfStudy": "Political science and international relations",
+            "schoolUrn": "urn:li:fs_miniSchool:3156133"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

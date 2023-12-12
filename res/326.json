@@ -1,0 +1,240 @@
+{
+    "summary": "Project Manager @ Ferrobeton | Certified Mechatronical Technician\n\nProject Manager @ Ferrobeton | Expert in Precast Concrete Projects\n\nDelivering Quality and Efficiency in Construction with Ferrobeton\n\nAs a Project Manager at Ferrobeton, I have over a year of experience in managing the delivery of several construction projects across Hungary where we supplied precast concrete products, such as pillars, beams, and roof structures. I am a certified Mechatronical Technician with skills in electrical wiring, welding, and mechanical assembly.\n\nI am passionate about ensuring quality and efficiency in every project I manage, from tendering sub-contractors, to communicating with stakeholders, to solving problems until successful completion. I have delivered projects for clients such as Lotte Chemicals, Sports Arena, BMW, and Schneider Electric, among others. I am also a member of APM, the chartered body for the project profession.",
+    "industryName": "Electrical & Electronic Manufacturing",
+    "lastName": "Szigeti",
+    "locationName": "Hungary",
+    "student": false,
+    "geoCountryName": "Hungary",
+    "geoCountryUrn": "urn:li:fs_geo:100288700",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 2,
+        "day": 17
+    },
+    "industryUrn": "urn:li:fs_industry:112",
+    "firstName": "Laszlo",
+    "entityUrn": "urn:li:fs_profile:ACoAABb4TdMBZWGqvqIDqBlbUEpEFWf9co1R8_Y",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100663529"
+    },
+    "geoLocationName": "Kunszentmiklós, Bács-Kiskun",
+    "location": {
+        "basicLocation": {
+            "countryCode": "hu"
+        }
+    },
+    "headline": "Project Manager @ Schneider Electric | Project Management",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQEyLVcXX1JZPQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1592740653013?e=1707955200&v=beta&t=CO2Q5cMxKdlrovZHvW-JtcHCmUT01NVg031qabqMheU",
+    "img_200_200": "200_200/0/1592740653013?e=1707955200&v=beta&t=9BrBxfymGStOGFqZ7ltokcBnSQe6EJMcgQm75XMKxSI",
+    "img_400_400": "400_400/0/1592740653013?e=1707955200&v=beta&t=AsYDc3XX0EzBXkaTnDD0DSs2dsTjYBDgE9QBIOruNx0",
+    "img_800_800": "800_800/0/1592740653013?e=1707955200&v=beta&t=Y1sAThCWX2uzXE-Wb851oOZjm9qHbudyTEZ7mNRbYBk",
+    "profile_id": "ACoAABb4TdMBZWGqvqIDqBlbUEpEFWf9co1R8_Y",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABb4TdMBZWGqvqIDqBlbUEpEFWf9co1R8_Y",
+    "member_urn": "urn:li:member:385371603",
+    "public_id": "szl79",
+    "experience": [
+        {
+            "locationName": "Kunszentmiklós ",
+            "entityUrn": "urn:li:fs_position:(ACoAABb4TdMBZWGqvqIDqBlbUEpEFWf9co1R8_Y,2283195410)",
+            "geoLocationName": "Kunszentmiklós ",
+            "companyName": "Schneider Electric",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Industrial Automation"
+                ]
+            },
+            "title": "Project Manager",
+            "companyUrn": "urn:li:fs_miniCompany:2329",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGNfeTPCu6Z-w/company-logo_"
+        },
+        {
+            "locationName": "Hungary",
+            "entityUrn": "urn:li:fs_position:(ACoAABb4TdMBZWGqvqIDqBlbUEpEFWf9co1R8_Y,1952852692)",
+            "geoLocationName": "Hungary",
+            "geoUrn": "urn:li:fs_geo:100288700",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "description": "I was responsible for managing the delivery of several construction projects across Hungary where we supplied precast concrete products, such as pillars, beams, etc. This included the tendering of sub-contractors, day-to-day communication with the stakeholders and general problem-solving until successful completion.\n\nDelivered projects:\n1. Lotte Chemicals, Tatabánya - factory extension\n2. Sports Arena, Sárbogárd - complete concrete structure\n3. Wittmann Warehouse, Mosonmagyaróvár - factory extension\n4. Konkoly Warehouse, Jászberény - factory extension\n5. BMW, Debrecen - factory extension\n6. OBI, Kiskunhalas - complete concrete structure\n7. Schneider Electric Smart Factory, Dunavecse - complete concrete roof structure\n8. Glass fibre factory, Szerencs - complete concrete structure\n9. Gencont Hotels, Vecsés - complete concrete structure\n\nTotal value of delivered projects: £4.8m",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Project Manager",
+            "region": "urn:li:fs_region:(hu,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Hungary",
+            "entityUrn": "urn:li:fs_position:(ACoAABb4TdMBZWGqvqIDqBlbUEpEFWf9co1R8_Y,1848590022)",
+            "geoLocationName": "Hungary",
+            "geoUrn": "urn:li:fs_geo:100288700",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "description": "Coordinating a team of 52. Producing steel structures for concrete building beams and blocks. Liaising with Preparation team, Logistics, Purchasing, Stock keepers and Maintenance team. Prepairing job- and fitting orders.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Deputy Production Manager",
+            "region": "urn:li:fs_region:(hu,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAABb4TdMBZWGqvqIDqBlbUEpEFWf9co1R8_Y,800086566)"
+            ],
+            "locationName": "Hungary",
+            "geoUrn": "urn:li:fs_geo:100288700",
+            "companyName": "Ferrobeton Zrt. ",
+            "description": "https://ferrobeton.hu/",
+            "title": "Mechanical Technician",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "entityUrn": "urn:li:fs_position:(ACoAABb4TdMBZWGqvqIDqBlbUEpEFWf9co1R8_Y,1757324803)",
+            "geoLocationName": "Hungary",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "region": "urn:li:fs_region:(hu,0)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Pluckley, Kent, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAABb4TdMBZWGqvqIDqBlbUEpEFWf9co1R8_Y,1374106840)",
+            "geoLocationName": "Pluckley, Kent, United Kingdom",
+            "companyName": "COLE IRONCRAFT LIMITED",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "description": "MIG/MAG/TIG Welder / Fabricator (Mild Steel, Aluminium)\n\nhttps://www.coleironcraft.co.uk/",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Welder / Fabricator",
+            "companyUrn": "urn:li:fs_miniCompany:6908478",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEmqcq9oidBjg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABb4TdMBZWGqvqIDqBlbUEpEFWf9co1R8_Y,250655805)",
+            "school": {
+                "objectUrn": "urn:li:school:3334055",
+                "entityUrn": "urn:li:fs_miniSchool:3334055",
+                "active": true,
+                "schoolName": "University of Dunaújváros",
+                "trackingId": "Gf/NjIJGQ+KzM4DgJZQUUQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHNZ1lgEaoBKA/company-logo_"
+            },
+            "activities": "Main subjects: Mathematics, Physics, Chemistry, Metallurgy, Mechanics, Technical Drawing",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2000
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            },
+            "schoolName": "University of Dunaújváros",
+            "fieldOfStudy": "Metallurgical Engineering",
+            "schoolUrn": "urn:li:fs_miniSchool:3334055"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABb4TdMBZWGqvqIDqBlbUEpEFWf9co1R8_Y,250656164)",
+            "activities": "Technical Drawing, Electronics, Mechanics, AutoCAD",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            },
+            "description": "HNC in Mechanical and Electrical Engineering",
+            "degreeName": "NVQ",
+            "schoolName": "Dunaferr Vocational Technical School",
+            "fieldOfStudy": "Mechatronical Technician"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Hungarian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

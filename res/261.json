@@ -1,0 +1,301 @@
+{
+    "summary": "Controlling is my passion. My life is all about numbers, finding connections between them, and improving the way they can be presented in an easily manageable and understandable way. I love planning, analyzing actuals, reconciling figures, or just preparing reports for ad-hoc needs. ",
+    "industryName": "Marketing & Advertising",
+    "lastName": "TONKA",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:80",
+    "firstName": "Dora",
+    "entityUrn": "urn:li:fs_profile:ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Financial Controller at INDG | Grip",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQEmuB1zhJiXsw/profile-displayphoto-shrink_",
+    "img_99_100": "100_100/0/1592121976237?e=1707955200&v=beta&t=TIZQq3jDZgSkQVZlcF5WA7_xAxNBx833IoLMcqSFrSI",
+    "img_199_200": "200_200/0/1592121976237?e=1707955200&v=beta&t=aATg0ab2_SN-xtGdN8ynHRMYyaiVDUmhsClCktNo_zA",
+    "img_390_390": "800_800/0/1592121976237?e=1707955200&v=beta&t=_noJu_11vg0PgMR9MbtC---pDLhlYsHcAQ3_7we2ZZw",
+    "profile_id": "ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA",
+    "member_urn": "urn:li:member:137696307",
+    "public_id": "dora-tonka-4431453a",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,2151678290)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "INDG | Grip",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "Financial Controller",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:641117",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHO7Zb8IXbJWw/company-logo_"
+        },
+        {
+            "locationName": "Haarlem, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,1849910109)",
+            "geoLocationName": "Haarlem, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100414282",
+            "companyName": "BOTS",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "description": "Optimizing the financial processes of a rapidly growing scale-up company. Controlling the Treasury. Monthly and yearly closing of all local and foreign entities of the Holding. Reporting to Founders and Shareholders. Managing 3 people. Working with Exact Online.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Financial Controller",
+            "region": "urn:li:fs_region:(nl,5675)",
+            "companyUrn": "urn:li:fs_miniCompany:28657232",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEVULuE34XJyg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,1395400951)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "All Options",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "description": "Monthly, quarterly and yearly reporting. Preparing annual reports. Improving the controlling processes of companies owned by the Group. Working with Exact.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Financial Controller",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:53969",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGGFMKZA5a4hQ/company-logo_"
+        },
+        {
+            "locationName": "Budapest",
+            "entityUrn": "urn:li:fs_position:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,1005344771)",
+            "geoLocationName": "Budapest",
+            "companyName": "Edenred",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "description": "Monthly closing, Group reporting, Budgeting and participating in the System Transformation Group.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Financial Controller",
+            "companyUrn": "urn:li:fs_miniCompany:3057",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQETRqw2Aey5Dg/company-logo_"
+        },
+        {
+            "locationName": "Budapest, Hungary",
+            "entityUrn": "urn:li:fs_position:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,733303739)",
+            "geoLocationName": "Budapest, Hungary",
+            "geoUrn": "urn:li:fs_geo:106079947",
+            "companyName": "Telenor Hungary",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "description": "Monthly closing including revenue and cost of sales analysis. Participating in segmented forecasting and target setting. Building models for analysis. Working with SAP and IBM TM1.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Revenue Analyst",
+            "region": "urn:li:fs_region:(hu,0)",
+            "companyUrn": "urn:li:fs_miniCompany:79111724",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHRjZOsuGTEnA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,12)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,13)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,14)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,15)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,16)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,17)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,18)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,19)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,20)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,21)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,128004929)",
+            "school": {
+                "objectUrn": "urn:li:school:42123",
+                "entityUrn": "urn:li:fs_miniSchool:42123",
+                "active": true,
+                "schoolName": "Corvinus University of Budapest",
+                "trackingId": "GE6G5fXGRKyr9Bytvuz2Ug==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQF3rja1AQCeBQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "description": "thesis: Opportunities to Increase Shareholder Value of Hungarian Wineries\n",
+            "degreeName": "MA",
+            "schoolName": "Budapesti Corvinus Egyetem",
+            "fieldOfStudy": "Management and leadership - Controlling and performance management",
+            "honors": [
+                "urn:li:fs_honor:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,1269919463)"
+            ],
+            "schoolUrn": "urn:li:fs_miniSchool:42123"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,1)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,2)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,3)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,4)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,5)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,6)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,7)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,8)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,9)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,10)",
+                "urn:li:fs_course:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,11)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,128006510)",
+            "activities": "Member and head of Alumni Coordinator Team",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "schoolName": "Rajk László College for Advanced Studies"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,80150637)",
+            "school": {
+                "objectUrn": "urn:li:school:42123",
+                "entityUrn": "urn:li:fs_miniSchool:42123",
+                "active": true,
+                "schoolName": "Corvinus University of Budapest",
+                "trackingId": "p1JXiidFRBG4UUltXK44wA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQF3rja1AQCeBQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "degreeName": "BA",
+            "schoolName": "Budapesti Corvinus Egyetem",
+            "fieldOfStudy": "Business Administration",
+            "schoolUrn": "urn:li:fs_miniSchool:42123"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Hungarian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [
+        {
+            "description": "Examination of Hungarian Winemakers' Cooperational Initiatives through Public Governance\n",
+            "occupation": "urn:li:fs_education:(ACoAAAg1FDMBOpOwr99CgNql_xqg4Rg5AFitqSA,128004929)",
+            "title": "Student Scientific Conference Academic Award, 3rd place",
+            "issueDate": {
+                "month": 4,
+                "year": 2014
+            }
+        }
+    ],
+    "projects": []
+}

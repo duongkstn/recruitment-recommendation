@@ -1,0 +1,224 @@
+{
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Schikker",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Eva",
+    "entityUrn": "urn:li:fs_profile:ACoAAAIB7g8B1_X18OtkzfohsYu7f31L_OEOXFE",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102011674"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Freelance Corporate Recruitment | Search & Selection assignments at E.V.A. (Eva's Vacancy Advice)",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQHY2ywk5FNOzg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1646919321050?e=1707955200&v=beta&t=xit_eTRho5s5wb9uONGYYbQ03QcDvycsNbeQwHUeuIk",
+    "img_200_200": "200_200/0/1646919321050?e=1707955200&v=beta&t=4mnlUb8r58oDaD_gvSHJK18ijEZt8L5HsUanxT_q4Q8",
+    "img_400_400": "400_400/0/1646919321050?e=1707955200&v=beta&t=jp-DZ5WAnlVs0snNd3F7kjtrPJnxFwov_O-PLnjH9WA",
+    "img_800_800": "800_800/0/1646919321050?e=1707955200&v=beta&t=DyxE-T6OmjjNB0Kf77_S32SIahtu1kXQIBXmUC4inN8",
+    "profile_id": "ACoAAAIB7g8B1_X18OtkzfohsYu7f31L_OEOXFE",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAIB7g8B1_X18OtkzfohsYu7f31L_OEOXFE",
+    "member_urn": "urn:li:member:33680911",
+    "public_id": "evaschikker",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAIB7g8B1_X18OtkzfohsYu7f31L_OEOXFE,1791094178)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "E.V.A. (Eva's Vacancy Advice)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Freelance Corporate Recruitment | Search & Selection assignments | Owner",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:73989017",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGJeEbDsfqkww/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAIB7g8B1_X18OtkzfohsYu7f31L_OEOXFE,1847854934)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Eraneos - Powered by Quint",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Interim Corporate (Tech) Recruiter",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9722",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFkZhztGWHYNw/company-logo_"
+        },
+        {
+            "locationName": "Leiden, South Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAIB7g8B1_X18OtkzfohsYu7f31L_OEOXFE,1890528843)",
+            "geoLocationName": "Leiden, South Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:103065434",
+            "companyName": "Leiden University Medical Center",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ]
+            },
+            "title": "Interim Recruiter",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:8586",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQH1qP661qZWFA/company-logo_"
+        },
+        {
+            "locationName": "Leiden, South Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAIB7g8B1_X18OtkzfohsYu7f31L_OEOXFE,1765406241)",
+            "geoLocationName": "Leiden, South Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:103065434",
+            "companyName": "Universiteit Leiden",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Interim Recruiter ICT Shared Service Centre",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:6077",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAIB7g8B1_X18OtkzfohsYu7f31L_OEOXFE,1742795341)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "EY",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Interim Talent Attraction and Acquisition Specialist - Experienced Hires ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1073",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQGpRhkpxp5A9A/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAIB7g8B1_X18OtkzfohsYu7f31L_OEOXFE,26259247)",
+            "school": {
+                "objectUrn": "urn:li:school:15451",
+                "entityUrn": "urn:li:fs_miniSchool:15451",
+                "active": true,
+                "schoolName": "University of Amsterdam",
+                "trackingId": "9D2o+UxxRtuepwB7VW6Q+A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_"
+            },
+            "activities": "4 months studying Spanish in Malaga, Spain (2001).\n1 year studying Swedish in Vanersborg, Sweden (2002). 3 months travelling in South-East Asia (2010)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "degreeName": "MA History",
+            "schoolName": "University of Amsterdam",
+            "fieldOfStudy": "BA European Studies",
+            "schoolUrn": "urn:li:fs_miniSchool:15451"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Swedish",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

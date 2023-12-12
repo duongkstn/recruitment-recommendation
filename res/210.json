@@ -1,0 +1,237 @@
+{
+    "summary": "An ambitious Customer Success Manager with over 10 years of experience, I have been at the forefront of organizations, striving to deliver engineering excellence and drive business growth. I have acquired remarkable proficiency in tailoring solutions as per client requirements, and driving solution delivery to sales closure leveraging technology.\n \nOver the years, I have built an excellent track record in managing technical accounts, augmenting product potential, and forming excellent client connections for driving towards customer success. I have acquired remarkable proficiency in representing clients and demonstrating a strong grasp of their requirements, vision, and technology to increase adoption.\n \nThroughout my career, I have earned a credible reputation in delivering complex technical transformation projects, cultivating customer relationships, and maximizing profitability. With diverse experience, I am competent in defining customer journeys and establishing teams to enhance customer experience and maximize account growth.",
+    "industryName": "Information Technology & Services",
+    "lastName": "Kambhampati",
+    "locationName": "India",
+    "student": false,
+    "geoCountryName": "India",
+    "geoCountryUrn": "urn:li:fs_geo:102713980",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Jayati",
+    "entityUrn": "urn:li:fs_profile:ACoAAEbSvesBQ7olnJbFddtgSlEp1jVc_WLOM1Q",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:114806696"
+    },
+    "geoLocationName": "Pune, Maharashtra",
+    "location": {
+        "basicLocation": {
+            "countryCode": "in"
+        }
+    },
+    "headline": "Customer Delivery Manager at Tech Mahindra",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQGE3IhIdLDjXA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1694976430835?e=1707955200&v=beta&t=-ftm6tnGp7ulyG_0CW9fITfZn9LRAfil-8kmmg7gDAA",
+    "img_200_200": "200_200/0/1694976430835?e=1707955200&v=beta&t=Bfg4psfVOCcZ__-LRKWRpP3G9PrDz7q-eztdBeP7Aa0",
+    "img_400_400": "400_400/0/1694976430835?e=1707955200&v=beta&t=xHIiWy9r5CIcrR2Nq6coxY_Z6rAaTil6z-cKfvZJPMA",
+    "img_800_800": "800_800/0/1694976430835?e=1707955200&v=beta&t=WaMXp970RCizg6mUM-aWY6x_Ppdplceiu33cZb6IJCI",
+    "profile_id": "ACoAAEbSvesBQ7olnJbFddtgSlEp1jVc_WLOM1Q",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAEbSvesBQ7olnJbFddtgSlEp1jVc_WLOM1Q",
+    "member_urn": "urn:li:member:1188216299",
+    "public_id": "jayati-kambhampati-20bb21291",
+    "experience": [
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAEbSvesBQ7olnJbFddtgSlEp1jVc_WLOM1Q,2253647864)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Tech Mahindra",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "description": "Client: KPN, Netherlands \n\nIn my present capacity, I am accountable for handling the complete client engagement, focusing on delivery led growth, delivering customized solutions, and ensuring customer happiness and account growth. I also develop and maintain a customer-service-focused workforce to improve customer happiness, experience, and relationships. \n\nMy other job duties include the following:\n \tLiaise with the sales team to understand customer needs and craft solutions across capability pillars.\n \tBuild trust and transparency with clients. \n \tBuild relationships by providing consistent value and foster customer loyalty.\n \tSustain business growth and profitability by maximizing customer lifetime value.\n \tCollect customer feedback and close feedback loops.\n \tMap customer success journeys to spot and remove friction.\n \tBuild and implement the right customer success playbook.\n \tReview customer escalations and concerns and seek to improve the customer experience.\n \tEnsure adherence to account and business unit P&L targets.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Customer Delivery Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3067",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEf1kY81Y-qvA/company-logo_"
+        },
+        {
+            "locationName": "Pune, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAEbSvesBQ7olnJbFddtgSlEp1jVc_WLOM1Q,2254057060)",
+            "geoLocationName": "Pune, India",
+            "companyName": "Tech Mahindra",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "description": "Client: British Telecommunications\n\nAs a junior Customer Delivery Manager, I was accountable for delivery led growth, and ensuring customer happiness and account growth. I also develop and maintain a customer-service-focused workforce to improve customer happiness, experience, and relationships. \n\nMy other job duties include the following:\n \t Build trust and transparency with clients.\n• Understand the finer nuances of customer’s business and devise solutions leveraging new age technology to solve critical\nbusiness problems.\n• Leverage our strengths in process and technical delivery of existing business to bid for scope adjacencies & organic growth.\n• Responsible for customer engagement & stakeholders management.\n• Review customer escalations and concerns, with an aim to improve the customer experience.\n• Ensure adherence to business unit P&L targets.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Jnr customer delivery manager",
+            "companyUrn": "urn:li:fs_miniCompany:3067",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEf1kY81Y-qvA/company-logo_"
+        },
+        {
+            "locationName": "India",
+            "entityUrn": "urn:li:fs_position:(ACoAAEbSvesBQ7olnJbFddtgSlEp1jVc_WLOM1Q,2254070965)",
+            "geoLocationName": "India",
+            "geoUrn": "urn:li:fs_geo:102713980",
+            "companyName": "Tech Mahindra",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "description": "As Offshore Delivery & Design Lead, I led a team of 40 and managed delivery of complex stories across the SDLC life cycle.\nMy other job duties included the following:\n• Delivered program objectives by meeting quantifiable assignment targets, such as designing 6 stories in 2 months. Additionally, managed the delivery across test and prod for 15 complex stories in a single release.\n• Reported user story RAG status against defined and agreed KPIs, including 'Back to Green' strategy as needed.\n• Ensured quality gate standards were satisfied at each level and informed stakeholders of any deviations, along with root cause and POR. Discovered and recommended the solutions to decrease fault density and seepage from UT-->CST-->IVVT.\n• Identified new revenue streams in Dev and ASG to modernize the estate and enhance user experience and customer service.\n• Managed escalations for the full DevOps estate.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Design & Delivery Lead",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3067",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEf1kY81Y-qvA/company-logo_"
+        },
+        {
+            "locationName": "Pune, India, Ipswich & United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAEbSvesBQ7olnJbFddtgSlEp1jVc_WLOM1Q,2253780000)",
+            "geoLocationName": "Pune, India, Ipswich & United Kingdom",
+            "companyName": "Tech Mahindra",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "description": "As Transformation & ASM Tech Lead, I led NextGen tech adoption, enhanced infrastructure footprint, and OpEx through cloud-native application re-engineering. I also executed efficient training strategies to expedite onboarding and encourage cross-skilling. Additionally, I drove the KPI improvements, including Right First Time, Zero Touch, and IT Incident reduction, while managing service delivery across key apps as a Customer Experience Tech Lead at Onsite. I encouraged my team to adopt hyper-automation to eliminate manual efforts and find opportunities for ongoing improvement, aiming for Zero Ops.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Transformation & ASM Tech Lead",
+            "companyUrn": "urn:li:fs_miniCompany:3067",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEf1kY81Y-qvA/company-logo_"
+        },
+        {
+            "locationName": "Pune, India, Ipswich & United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAEbSvesBQ7olnJbFddtgSlEp1jVc_WLOM1Q,2253776085)",
+            "geoLocationName": "Pune, India, Ipswich & United Kingdom",
+            "companyName": "Tech Mahindra",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2013
+                }
+            },
+            "description": "As Application Support SME & Team Lead, I was responsible for delivering technical support for service-critical enterprise application systems. I also worked on identifying automation opportunities and leveraged the right technical platform to automate tasks that are manual, laborious & repetitive.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Application Support SME",
+            "companyUrn": "urn:li:fs_miniCompany:3067",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEf1kY81Y-qvA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAEbSvesBQ7olnJbFddtgSlEp1jVc_WLOM1Q,919388508)",
+            "school": {
+                "objectUrn": "urn:li:school:13565",
+                "entityUrn": "urn:li:fs_miniSchool:13565",
+                "active": true,
+                "schoolName": "Nagpur University",
+                "trackingId": "8AueXOPeTl+N1jZ3+IG9Lg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQGsmGlCGXWBDg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2008
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100434",
+            "degreeName": "Bachelor of Engineering - BE",
+            "schoolName": "Nagpur University",
+            "fieldOfStudy": "Computer Technology/Computer Systems Technology",
+            "degreeUrn": "urn:li:fs_degree:269",
+            "schoolUrn": "urn:li:fs_miniSchool:13565"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAEbSvesBQ7olnJbFddtgSlEp1jVc_WLOM1Q,919387557)",
+            "school": {
+                "objectUrn": "urn:li:school:5070004",
+                "entityUrn": "urn:li:fs_miniSchool:5070004",
+                "active": true,
+                "schoolName": "Delhi Public School, Korba",
+                "trackingId": "qnBVZ6bXS92pprhCpQZKrg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQEICF2jLiYyTg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2006
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 1999
+                }
+            },
+            "schoolName": "Delhi Public School, Korba",
+            "schoolUrn": "urn:li:fs_miniSchool:5070004"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

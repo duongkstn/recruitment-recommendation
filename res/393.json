@@ -1,0 +1,396 @@
+{
+    "summary": "An accomplished IT security professional specialized in creative problem solving with experience building management teams and managing secure IT operations within complex working environments.\n\nExperienced in: Staff Management & Development, IT Security Management, Business Development, Strategic Planning.",
+    "industryName": "Information Technology & Services",
+    "lastName": "Haveli",
+    "locationName": "India",
+    "student": false,
+    "geoCountryName": "India",
+    "geoCountryUrn": "urn:li:fs_geo:102713980",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 1,
+        "day": 1
+    },
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Pavankumar",
+    "entityUrn": "urn:li:fs_profile:ACoAAApRYkAB-TUygKzz6quAyA2X5GEIvFvEkMM",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:105307040"
+    },
+    "geoLocationName": "Bengaluru, Karnataka",
+    "location": {
+        "basicLocation": {
+            "countryCode": "in"
+        }
+    },
+    "headline": "Information Security Management Professional",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQEq21FH8UMTDA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1622375036761?e=1707955200&v=beta&t=OGyeJMDD5WhEttwUpt0qwhtgBDJtyO32LLTBl8GZKxA",
+    "img_200_200": "200_200/0/1622375036761?e=1707955200&v=beta&t=nB9nV5sRgLj4oqlqMgfJlHqISfz9jz8bbFvJwRjsNRs",
+    "img_400_400": "400_400/0/1622375036761?e=1707955200&v=beta&t=uDVPpnqD1jtho639F_j-pOxaJSblzNFFYC3r32snajk",
+    "img_800_800": "800_800/0/1622375036761?e=1707955200&v=beta&t=AcTxUiXDJnCbBokYP6mGvY-N_FrNGLcuTZS5xX5uw18",
+    "profile_id": "ACoAAApRYkAB-TUygKzz6quAyA2X5GEIvFvEkMM",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAApRYkAB-TUygKzz6quAyA2X5GEIvFvEkMM",
+    "member_urn": "urn:li:member:173105728",
+    "public_id": "pavankumar-haveli",
+    "experience": [
+        {
+            "locationName": "Bangalore Urban, Karnataka, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAApRYkAB-TUygKzz6quAyA2X5GEIvFvEkMM,1786068287)",
+            "geoLocationName": "Bangalore Urban, Karnataka, India",
+            "geoUrn": "urn:li:fs_geo:112376381",
+            "companyName": "Blue Yonder",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Information Security Manager",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2716085",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQFweVk9N6c6Xg/company-logo_"
+        },
+        {
+            "locationName": "Bangalore Urban, Karnataka, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAApRYkAB-TUygKzz6quAyA2X5GEIvFvEkMM,1786070297)",
+            "geoLocationName": "Bangalore Urban, Karnataka, India",
+            "geoUrn": "urn:li:fs_geo:112376381",
+            "companyName": "Nasdaq",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Information Security ",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:5128",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHa5sYUYvnOfw/company-logo_"
+        },
+        {
+            "locationName": "Bengaluru, Karnataka",
+            "entityUrn": "urn:li:fs_position:(ACoAAApRYkAB-TUygKzz6quAyA2X5GEIvFvEkMM,1613641589)",
+            "geoLocationName": "Bengaluru, Karnataka",
+            "geoUrn": "urn:li:fs_geo:105214831",
+            "companyName": "LeadSquared",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "description": "●\tLead Information Security Management practice. \n●\tInteract with customers to explain the security architecture and testing procedures. \n●\tPlan, Prepare, and Implement policies and procedures. \n●\tSecurity test web platform, database, and windows server and identify nonconformities. \n●\tHandle security audits of products and processes by existing and prospective customers.  \n●\tProviding rapid response cyber-attack detection, mitigation. \n●\tVulnerability management. \n●\tMitigate, Manage, and Resolving all security-related incidents in internal IT and Product. \n●\tConducting training sessions inside the organization educating the company on information security policies and risks. \n●\tBuilding an internal audit team and conducting regular internal audits to identify security risks. \n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Project Manager - Information Security",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2502171",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQHIdkmB4lwYjw/company-logo_"
+        },
+        {
+            "locationName": "Bengaluru Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAApRYkAB-TUygKzz6quAyA2X5GEIvFvEkMM,985946247)",
+            "geoLocationName": "Bengaluru Area, India",
+            "companyName": "Sony",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2012
+                }
+            },
+            "description": "Analyzing security processes and working on strengthening it.\nRecognizing the system's needs; researching and writing technical documents for reference to team and clients.\nClassifying the applications and establishing the controls to manage the risk.\nAnalyze vulnerabilities and characterize risks to networks, operating systems, applications, databases, and other information system components.\nEngage with stakeholders, to include IT professionals, management, and auditors, to facilitate vulnerability discovery and remediation\nCommunicate security and compliance issues in an effective and appropriate manner\nRecommend appropriate remedial actions to mitigate risks and ensure information systems employ an appropriate level of information security controls.\nValidate remedial actions and ensure compliance with information security policy and regulatory requirements\nCoordinate Security patching processes.\nLead Information Security Management practice.\nInteract with customers to explain to them our security testing procedures.\nPlan, Prepare and Implement policies and procedures.\nAudit cloud platform, database, and windows server security best practices and identify nonconformities.\nProviding rapid response cyber-attack detection, mitigation.\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Entertainment"
+                ]
+            },
+            "title": "Senior Information Security Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:1252",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFeD2stV0OSRQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAApRYkAB-TUygKzz6quAyA2X5GEIvFvEkMM,416796154)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "degreeName": "Executive Post Graduate Diploma in Management (EPGDM)",
+            "schoolName": "Alliance University of Business",
+            "fieldOfStudy": "IT Project Management"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "EC-Council",
+            "name": "Certified Ethical Hacker",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:569038",
+                "entityUrn": "urn:li:fs_miniCompany:569038",
+                "name": "EC-Council",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631371916365?e=1710374400&v=beta&t=oFwr04RjAQGs582Amme68VJvroX72dIuU7CVGoJhkPg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631371916365?e=1710374400&v=beta&t=PR_X7d3iD7Tm92YyFZSSBV5TLrzQ3t5vfaQQ5iyA0Pk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631371916365?e=1710374400&v=beta&t=YFC5Ztndw9cGK6BcmSiPdYp4KLAm4rUYDLWbwF-LTvA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHPon7g_XjJpA/company-logo_"
+                    }
+                },
+                "universalName": "ec-council",
+                "dashCompanyUrn": "urn:li:fsd_company:569038",
+                "trackingId": "y3elHIYtSrSl9EYvaSCscA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:569038"
+        },
+        {
+            "authority": "ISO - International Organization for Standardization",
+            "name": "ISO 27001 Lead Auditor - IT Service Certification",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:443911",
+                "entityUrn": "urn:li:fs_miniCompany:443911",
+                "name": "ISO - International Organization for Standardization",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631317759931?e=1710374400&v=beta&t=WMWvn2uwnsXza4nzvKXYKHwRYPMno3tT1kKXFBR4MIE",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631317759931?e=1710374400&v=beta&t=Djed87QLfjqpr0J6rDnk_REIylN3yt0xQ3x1gCvz-Pc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631317759931?e=1710374400&v=beta&t=iHtXflFKO3XiQ5e2cvB7DLW-jxmUwDTZVcagvaMnKfQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQHC9es3oxjWKw/company-logo_"
+                    }
+                },
+                "universalName": "isostandards",
+                "dashCompanyUrn": "urn:li:fsd_company:443911",
+                "trackingId": "8QtSIKs/Rw6qIvcMhhOsdA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:443911"
+        },
+        {
+            "authority": "Offensive Security",
+            "name": "Offensive Security Certified Professional",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:5384047",
+                "entityUrn": "urn:li:fs_miniCompany:5384047",
+                "name": "OffSec",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1677689983147/offensive_security_logo?e=1710374400&v=beta&t=JqG39pFykP0ijf2in8sNIlPlaMRPvpP6de2SJwrKF_w",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1677689983147/offensive_security_logo?e=1710374400&v=beta&t=qaXi4aj-FMMhkSZriM2B1mTKsHcQyoGBBR_ytwX3bnc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1677689983147/offensive_security_logo?e=1710374400&v=beta&t=eiGPOlv8m5zzjxsaE5t9fUnTdxg_8YH2VT2oNfxyFrw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQHaN2i1_8U4rw/company-logo_"
+                    }
+                },
+                "universalName": "offsec-training",
+                "dashCompanyUrn": "urn:li:fsd_company:5384047",
+                "trackingId": "cOo0GxSLQn6xIuUlDbJ9/w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5384047"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Team Lead",
+            "companyName": "Software Research Cell",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2013
+                }
+            },
+            "description": ".",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:0",
+                    "entityUrn": "urn:li:fs_miniCompany:0",
+                    "name": "United Latino Students Association",
+                    "showcase": false,
+                    "active": false,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630622575809?e=1710374400&v=beta&t=Psg07kycYPmEiMfzBTacBRZ7HvZfh9DkUoMlxJcWu_U",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630622575809?e=1710374400&v=beta&t=aVltz89e-ptl3WNAfWk_9YM9b_F9zcpOSXvXgQ4rQy0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630622575809?e=1710374400&v=beta&t=8H8GY4k5gvGgdOVarWYLHmDnSImKhtP8Wvf98mUiq34",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C560BAQHGhly_87bnSw/company-logo_"
+                        }
+                    },
+                    "universalName": "united-latino-students-association",
+                    "dashCompanyUrn": "urn:li:fsd_company:0",
+                    "trackingId": "fwC8JakIT52GZZhH8+APMw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:0"
+        }
+    ],
+    "honors": [
+        {
+            "description": "Found some vulnerabilities in Yahoo and was listed inside Google Hall Of Fame .\n\n\n https://hackerone.com/yahoo/thanks",
+            "title": "Yahoo Hall Of Fame And Rewarded",
+            "issueDate": {
+                "month": 2,
+                "year": 2014
+            },
+            "issuer": "Yahoo"
+        },
+        {
+            "title": "CV Maker digital certificate",
+            "issueDate": {
+                "month": 2,
+                "year": 2013
+            },
+            "issuer": "CV Maker"
+        }
+    ],
+    "projects": []
+}

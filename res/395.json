@@ -1,0 +1,331 @@
+{
+    "summary": "06-30037768 | yoeri@finpro-group.nl | www.finpro-group.nl",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Vergouw",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 11,
+        "day": 10
+    },
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Yoeri",
+    "entityUrn": "urn:li:fs_profile:ACoAAAVlc4ABe3CkxNTkHtrUEpL1PNzlcBCeWLw",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "FINPRO | Jouw partner in tevreden finance professionals!",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFrSkuH8_USIQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1691056397213?e=1707955200&v=beta&t=5VF4MtQ12LbpufvdngGYb5EAEqg5x0ZxMPhggj9j5hE",
+    "img_200_200": "200_200/0/1691056397213?e=1707955200&v=beta&t=BfECY1Kjx5GvtW8GzZolUKLgxKF-39RKhho4u1eShxk",
+    "img_400_400": "400_400/0/1691056397213?e=1707955200&v=beta&t=zxmqdPgBy3MrNky8smYCqCBVEcHaJYgeeFRmECYgQQ4",
+    "img_800_800": "800_800/0/1691056397213?e=1707955200&v=beta&t=LBIBs6XGZLDS3_xO2QGCDQKln5lO00OYhOPEQSoV51I",
+    "profile_id": "ACoAAAVlc4ABe3CkxNTkHtrUEpL1PNzlcBCeWLw",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAVlc4ABe3CkxNTkHtrUEpL1PNzlcBCeWLw",
+    "member_urn": "urn:li:member:90534784",
+    "public_id": "yoeri-vergouw",
+    "experience": [
+        {
+            "locationName": "Hilversum, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAVlc4ABe3CkxNTkHtrUEpL1PNzlcBCeWLw,2069451285)",
+            "geoLocationName": "Hilversum, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:105888388",
+            "companyName": "FINPRO",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "description": "www.finpro-group.nl",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Consultant & Owner",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:69993622",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGpk74Ou2wRzw/company-logo_"
+        },
+        {
+            "locationName": "Hilversum, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAVlc4ABe3CkxNTkHtrUEpL1PNzlcBCeWLw,2211132774)",
+            "geoLocationName": "Hilversum, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:105888388",
+            "companyName": "7DAYS",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "description": "www.7days-it.nl",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Consultant & Owner",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:96451223",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEas9Po1Jnf6A/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAVlc4ABe3CkxNTkHtrUEpL1PNzlcBCeWLw,1694214272)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Etage 0: door experts",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Business Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:17997113",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFjJhLfmOtl3A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAVlc4ABe3CkxNTkHtrUEpL1PNzlcBCeWLw,952324024)",
+            "companyName": "VR TAILORS",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Apparel & Fashion"
+                ]
+            },
+            "title": "Owner",
+            "companyUrn": "urn:li:fs_miniCompany:15203544",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFgjCKVgxAyoA/company-logo_"
+        },
+        {
+            "locationName": "Hoofddorp",
+            "entityUrn": "urn:li:fs_position:(ACoAAAVlc4ABe3CkxNTkHtrUEpL1PNzlcBCeWLw,1463370942)",
+            "geoLocationName": "Hoofddorp",
+            "companyName": "YoungCapital NEXT",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "description": "- Business/Finance Control \n- Risk & Compliance \n- Bijzonder Beheer",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Lead Consultant Finance Professionals",
+            "companyUrn": "urn:li:fs_miniCompany:5023500",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQF9VulQ8flWgw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAVlc4ABe3CkxNTkHtrUEpL1PNzlcBCeWLw,57188740)",
+            "activities": "- Businessplan, Aquamarine\n- Market research, Keukenhof \n- Strategic businessplan, Duetz\n- Globalisationplan, TNM\n- Communicationplan, TV Benschop",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "degreeName": "Business Management",
+            "schoolName": "HBO Nederland"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAVlc4ABe3CkxNTkHtrUEpL1PNzlcBCeWLw,128988758)",
+            "school": {
+                "objectUrn": "urn:li:school:15431",
+                "entityUrn": "urn:li:fs_miniSchool:15431",
+                "active": true,
+                "schoolName": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+                "trackingId": "qAhk8R9gT9uagV+B3D/Vyw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQE5MUvxbWmHLg/company-logo_"
+            },
+            "activities": "- Writing Businessplan Disney\n- Market strategy WNF, BU Lion protection",
+            "grade": "45 ects",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "International Business & Management Studies",
+            "schoolName": "Hogeschool van Utrecht",
+            "fieldOfStudy": "International Business/Trade/Commerce",
+            "schoolUrn": "urn:li:fs_miniSchool:15431"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAVlc4ABe3CkxNTkHtrUEpL1PNzlcBCeWLw,58865916)",
+            "school": {
+                "objectUrn": "urn:li:school:15431",
+                "entityUrn": "urn:li:fs_miniSchool:15431",
+                "active": true,
+                "schoolName": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+                "trackingId": "eprcNFM5T/Kp2O92ZRcOvA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQE5MUvxbWmHLg/company-logo_"
+            },
+            "activities": "- Starting Betula SV\n- Anual closing Betula SV",
+            "grade": "Certificate Jong Ondernemen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "degreeName": "Small Business & Retail Management",
+            "schoolName": "Hogeschool van Utrecht",
+            "fieldOfStudy": "Marketing, Logistics, Finance, Sales, HRM",
+            "schoolUrn": "urn:li:fs_miniSchool:15431"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "EVault",
+            "name": "Sales Cloud Services",
+            "company": {
+                "objectUrn": "urn:li:company:224968",
+                "entityUrn": "urn:li:fs_miniCompany:224968",
+                "name": "EVault",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631358480368?e=1710374400&v=beta&t=p_e4GZmHb_FKO_4WlS1UpiJObB1e1q_tLgqm6AITwQE",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631358480368?e=1710374400&v=beta&t=pwxAHbh7rGk65DtmHzmu8SK8px_H9LXKBktHn1CqCRQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631358480368?e=1710374400&v=beta&t=yTjqbUu6ybQXHceXe1VLV7BDiFQfXAE5DGj5wG7mtCg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQHoXVwKnL_Jyg/company-logo_"
+                    }
+                },
+                "universalName": "evault-a-seagate-company",
+                "dashCompanyUrn": "urn:li:fsd_company:224968",
+                "trackingId": "nNDV6Nj/SVCTgEfmm5tigg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:224968"
+        },
+        {
+            "authority": "Jong Ondernemen",
+            "name": "Successful completion Student Company program  ",
+            "company": {
+                "objectUrn": "urn:li:company:234862",
+                "entityUrn": "urn:li:fs_miniCompany:234862",
+                "name": "Jong Ondernemen",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1675859692363/jong_ondernemen_logo?e=1710374400&v=beta&t=Yezv6JDgp_UtIBccx7039MOTwbDgl3oENmeFe1RgSfY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1675859692363/jong_ondernemen_logo?e=1710374400&v=beta&t=PMrjqAtjiHLq_UFOv4dc3uFQyz6q59Prdb8Aj1iXaFg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1675859692363/jong_ondernemen_logo?e=1710374400&v=beta&t=K0y8Xri1LbPKrc72uiT9XnT4Jpb7JHknCwmysHhtZFA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEN1VD6CZVvcA/company-logo_"
+                    }
+                },
+                "universalName": "jong-ondernemen",
+                "dashCompanyUrn": "urn:li:fsd_company:234862",
+                "trackingId": "60Uo3f8TSceYbRP7orpJmQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:234862"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

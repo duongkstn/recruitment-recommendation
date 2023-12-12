@@ -1,0 +1,297 @@
+{
+    "industryName": "Building Materials",
+    "lastName": "Achten",
+    "locationName": "Germany",
+    "student": false,
+    "geoCountryName": "Germany",
+    "geoCountryUrn": "urn:li:fs_geo:101282230",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Mathias",
+    "entityUrn": "urn:li:fs_profile:ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009713"
+    },
+    "geoLocationName": "Cologne Bonn Region",
+    "location": {
+        "basicLocation": {
+            "countryCode": "de"
+        }
+    },
+    "headline": "Source to Contract Manager at CRH",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQHid4w53VUVOA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1517442465132?e=1707955200&v=beta&t=5fz9mXcltHUkkGpC1RLqylDtdCEePYA4y9ahvP3poRs",
+    "img_200_200": "200_200/0/1517442465086?e=1707955200&v=beta&t=CYZPOlIjre7ABe9QEZkQdc-pM14dONm1l-cRzNhDMFw",
+    "img_298_298": "800_800/0/1517442465105?e=1707955200&v=beta&t=MdJxK3H8g-jOlGjOmHkvvFervaodcuvmLvo9tf2p6r0",
+    "profile_id": "ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4",
+    "member_urn": "urn:li:member:245170283",
+    "public_id": "mathias-achten-b4b1346a",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Nordholland, Niederlande",
+            "entityUrn": "urn:li:fs_position:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,2267254245)",
+            "geoLocationName": "Amsterdam, Nordholland, Niederlande",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "description": "Global Head of E-Sourcing and Contract Management",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Source to Contract Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,1488253790)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "description": "Category Manager IT & Telecom",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Category Manager IT & Telecom Corporate",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Birmingham, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,1171227185)",
+            "geoLocationName": "Birmingham, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009513",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "description": "Category Manager Contracting at Tarmac plc",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Category Manager Contracting",
+            "region": "urn:li:fs_region:(gb,4544)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Koblenz Area, Germany",
+            "entityUrn": "urn:li:fs_position:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,829544548)",
+            "geoLocationName": "Koblenz Area, Germany",
+            "geoUrn": "urn:li:fs_geo:90009732",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2015
+                }
+            },
+            "description": "Category Manager for steel at Ehl AG",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Category Manager Steel",
+            "region": "urn:li:fs_region:(de,4988)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Krefeld, Germany & Lyon, France",
+            "entityUrn": "urn:li:fs_position:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,553643743)",
+            "geoLocationName": "Krefeld, Germany & Lyon, France",
+            "companyName": "Fressnapf Tiernahrungs GmbH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Procurement and Category Management Graduate Programme",
+            "companyUrn": "urn:li:fs_miniCompany:1431822",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEBucHdHG60Zg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,8)",
+                "urn:li:fs_course:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,9)",
+                "urn:li:fs_course:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,10)",
+                "urn:li:fs_course:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,11)",
+                "urn:li:fs_course:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,12)",
+                "urn:li:fs_course:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,13)",
+                "urn:li:fs_course:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,14)",
+                "urn:li:fs_course:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,15)",
+                "urn:li:fs_course:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,16)",
+                "urn:li:fs_course:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,17)",
+                "urn:li:fs_course:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,18)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,153703655)",
+            "school": {
+                "objectUrn": "urn:li:school:12723",
+                "entityUrn": "urn:li:fs_miniSchool:12723",
+                "active": true,
+                "schoolName": "University of Strathclyde",
+                "trackingId": "rdSs6ydXQ5ONBFHZKad2Cg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQHRqfG0T3INqw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Master of Science (MSc)",
+            "schoolName": "University of Strathclyde",
+            "fieldOfStudy": "Supply Chain and Procurement Management",
+            "schoolUrn": "urn:li:fs_miniSchool:12723"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA6dAGsBU7IZCyLLDc-xGTOCC5A9Dc4u1u4,153706313)",
+            "school": {
+                "objectUrn": "urn:li:school:11954",
+                "entityUrn": "urn:li:fs_miniSchool:11954",
+                "active": true,
+                "schoolName": "University of Bayreuth",
+                "trackingId": "0AOeDSDVRT+dTqUEoLiQHA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQGEF2qTvTKM1A/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "Bachelor of Science (BSc)",
+            "schoolName": "University of Bayreuth",
+            "fieldOfStudy": "Business Administration",
+            "schoolUrn": "urn:li:fs_miniSchool:11954"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Portugiesisch",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "The Chartered Institute of Procurement & Supply",
+            "name": "MCIPS",
+            "company": {
+                "objectUrn": "urn:li:company:43826",
+                "entityUrn": "urn:li:fs_miniCompany:43826",
+                "name": "CIPS - The Chartered Institute of Procurement & Supply",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1655208033015/cips_logo?e=1710374400&v=beta&t=iALQVQfHere2bhgkfGFOi4-Kz2_USIbnzOnqfPRjIRU",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1655208033015/cips_logo?e=1710374400&v=beta&t=uEca2GGY1APFnZG2_XMjmj2Uejc5NZ1_Wpu2gIKRASU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1655208033015/cips_logo?e=1710374400&v=beta&t=Mj4WdKCyMUy5WZ8eNXREvkGF-gRPoDbD-d2QR_JcLMQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGAXeGhLHEVxw/company-logo_"
+                    }
+                },
+                "universalName": "cips",
+                "dashCompanyUrn": "urn:li:fsd_company:43826",
+                "trackingId": "htVTB173RyyOeHNcIhZaHw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:43826"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

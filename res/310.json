@@ -1,0 +1,373 @@
+{
+    "summary": "Business Intelligence professional who recently completed Master of Science (MSc) focused in Business Analytics and Information Systems from University College Cork, Ireland. Experienced in gathering requirements from stakeholders, handling Big Data, and analyzing trends/insights from it in the outsourcing/offshoring industry. Skilled in PowerBI, Hive SQL, Python EDA, and Microsoft Office.",
+    "industryName": "Information Technology & Services",
+    "lastName": "Jain",
+    "locationName": "Ireland",
+    "student": false,
+    "geoCountryName": "Ireland",
+    "geoCountryUrn": "urn:li:fs_geo:104738515",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Abhishek",
+    "entityUrn": "urn:li:fs_profile:ACoAABzwQnsBFCvUiPyvL7EfZL9RtjaqdFEA5A0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102363312"
+    },
+    "geoLocationName": "Cork, County Cork",
+    "location": {
+        "basicLocation": {
+            "countryCode": "ie"
+        }
+    },
+    "headline": "MSc Business Analytics - Cork University Business School",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQHJalD1W0cseQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1654993348694?e=1707955200&v=beta&t=LlGyqPMKD7ey3VTwsYQOIhbLlkyhar4BM6u_8A6VO2k",
+    "img_200_200": "200_200/0/1654993348694?e=1707955200&v=beta&t=pE9cBB8ZoUqdUz8HPta2z7qNukaSK4fkzkh4YrhEFcg",
+    "img_400_400": "400_400/0/1654993348694?e=1707955200&v=beta&t=uVWFfZxj3zFUbeyMPrOV1KnXzWXdJMMYomd0JD2b-f4",
+    "img_800_800": "800_800/0/1654993348694?e=1707955200&v=beta&t=mWW-eTZND_HHGjxL8abx282W4m33HuXE7CeOTxyaq54",
+    "profile_id": "ACoAABzwQnsBFCvUiPyvL7EfZL9RtjaqdFEA5A0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABzwQnsBFCvUiPyvL7EfZL9RtjaqdFEA5A0",
+    "member_urn": "urn:li:member:485507707",
+    "public_id": "abhishekjain1211",
+    "experience": [
+        {
+            "locationName": "Dublin, County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAABzwQnsBFCvUiPyvL7EfZL9RtjaqdFEA5A0,2075971700)",
+            "geoLocationName": "Dublin, County Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:105178154",
+            "companyName": "Openmind Networks",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Business Analyst",
+            "region": "urn:li:fs_region:(ie,0)",
+            "companyUrn": "urn:li:fs_miniCompany:76647",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQHvm-Yw9rd49A/company-logo_"
+        },
+        {
+            "locationName": "Cork, County Cork, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAABzwQnsBFCvUiPyvL7EfZL9RtjaqdFEA5A0,1918271979)",
+            "geoLocationName": "Cork, County Cork, Ireland",
+            "geoUrn": "urn:li:fs_geo:102363312",
+            "companyName": "University College Cork",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "description": "• Delivering a range of subject matter tutorials and assessment activities in Microsoft Excel, R programming language and Tableau for master’s students at Cork University Business School \n• Contributing to the development of teaching materials to ensure that methods of delivery meet learning objectives",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Postgraduate Tutor - Data Analytics",
+            "region": "urn:li:fs_region:(ie,0)",
+            "companyUrn": "urn:li:fs_miniCompany:8798",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHPKzWbkHSJgQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABzwQnsBFCvUiPyvL7EfZL9RtjaqdFEA5A0,1702745311)",
+            "companyName": "British Gas",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "description": "Key Responsibilities:\n\n•\tAnalyzed and tracked customer data of the biggest energy supplier in the UK using SQL queries and presented monthly reports to key stakeholders around customer churn, product cross-selling and tariff switches\n•\tCoordinated global collaboration on-site with key client as a specialist customer insights analyst to manage a key data visualization project with Digital Journey team and created funnel visualizations for their website journeys to identify customer fallout in PowerBI\n•\tSupport business stakeholders with in-depth analysis, continually mining for insights to drive operational improvements.\n•\tWork with information gathered from multiple sources and translated raw data into insights that can be turned into actionable recommendations and built into reports and dashboards.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Utilities"
+                ]
+            },
+            "title": "Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:2768",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHb9YKYIsVGAg/company-logo_"
+        },
+        {
+            "locationName": "Gurgaon, India",
+            "entityUrn": "urn:li:fs_position:(ACoAABzwQnsBFCvUiPyvL7EfZL9RtjaqdFEA5A0,969057333)",
+            "geoLocationName": "Gurgaon, India",
+            "geoUrn": "urn:li:fs_geo:100899423",
+            "companyName": "EXL",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "description": "Key Responsibilities\n\n•\tCollecting, interpreting, and analyzing data. Performed data exploration using SQL queries on a variety of disparate data sources (structured & unstructured) and communicate the results to stakeholders to help inform business decisions.\n•\tCollaborate with Business Intelligence to identify data and reporting opportunities to improve on existing reporting tools and dashboards\n•\tEngage with business areas from across the organisation to understand the opportunities / challenges within the organisation and present back analytical findings using MS PowerPoint.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Business Analyst",
+            "region": "urn:li:fs_region:(in,7391)",
+            "companyUrn": "urn:li:fs_miniCompany:163743",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQHewiVg3UTGOQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABzwQnsBFCvUiPyvL7EfZL9RtjaqdFEA5A0,746430541)",
+            "school": {
+                "objectUrn": "urn:li:school:19932",
+                "entityUrn": "urn:li:fs_miniSchool:19932",
+                "active": true,
+                "schoolName": "University College Cork",
+                "trackingId": "wtBqq56jRgiKQKwjqh/WzQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHPKzWbkHSJgQ/company-logo_"
+            },
+            "activities": "Data Analytics Society, Chess club",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "description": "Pursuing a master´s degree in Business Analytics with focus on Data Analytics and Business Planning.\n\nPrimary Courses include Programming for Data and Business Analytics, Descriptive and Predictive Analytics, Prescriptive Analytics, Design Thinking for Business Analysis, Business Data Strategy and Management, Cloud Technologies, Decision Making and Decision Support Systems",
+            "degreeName": "MSc",
+            "schoolName": "University College Cork",
+            "fieldOfStudy": "Business Information and Analytics Systems",
+            "schoolUrn": "urn:li:fs_miniSchool:19932"
+        },
+        {
+            "description": "Overall ranked amongst the top 5% of the student cohort based on GPA and academic progress.",
+            "degreeName": "Bachelor of Engineering (B.E.)",
+            "schoolUrn": "urn:li:fs_miniSchool:156018",
+            "entityUrn": "urn:li:fs_education:(ACoAABzwQnsBFCvUiPyvL7EfZL9RtjaqdFEA5A0,331185672)",
+            "school": {
+                "objectUrn": "urn:li:school:156018",
+                "entityUrn": "urn:li:fs_miniSchool:156018",
+                "active": true,
+                "schoolName": "Thapar Institute of Engineering & Technology",
+                "trackingId": "Of0QEarbROuBmPytSW6zlw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEHtx1U87kUjA/company-logo_"
+            },
+            "activities": "IEEE Society, Lawn tennis team captain",
+            "grade": "1st Class Honours",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100389",
+            "schoolName": "Thapar Institute of Engineering and Technology",
+            "fieldOfStudy": "Electrical Engineering Technologies/Technicians",
+            "degreeUrn": "urn:li:fs_degree:269"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "edX",
+            "name": "Analyzing and Visualizing Data with  Power BI",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "753f041e1bba41d48f32f4aa717becdb",
+            "company": {
+                "objectUrn": "urn:li:company:2746406",
+                "entityUrn": "urn:li:fs_miniCompany:2746406",
+                "name": "edX",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688142646299/edx_logo?e=1710374400&v=beta&t=zQ7pB35bsj0O-n48He9w8ZeFQXfZLPxV9mCpU94wsj8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688142646299/edx_logo?e=1710374400&v=beta&t=Xecg3vBGrBaliPbZ4cO199N63JCpKEXzpKYuOv4_Ec0",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688142646299/edx_logo?e=1710374400&v=beta&t=H-cCWcWHRKNTLhBJfz4-l1auc3SUtOa21tZWIvZSljM",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFG13a41008Dg/company-logo_"
+                    }
+                },
+                "universalName": "edx",
+                "dashCompanyUrn": "urn:li:fsd_company:2746406",
+                "trackingId": "tOXOk7QbTTqJysFWqyERGg=="
+            },
+            "displaySource": "edx.org",
+            "companyUrn": "urn:li:fs_miniCompany:2746406",
+            "url": "https://courses.edx.org/certificates/753f041e1bba41d48f32f4aa717becdb"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Apache Spark (TM) SQL for Data Analysts",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "5Q6EENH5RXVM",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "AvDtPZ61SmWgLMzMmBjiIA=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/5Q6EENH5RXVM"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Volunteer",
+            "companyName": "Isha Foundation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "cause": "HEALTH",
+            "description": "Helped organize and participated in many yoga programs throughout the country",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:639988",
+                    "entityUrn": "urn:li:fs_miniCompany:639988",
+                    "name": "Isha Foundation",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630626436920/isha_foundation_logo?e=1710374400&v=beta&t=QFtYk2M9WRNKHJb_jcpRRxdroJWXBKz1pNdFpmcDeXI",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630626436921/isha_foundation_logo?e=1710374400&v=beta&t=4OLqarHQpSsRIzeSNLEDDLv2arVveljBHVJAxnNAoKE",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630626436921/isha_foundation_logo?e=1710374400&v=beta&t=sjIvnQg980y0DmjOYop3MqKQIxtT02zM-C4JLUK_1jk",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C510BAQHbd1cah9nAZw/company-logo_"
+                        }
+                    },
+                    "universalName": "isha-foundation",
+                    "dashCompanyUrn": "urn:li:fsd_company:639988",
+                    "trackingId": "FZyq7gTSTSCWgtMr2a1FfQ=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:639988"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,292 @@
+{
+    "summary": "Everything in life starts with having a good basis. If it is strong and sturdy, it’s easy to build upon and the sky is the limit. For enterprises, it’s important to have resilient, robust and secure infrastructures to ensure the continuation of daily operations, and ultimately, revenue.\n\nWith my expertise in DevOps, Cloud, System & Network infrastructure technologies, and job market insights I strive to connect enthusiastic, talented professionals to ambitious companies. Reach out if you’re looking to exercise your expertise in a new working environment, or if you’re looking for skilled individuals to help you tackle your current challenges.\n\nChat first? Give me a call at +31 20 305 8545.\nMy current jobs are listed at: https://www.darwinrecruitment.com/consultant/?cname=Nezar%20Lourens",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Lourens",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 12,
+        "day": 25
+    },
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Nezar",
+    "entityUrn": "urn:li:fs_profile:ACoAAAX5Uq4BfF4TT9SJZW8A7KWPH6FYQqmNgJY",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Tech Recruitment Consultant specializing in Cloud, DevOps, (Linux) System and Network Engineering roles",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQFvbOdiJndorg/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1700558613928?e=1702972800&v=beta&t=r8_ZoL456ErohOgG66mF2B3YJHYjYNBtt0i3WtqLIQs",
+    "img_200_200": "200_200/0/1700558613929?e=1702972800&v=beta&t=LZ0Co4VNEFitfJpaLpuG3mUC2aQkZXCJ_2Sne4EbccI",
+    "img_800_800": "800_800/0/1700558613929?e=1702972800&v=beta&t=iglSl4J5cqhm_YsFpnn5i9g7Zwn4JfpKwFDVapKgZNw",
+    "img_100_100": "100_100/0/1700558613929?e=1702972800&v=beta&t=r6r8uCrmDnsu8-mWedkLivGexM3wSoc5qql47biyrA4",
+    "profile_id": "ACoAAAX5Uq4BfF4TT9SJZW8A7KWPH6FYQqmNgJY",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAX5Uq4BfF4TT9SJZW8A7KWPH6FYQqmNgJY",
+    "member_urn": "urn:li:member:100225710",
+    "public_id": "nezarlourens",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAX5Uq4BfF4TT9SJZW8A7KWPH6FYQqmNgJY,1981509500)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Darwin Recruitment",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Executive Recruitment Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:470100",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFcwSQZkXawRA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAX5Uq4BfF4TT9SJZW8A7KWPH6FYQqmNgJY,1731130980)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Darwin Recruitment",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "description": "Darwin Recruitment is an international recruitment business, specialising in all things Digital & Data. Over the past 16 years we've developed a solid recruitment strategy, resulting in substantial growth worldwide. As a result of our continuous growth and success, we now have offices in the UK, Amsterdam, Boston, Munich and Zurich with plans to open offices in Scandinavia and Eastern Europe to further expand our global presence.\n\nI am focused on finding top talent in the DevOps, Cloud Engineering and Network Infrastructure field in the Netherlands and helping them match with the most exciting opportunities in the country.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Recruitment Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:470100",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFcwSQZkXawRA/company-logo_"
+        },
+        {
+            "locationName": "Schiphol-Rijk, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAX5Uq4BfF4TT9SJZW8A7KWPH6FYQqmNgJY,1720164608)",
+            "geoLocationName": "Schiphol-Rijk, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:105826335",
+            "companyName": "HMSHost International",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "description": "•\tApplication processing and initial screening of candidates by telephone and/or assessment tool\n•\tManaging mass hiring\n•\tSupervision and coordination of candidate hires across different units\n•\tStaff sourcing including intake interviews with hiring managers\n•\tConducting interviews, hiring and onboarding processing\n•\tIn and outflow analyses for increasing employee retention\n•\tExperience with Employer Branding\n•\tRecruitment Marketing experience\n•\tOptimization of the recruitment process\n•\tParticipation in development of design of recruitment materials\n•\tEducation, coaching and evaluation of recruitment (HR) intern\n•\tCoordination and execution of Applicant Tracking System (ATS) rollout for 30+ hiring managers, including course planning, the creation of course materials and provision of the course itself",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospitality"
+                ]
+            },
+            "title": "Corporate Recruiter",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3152318",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQH28MD7WLMtwg/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAX5Uq4BfF4TT9SJZW8A7KWPH6FYQqmNgJY,1720165819)",
+            "geoLocationName": "Utrecht, Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:106623457",
+            "companyName": "HMSHost International",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "description": "•\tResponsible for hitting financial KPIs of the unit\n•\tTraining of associates including periodical evaluation of skills\n•\tConduct job interviews, performance reviews and assessment interviews\n•\tResponsible for a correct working hours registration and operation according to set HR guidelines\n•\tBuilding work schedules in accordance with forecasted sales\n•\tEnsure all brand guidelines are strictly during operation\n•\tResponsible for Food Safety\n•\tStock control (ordering and receiving, usage overview, forecasting and inventory counts)\n•\tMonitor guest satisfaction and complaint resolution\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospitality"
+                ]
+            },
+            "title": "Assistant Store Manager - LEON Utrecht CS",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3152318",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQH28MD7WLMtwg/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAX5Uq4BfF4TT9SJZW8A7KWPH6FYQqmNgJY,1720168678)",
+            "geoLocationName": "Utrecht, Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:106623457",
+            "companyName": "HMSHost International",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospitality"
+                ]
+            },
+            "title": "Assistant Store Manager - LEON Stadskamer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:3152318",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQH28MD7WLMtwg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAX5Uq4BfF4TT9SJZW8A7KWPH6FYQqmNgJY,61758459)",
+            "school": {
+                "objectUrn": "urn:li:school:15441",
+                "entityUrn": "urn:li:fs_miniSchool:15441",
+                "active": true,
+                "schoolName": "University of Groningen",
+                "trackingId": "T6ra3TKAT1O4W6pSqKgSCw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                }
+            },
+            "degreeName": "Bachelor of Science - BS",
+            "schoolName": "University of Groningen",
+            "fieldOfStudy": "Human Movement Sciences",
+            "degreeUrn": "urn:li:fs_degree:400",
+            "schoolUrn": "urn:li:fs_miniSchool:15441"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "German",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Papiamento",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Volunteer",
+            "companyName": "Sense Noord Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "cause": "EDUCATION",
+            "description": "My goal in this role was to stimulate proper sexual health practices in adolescents in the Dutch Antillean community in Groningen. A way to do this is to encourage the target audience to get tested and seek information when they feel that they lack it. In a team with other volunteers and a Sexual Health Worker from the Municipal Health Services we undertook several projects to reach this target. Some of these projects were\n\n•\tTwo theatre performances, written and performed by our team\n•\tHomeparties with food and informative quizzes and games\n•\tSexual Education information sessions\n•\tManning stands at popular events such as Roze Zaterdag, an LGBTQ+ acceptance event held in Groningen\n\nThe strength of these projects is that we had a bilingual approach in communicating with the target audience, familiarizing them with the available information channels.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:2882919",
+                    "entityUrn": "urn:li:fs_miniCompany:2882919",
+                    "name": "Sense Noord Nederland",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631339011056?e=1710374400&v=beta&t=ULHy1W1VdckpnMWMzdOs8p0eFE7M3OTE76y7lZxWdFs",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631339011056?e=1710374400&v=beta&t=kFKwJ0pGREgB863r2VboMGcq1HlnrUwN9eIq8K1o0x0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631339011056?e=1710374400&v=beta&t=BpLndIo4tKdCGX76GGCxfQc3u9liVLIzifsAESY9hf0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQF2aHi4mNDKZQ/company-logo_"
+                        }
+                    },
+                    "universalName": "sense-noord-nederland",
+                    "dashCompanyUrn": "urn:li:fsd_company:2882919",
+                    "trackingId": "6taPh2njT66VOSiQ5zjWgA=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2882919"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

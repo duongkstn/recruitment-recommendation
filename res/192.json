@@ -1,0 +1,222 @@
+{
+    "industryName": "Apparel & Fashion",
+    "lastName": "Vloet",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 1,
+        "day": 26
+    },
+    "industryUrn": "urn:li:fs_industry:19",
+    "firstName": "Kim",
+    "entityUrn": "urn:li:fs_profile:ACoAAAgtYskBrPfJSxMghabnA80-iSfCFGmU63o",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102011674"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Business Manager Procurement, DPA professionals",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQEHfbrjdveEhg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1633621884818?e=1707955200&v=beta&t=l-4iOO_N_7jmGPOJ84rID1IQqhXIu8L-dsaSyllR3Nc",
+    "img_200_200": "200_200/0/1633621884819?e=1707955200&v=beta&t=MfJALmzxcgXtV5udTrLKYs4AVZEnm6iNAq5PI6EXpTU",
+    "img_400_400": "400_400/0/1633621884819?e=1707955200&v=beta&t=8X6CPugkPfXErVe4Cq4jiZJxx2ZWnlnwdvZ408C-1Mw",
+    "img_800_800": "800_800/0/1633621884819?e=1707955200&v=beta&t=ndyBf-etVjYNuCztLREArn6LhFsrwr85cOcWYHckj3k",
+    "profile_id": "ACoAAAgtYskBrPfJSxMghabnA80-iSfCFGmU63o",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAgtYskBrPfJSxMghabnA80-iSfCFGmU63o",
+    "member_urn": "urn:li:member:137192137",
+    "public_id": "kimvloet",
+    "experience": [
+        {
+            "locationName": "Hilversum, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAgtYskBrPfJSxMghabnA80-iSfCFGmU63o,2207255746)",
+            "geoLocationName": "Hilversum, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:105888388",
+            "companyName": "DPA Procurement",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Business Manager Procurement",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:47965858",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGU0ma2VNLQeg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAgtYskBrPfJSxMghabnA80-iSfCFGmU63o,2081096634)",
+            "companyName": "Kessels Textiles",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "description": "Als Merchandiser ben je verantwoordelijk voor het begeleiden van het gehele ontwikkelings- en productieproces. Dit betekent dat je vanaf het eerste klantcontact/ aanvraag proto tot levering aan de klant alles begeleidt en opvolgt. In deze zelfstandige functie vorm je een belangrijkste schakel tussen de leveranciers en  de klant. \n\nHet doel is om onze klanten te helpen bij het overnemen van het gehele productontwikkelings- en productieproces en zelfs het hele logistieke proces.\n\nWerkzaamheden:\n-  Verantwoordelijk voor het ontwikkelings- en productie proces; van het eerste idee, de sample aanvragen, order ingaven tot aan het eindproduct en leveren aan de klant\n- Het eerste aanspreekpunt voor je klanten en fabrikanten en onderhoudt hier dagelijks contact mee. Daarbij onderhandel je met leveranciers over prijzen & leveringscondities.\n- Het meten en becommentariëren van samples en deze verbeteren voor productie.\n- Het bewaken van levertijden en gestelde deadlines van zowel het sample proces als orders.\n- Tevens houdt je je bezig met sourcing van nieuwe productontwikkelingen/ fabrikanten\n- Structuur aan brengen en processen begeleiden.\n- Administratieve taken zoals het aanmaken van modelkaarten in het ERP systeem, het versturen van barcode files.\n- Zelfstandig collectie input geven voor verschillende klanten en adviseren bij het ontwikkelen van hun collecties.\n- Logistieke processen. Het opvragen van schema’s, boeken van boten en aanleveren van de juiste documenten.\n- Factureren",
+            "company": {
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "Senior merchandiser",
+            "companyUrn": "urn:li:fs_miniCompany:77809392"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAgtYskBrPfJSxMghabnA80-iSfCFGmU63o,1396338191)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "HEMA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "description": "\nDe verantwoordelijkheden en werkzaamheden van de productmanager bestaan onder andere uit:\n- Het begeleiden, beoordelen, goedkeuren en bijhouden van samples en labdips en het verzorgen van de terugkoppeling aan leveranciers. Dit van het eerste countersample t/m het shipping sample.\n- Samen met styling meedenken wat betreft nieuwe stijlen, kwaliteiten en kleuren voor de aankomende collecties. Dit doormiddel van magazines, websites en shopping trips.\n- Het begeleiden en beoordelen van de fit en dit ook terug koppelen naar de leveranciers. En hiervan ook de tijd bewaken.\n- Het opstellen van artikelspecificaties en het opsturen daarvan naar leveranciers in het verre oosten en Turkije. Hierna kan de inkoopafdeling aan de slag om de prijzen te onderhandelen zowel op reis als op afstand.\n- Ondersteunen bij assortimentspresentatie deze worden gegeven voor de CEO, World manager en styling manager.\n  Hema is al generaties lang maken wij het dagelijks leven van onze klanten leuker en\n makkelijker. Zonder dat ze daar veel voor hoeven te betalen. We vinden namelijk dat goede\n kwaliteit en een verassend design voor iedereen betaalbaar moet zijn. Wij zijn trots op onze\n 30.000 eigen producten en diensten en stralen dat uit met 11.000 medewerkers in 680\n winkels in 8 landen.\n\n- Het klaarzetten en aanleveren van informatie voor het invoeren van artikelen in SAP\n- Intern contact onderhouden met de afdelingen concept design, buying, supply chain,\nmarketing en duurzaamheid. Binnen Hema werk je met heel veel afdelingen samen aangezien er ook folders worden gemaakt en de winkelindeling ook door ons word bepaald.\n- Het ondersteunen van het promotieproces: invullen artikelgegevens en coördinatie monster fotografieproces.\n- Het aanleveren van de winkel lay-outs, zodat deze commercieel zijn.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Product Manager Men",
+            "companyUrn": "urn:li:fs_miniCompany:10042",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFpIWP40AlVlA/company-logo_"
+        },
+        {
+            "locationName": "Diemen",
+            "entityUrn": "urn:li:fs_position:(ACoAAAgtYskBrPfJSxMghabnA80-iSfCFGmU63o,1211374619)",
+            "geoLocationName": "Diemen",
+            "companyName": "Coolcat",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2017
+                }
+            },
+            "description": "\nCoolCat is 35 jaar geleden met 1 winkel in Amsterdam begonnen en is inmiddels uitgegroeid naar 130 winkels in heel Nederland, België, Luxemburg en Frankrijk. CoolCat is onderdeel van Coolinvestments. Deze holding bestaat uit een aantal bekende modeketens zoals America Today, MS Mode en Sapph. Coolinvestments beschikt over een uitgebreide kennis en ervaring in de Europese retailmarkt. Als assistant buying bij Coolcat leer je het inkoop vak vanaf de basis te leren. Het is een dynamische omgeving waar je een stoere, eigenzinnige en commerciële collectie helpt te ontwikkelen voor de doelgroep. De focus ligt bij de orderadministratie en de orderbewaking vanuit een commercieel perspectief. En je ondersteunt de inkoopster bij het inkoopproces en de opvolging daarvan.\nDe verantwoordelijkheden en werkzaamheden bestaan onder andere uit:\n- Het beoordelen en adviseren van de kwaliteit, fit, kleur, pasvorm en workmanship van\nde collectie. Dit samen met styling. En het eventueel aanpassen naar de juiste en commerciële fit/outlook. Zodat de inkoper de juiste prijzen kan aftikken op de gekozen kwaliteit, accessoires en fit.\n- Het hele verdere productieproces opvolgen en bewaken. Alle comments qua uiterlijk en fit communiceren met de leveranciers in zowel het verre oosten als in Turkije. Dit doormiddel van stylesheets, size-specs en comment sheets.\n- Voor het Turkije jersey en sweat verhaal de prijzen zelf onderhandelen, dit wel met vastgezette marges.\n- Na verkoopresultaten inspelen op nieuwe repeat orders en aangepaste bestsellers zodat deze in zeer korte tijd weer beschikbaar kunnen zijn.\n- Doormiddel van shopping trips op de hoogte blijven van de nieuwste trends en deze commercieel vertalen naar een Coolcat identiteit. Ook altijd leuk om nieuwe kwaliteiten te ontdekken.\n- En in de gaten houden van de markt dus veel concurrentie analyses doen. Dit kan bijvoorbeeld ook doormiddel van beuren en steden te bezoeken.\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Apparel & Fashion"
+                ]
+            },
+            "title": "Assistent buyer",
+            "companyUrn": "urn:li:fs_miniCompany:1737484",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFkPJVvp7q63w/company-logo_"
+        },
+        {
+            "locationName": "Weesp",
+            "entityUrn": "urn:li:fs_position:(ACoAAAgtYskBrPfJSxMghabnA80-iSfCFGmU63o,740597106)",
+            "geoLocationName": "Weesp",
+            "companyName": "Knipidee International B.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2015
+                }
+            },
+            "description": "Knipidee International B.V. is één van de grootste stoffengrossiers van Europa, gespecialiseerd in damesstoffen. Staat bekend om de fashion collecties en daarnaast bieden zij een zeer uitbereid assortiment gericht op kinderen en decoratie. \nAls Assistent inkoop/productie bij Knipidee maak ik deel uit van ons inkoop- stylingteam en werk ik nauw samen met onze stylistes en buyers. Ik heb een ondersteunende functie met betrekking tot het coördineren van onze collecties. Als assistent ben ik verantwoordelijk voor het administratief en organisatorisch ondersteunen van onze afdeling. Ik ben verantwoordelijk voor de orderopvolging, productiebegeleiding, alsmede de kwaliteitscontrole van een zeer uitgebreid assortiment. Het betreft een zelfstandige functie met ruimte voor eigen initiatief, inbreng en ideeën.\nDe verantwoordelijkheden en werkzaamheden bestaan onder andere uit:\n-\tHelpen implementeren en bewaken van levertijd, prijs en kwaliteit volgens vooraf gestelde normen.\n-\tIntensief contact met leveranciers voor het opvolgen en begeleidden van producties.\n-\tInvoeren van data in diverse systemen en bijhouden hiervan.\n-\tStrak overzicht houden van alle lopende order.\n-\tControleren van orderbevestigingen.\n-\tHet maken van prijslijsten\n-\tKwaliteitscontroles m.b.t. productie samples voor levering\n-\tSignaleren van problemen op geleverde goederen.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Textiles"
+                ]
+            },
+            "title": "Assistent inkoop",
+            "companyUrn": "urn:li:fs_miniCompany:5028461",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFgBUEKApuG1Q/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAgtYskBrPfJSxMghabnA80-iSfCFGmU63o,84962411)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "degreeName": "ja",
+            "schoolName": "Saxion Hogeschool Enschede",
+            "fieldOfStudy": "Textiel"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAgtYskBrPfJSxMghabnA80-iSfCFGmU63o,85313886)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "degreeName": "yes",
+            "schoolName": "ROC Nijmegen",
+            "fieldOfStudy": "Retail Fashion/textile"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAgtYskBrPfJSxMghabnA80-iSfCFGmU63o,85314041)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            },
+            "degreeName": "Yes",
+            "schoolName": "Hezeland college Gennep",
+            "fieldOfStudy": "Mavo"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

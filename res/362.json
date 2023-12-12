@@ -1,0 +1,298 @@
+{
+    "summary": "Een bijdrage kunnen leveren en mensen blij maken, dát is waar ik energie van krijg.\nPresenteren, coachen, trainen en motiveren zijn werkzaamheden die ik vrolijk uitvoer\nen dat is wat ik mijzelf graag zie doen. Mensen samenbrengen en laten ontwikkelen om het beste uit zichzelf te halen is iets waar ik voor sta als Scrum Master. Als de persoon happy is, zal het team excelleren. \n\n✆ 06 41 23 73 39\nmail@vanjoey.nl",
+    "industryName": "Information Technology & Services",
+    "lastName": "van den Berg",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 5,
+        "day": 19
+    },
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Joey",
+    "entityUrn": "urn:li:fs_profile:ACoAAAkSveYB2oRSMWGUThWlTuDXW9WRHbtu3hE",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101461601"
+    },
+    "geoLocationName": "The Hague, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Scrum Master",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D5603AQHKcGEeSZgiEw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1678201478743?e=1707955200&v=beta&t=Lr-QzL0SfWBK7I6j9ND7uXd5baRyFDMnn3FF0siL_uc",
+    "img_200_200": "200_200/0/1678201478743?e=1707955200&v=beta&t=LK-WQ7N-r0-1QDzwPUnjYkS4Hj1o3N8imgLFKd2AmSI",
+    "img_400_400": "400_400/0/1678201478743?e=1707955200&v=beta&t=BsnGahbwxi90Q9fGClt9qqLi1eUZR5qJYYo9u3iqyH8",
+    "img_639_639": "800_800/0/1678201478743?e=1707955200&v=beta&t=s-uyDa3CUt8W5j7aZ15Jyda3ukiotIsmbR9oABuDqYk",
+    "profile_id": "ACoAAAkSveYB2oRSMWGUThWlTuDXW9WRHbtu3hE",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAkSveYB2oRSMWGUThWlTuDXW9WRHbtu3hE",
+    "member_urn": "urn:li:member:152223206",
+    "public_id": "joeyvandenberg",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAkSveYB2oRSMWGUThWlTuDXW9WRHbtu3hE,1863575246)",
+            "companyName": "Yacht",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "description": "Bent u op zoek naar de juiste professional voor uw IT vraagstuk? Yacht bemiddelt professionals op uiteenlopende werkgebieden. Ik ben verantwoordelijk voor diverse IT professionals om uw onderneming verder te ontwikkelen.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Sales Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:3329",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEvkgtY4n4w9Q/company-logo_"
+        },
+        {
+            "locationName": "Den Haag en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAkSveYB2oRSMWGUThWlTuDXW9WRHbtu3hE,1560194365)",
+            "geoLocationName": "Den Haag en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "Canon Business Center Den Haag",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Accountmanager",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:10454552",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHK1XUoATN72Q/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAkSveYB2oRSMWGUThWlTuDXW9WRHbtu3hE,1406820173)",
+            "geoLocationName": "Rotterdam en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "PCI Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Accountmanager",
+            "region": "urn:li:fs_region:(nl,5908)",
+            "companyUrn": "urn:li:fs_miniCompany:68141",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFkseKqB8bjUA/company-logo_"
+        },
+        {
+            "locationName": "Zuid-West Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAkSveYB2oRSMWGUThWlTuDXW9WRHbtu3hE,596189511)",
+            "geoLocationName": "Zuid-West Nederland",
+            "companyName": "Hagero",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2013
+                }
+            },
+            "description": "Hagero was een leverancier van machines, onderhoudscontracten en softwarematige oplossingen in het kader van Document Management. Een ruim assortiment aan merken zorgden voor een passende oplossing voor elke onderneming. \n\n- MKB van 50 - 500 FTE\n- Aanboren van New Business (60%) en beheer van bestaande klanten (40%).\n- Marktontwikkelingen monitoren en erop inspelen.\n- Continu zoeken naar oplossingen voor vergroten marktaandeel. \n- Offertetrajecten beheren van begin-tot-eind.\n- Gestelde doelen realiseren. \n- Budgetbewaking met wekelijkse en maandelijkse rapportages.\n- Up- en crosselling. \n- Opstellen van e-mail marketing. \n",
+            "title": "Account Manager"
+        },
+        {
+            "locationName": "Regio Haaglanden",
+            "entityUrn": "urn:li:fs_position:(ACoAAAkSveYB2oRSMWGUThWlTuDXW9WRHbtu3hE,245015334)",
+            "geoLocationName": "Regio Haaglanden",
+            "companyName": "Xtandit",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2011
+                }
+            },
+            "description": "Omschrijving\nAcquisitie van nieuwe klanten.\nBeheren van bestaande accounts en doelgroep activiteiten ondersteunen.\nPlannen aanmaken voor de accounts,  waarin de doelstellingen worden opgenomen\nHet implementeren van het productplan, zoals aangegeven in het marketingplan\nAfter Sales, het behouden van klanten\n\nBijkomende werkzaamheden:\nHet herkennen van de trends in de markt en inspelen hierop\nHet herkenen van de behoeften van klanten\nDe toepassingen van de Xerox apparatuur en de multifunctionele toepassingen van het Document Management snel en goed eigen maken\nOverzicht houden van de contracten\nWerken volgens een Territory plan\nContact onderhouden met de Marketing afdeling\n\nCompetenties:\nOnderhandelen\nklantgericht\nenthousiast\nmaakt duidelijke afspraken\nsignaleert en benut kansen\nresultaatgericht\nplanmatig werken\nteamplayer",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Accountmanager New Business",
+            "companyUrn": "urn:li:fs_miniCompany:396831",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHUOpLXBdPv-g/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAkSveYB2oRSMWGUThWlTuDXW9WRHbtu3hE,883273985)",
+            "school": {
+                "objectUrn": "urn:li:school:3153542",
+                "entityUrn": "urn:li:fs_miniSchool:3153542",
+                "active": true,
+                "schoolName": "LOI",
+                "trackingId": "lkSLQxegRBqiHbsHQPlZCg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C510BAQHJNuXcAPGMxw/company-logo_"
+            },
+            "activities": "De beginselen van Python programmeren.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "description": "Het korte HBO-programma Programmeren in Python geeft je een uitgebreid overzicht van de basisbegrippen en functies in Python. De opleiding gaat uitgebreid in op de programmeertaal Python versie 3.x en de toepassing hiervan in diverse omgevingen: als interactieve taal, als stand-alone applicatie, als server-sided scripttaal (CGI), als clientsided scripttaal (Android platform), als intermediair tussen gebruiker en SQLite, en als schaalbare webapplicatie met behulp van Google Web Engine.",
+            "schoolName": "LOI",
+            "fieldOfStudy": "Programmeren Python",
+            "schoolUrn": "urn:li:fs_miniSchool:3153542"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAkSveYB2oRSMWGUThWlTuDXW9WRHbtu3hE,656397258)",
+            "school": {
+                "objectUrn": "urn:li:school:3153542",
+                "entityUrn": "urn:li:fs_miniSchool:3153542",
+                "active": true,
+                "schoolName": "LOI",
+                "trackingId": "J941I/jDR32E1hebjvk9Ow==",
+                "logoUrl": "https://media.licdn.com/dms/image/C510BAQHJNuXcAPGMxw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "schoolName": "LOI",
+            "fieldOfStudy": "HBO informatica (12 mnd)",
+            "schoolUrn": "urn:li:fs_miniSchool:3153542"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAkSveYB2oRSMWGUThWlTuDXW9WRHbtu3hE,93781786)",
+            "school": {
+                "objectUrn": "urn:li:school:23128",
+                "entityUrn": "urn:li:fs_miniSchool:23128",
+                "active": false,
+                "schoolName": "Haagse Hogeschool Den Haag",
+                "trackingId": "ArKVMiaiT8WxvASeKDxDLw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C510BAQHLEvmGEsHbUA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "description": "2 avonden per week",
+            "degreeName": "Heden",
+            "schoolName": "Haagse Hogeschool Den Haag",
+            "fieldOfStudy": "Commerciële economie",
+            "schoolUrn": "urn:li:fs_miniSchool:23128"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Scrum.org",
+            "name": "Professional Scrum Master™ I (PSM I)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1153894",
+                "entityUrn": "urn:li:fs_miniCompany:1153894",
+                "name": "Scrum.org",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631433558836?e=1710374400&v=beta&t=vDSJQFw7IIs70KTYjTAe--wPMuaqIjbEAACydw3gS8o",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631433558836?e=1710374400&v=beta&t=9M39uH0Yf7NWmIQlGdYHThzcw616hSEXzQYgzU7d30s",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631433558836?e=1710374400&v=beta&t=vs8XO0GfLnfNSyx-6cqrS-ST1FjmOS1wOpmD5byyuEw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFzF6WZjNSHkQ/company-logo_"
+                    }
+                },
+                "universalName": "scrum-org",
+                "dashCompanyUrn": "urn:li:fsd_company:1153894",
+                "trackingId": "eGoXxGFIQjCq/Dtf3lIzuA=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:1153894",
+            "url": "https://www.credly.com/badges/b04af908-b68c-42b2-b7f8-12ff30b8d25c/linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

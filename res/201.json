@@ -1,0 +1,713 @@
+{
+    "summary": "I have experience as an HR professional being involved so far in Talent Acquisition / HR BP (handling recruitment requests and establish the Job Description requirements together with line managers, posting ads on a variety of channels, recruiting internally and externally, preparing shortlists, interviewing candidates, organizing interviews from logistic point of view for expat candidates – flights, hotels, etc – preparing and presenting the offer and benefits, preparing and presenting monthly reports for Recruitment Manager), onboarding (preliminary hiring documents, organizing medical checkup with the agreed medical center, employment contracts, registration of contracts with the national authority, induction training for newcomers), HR administration (handling timesheets, vacation leave requests, maternal leave, sick leave, resignation, departure documentation).",
+    "industryName": "Human Resources",
+    "lastName": "Radu",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:137",
+    "firstName": "Cristina Ioana",
+    "entityUrn": "urn:li:fs_profile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:105718305"
+    },
+    "geoLocationName": "Breda, North Brabant",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Corporate Recruiter NewCold",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQGbhHc7oMxrEg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1516496149903?e=1707955200&v=beta&t=uMNY1yu9C51M_pLw0UaHq0uxt8weZxHhrQMIWTnt3dg",
+    "img_200_200": "200_200/0/1516496149369?e=1707955200&v=beta&t=LrhSR_MV6KgVMMaeIOvwi4t6Mb8dGzHKQ-M_sLykkVo",
+    "img_367_367": "800_800/0/1516496149380?e=1707955200&v=beta&t=eaGZPbOxAj00Ifvc-Q8RwxFgiAzMOe7LJ-uZti98Buc",
+    "profile_id": "ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+    "member_urn": "urn:li:member:45298257",
+    "public_id": "cristina-ioana-radu-32920613",
+    "experience": [
+        {
+            "locationName": "Breda, North Brabant, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4,1980762440)",
+            "geoLocationName": "Breda, North Brabant, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102718745",
+            "companyName": "NewCold",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "title": "Corporate Recruiter",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2980051",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHkR6eaK2DUSA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4,1790193675)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "European Medicines Agency",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "description": "- Personal file scanning and archiving arrangements that have been put in place for the relocation.\n- Updating and processing the back-log including: creating personal file, printing of electronic documents, preparing documenting and listing, arranging dispatch to the contractor; once the scanned files are received, arranging electronic filing in DREAM for the scanned working file. \n- Cooperation with the case handlers in the team on filing and updating. \n- Manage pesonal file inbox (allowances, leave, new documents related to each employee), process incoming documents and log in employee file.\n- Follow up on pending files.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Government Administration"
+                ]
+            },
+            "title": "Staff Relations Assistant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:15230",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQH7mU7EEx39Eg/company-logo_"
+        },
+        {
+            "locationName": "Hoofddorp, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4,1637562744)",
+            "geoLocationName": "Hoofddorp, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:104196145",
+            "companyName": "Inditex",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Sales Assistant Zara Hoofddorp",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:14853",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFFiw9GETHCuw/company-logo_"
+        },
+        {
+            "locationName": "Bucharest, Romania",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4,597980733)",
+            "geoLocationName": "Bucharest, Romania",
+            "geoUrn": "urn:li:fs_geo:105889820",
+            "companyName": "Hunt Recruitment Romania",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "description": "Headhunting, identifying and approaching suitable candidates\nAnalyze requirements for candidates profiles and fully understanding the job description and the industry \nPost recruitment ads via multiple professional social networks\nCandidates interviews through phone, video and face to face\nPositions recruited: developers Java, Java EE, .Net, ASP.net, C++, C, QA Engineer, PHP, Android & IOS, IT Business Analyst with PL/SQL ; telecom - IP Product Presale Manager, Presale Engineer  ; SAP BI & Basis \nAccount management\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Senior IT Recruitment Consultant - Project based",
+            "region": "urn:li:fs_region:(ro,7536)",
+            "companyUrn": "urn:li:fs_miniCompany:10472228",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQG_lKzaxirQ6Q/company-logo_"
+        },
+        {
+            "locationName": "Bucharest, Romania",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4,1306138071)",
+            "geoLocationName": "Bucharest, Romania",
+            "geoUrn": "urn:li:fs_geo:105889820",
+            "companyName": "INTRASOFT International",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "description": "End to end recruitment process for Development Department\nManage relationship with hiring manager\nScreen CV, interview candidates, shortlist candidates to hiring managers\nDifferent HR administrative tasks\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "On site Senior HR Administrator - Project Based",
+            "region": "urn:li:fs_region:(ro,7536)",
+            "companyUrn": "urn:li:fs_miniCompany:7946",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQED30_njacPqA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4,36811045)",
+            "degreeName": "Bachelor of Science (BSc)",
+            "schoolName": "University of Bucharest",
+            "fieldOfStudy": "Faculty of Philology / Romanian-French Section"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4,387532686)",
+            "school": {
+                "objectUrn": "urn:li:school:5114029",
+                "entityUrn": "urn:li:fs_miniSchool:5114029",
+                "active": true,
+                "schoolName": "Central Saint Martins, University of The Arts London",
+                "trackingId": "Sy0LddvDRGaH390Tz6X+wA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHEqDi2K5ouHQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "schoolName": "Central Saint Martins, University of The Arts London",
+            "fieldOfStudy": "Pattern Cutting",
+            "schoolUrn": "urn:li:fs_miniSchool:5114029"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4,387533530)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "schoolName": "Art & Style School",
+            "fieldOfStudy": "Pattern Cutting / Tailoring"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [
+        {
+            "date": {
+                "year": 2018
+            },
+            "name": "Zabor sau Psalmii / Zabor ou les Psaumes - Kamel Daoud",
+            "publisher": "Polirom",
+            "description": "Translation from French",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Cristina Ioana",
+                        "lastName": "Radu",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "occupation": "Corporate Recruiter NewCold",
+                        "objectUrn": "urn:li:member:45298257",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "publicIdentifier": "cristina-ioana-radu-32920613",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516496149903?e=1707955200&v=beta&t=uMNY1yu9C51M_pLw0UaHq0uxt8weZxHhrQMIWTnt3dg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516496149369?e=1707955200&v=beta&t=LrhSR_MV6KgVMMaeIOvwi4t6Mb8dGzHKQ-M_sLykkVo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516496149380?e=1707955200&v=beta&t=Pqul4GocRjwUXUdQObzjbY9EZ9qAIDmzC7zEBCph6Y8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516496149380?e=1707955200&v=beta&t=eaGZPbOxAj00Ifvc-Q8RwxFgiAzMOe7LJ-uZti98Buc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGbhHc7oMxrEg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "y1a8lQCSQI6rc0xs6z2hoQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4"
+                }
+            ]
+        },
+        {
+            "date": {
+                "year": 2015
+            },
+            "name": "Anotimpul umbrei / La saison de l'ombre - Léonora Miano",
+            "publisher": "IBU Publishing",
+            "description": "Translation from French",
+            "url": "http://ibupublishing.ro/colectia-zohra/41-anotimpul-umbrei-leonora-miano",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Cristina Ioana",
+                        "lastName": "Radu",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "occupation": "Corporate Recruiter NewCold",
+                        "objectUrn": "urn:li:member:45298257",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "publicIdentifier": "cristina-ioana-radu-32920613",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516496149903?e=1707955200&v=beta&t=uMNY1yu9C51M_pLw0UaHq0uxt8weZxHhrQMIWTnt3dg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516496149369?e=1707955200&v=beta&t=LrhSR_MV6KgVMMaeIOvwi4t6Mb8dGzHKQ-M_sLykkVo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516496149380?e=1707955200&v=beta&t=Pqul4GocRjwUXUdQObzjbY9EZ9qAIDmzC7zEBCph6Y8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516496149380?e=1707955200&v=beta&t=eaGZPbOxAj00Ifvc-Q8RwxFgiAzMOe7LJ-uZti98Buc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGbhHc7oMxrEg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "y1a8lQCSQI6rc0xs6z2hoQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4"
+                }
+            ]
+        },
+        {
+            "date": {
+                "year": 2015
+            },
+            "name": "Cazul Meursault, contraancheta / Meursault, contre-enquête - Kamel Daoud",
+            "publisher": "IBU Publishing",
+            "description": "Translation from French",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Cristina Ioana",
+                        "lastName": "Radu",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "occupation": "Corporate Recruiter NewCold",
+                        "objectUrn": "urn:li:member:45298257",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "publicIdentifier": "cristina-ioana-radu-32920613",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516496149903?e=1707955200&v=beta&t=uMNY1yu9C51M_pLw0UaHq0uxt8weZxHhrQMIWTnt3dg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516496149369?e=1707955200&v=beta&t=LrhSR_MV6KgVMMaeIOvwi4t6Mb8dGzHKQ-M_sLykkVo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516496149380?e=1707955200&v=beta&t=Pqul4GocRjwUXUdQObzjbY9EZ9qAIDmzC7zEBCph6Y8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516496149380?e=1707955200&v=beta&t=eaGZPbOxAj00Ifvc-Q8RwxFgiAzMOe7LJ-uZti98Buc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGbhHc7oMxrEg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "y1a8lQCSQI6rc0xs6z2hoQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4"
+                }
+            ]
+        },
+        {
+            "date": {
+                "year": 2013
+            },
+            "name": "Alte 365 de glume / 365 Blagues - Fabrice Lelarge",
+            "publisher": "Litera Publishing",
+            "description": "Wording",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Cristina Ioana",
+                        "lastName": "Radu",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "occupation": "Corporate Recruiter NewCold",
+                        "objectUrn": "urn:li:member:45298257",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "publicIdentifier": "cristina-ioana-radu-32920613",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516496149903?e=1707955200&v=beta&t=uMNY1yu9C51M_pLw0UaHq0uxt8weZxHhrQMIWTnt3dg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516496149369?e=1707955200&v=beta&t=LrhSR_MV6KgVMMaeIOvwi4t6Mb8dGzHKQ-M_sLykkVo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516496149380?e=1707955200&v=beta&t=Pqul4GocRjwUXUdQObzjbY9EZ9qAIDmzC7zEBCph6Y8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516496149380?e=1707955200&v=beta&t=eaGZPbOxAj00Ifvc-Q8RwxFgiAzMOe7LJ-uZti98Buc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGbhHc7oMxrEg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "y1a8lQCSQI6rc0xs6z2hoQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4"
+                }
+            ]
+        },
+        {
+            "date": {
+                "year": 2013
+            },
+            "name": "Sindromul Tarzan / Le Syndrome de Tarzan - Pascale Piquet",
+            "publisher": "All Publishing",
+            "description": "Translation from French",
+            "url": "http://www.all.ro/colectia_linia-bleu/sindromul-tarzan.html",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Cristina Ioana",
+                        "lastName": "Radu",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "occupation": "Corporate Recruiter NewCold",
+                        "objectUrn": "urn:li:member:45298257",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "publicIdentifier": "cristina-ioana-radu-32920613",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516496149903?e=1707955200&v=beta&t=uMNY1yu9C51M_pLw0UaHq0uxt8weZxHhrQMIWTnt3dg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516496149369?e=1707955200&v=beta&t=LrhSR_MV6KgVMMaeIOvwi4t6Mb8dGzHKQ-M_sLykkVo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516496149380?e=1707955200&v=beta&t=Pqul4GocRjwUXUdQObzjbY9EZ9qAIDmzC7zEBCph6Y8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516496149380?e=1707955200&v=beta&t=eaGZPbOxAj00Ifvc-Q8RwxFgiAzMOe7LJ-uZti98Buc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGbhHc7oMxrEg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "y1a8lQCSQI6rc0xs6z2hoQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4"
+                }
+            ]
+        },
+        {
+            "date": {
+                "year": 2013
+            },
+            "name": "Vesnicia ne asteapta / L'éternité n'est pas de trop - Francois Cheng",
+            "publisher": "IBU Publishing",
+            "description": "Translation from French",
+            "url": "http://ibupublishing.ro/colectia-zohra/19-vesnicia-ne-asteapta",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Cristina Ioana",
+                        "lastName": "Radu",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "occupation": "Corporate Recruiter NewCold",
+                        "objectUrn": "urn:li:member:45298257",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "publicIdentifier": "cristina-ioana-radu-32920613",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516496149903?e=1707955200&v=beta&t=uMNY1yu9C51M_pLw0UaHq0uxt8weZxHhrQMIWTnt3dg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516496149369?e=1707955200&v=beta&t=LrhSR_MV6KgVMMaeIOvwi4t6Mb8dGzHKQ-M_sLykkVo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516496149380?e=1707955200&v=beta&t=Pqul4GocRjwUXUdQObzjbY9EZ9qAIDmzC7zEBCph6Y8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516496149380?e=1707955200&v=beta&t=eaGZPbOxAj00Ifvc-Q8RwxFgiAzMOe7LJ-uZti98Buc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGbhHc7oMxrEg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "y1a8lQCSQI6rc0xs6z2hoQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4"
+                }
+            ]
+        },
+        {
+            "date": {
+                "year": 2012
+            },
+            "name": "ABC-ul Sanatatii - Natalia Ciub",
+            "publisher": "Litera Publishing",
+            "description": "Wording",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Cristina Ioana",
+                        "lastName": "Radu",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "occupation": "Corporate Recruiter NewCold",
+                        "objectUrn": "urn:li:member:45298257",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "publicIdentifier": "cristina-ioana-radu-32920613",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516496149903?e=1707955200&v=beta&t=uMNY1yu9C51M_pLw0UaHq0uxt8weZxHhrQMIWTnt3dg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516496149369?e=1707955200&v=beta&t=LrhSR_MV6KgVMMaeIOvwi4t6Mb8dGzHKQ-M_sLykkVo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516496149380?e=1707955200&v=beta&t=Pqul4GocRjwUXUdQObzjbY9EZ9qAIDmzC7zEBCph6Y8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516496149380?e=1707955200&v=beta&t=eaGZPbOxAj00Ifvc-Q8RwxFgiAzMOe7LJ-uZti98Buc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGbhHc7oMxrEg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "y1a8lQCSQI6rc0xs6z2hoQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4"
+                }
+            ]
+        },
+        {
+            "date": {
+                "year": 2009
+            },
+            "name": "Femeia interzisa / L'Interdite - Malika Mokeddem",
+            "publisher": "IBU Publishing",
+            "description": "Translation from French",
+            "url": "http://ibupublishing.ro/colectia-zohra/17-femeia-interzisa",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Cristina Ioana",
+                        "lastName": "Radu",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "occupation": "Corporate Recruiter NewCold",
+                        "objectUrn": "urn:li:member:45298257",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4",
+                        "publicIdentifier": "cristina-ioana-radu-32920613",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516496149903?e=1707955200&v=beta&t=uMNY1yu9C51M_pLw0UaHq0uxt8weZxHhrQMIWTnt3dg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516496149369?e=1707955200&v=beta&t=LrhSR_MV6KgVMMaeIOvwi4t6Mb8dGzHKQ-M_sLykkVo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516496149380?e=1707955200&v=beta&t=Pqul4GocRjwUXUdQObzjbY9EZ9qAIDmzC7zEBCph6Y8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    },
+                                    {
+                                        "width": 367,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516496149380?e=1707955200&v=beta&t=eaGZPbOxAj00Ifvc-Q8RwxFgiAzMOe7LJ-uZti98Buc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 367
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGbhHc7oMxrEg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "y1a8lQCSQI6rc0xs6z2hoQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAKzMlEB9G8opwjYYmZr0y_i29BZv5HZYf4"
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "authority": "Picon, Bucharest, Romania",
+            "name": "Human Resources Inspector"
+        },
+        {
+            "authority": "Ministry of Justice, Bucharest, Romania",
+            "name": "Authorized French Translator"
+        },
+        {
+            "authority": "Polytechnic University of Bucharest, Romania",
+            "name": "Project Management"
+        },
+        {
+            "authority": "Formenerg, Bucharest, Romania",
+            "name": "European Funds Expert"
+        },
+        {
+            "authority": "Picon, Bucharest, Romania",
+            "name": "HR Manager"
+        },
+        {
+            "authority": "Romanian National Opera, Bucharest",
+            "name": "Certified Makeup Artist",
+            "company": {
+                "objectUrn": "urn:li:company:8864937",
+                "entityUrn": "urn:li:fs_miniCompany:8864937",
+                "name": "Romanian National Opera, Bucharest",
+                "showcase": false,
+                "active": true,
+                "universalName": "romanian-national-opera-bucharest",
+                "dashCompanyUrn": "urn:li:fsd_company:8864937",
+                "trackingId": "XK6V2D8uTUaZGAhfCQjCZg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:8864937"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

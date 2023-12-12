@@ -1,0 +1,257 @@
+{
+    "summary": "I am a freelance tech recruiter currently working for Bol.com. For me, recruitment is more than just hiring. A great recruiter is a stakeholder manager, business partner, marketeer, employer brander, sourcer, interviewer and negotiator. Because of this variety, I truly love this work area!\n\nIn my daily work, I always have a strong focus on the business and I know how to translate business needs to a (sourcing) plan and vice versa. I would describe myself as someone who always strives for a solution but yet is realistic, who is naturally enthusiastic and someone who will always reflect to keep improving continuously.",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "van Muilwijk",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Ruben",
+    "entityUrn": "urn:li:fs_profile:ACoAAAPuLl0Bnx6c1WYY_MlVo8bEH1qzCUwRHjA",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Tech Recruiter @ Bol.com",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQEzxq2iBHGZFQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1689597622682?e=1707955200&v=beta&t=2M6kWlEIPDeoiO5P3xyK3IN7VjkPNRt3wd_rKg-SxHw",
+    "img_200_200": "200_200/0/1689597622682?e=1707955200&v=beta&t=G9TPq6jLEZbxdNP62uVdyPxBtzbggbp-z1TdTDD4qpk",
+    "img_400_400": "400_400/0/1689597622682?e=1707955200&v=beta&t=pS_XUZ-YLofTUe4U923QusdMLAvCiHConq_kmRbLUBk",
+    "img_800_800": "800_800/0/1689597622682?e=1707955200&v=beta&t=OO_GipDGfLUWlJXTCxoIWc5C9qEE6kdmZpR36rezmBg",
+    "profile_id": "ACoAAAPuLl0Bnx6c1WYY_MlVo8bEH1qzCUwRHjA",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAPuLl0Bnx6c1WYY_MlVo8bEH1qzCUwRHjA",
+    "member_urn": "urn:li:member:65941085",
+    "public_id": "ruben-van-muilwijk-4251001a",
+    "experience": [
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAPuLl0Bnx6c1WYY_MlVo8bEH1qzCUwRHjA,2215657970)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "description": "Bol.com is the biggest online retail platfrom of the Netherlands and Belgium. Hiring software engineers. The tech stack of Bol.com: \nFront end: React and Angular\nBack end: Java, Kotlin and Golang. \nDevOps: CI/CD, Docker, Kubernetes, Google Cloud Platform\nData: Python\n\nWe strive for cleane, high performance code that facilitates clients; partners and colleagues. On top of that; we always have mind to make solution scalable and future proof.\n\nBol.com values:\n•\tWe are customer crazy\n•\tWe are stronger together \n•\tWe are brave \n•\tWe are fueled by curiosity \n•\tWe dream, we dare and we do",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Tech Recruiter a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAPuLl0Bnx6c1WYY_MlVo8bEH1qzCUwRHjA,1901485036)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "Rabobank",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "description": "Recruitment business partner of the Tribe Credit & Analytics in the Finance & Risk domain. End-to-end responsible for all permanent vacancies. Focus on quant profiles. Main responsibilities: \n•\tVacancy management, from intake vacancy to negotiating offer in Workday Recruiting\n•\tHigh level stakeholder management with leadership until managing board – 1\n•\tUsing selection assessments of Assessio for certain roles \n•\tBuilding talent pipelines in LinkedIn Recruiter Seat for difficult vacancies\n•\tFocus on recruitment data # hires, time to hire, time to fill and source of hire\n•\tGuide international hires (70% of total new hires); request start relocation at global mobility team via tool Link Go, initiate visa and work permits and application of the 30% ruling \n\nCompleted following projects: \n1. Implementation of Agile at scale \nReorganization of business to Agile structure of tribes, areas, squads and chapters. Executed the request of advice approved by the work council, new organization live October 1st 2022. In this project, I was the bridge between HR & change consultants, leadership and recruitment. Translation strategic goals to operational impact and vice versa.\n\n2. Development of a lateral entry program\nTogether with talent management and leadership I developed a program to attract senior D&A professionals without banking or finance experience. \n\n3. Set up sourcing board \nWeekly meeting with leadership of the D&A community where we proactively discuss high potential profiles, share learning & successes and explain recruitment policy",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Senior Recruiter Data & Analytics a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1970",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFJA_0sIwpOnw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving",
+            "entityUrn": "urn:li:fs_position:(ACoAAAPuLl0Bnx6c1WYY_MlVo8bEH1qzCUwRHjA,1744847626)",
+            "geoLocationName": "Amsterdam en omgeving",
+            "geoUrn": "urn:li:fs_geo:90010383",
+            "companyName": "Schiphol",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "description": "Line manager of 40 FTE. Enabling Technology covers the IT infrastructure of Schiphol, (integration) platforms and all the technical monitoring. Main objectives: \n•\tSet up ambitious and clear KPI’s in line with the IT&Data vision & strategy\n•\tCapacity management and resource allocation based on portfolio \n•\tDevelopment of team members, creating a culture of excellence and continuous improvement. \n•\tSetting up way of working and frameworks. Defining professional standards/work methodology and tooling within department competence. \n•\tHiring/firing, HR responsibility, attracting talent.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Airlines/Aviation"
+                ]
+            },
+            "title": "People Lead IT & Data ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:6383",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQG0V7aQL5VRkg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAPuLl0Bnx6c1WYY_MlVo8bEH1qzCUwRHjA,1383546659)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Royal Schiphol Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "description": "Recruitment business partner for  IT, Data and Digital domain for all permanent hiring. \nCompleted following projects: \n1. Project Reset\nReorganization due to Covid. Together with the business design of the new department IT&Data and request for advise to the work council. Set up of new job profiles and interviews of redundant employees. Successfully implemented new organization.\n\n2. Scale up Digital & Innovation\nCompleted target of 50% internal position at end of 2018. Developed recruitment campaigns for social media.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Airlines/Aviation"
+                ]
+            },
+            "title": "Senior Tech Recruiter",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:6383",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQG0V7aQL5VRkg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAPuLl0Bnx6c1WYY_MlVo8bEH1qzCUwRHjA,733449517)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "YER",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2015
+                }
+            },
+            "description": "Leader of the business unit IT, leader of a team of 5 fte; both consultants and sourcers. Focus on tech profiles within banking & insurance market:\n-System engineering (Windows/Linux, Redhat/VMWare/storage/datacentre)\n-Cloud (Azure/AWS)\n-Platforms (Openshift/ESB and CI/CD)\n-Technology Monitoring (Splunk)\n\nTeam placed many architects, engineers and designers. But also roles like service/delivery managers, process developers and staffing and management roles.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Lead Recruitment Consultant IT ",
+            "companyUrn": "urn:li:fs_miniCompany:6575",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHBKG7E3oZOMg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAPuLl0Bnx6c1WYY_MlVo8bEH1qzCUwRHjA,44572947)",
+            "school": {
+                "objectUrn": "urn:li:school:23151",
+                "entityUrn": "urn:li:fs_miniSchool:23151",
+                "active": true,
+                "schoolName": "Avans University of Applied Sciences",
+                "trackingId": "Y4Xgyy37RAayNFScZrLQow==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "degreeName": "Bachelor of Commerce (B.Com.)",
+            "schoolName": "Avans Hogeschool Tilburg",
+            "fieldOfStudy": "HBO Commerciële Economie",
+            "schoolUrn": "urn:li:fs_miniSchool:23151"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Integration Coach",
+            "companyName": "Stichting Vluchtelingenwerk Amstel tot Zaan",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2013
+                }
+            },
+            "cause": "EDUCATION",
+            "description": "Integration coach for a project of a foundation for refugees. Helping refugees with the integration into the Dutch culture and language. ",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:1622375",
+                    "entityUrn": "urn:li:fs_miniCompany:1622375",
+                    "name": "Stichting Vluchtelingenwerk Amstel tot Zaan",
+                    "showcase": false,
+                    "active": false,
+                    "universalName": "stichting-vluchtelingenwerk-amstel-tot-zaan",
+                    "dashCompanyUrn": "urn:li:fsd_company:1622375",
+                    "trackingId": "v/sx2sr6Qpul8ZZeijz2eQ=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1622375"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

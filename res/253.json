@@ -1,0 +1,232 @@
+{
+    "industryName": "Retail",
+    "lastName": "Vos",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Mayke",
+    "entityUrn": "urn:li:fs_profile:ACoAAAIMWI4BfLemRXJD-DhiCtmYaTa4S9Q8fYc",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102011674"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Head of Market Personal Care at bol.com",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQHsos05dT8EeQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1516368742965?e=1707955200&v=beta&t=1vF-ivPITmVYCPctNU8o4LErBKTEMrbk4xbO9HVaI1Q",
+    "img_200_200": "200_200/0/1516368742848?e=1707955200&v=beta&t=D-Vz_uEHGQFPGvMAH2qHnBosB78X1bh76LZKGTQumzg",
+    "img_400_400": "400_400/0/1516368742911?e=1707955200&v=beta&t=AMpQanXp3kuVSqn9GVRGF7jK_c_7lu2T10jQdxZWrWM",
+    "img_450_450": "800_800/0/1516368742965?e=1707955200&v=beta&t=d6ypaVCwfMqMzTLUWbaPNtc1iXRqBRspSxHc7-mm_jk",
+    "profile_id": "ACoAAAIMWI4BfLemRXJD-DhiCtmYaTa4S9Q8fYc",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAIMWI4BfLemRXJD-DhiCtmYaTa4S9Q8fYc",
+    "member_urn": "urn:li:member:34363534",
+    "public_id": "mayke-vos-37a612b",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAIMWI4BfLemRXJD-DhiCtmYaTa4S9Q8fYc,2161805591)",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Head of Market Personal Care",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAIMWI4BfLemRXJD-DhiCtmYaTa4S9Q8fYc,1665526125)",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "description": "Responsible for the commercial performance and strategy development for the categories Health & Perfumery.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Category Lead Health & Perfumery",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAIMWI4BfLemRXJD-DhiCtmYaTa4S9Q8fYc,1547885917)",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "description": "Responsibilities include:\n• P&L management of these categories with a key focus on improving sales, margin and customer satisfaction.\n• Formulating and executing, together with the team, the merchandising strategy.\n• Initiating and prioritizing platform innovations/improvements related to the customer journey, with the aim to increase traffic, conversion, average order value, margin and/or NPS.\n• Supporting the team by developing and executing a promotion strategy, often in co-operation with preferred partners and suppliers and internal stakeholders (sourcing and marketing department)\n• Manage and coach a team of customer journey, campaign and brand specialists (up to 12 FTE)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Senior E-commerce Manager Beauty & Face Care",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAIMWI4BfLemRXJD-DhiCtmYaTa4S9Q8fYc,603941098)",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2014
+                }
+            },
+            "description": "Responsibilities include: \n• Responsible for the marketing and product strategy of this category. \n• Initiating and executing marketing plans and promotional activities, often in co-operation with preferred suppliers and internal stakeholders (sourcing and marketing department).\n• Analyzing consumer behavior and campaign results.\n• Optimizing the consumer journey through implementing platform innovations.\n• Manage and coach a team of product specialists (5 FTE).",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "E-commerce Manager Beauty & Health",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAIMWI4BfLemRXJD-DhiCtmYaTa4S9Q8fYc,376313200)",
+            "companyName": "Coty",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2013
+                }
+            },
+            "description": "Responsible for the commercial strategy of the Coty Prestige brands (15) for A.S. Watson (IPXL Benelux & Pour Vous) and Galeria Inno by managing the key accounts in order to achieve turnover, market shares and profitability.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Cosmetics"
+                ]
+            },
+            "title": "Key Account Manager",
+            "companyUrn": "urn:li:fs_miniCompany:5058",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHzmvWtJ7hCew/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAIMWI4BfLemRXJD-DhiCtmYaTa4S9Q8fYc,46961999)",
+            "school": {
+                "objectUrn": "urn:li:school:15452",
+                "entityUrn": "urn:li:fs_miniSchool:15452",
+                "active": true,
+                "schoolName": "Tilburg University",
+                "trackingId": "4//dzxe6RdCgTYg7xharjA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "description": "Focus on business and management including accounting,\nmarketing, general management, and financial management.",
+            "degreeName": "Masters",
+            "schoolName": "Universiteit van Tilburg",
+            "fieldOfStudy": "International Business",
+            "schoolUrn": "urn:li:fs_miniSchool:15452"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAIMWI4BfLemRXJD-DhiCtmYaTa4S9Q8fYc,26572693)",
+            "school": {
+                "objectUrn": "urn:li:school:15452",
+                "entityUrn": "urn:li:fs_miniSchool:15452",
+                "active": true,
+                "schoolName": "Tilburg University",
+                "trackingId": "wwyEYc9mQkWJwOngIv7Jww==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "description": "Focus on business in general in relation to Marketing, HRM,\nFinance, etc. A combination of theory and practice.",
+            "degreeName": "Bachelor",
+            "schoolName": "Universiteit van Tilburg",
+            "fieldOfStudy": "Business Studies",
+            "schoolUrn": "urn:li:fs_miniSchool:15452"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAIMWI4BfLemRXJD-DhiCtmYaTa4S9Q8fYc,26573125)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            },
+            "degreeName": "International Baccalaureate",
+            "schoolName": "Frankfurt International School"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

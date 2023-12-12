@@ -1,0 +1,265 @@
+{
+    "summary": "I have a Bachelor's degree in Business Administration from two universities, Muğla Sıtkı Koçman Üniversitesi and Univerzita Hradec Králové. I am currently a Senior Corporate Recruiter at CRH Europe, where I work with various divisions, such as Information Technology, Sustainability and Innovation, Procurement, Finance, HR, Comms, and Strategy and Development. I have core competencies in recruiting, onboarding, workforce planning, reporting, and business partnering.\n\nIn my previous roles, I have recruited for different IT roles, such as software developers, analyst, network and security engineers, pentesters, mobile developers, and more. I have worked with directors and chapters from ING Türkiye and Ekol Lojistik, where I supported the Engineering and Innovation, IT System Development, Information Security, Business Analysis, Network Management, Automation Software and System Development, and R&D teams. I am passionate about diversity and inclusion, and I have been a member of the D&I Turkey Team at ING. I can bring diverse perspectives and experiences to the team, as well as a strong knowledge of IT and innovation.",
+    "industryName": "Construction",
+    "lastName": "Aladağ",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:48",
+    "firstName": "Erdal",
+    "entityUrn": "urn:li:fs_profile:ACoAABd90eoBM0lrSF8hppd_KN5FRW_KQWjgJA0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Senior Corporate Recruiter @ CRH Europe",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQGVKIE1_Dmmug/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1701163463274?e=1707955200&v=beta&t=CJxZN9F2CwGv-yzQdHu3GhAM6MjwZmcsBv7ybmmr88s",
+    "img_200_200": "200_200/0/1701163463274?e=1707955200&v=beta&t=OsXUCbMOyJYugDFZBICN7SwHHu4cpr0zNSS6r5y7QcI",
+    "img_400_400": "400_400/0/1701163463274?e=1707955200&v=beta&t=R1YxdP3Fw1OWGOaodXn20WAKqrw5SagGykUhQek4fpw",
+    "img_676_676": "800_800/0/1701163463274?e=1707955200&v=beta&t=jYzLtzRYNIh4Nd2DR5_RqvyRULx1Prh8iRuW3-nJYvs",
+    "profile_id": "ACoAABd90eoBM0lrSF8hppd_KN5FRW_KQWjgJA0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABd90eoBM0lrSF8hppd_KN5FRW_KQWjgJA0",
+    "member_urn": "urn:li:member:394121706",
+    "public_id": "erdal-aladağ",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Kuzey Hollanda, Hollanda",
+            "entityUrn": "urn:li:fs_position:(ACoAABd90eoBM0lrSF8hppd_KN5FRW_KQWjgJA0,2198518239)",
+            "geoLocationName": "Amsterdam, Kuzey Hollanda, Hollanda",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "description": "Senior Corporate Recruiter for CRH Europe Divisions;\n- Information Technology\n- Sustainability & Innovation\n- Procurement\n- Finance\n- HR \n- Comms\n- Strategy & Development",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Senior Corporate Recruiter | CRH Europe",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "İstanbul, Türkiye",
+            "entityUrn": "urn:li:fs_position:(ACoAABd90eoBM0lrSF8hppd_KN5FRW_KQWjgJA0,1795547336)",
+            "geoLocationName": "İstanbul, Türkiye",
+            "geoUrn": "urn:li:fs_geo:102424322",
+            "companyName": "ING Türkiye",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "description": "Senior IT Recruiter &  Diversity and Inclusion Turkey Team Member \n\nWorking & focusing on all kind of IT roles here in ING. I am responsible for the teams where technology and banking applications are developed. IT Core Banking, IT Business Banking Credits, Data Teams, IT Digital Channels, IT-Infrastructure, IT Retail Credits, IT Security & Risk development teams that I am closely working with.\n\nWorking with 7 directors and their +80 chapters. I am recruiting software developers, analysts, network & security engineers, pentesters, IOS and Android mobile developers and etc.\n\nJava Developers\n.Net & C# Developers\nMobile Developers\niOS Developers & Android Developers\nFullstack Developers & Frontend Developers & Backend Developers\nApplication Security Analysts\nPentesters etc.\nSecurity & Network Engineers\nProduct Owners (both for IT and business lines)\nSoftware Architect",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Senior Information Technology Recruiter | AVP ",
+            "region": "urn:li:fs_region:(tr,0)",
+            "companyUrn": "urn:li:fs_miniCompany:516340",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHmhrcADg6jmw/company-logo_"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAABd90eoBM0lrSF8hppd_KN5FRW_KQWjgJA0,1400636975)",
+            "geoLocationName": "Istanbul, Turkey",
+            "companyName": "Ekol Lojistik",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "description": "Working as Senior IT Recruiter & HR Business Partner for Information Technology / R&D Center / Engineering and Innovation accounts. Also recruiting for other accounts  such as Finance & Accounting, Law, Sales & CRM. \n\nI am responsible for the Engineering & Innovation General Directorate which includes 300 employees. There is 3 separate directorates and 16 teams. \n\nI am working closely with Software Development , Integration , Process Development & OPEX , Solution and Process Engineering, IT  System Development, Information Security, Business Analysis, Network Management, Automation Software & System Development, R&D teams.\n\n•\tRecruitment process , Onboarding & Workforce Planning  \n•\tMonthly reporting of our recruitment activities via SAP to board of management\n•\tEmployee Relations\n•\tOrganisation Desing\n•\tPerformance Management\n•\tHR Projects ( Candidate Database, Competency Based Interview Forms, Candidate & Company Evalaution Forms etc.)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "title": "Senior Information Technology Recruiter",
+            "companyUrn": "urn:li:fs_miniCompany:100573",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQHR4VKz9RzUkw/company-logo_"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAABd90eoBM0lrSF8hppd_KN5FRW_KQWjgJA0,1114972689)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:100170895",
+            "companyName": "Manpower Türkiye",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "description": "Main responsibility: Specialized in the recruitment of Sales (Field and Stroes) , Finance and Accounting, Human Resources, Engineering, Procurement and Supply Chain for different level profiles in Manpower Turkey. I have focused on Retail, Health, Audit, Logistics , Export and Import, Pharmaceutical Industries etc.\n\nI was the most productive consultant of 2018 in Manpower Turkey . There were too many KPI’s to determinate this. (Number of interviews , closed positions, customer visit, invoice amounts etc.) I have reached over than 1.5 Million TL invoice during my work period.\n\n- Understanding clients recruitment needs and providing tailor made solutions for each project\n- Account management by means of managing recruitment processes entirely\n- Conducting deep research within the market for the executive search projects\n- Developing and maintaining a valuable candidate network and making continuous market observation\n- CV Screening, pre-interviewing, face-to-face interviews and assessing candidates in cooperation with partners\n- Preparing detailed candidate evaluation reports for shortlisted candidates and conducting reference check operations\n- Finalising the projects, following the relevant contract and keep track of bills for projects",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Recruitment Consultant",
+            "region": "urn:li:fs_region:(tr,7585)",
+            "companyUrn": "urn:li:fs_miniCompany:2219350",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQHxicuNabC0sQ/company-logo_"
+        },
+        {
+            "locationName": "İzmir, Türkiye",
+            "entityUrn": "urn:li:fs_position:(ACoAABd90eoBM0lrSF8hppd_KN5FRW_KQWjgJA0,1986832858)",
+            "geoLocationName": "İzmir, Türkiye",
+            "geoUrn": "urn:li:fs_geo:104162620",
+            "companyName": "Inditex",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Management Trainee | Store Manager ",
+            "region": "urn:li:fs_region:(tr,0)",
+            "companyUrn": "urn:li:fs_miniCompany:14853",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFFiw9GETHCuw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABd90eoBM0lrSF8hppd_KN5FRW_KQWjgJA0,256957662)",
+            "school": {
+                "objectUrn": "urn:li:school:11712",
+                "entityUrn": "urn:li:fs_miniSchool:11712",
+                "active": true,
+                "schoolName": "University of Hradec Králové",
+                "trackingId": "zY/aXMVzTMKata715tWg4Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQGSZQrkWkD6Zw/company-logo_"
+            },
+            "activities": "Particular Project and Statistics projects team leader, Business Administration Community member",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "description": "Exchange Student in Czech Republic",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Univerzita Hradec Králové",
+            "fieldOfStudy": "Business Administration",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:11712"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABd90eoBM0lrSF8hppd_KN5FRW_KQWjgJA0,256958101)",
+            "school": {
+                "objectUrn": "urn:li:school:17385",
+                "entityUrn": "urn:li:fs_miniSchool:17385",
+                "active": true,
+                "schoolName": "Muğla Sıtkı Koçman Üniversitesi",
+                "trackingId": "C1UFt3QcRh6qauYdfUcJhQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQF3AhYeavSxaA/company-logo_"
+            },
+            "activities": "İşletme Topluluğu, Üniversite Voleybol takımı.",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Muğla Sıtkı Koçman Üniversitesi",
+            "fieldOfStudy": "Business Administration",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:17385"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Türkçe",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Gönüllü Okuyucu",
+            "companyName": "GETEM - Boğaziçi Üniversitesi Görme Engelliler Teknoloji Ve Eğitim Merkezi",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "cause": "EDUCATION"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,207 @@
+{
+    "summary": "I am a multi-skilled professional with over 20 years of experience in the industry.\n\nWithin those 20 years, I have acquired a multitude of skills.\n\nAs the current Director of Sales at New Media Services and the former Head of Operations, I am adept at developing and executing strategic sales plans. My communication skills allow me to deliver proposals effectively to my team members and negotiate with clients to close deals.\n\nI also have previous experience in Human Resources, especially in the development and implementation of HR initiatives and systems. I was actively involved in recruitment, the development of training programs, and the review of employment and working conditions to ensure legal compliance.\n\nIn addition to these responsibilities, I find time to pursue and develop my other interests as well. Writing is also something I'm truly passionate about.\n\nReach me on:\nLinkedin Message\nEmail: sur@newmediaservices.com.au\nWebsite: www.newmediaservices.com.au",
+    "industryName": "Information Technology & Services",
+    "lastName": "Urban",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Silvia",
+    "entityUrn": "urn:li:fs_profile:ACoAADXG_mYB3pkyGodsB35wd3lVaMI-3liG5FE",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Boosting Client Growth through Human and AI-Enhanced Outsourcing Services! Let's Connect!",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQGUNw32IZ-DHQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1672745406449?e=1707955200&v=beta&t=5wKJT6OROtDr3ZO2-O9hQtXPafQdvOsHAikw9rxwE5M",
+    "img_200_200": "200_200/0/1672745406449?e=1707955200&v=beta&t=DucC1MNZdKE5c83UyWh2b5CbADUpBklu44DW0Smy75A",
+    "img_400_400": "400_400/0/1672745406449?e=1707955200&v=beta&t=gkZ4V4Jzb1cKvaofgnwW3_wjb4P-_PsKzRtqs2__jfk",
+    "img_800_800": "800_800/0/1672745406449?e=1707955200&v=beta&t=igDbIz8vIjzqzp0tF0aU3BCV7rW3DiDM45Gat_FahyE",
+    "profile_id": "ACoAADXG_mYB3pkyGodsB35wd3lVaMI-3liG5FE",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADXG_mYB3pkyGodsB35wd3lVaMI-3liG5FE",
+    "member_urn": "urn:li:member:902233702",
+    "public_id": "silvia-urban-b9a1a5212",
+    "experience": [
+        {
+            "locationName": "Melbourne, Victoria, Australia",
+            "entityUrn": "urn:li:fs_position:(ACoAADXG_mYB3pkyGodsB35wd3lVaMI-3liG5FE,2266678098)",
+            "geoLocationName": "Melbourne, Victoria, Australia",
+            "geoUrn": "urn:li:fs_geo:100992797",
+            "companyName": "New Media Services Pty Ltd",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "description": "Who We Are\nNew Media Services specializes in delivering intelligent outsourcing services through a combination of machine learning and human-powered activities. We are able to help improve the productivity of your business by providing affordable options and smart customer support services which also help to dramatically improve your bottom line. \n\nWhat We Do\nWe provide you with world class back-end services including an intelligent machine learning communication solution, messaging systems, moderation, live chat, virtual assistants, a multilingual voice, email and text-based customer support. Our flexible and scalable solutions ensure that we can fit any business’ needs.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Sales Director",
+            "region": "urn:li:fs_region:(au,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1129677",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQFyCmhpD5HaZw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAADXG_mYB3pkyGodsB35wd3lVaMI-3liG5FE,2159749211)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Noa Coach - AI Powered Coaching App",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Senior Business Development Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:71645726",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGe3zWBa2JxQw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAADXG_mYB3pkyGodsB35wd3lVaMI-3liG5FE,2160531032)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Noa Coach - AI Powered Coaching App",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Career Coach",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:71645726",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGe3zWBa2JxQw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area",
+            "entityUrn": "urn:li:fs_position:(ACoAADXG_mYB3pkyGodsB35wd3lVaMI-3liG5FE,1916598541)",
+            "geoLocationName": "Amsterdam Area",
+            "geoUrn": "urn:li:fs_geo:90010383",
+            "companyName": "NMS Philippines",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Head of Operations-Europe",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:14388696",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEfJb4Anpx9kw/company-logo_"
+        },
+        {
+            "locationName": "Baguio City, Regione Amministrativa Cordillera, Filippine",
+            "entityUrn": "urn:li:fs_position:(ACoAADXG_mYB3pkyGodsB35wd3lVaMI-3liG5FE,1786151790)",
+            "geoLocationName": "Baguio City, Regione Amministrativa Cordillera, Filippine",
+            "geoUrn": "urn:li:fs_geo:107201521",
+            "companyName": "New Media Services Pty Ltd",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "description": "Recruiting, screening, interviewing, and placing freelancer workers all around the world. \nI also handle employee relations, payroll, benefits, and training. \nAs a Human resources manager, I plan, direct and coordinate the administrative functions of the organization.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "HR Manager",
+            "region": "urn:li:fs_region:(ph,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1129677",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQFyCmhpD5HaZw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADXG_mYB3pkyGodsB35wd3lVaMI-3liG5FE,726791473)",
+            "school": {
+                "objectUrn": "urn:li:school:13853",
+                "entityUrn": "urn:li:fs_miniSchool:13853",
+                "active": true,
+                "schoolName": "Università Cattolica del Sacro Cuore",
+                "trackingId": "uCWmQDG8SwSVmNt4J4tdyQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGGHmU2O4tYlg/company-logo_"
+            },
+            "degreeName": "1° ciclo -  Laurea L",
+            "schoolName": "Università Cattolica del Sacro Cuore",
+            "fieldOfStudy": "Social Sciences and Psychology",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:13853"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

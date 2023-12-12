@@ -1,0 +1,192 @@
+{
+    "summary": "I'm honored that you check out my profile, welcome! \n\nAs you know my name is Nino and I'm working as a Software Specialist at NTT. And one of my responsibilities is to support with your innovation challenges. \n\nBut what challenges? And why NTT? I'll tell you about the what and the why if you stick a little longer! \n\nWhat challenges?\nAt NTT Ltd, a leading global infrastructure and IT services company, we work to solve our customers' biggest challenges and fulfil them through technology and innovation. Whether it's cloud or digital transformation, providing connectivity in unimaginable places, powering the world's biggest sporting events, making the internet safer or managing the planet's internet infrastructure. And now the nicest of all...\n\nWhy NTT?\nInnovation is in our DNA! And this helps us build a more prosperous future today, for everyone. For us, that means enabling experiences that support the growth and transformation of our customers' businesses, making our cities smarter to better serve their citizens and striving to better meet the needs of our planet.\n\nHopefully does this sneak peak gave you a bit of knowledge about how NTT can advise in you're journey.",
+    "industryName": "Information Technology & Services",
+    "lastName": "Vink",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 11,
+        "day": 13
+    },
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Nino",
+    "entityUrn": "urn:li:fs_profile:ACoAACXLr-cBp9k0GcoMly8BYmgYiqNA_XVEkp0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102434816"
+    },
+    "geoLocationName": "Utrecht, Utrecht",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Sales Specialist Software bij NTT",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQHWOAgalojc5Q/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1698947975127?e=1707955200&v=beta&t=i9OpMJGxyDBMx1L8Ti6EOXV6PRoxyM6OxG2DPaQoUbI",
+    "img_200_200": "200_200/0/1698947975127?e=1707955200&v=beta&t=pHf3qvEToi6fYyG_4YzTCY1XRLrOfOE1VacoYWw31xU",
+    "img_400_400": "400_400/0/1698947975127?e=1707955200&v=beta&t=dLcz1-dWyjNgZ6ypVylvFQvFV1ji2sNcRtWCQe7qKzU",
+    "img_712_712": "800_800/0/1698947975127?e=1707955200&v=beta&t=pdn5hYDovxxPC_FB1yffb3FwxRH7z86hr6faU232RxY",
+    "profile_id": "ACoAACXLr-cBp9k0GcoMly8BYmgYiqNA_XVEkp0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACXLr-cBp9k0GcoMly8BYmgYiqNA_XVEkp0",
+    "member_urn": "urn:li:member:634105831",
+    "public_id": "nino-vink-accountmanager-ntt",
+    "experience": [
+        {
+            "locationName": "Barneveld, Gelderland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACXLr-cBp9k0GcoMly8BYmgYiqNA_XVEkp0,2282998078)",
+            "geoLocationName": "Barneveld, Gelderland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101048896",
+            "companyName": "NTT Ltd.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Sales Specialist Software",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:19126858",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_"
+        },
+        {
+            "locationName": "Woerden, Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACXLr-cBp9k0GcoMly8BYmgYiqNA_XVEkp0,1840063956)",
+            "geoLocationName": "Woerden, Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:104370581",
+            "companyName": "OneXillium",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Accountmanager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:26488171",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFHIygJGmFP1A/company-logo_"
+        },
+        {
+            "locationName": "Utrecht en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACXLr-cBp9k0GcoMly8BYmgYiqNA_XVEkp0,1360332350)",
+            "geoLocationName": "Utrecht en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Nefkens Peugeot",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Automotive"
+                ]
+            },
+            "title": "Fleetsales Binnendienst",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:1708411",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFYknyzp1nZ3w/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACXLr-cBp9k0GcoMly8BYmgYiqNA_XVEkp0,1205520467)",
+            "companyName": "Nefkens Peugeot",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Automotive"
+                ]
+            },
+            "title": "Accountmanager Fleetsales",
+            "companyUrn": "urn:li:fs_miniCompany:1708411",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFYknyzp1nZ3w/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACXLr-cBp9k0GcoMly8BYmgYiqNA_XVEkp0,495861648)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "schoolName": "Automotive College Nieuwegein",
+            "fieldOfStudy": "Business Administration / Bedrijfskunde / Business Management / Bedrijfsmanagement"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACXLr-cBp9k0GcoMly8BYmgYiqNA_XVEkp0,818504460)",
+            "school": {
+                "objectUrn": "urn:li:school:558026",
+                "entityUrn": "urn:li:fs_miniSchool:558026",
+                "active": true,
+                "schoolName": "SalesRESPECT®",
+                "trackingId": "qOoNVnnUT1yN3QWBEmdloQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQF-WUWqdXLH8w/company-logo_"
+            },
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "degreeName": "Master",
+            "schoolName": "SalesRESPECT®",
+            "degreeUrn": "urn:li:fs_degree:500",
+            "schoolUrn": "urn:li:fs_miniSchool:558026"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

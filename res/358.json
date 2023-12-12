@@ -1,0 +1,400 @@
+{
+    "summary": "I am a dynamic senior procurement executive with a strong track record in transforming both global & local procurement functions. I am results-oriented and embrace the company's challenges in order to exceed goals, taking in consideration the interdependence of people, processes, technology and the organisation's culture. \n\nMy colleagues describe me as a “getting things done” person who possesses the best combination of strategic thinking, drive to achieve tangible business results and bringing a team together.\n\nSpecialties: \nGlobal Sourcing, Category Strategy Development & Implementation, Suppliers Relationship Management, M&A Post Integration, Target Operating Model Design and Roll-out, Group Scale Leveraging, Negotiations, Tenders",
+    "industryName": "International Trade & Development",
+    "lastName": "Chabrowska",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:141",
+    "firstName": "Malgorzata",
+    "entityUrn": "urn:li:fs_profile:ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102011674"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Head of Procurement",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQGMwt7EHmCpdQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1684307568827?e=1707955200&v=beta&t=HRanh4VROoZt_Uv7sH_r1DLShR14u0ayvWmIghb8pxc",
+    "img_200_200": "200_200/0/1684307568828?e=1707955200&v=beta&t=rUNkaePN10-mR2C93GIuK6H4-STibXZ4SoORyfLZSEA",
+    "img_400_400": "400_400/0/1684307568828?e=1707955200&v=beta&t=YQ9Ho0Eco4yiUq5dtebEx-eE0MmGdHu_SB2TW4zNYzc",
+    "img_800_800": "800_800/0/1684307568828?e=1707955200&v=beta&t=62mB_3eB_BPtbqA04ulao0owW1hhonhqjeAZSYsPlts",
+    "profile_id": "ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI",
+    "member_urn": "urn:li:member:20074039",
+    "public_id": "malgorzata-chabrowska-b078806",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI,2081596468)",
+            "companyName": "Americold Logistics, LLC. (formerly AGRO Merchants Group)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "title": "Senior Procurement Manager - Europe",
+            "companyUrn": "urn:li:fs_miniCompany:3960652",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGLoR0nrAdrng/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Holandia",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI,1604138394)",
+            "geoLocationName": "Amsterdam, North Holland, Holandia",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Swissport",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Airlines/Aviation"
+                ]
+            },
+            "title": "Head of Procurement Northern Europe",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11075",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGGu0kQw4Lung/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI,1158854354)",
+            "companyName": "Pon",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2017
+                }
+            },
+            "description": "●\tDeveloping and execution of procurement category strategies\n●\tContinuously exploring and implementing cost optimization opportunities\n●\tManaging global cross-functional commodity teams across the globe \n●\tConducting competitive bidding processes, commercial negotiations, establishing new suppliers, managing commercial relationships with suppliers\n●\tDriving, managing and executing group RFQ (Request for quotations) initiatives\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "International Trade and Development"
+                ]
+            },
+            "title": "Global Category Manager",
+            "companyUrn": "urn:li:fs_miniCompany:383904",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEJoc92mQJP5A/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI,30352658)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Clondalkin Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2007
+                }
+            },
+            "description": "Procurement:\n\n●\tProfessionalized the procurement function. Introduced and lead the transition into global procurement org. structure. \n●\tCreated spend transparency.\n●\tManaging various Group Categories (negotiations with suppliers, contract renewals, new sourcing)\n●\tOversee procurement activity in all locations to ensure that procurement activities are in accordance with policy and best practice guidance\n●\tKey supplier relationship management and cooperation in terms of innovation\n●\tDriving, managing and executing group RFQ (Request for quotations) initiatives\n●\tChange management with implementing, rolling out and changing scope of a procurement processes and savings initiatives\n\n\nInsurance:\n•\tAnalyze trends in the insurance market and actively support the policy renewal process;\n•\tMonitor the European insurance portfolio, and pro-actively advise improvement measures while building relationship with brokers and insurers to ensure smoothly running program;\n•\tExecute an efficient insurance claims management process;\n•\tOrganize, execute and report on insurance audits (factories).\n\n\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Packaging and Containers"
+                ]
+            },
+            "title": "Group Procurement and Insurance Manager",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:88817",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHHKg3nDHQi7Q/company-logo_"
+        },
+        {
+            "locationName": "Gdansk, Pomeranian District, Poland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI,30353122)",
+            "geoLocationName": "Gdansk, Pomeranian District, Poland",
+            "geoUrn": "urn:li:fs_geo:104070045",
+            "companyName": "Szkola Jezykow Obcych Profi-Lingua Sp. J",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2004
+                }
+            },
+            "description": "•\tResponsible for setting up, managing local operations and growth for three new Language Center; \n•\tSet annual strategic plan for three new business units; \n•\tHR management (80 FTE’s, 8 direct reports); \n•\tBudget Allocation, control and forecast; \n•\tCreating and monitoring internal policies and processes; \n•\tAchievements: Overachieved yearly growth -- registrations by 30% (first year).\n",
+            "title": "Managing Director (Three sites: 2 x Gdansk, Gdynia)",
+            "region": "urn:li:fs_region:(pl,8320)"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI,161497116)",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "description": "ICF accredited coach training",
+            "schoolName": "International Coach Academy",
+            "fieldOfStudy": "coaching"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI,93210674)",
+            "school": {
+                "objectUrn": "urn:li:school:19926",
+                "entityUrn": "urn:li:fs_miniSchool:19926",
+                "active": true,
+                "schoolName": "The London School of Economics and Political Science (LSE)",
+                "trackingId": "S2Pg+EmHRSuoGA3C5kmBPg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEmNyPMuyVfyQ/company-logo_"
+            },
+            "activities": "Main subjects: Financial reporting, Financial Management, Valuation and Securities Analysis, Accounting",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "degreeName": "Diploma",
+            "schoolName": "LSE",
+            "fieldOfStudy": "Finance",
+            "schoolUrn": "urn:li:fs_miniSchool:19926"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI,16512409)",
+            "school": {
+                "objectUrn": "urn:li:school:15995",
+                "entityUrn": "urn:li:fs_miniSchool:15995",
+                "active": true,
+                "schoolName": "University of Gdansk",
+                "trackingId": "zQypdZw8SQOtAcfnTiBCZA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQEGPPi1muKVZA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            },
+            "degreeName": "Masters",
+            "schoolName": "University of Gdansk",
+            "fieldOfStudy": "Organization and Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15995"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Polish",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [
+        {
+            "date": {
+                "month": 8,
+                "year": 2014,
+                "day": 12
+            },
+            "name": "Do you want to be a boss or a leader?",
+            "publisher": "ICF Blog",
+            "url": "http://coachfederation.org/blog/index.php/3129/",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Malgorzata",
+                        "lastName": "Chabrowska",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI",
+                        "occupation": "Head of Procurement",
+                        "objectUrn": "urn:li:member:20074039",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI",
+                        "publicIdentifier": "malgorzata-chabrowska-b078806",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1684307568827?e=1707955200&v=beta&t=HRanh4VROoZt_Uv7sH_r1DLShR14u0ayvWmIghb8pxc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1684307568828?e=1707955200&v=beta&t=rUNkaePN10-mR2C93GIuK6H4-STibXZ4SoORyfLZSEA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1684307568828?e=1707955200&v=beta&t=YQ9Ho0Eco4yiUq5dtebEx-eE0MmGdHu_SB2TW4zNYzc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1684307568828?e=1707955200&v=beta&t=62mB_3eB_BPtbqA04ulao0owW1hhonhqjeAZSYsPlts",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQGMwt7EHmCpdQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "w8fih9L4SG2QPVATP7Xxtw=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 5,
+                "year": 2014,
+                "day": 10
+            },
+            "name": "Do you act as you feel?",
+            "publisher": "ICF blog",
+            "url": "http://coachfederation.org/blog/index.php/2796/",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Malgorzata",
+                        "lastName": "Chabrowska",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI",
+                        "occupation": "Head of Procurement",
+                        "objectUrn": "urn:li:member:20074039",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI",
+                        "publicIdentifier": "malgorzata-chabrowska-b078806",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1684307568827?e=1707955200&v=beta&t=HRanh4VROoZt_Uv7sH_r1DLShR14u0ayvWmIghb8pxc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1684307568828?e=1707955200&v=beta&t=rUNkaePN10-mR2C93GIuK6H4-STibXZ4SoORyfLZSEA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1684307568828?e=1707955200&v=beta&t=YQ9Ho0Eco4yiUq5dtebEx-eE0MmGdHu_SB2TW4zNYzc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1684307568828?e=1707955200&v=beta&t=62mB_3eB_BPtbqA04ulao0owW1hhonhqjeAZSYsPlts",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQGMwt7EHmCpdQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "w8fih9L4SG2QPVATP7Xxtw=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAEyTjcB3X7HPOR2e0jhAiVJWsGLeXW94EI"
+                }
+            ]
+        }
+    ],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Human Resources and Volunteers Coordination",
+            "companyName": "AlphaBet Club",
+            "cause": "EDUCATION",
+            "description": "The AlphaBet Club is an international not-for-profit organization, dedicated to break the cycle of poverty for children through education.  The charity funds schools and educational programs that would otherwise be out of reach for many children.   Fully ANBI certified, operating in The Netherlands, Spain, India and United States, the AlphaBet Club is funded by proceeds from \n[FUN]draising events as well as donations and sponsorships.  \n\nCheck our LinkedIn page & follow us: www.linkedin.com/company/AlphaBet-Club\n\nIn my role I support Human Resources activities so that eventually will help us achieve our mission.\n\n",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:5227529",
+                    "entityUrn": "urn:li:fs_miniCompany:5227529",
+                    "name": "AlphaBet Club",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630526186228/alphabet_club_logo?e=1710374400&v=beta&t=mxnXfEsA1bT7tIcn0rTi8domJCqV1gHERWIvE5n6eOA",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630526186228/alphabet_club_logo?e=1710374400&v=beta&t=nWCN-BINja5oO6Ro1uYoTo63He7ipvdMC0-S1GQxWT0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630526186228/alphabet_club_logo?e=1710374400&v=beta&t=QfKQsw7Xt9MQ53bFjJfAt8kKiQN5dbrmziUI2YsNH5E",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFpkRnnSW-MDQ/company-logo_"
+                        }
+                    },
+                    "universalName": "alphabet-club",
+                    "dashCompanyUrn": "urn:li:fsd_company:5227529",
+                    "trackingId": "MDu0Em3sQBOv9/5U6qmnCg=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5227529"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

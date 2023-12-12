@@ -1,0 +1,163 @@
+{
+    "industryName": "Food & Beverages",
+    "lastName": "de Roode",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:34",
+    "firstName": "Elenna",
+    "entityUrn": "urn:li:fs_profile:ACoAAAep1DMBj8dveV0_fCo8AR-v2vbvw8h5mvE",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101461601"
+    },
+    "geoLocationName": "The Hague, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Geregistreerd diëtist bij Gezond Leven Dietisten",
+    "profile_id": "ACoAAAep1DMBj8dveV0_fCo8AR-v2vbvw8h5mvE",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAep1DMBj8dveV0_fCo8AR-v2vbvw8h5mvE",
+    "member_urn": "urn:li:member:128570419",
+    "public_id": "elenna-de-roode-21708437",
+    "experience": [
+        {
+            "locationName": "van Hoytemastraat 26, Den Haag",
+            "entityUrn": "urn:li:fs_position:(ACoAAAep1DMBj8dveV0_fCo8AR-v2vbvw8h5mvE,344936992)",
+            "geoLocationName": "van Hoytemastraat 26, Den Haag",
+            "companyName": "Gezond Leven Diëtisten",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2012
+                }
+            },
+            "description": "De eerste voedingsadvieswinkel is geopend! Hier kunnen mensen binnen komen lopen voor voedingsadvies en/of een consult. Daarnaast verkopen we producten om een gezonde leefstijl te ondersteunen zoals supplementen. \n\nDaarnaast heeft dietistenpraktijk van Wezel een samenenwerking met Nutricia. Om meer inzicht te krijgen in het voedingspatroon van peuters word de Eet Compleet Test uitgevoerd op kinderdagverblijven door heel Nederland. Mijn taak is het uitvoeren van deze Test, het verwerken van de gegevens en het terugkoppelen van de resultaten naar de locatie's toe. Daarnaast verzorg ik ouderavonden over gezonde voeding en inloopspreekuren op kinderdagverblijven.",
+            "title": "Dietist"
+        },
+        {
+            "locationName": "Den Haag ",
+            "entityUrn": "urn:li:fs_position:(ACoAAAep1DMBj8dveV0_fCo8AR-v2vbvw8h5mvE,1195861122)",
+            "geoLocationName": "Den Haag ",
+            "companyName": "Gezond Leven Dietisten",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2011
+                }
+            },
+            "description": "Het adviseren, stimuleren en coachen van clienten om gezonder te leven door middel van voedingsadvies, gedragslessen en workshops. Mijn specialisatie is overgewicht, jongeren, darmklachten, mindfullnes en low carb. \n\n\n\n\n\n",
+            "title": "Geregistreerd diëtist"
+        },
+        {
+            "locationName": "Zoetermeer/Zevenhuizen",
+            "entityUrn": "urn:li:fs_position:(ACoAAAep1DMBj8dveV0_fCo8AR-v2vbvw8h5mvE,219648921)",
+            "geoLocationName": "Zoetermeer/Zevenhuizen",
+            "companyName": "dietistenpraktijk Vitalize",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2011
+                }
+            },
+            "description": "Naast het opstellen van behandelplannen en het geven van voedingsadviezen aan cliënten heb ik dit jaar de groepsvoorlichting van de ' Beweegkuur'  mogen geven. Daarnaast heb ik de rol van 'leefstijladviseur' tijdens dit project op mij genomen.",
+            "title": "Dietist"
+        },
+        {
+            "locationName": "Den Haag",
+            "entityUrn": "urn:li:fs_position:(ACoAAAep1DMBj8dveV0_fCo8AR-v2vbvw8h5mvE,243481285)",
+            "geoLocationName": "Den Haag",
+            "companyName": "Muldersport",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2006
+                }
+            },
+            "description": "In 2010 zwemleider ABC diploma behaald waardoor ik bevoegd ben zwemles te mogen geven aan zowel kinderen als volwassenen. Daarnaast heb ik ervaring met het geven van aquarobics en zwangerschapszwemmen.",
+            "title": "Zwemlerares"
+        },
+        {
+            "locationName": "Den Haag",
+            "entityUrn": "urn:li:fs_position:(ACoAAAep1DMBj8dveV0_fCo8AR-v2vbvw8h5mvE,306439265)",
+            "geoLocationName": "Den Haag",
+            "companyName": "Tandarstenpraktijk Kruizinga",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2012
+                }
+            },
+            "description": "- assisteren van de tandarts aan de stoel\n- uitvoeren van administratieve werkzaamheden\n- inplannen afspraken\n- reinigen praktijkruimte",
+            "title": "Tandartsassistente"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAep1DMBj8dveV0_fCo8AR-v2vbvw8h5mvE,873266833)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "description": "Voor een goede diagnose en behandeling van vermeende voedselallergie is de diëtist een onmisbare schakel. \nHet is als het ontrafelen van een puzzel voor de juiste diagnose en behandelplan. ",
+            "degreeName": "Post HBO",
+            "schoolName": "Pit Actief",
+            "fieldOfStudy": "Voedselallergie"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAep1DMBj8dveV0_fCo8AR-v2vbvw8h5mvE,702511198)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "description": "Diarree en obstipatie zijn vervelende klachten die bij mensen van alle leeftijden voorkomen. De oorzaak is niet eenvoudig te achterhalen. Die kan liggen in de voeding, in het maagdarmkanaal, in effecten van medicatie of bijvoorbeeld psychische littekens. Een differentiaal diagnose geeft goed inzicht in de achterliggende problematiek en maakt een adequate interventie mogelijk.",
+            "schoolName": "PIT Actief",
+            "fieldOfStudy": "Leergang Diarree en Obstipatie"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAep1DMBj8dveV0_fCo8AR-v2vbvw8h5mvE,492246297)",
+            "activities": "Door mindful te eten krijg je meer inzicht in je denkpatronen en welke gedrag hier uit voort komt. Door oefeningen krijg je grip op je eetgedrag. ",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "schoolName": "Grip op eetbuien -Artifa "
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

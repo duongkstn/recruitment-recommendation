@@ -1,0 +1,391 @@
+{
+    "summary": "👋🏼 Hi, leuk om je te ontmoeten! Ik ben Robin, een bevlogen professional die al ruim 10 jaar meedraait in de creatieve arena van design, content en marketing. Mijn enthousiasme en ondernemingszin zijn als de startblokken van een sprint, altijd klaar voor de volgende uitdaging.\n\nMijn kracht? Zie het als mijn vermogen om als een teamcoach op te treden. Ik ben ervan overtuigd dat succes ontstaat door samen te werken en waardevolle verbindingen te leggen. Net als in een sportteam, waar elke speler bijdraagt aan het gezamenlijke doel, geloof ik in het samen ontdekken, creëren en benutten van kansen voor persoonlijke en zakelijke groei.\n\nOf je nu een creatieve sparringpartner zoekt voor je volgende designproject, behoefte hebt aan een winnende strategie voor je marketingcampagne, of gewoon wilt brainstormen over het optimaliseren van je digitale spel, ik sta voor je klaar om op verschillende fronten ondersteuning te bieden en waarde toe te voegen aan jouw plannen.\n\nIk ben een gedreven professional die niet alleen mikt op succesvolle projecten, maar ook op een positieve impact op de mensen waarmee ik samenwerk. Vandaar dat ik geloof in de kracht van groei en ontwikkeling, zowel op professioneel als persoonlijk vlak, en vind ik het geweldig om anderen te inspireren en te motiveren om hun volledige potentieel te bereiken.\n\nLaten we de wedstrijd aangaan en samen de mogelijkheden verkennen om jouw dromen en doelen te behalen. Stuur me gerust een berichtje, dan bespreken we hoe ik jouw team kan versterken 🚀\n\nIk kijk ernaar uit om van je te horen! 👉🏼 https://linktr.ee/progressionist\n\n✔️ Ondernemer\n✔️ Brand designer\n✔️ Graphic designer\n✔️ Web designer\n✔️ Copywriter\n✔️ Online marketeer\n✔️ Content creator",
+    "industryName": "Computer Software",
+    "lastName": "Grunder",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Robin",
+    "entityUrn": "urn:li:fs_profile:ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100522236"
+    },
+    "geoLocationName": "Zeist, Utrecht",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Online winnaars creëren, dat is mijn passie! 🫱🏼‍🫲🏽",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQGn8Z7uxVicKQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1685621679175?e=1707955200&v=beta&t=YdUa-WzjcjwqEU50mACwswa4yDUaBl04dvizzaLaMsw",
+    "img_200_200": "200_200/0/1685621679175?e=1707955200&v=beta&t=1TyB4Gs0w5q0LEFPXy74XpBV6dhZh-6k35h3mnvnqBM",
+    "img_400_400": "400_400/0/1685621679175?e=1707955200&v=beta&t=sWUsiwQCdjosGSZOHMDWF7Pt9QVOHh210XlFJ13_rY8",
+    "img_800_800": "800_800/0/1685621679175?e=1707955200&v=beta&t=T3Q9vHeuSM7lIhzMt2IhBglx4CP766ggcxroT2d8DLk",
+    "profile_id": "ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo",
+    "member_urn": "urn:li:member:635922342",
+    "public_id": "robingrunder",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo,1373752693)",
+            "companyName": "Maintain Design",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2017
+                }
+            },
+            "description": "Met Maintain help ik met ons team ondernemers samen met hun online uitstraling, zichtbaarheid en groei. Onze missie is om elke ondernemer de enorme kansen van online te laten ervaren.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Design"
+                ]
+            },
+            "title": "Mede-eigenaar",
+            "companyUrn": "urn:li:fs_miniCompany:17890983",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEgIREDC5KB1Q/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "projects": [
+                "urn:li:fs_project:(ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo,1500740592)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo,557738094)",
+            "school": {
+                "objectUrn": "urn:li:school:15431",
+                "entityUrn": "urn:li:fs_miniSchool:15431",
+                "active": true,
+                "schoolName": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+                "trackingId": "A4Q5SoDyRoCqHTYUEZziiA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQE5MUvxbWmHLg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100139",
+            "degreeName": "Bachelor of Science - BS",
+            "schoolName": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+            "fieldOfStudy": "Communication & Multimedia Design",
+            "degreeUrn": "urn:li:fs_degree:400",
+            "schoolUrn": "urn:li:fs_miniSchool:15431"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Skillsology",
+            "name": "Web Design",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:5004026",
+                "entityUrn": "urn:li:fs_miniCompany:5004026",
+                "name": "Skillsology",
+                "showcase": false,
+                "active": false,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631332323223?e=1710374400&v=beta&t=rXnJKXNBoWdB-cIL4a_YrhFZSBuRFSj_MwaV2M6cnvM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631332323223?e=1710374400&v=beta&t=nWYOc1_2z6Bp7JnTcAm1eHexSc1IPYFre9Ofx1O4RrY",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631332323223?e=1710374400&v=beta&t=KUtom-F55LshW7MomAa6dW-e_BMMOHs9-ZOWMZqznh4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHfuWDInFIB2Q/company-logo_"
+                    }
+                },
+                "universalName": "skillsology",
+                "dashCompanyUrn": "urn:li:fsd_company:5004026",
+                "trackingId": "5IfY7b2lS1e55/fjaT52VA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5004026"
+        },
+        {
+            "authority": "Excel with Business",
+            "name": "App Design",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:538096",
+                "entityUrn": "urn:li:fs_miniCompany:538096",
+                "name": "Excel with Business",
+                "showcase": false,
+                "active": false,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630576846239/excel_with_business_logo?e=1710374400&v=beta&t=pCyVAITyuvCaWmJS52GgaYSnzRytIgLOIUE5z29BGMA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630576846239/excel_with_business_logo?e=1710374400&v=beta&t=VmIqbczvD_sYjXughvN_SjQ10i2il_3lHupHgIBV3GM",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630576846239/excel_with_business_logo?e=1710374400&v=beta&t=0KbK0iV0dg_88GnPPOmCAMiluhrYouHSTIiFZTuXszE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQGU_35Qs1yYnw/company-logo_"
+                    }
+                },
+                "universalName": "excel-with-business",
+                "dashCompanyUrn": "urn:li:fsd_company:538096",
+                "trackingId": "ceCSqB2gS4mTlitEXsJ/Tg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:538096"
+        },
+        {
+            "authority": "StudentsInc",
+            "name": "AOEB",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:15261390",
+                "entityUrn": "urn:li:fs_miniCompany:15261390",
+                "name": "StudentsInc",
+                "showcase": false,
+                "active": false,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631337747480?e=1710374400&v=beta&t=3b00e3I59RFCkAUKqIKx4baiCiHntf8N223Y-vq2wgY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631337747480?e=1710374400&v=beta&t=m-uGSgCPHaO9pHp8lIc-U38caiYN9F8ek5HJ5wLbUQ4",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631337747480?e=1710374400&v=beta&t=Zqzxwi--4hV4fPe24Rx9roql2qDyqwl313q_QOngEWM",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFOCvNouKbElw/company-logo_"
+                    }
+                },
+                "universalName": "studentsinc",
+                "dashCompanyUrn": "urn:li:fsd_company:15261390",
+                "trackingId": "GaPOcXdkQbqx272oOrLWUQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:15261390"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Robin",
+                        "lastName": "Grunder",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo",
+                        "occupation": "Online winnaars creëren, dat is mijn passie! 🫱🏼‍🫲🏽",
+                        "objectUrn": "urn:li:member:635922342",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1685625061490?e=1707955200&v=beta&t=GNzbnQvm1kZ2b_aKfsBj51DwcnYVJgK7Xtxfodxofrs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1685625061490?e=1707955200&v=beta&t=DugFNaTMSF4CeNpaxgaaC8Hl1ZGQfdJmXufNFBadgbg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQG644gV17jl3g/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "robingrunder",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1685621679175?e=1707955200&v=beta&t=YdUa-WzjcjwqEU50mACwswa4yDUaBl04dvizzaLaMsw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1685621679175?e=1707955200&v=beta&t=1TyB4Gs0w5q0LEFPXy74XpBV6dhZh-6k35h3mnvnqBM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1685621679175?e=1707955200&v=beta&t=sWUsiwQCdjosGSZOHMDWF7Pt9QVOHh210XlFJ13_rY8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1685621679175?e=1707955200&v=beta&t=T3Q9vHeuSM7lIhzMt2IhBglx4CP766ggcxroT2d8DLk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQGn8Z7uxVicKQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "A6d3mdcHTZS5JSypS2zLXQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo,1095235973,302163636)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo"
+                }
+            ],
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "description": "Inmiddels heb ik meer dan 25 HBO en MBO stagiaires opgeleid bij Maintain Design en HUSTL.",
+            "title": "Praktijkopleider stagiaires"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo,557738094)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Robin",
+                        "lastName": "Grunder",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo",
+                        "occupation": "Online winnaars creëren, dat is mijn passie! 🫱🏼‍🫲🏽",
+                        "objectUrn": "urn:li:member:635922342",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1685625061490?e=1707955200&v=beta&t=GNzbnQvm1kZ2b_aKfsBj51DwcnYVJgK7Xtxfodxofrs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1685625061490?e=1707955200&v=beta&t=DugFNaTMSF4CeNpaxgaaC8Hl1ZGQfdJmXufNFBadgbg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQG644gV17jl3g/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "robingrunder",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1685621679175?e=1707955200&v=beta&t=YdUa-WzjcjwqEU50mACwswa4yDUaBl04dvizzaLaMsw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1685621679175?e=1707955200&v=beta&t=1TyB4Gs0w5q0LEFPXy74XpBV6dhZh-6k35h3mnvnqBM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1685621679175?e=1707955200&v=beta&t=sWUsiwQCdjosGSZOHMDWF7Pt9QVOHh210XlFJ13_rY8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1685621679175?e=1707955200&v=beta&t=T3Q9vHeuSM7lIhzMt2IhBglx4CP766ggcxroT2d8DLk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQGn8Z7uxVicKQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "A6d3mdcHTZS5JSypS2zLXQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo,1500740592,244749069)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACXnZ6YBhWhNYcagnc6Uku3J1vG76sqVCTo"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "description": "Docent bij een cursus Design Thinking voor andere docenten van de Hogeschool Utrecht (HU).",
+            "title": "Design thinking cursus"
+        }
+    ]
+}

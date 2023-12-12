@@ -1,0 +1,672 @@
+{
+    "summary": "I am a young professional who is specialized in (international) sales and account management. Because of my ambitions, enthusiasm and perseverance I am good at motivating and inspiring others. I see myself as a social, flexible and eager to learn person who likes to look for new challenges.",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Hermsen",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 10,
+        "day": 20
+    },
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Kirsten",
+    "entityUrn": "urn:li:fs_profile:ACoAABq-8eABdX_D6D-cEsiPpQeGe64h98mLDlg",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100891714"
+    },
+    "geoLocationName": "Nijmegen, Gelderland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Accountmanager Education at Maandag®",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQHx4R1CQP4Fuw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1676556434196?e=1707955200&v=beta&t=SEbnnMzxM9vPm3XzkhNnOmVEOMoHKrCyhcbK93BOEEg",
+    "img_200_200": "200_200/0/1676556434196?e=1707955200&v=beta&t=6O14yeUqjVoC1IJHnriHMMhKb0pYfaWGlnhvwdFDlUY",
+    "img_400_400": "400_400/0/1676556434196?e=1707955200&v=beta&t=oUJTvXLEelcDspsthA2n5dKr2ysczV9ZQqUn-jiSpdE",
+    "img_800_800": "800_800/0/1676556434196?e=1707955200&v=beta&t=MsjopL4BwZ9LhHezdxRaAuP2rOA69fv7p83GxRYne1w",
+    "profile_id": "ACoAABq-8eABdX_D6D-cEsiPpQeGe64h98mLDlg",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABq-8eABdX_D6D-cEsiPpQeGe64h98mLDlg",
+    "member_urn": "urn:li:member:448721376",
+    "public_id": "kirstenhermsen",
+    "experience": [
+        {
+            "locationName": "Arnhem, Gelderland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABq-8eABdX_D6D-cEsiPpQeGe64h98mLDlg,2120344411)",
+            "geoLocationName": "Arnhem, Gelderland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100101743",
+            "companyName": "Maandag®",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Accountmanager onderwijs",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:211876",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQG_ysWQVqnsAw/company-logo_"
+        },
+        {
+            "locationName": "Apeldoorn, Gelderland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABq-8eABdX_D6D-cEsiPpQeGe64h98mLDlg,1985586751)",
+            "geoLocationName": "Apeldoorn, Gelderland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102395014",
+            "companyName": "HappySoaps",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Cosmetics"
+                ]
+            },
+            "title": "Accountmanager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:67218895",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGFdB0n-GQVnw/company-logo_"
+        },
+        {
+            "locationName": "Venlo, Limburg, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABq-8eABdX_D6D-cEsiPpQeGe64h98mLDlg,1908947824)",
+            "geoLocationName": "Venlo, Limburg, Nederland",
+            "geoUrn": "urn:li:fs_geo:100837545",
+            "companyName": "Vitacress Real",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Food Production"
+                ]
+            },
+            "title": "Afstudeerstage Sales",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9216163",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEaDFdYreeCaw/company-logo_"
+        },
+        {
+            "locationName": "Arnhem, Gelderland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABq-8eABdX_D6D-cEsiPpQeGe64h98mLDlg,1795921679)",
+            "geoLocationName": "Arnhem, Gelderland, Netherlands",
+            "companyName": "Hoogwegt",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Food Production"
+                ]
+            },
+            "title": "Logistic employee",
+            "companyUrn": "urn:li:fs_miniCompany:134654",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHmqOttmqizDg/company-logo_"
+        },
+        {
+            "locationName": "Venray, Limburg, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABq-8eABdX_D6D-cEsiPpQeGe64h98mLDlg,1729527270)",
+            "geoLocationName": "Venray, Limburg, Nederland",
+            "geoUrn": "urn:li:fs_geo:106775193",
+            "companyName": "Totalplast BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Packaging and Containers"
+                ]
+            },
+            "title": "Sales & key accountmanager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1840509",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEqbtfK7v8axQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABq-8eABdX_D6D-cEsiPpQeGe64h98mLDlg,535141413)",
+            "school": {
+                "objectUrn": "urn:li:school:15429",
+                "entityUrn": "urn:li:fs_miniSchool:15429",
+                "active": true,
+                "schoolName": "HAN University of Applied Sciences",
+                "trackingId": "wg9p/Uo8SOWMm13Yj1iTtA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQE_-3BSObKKhw/company-logo_"
+            },
+            "activities": "Participant in the U.S. ICSC competition 2021. \nParticipant in the U.S. UWU sales competition 2021. \nMember of study society Center.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "degreeName": "Bachelor",
+            "schoolName": "International sales and marketing",
+            "fieldOfStudy": "International marketing and sales, specialism: international sales",
+            "schoolUrn": "urn:li:fs_miniSchool:15429"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABq-8eABdX_D6D-cEsiPpQeGe64h98mLDlg,304175760)",
+            "school": {
+                "objectUrn": "urn:li:school:4068015",
+                "entityUrn": "urn:li:fs_miniSchool:4068015",
+                "active": true,
+                "schoolName": "Rijn IJssel",
+                "trackingId": "sotdqc/4QaylAcL28wcj4g==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQF82Ob6ywkMfQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "description": "International Business & Marketing.\n\nInternational Business & Marketing is een opleiding waar ambitieuze studenten een internationale carrière ambiëren. Ik leer er over zakendoen in het buitenland en producten en diensten in de markt zetten. Natuurlijk leer ik bij deze opleiding ook om moderne vreemde talen te gebruiken in het zakenleven.\n  \nInternational Business & Marketing kent een zeer internationaal karakter. Ze geven bijvoorbeeld ongeveer 60% van hun lessen in een andere taal dan de Nederlandse en bieden in het eerste jaar zowel Engels als Duits en Spaans als moderne vreemde taal aan. Engels is verplicht. Na de eerste onderwijsperiode van 10 weken maakt elke student een keuze voor Duits of Spaans als tweede moderne vreemde taal.",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101478",
+            "degreeName": "Marketing en communicate niveau 4",
+            "schoolName": "Rijn IJssel",
+            "fieldOfStudy": "International marketing",
+            "degreeUrn": "urn:li:fs_degree:0",
+            "schoolUrn": "urn:li:fs_miniSchool:4068015"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABq-8eABdX_D6D-cEsiPpQeGe64h98mLDlg,304179480)",
+            "activities": "Examencommissie ",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "description": "Binnen vier jaar mijn vmbo GTL Diploma gehaald.\nDe talen Nederlands, Duits en Engels geleerd.\nSector Economie",
+            "degreeName": "Vmbo-t",
+            "schoolName": "Mondial College Lindenholt",
+            "fieldOfStudy": "Economie"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Duits",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Engels",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Spaans",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Mondial college lindenhold",
+            "name": "ECDL diploma",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2012
+                }
+            }
+        },
+        {
+            "authority": "Mondial college Lindenhold",
+            "name": "vmbo GTL",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            }
+        },
+        {
+            "authority": "BTEC",
+            "name": "BTEC",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2740795",
+                "entityUrn": "urn:li:fs_miniCompany:2740795",
+                "name": "DTX",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1637084342972/btec_logo?e=1710374400&v=beta&t=8L06k3pldRl-7cCsH0ya2mgRKSQojdkBoFfXaLuEiUQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1637084342972/btec_logo?e=1710374400&v=beta&t=9wf4XOCA4haxQh2Bu2PRq6bQoDahqVSiO55DvTirivA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1637084342972/btec_logo?e=1710374400&v=beta&t=uXWJ6BUR_cvqH5HkKINqCrMQuLfhJZUzMuEg49JYfyQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEhBnA-dGA_Vg/company-logo_"
+                    }
+                },
+                "universalName": "dtxae",
+                "dashCompanyUrn": "urn:li:fsd_company:2740795",
+                "trackingId": "lRJd0/gzTr+25uwJyhaN1A=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2740795"
+        },
+        {
+            "authority": "Rijn IJssel",
+            "name": "medewerker marketing en communicatie",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:107295",
+                "entityUrn": "urn:li:fs_miniCompany:107295",
+                "name": "Rijn IJssel",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1686751223048?e=1710374400&v=beta&t=9bZrDNYAdQj83WeXPz2kaFXxxppcyFWfz3JOm3a7ZQo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1686751223048?e=1710374400&v=beta&t=x3onBIa9eSAgY1IriLk0j-gViZKfuWUKKJ7hpJROuU4",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1686751223049?e=1710374400&v=beta&t=601A6kyWpwIvqPxsY-ymuaSydxai7_c3N1-MWhJ5QQY",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQF82Ob6ywkMfQ/company-logo_"
+                    }
+                },
+                "universalName": "rijn-ijssel",
+                "dashCompanyUrn": "urn:li:fsd_company:107295",
+                "trackingId": "f6vKu8s/Re+VQ7Qy4KIAhg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:107295"
+        },
+        {
+            "authority": "Hogeschool van Arnhem en Nijmegen",
+            "name": "Propedeuse Commerciële economie",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:12219",
+                "entityUrn": "urn:li:fs_miniCompany:12219",
+                "name": "HAN University of Applied Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630458623850/hogeschool_van_arnhem_en_nijmegen_logo?e=1710374400&v=beta&t=GRoVINmYTMnf-4nsvTvXfuU-Ox0cRfJpv4RXjKRE8o4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630458623850/hogeschool_van_arnhem_en_nijmegen_logo?e=1710374400&v=beta&t=pV5eNurv3Ykgf6MhnNrfL0sUELPsQmp2X9xlSi_T-pM",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630458623850/hogeschool_van_arnhem_en_nijmegen_logo?e=1710374400&v=beta&t=ttFwx0Y9-dMh_qDNmyr_XUt2mTJf2Z-dz0hr2ChkbvY",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQE_-3BSObKKhw/company-logo_"
+                    }
+                },
+                "universalName": "hogeschool-van-arnhem-en-nijmegen",
+                "dashCompanyUrn": "urn:li:fsd_company:12219",
+                "trackingId": "LpPOISXpTsSmBagvbKQq6Q=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:12219"
+        },
+        {
+            "authority": "Escuela Delengua",
+            "name": "Spanish level A1",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:18363241",
+                "entityUrn": "urn:li:fs_miniCompany:18363241",
+                "name": "Escuela Delengua",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631325632541?e=1710374400&v=beta&t=vsEiHSFlqZYTW7ipmJUCiFueOnoXTDVcH7kPEn3JE6w",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631325632541?e=1710374400&v=beta&t=EahnrwXG0rTq5NiHWwFjgy6WvHhIajDfxWpPa-pnrMM",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631325632541?e=1710374400&v=beta&t=dADAXf6mgt4hheIfJ4t6W4G-Bplmj88Yzpsy77I6jqw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE7ji4tVhXs0w/company-logo_"
+                    }
+                },
+                "universalName": "escuela-delengua",
+                "dashCompanyUrn": "urn:li:fsd_company:18363241",
+                "trackingId": "VDHBIl+WT9KDQknpRYWiFw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:18363241"
+        },
+        {
+            "authority": "Google",
+            "name": "De digitale werkplaats",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631311446380?e=1710374400&v=beta&t=_0gnABnVbe_EqmnW25OJ9a8a3eJJBiPUX4scKbZ3nJg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631311446380?e=1710374400&v=beta&t=AqetEFJOXMBuYXBnOT-x9YqzHuTxD8A-bLLLA4QAPcg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                    }
+                },
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "mrbhNKklTQCGFiehAFaIrw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1441"
+        },
+        {
+            "authority": "Professional Capital | Sales & Account Management",
+            "name": "Deelcertificaat masterclass presentatievaardigheid en commerciële voorstellen",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:883714",
+                "entityUrn": "urn:li:fs_miniCompany:883714",
+                "name": "Professional Capital | Sales & Account Management",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631320356101?e=1710374400&v=beta&t=_pZe4djssa94o51eBjVNoSi9O1ffF0Zg0y-I_92utHo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631320356102?e=1710374400&v=beta&t=7ijfvtQU6d6bMx5uyupD3UGBpv0NpDQH8jVgsHKJjl0",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631320356102?e=1710374400&v=beta&t=Oa4sR3HevnpwxJR9KXY8KEN_McTx9AR2FnZWL7onjz4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGd_wrDneEbiA/company-logo_"
+                    }
+                },
+                "universalName": "professional-capital",
+                "dashCompanyUrn": "urn:li:fsd_company:883714",
+                "trackingId": "NsHiHHiUSJ+rJv47hnn0lw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:883714"
+        },
+        {
+            "authority": "Google",
+            "name": "Google Analytics for Beginners",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631311446380?e=1710374400&v=beta&t=_0gnABnVbe_EqmnW25OJ9a8a3eJJBiPUX4scKbZ3nJg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631311446380?e=1710374400&v=beta&t=AqetEFJOXMBuYXBnOT-x9YqzHuTxD8A-bLLLA4QAPcg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                    }
+                },
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "N+jG2+ZTSoGg6Jb+wux9lQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1441"
+        },
+        {
+            "authority": "Google",
+            "name": "Advanced Google Analytics",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631311446380?e=1710374400&v=beta&t=_0gnABnVbe_EqmnW25OJ9a8a3eJJBiPUX4scKbZ3nJg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631311446380?e=1710374400&v=beta&t=AqetEFJOXMBuYXBnOT-x9YqzHuTxD8A-bLLLA4QAPcg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                    }
+                },
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "R+cN/ksiTPitahwluAyqKQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1441"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

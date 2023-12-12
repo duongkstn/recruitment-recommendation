@@ -1,0 +1,237 @@
+{
+    "summary": "Professional Summary\nAs a Senior Recruitment Manager at Berkley Group, I specialise in managing multiple aspects of the business to drive success.\n\nMy primary focus is on delivering exceptional talent to our clients, with a specific emphasis on Senior-level Cyber Security and Technical roles. I am dedicated to establishing strategic partnerships with clients and candidates in Dublin, particularly within Berkley Group's Business & Technology function. By cultivating these relationships, I contribute to the continuous growth and success of our organisation.\n\nI have a strong passion for expanding our presence in the Irish market and actively seek new opportunities to connect with clients. This approach allows us to consistently extend our reach and strengthen our position within the dynamic Technical market in Ireland.\n\nIf you're interested in gaining valuable insights into what Berkley Group can offer, please don't hesitate to reach out to me on +353 87 434 8309 OR at jbrowne@berkley-group.com. I am always enthusiastic about sharing how our organisation can meet your talent acquisition needs and contribute to the growth of your business.",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Browne",
+    "locationName": "Ireland",
+    "student": false,
+    "geoCountryName": "Ireland",
+    "geoCountryUrn": "urn:li:fs_geo:104738515",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Jonathon",
+    "entityUrn": "urn:li:fs_profile:ACoAAAiR-jABBw1CO5NM7Uy7AzoVHLqJrWVePF4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100354076"
+    },
+    "geoLocationName": "Dublin City, County Dublin",
+    "location": {
+        "basicLocation": {
+            "countryCode": "ie"
+        }
+    },
+    "headline": "Senior Recruitment Manager ",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQGFdjYewW369Q/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1702332635047?e=1707955200&v=beta&t=-RTWn_1OZ7Dr6U5859tgGQAycfjILu4dtfwuFb1yiNo",
+    "img_200_200": "200_200/0/1702332635047?e=1707955200&v=beta&t=pYMHhagBFreGPGA0wqqlGknQE7OBoos3p2qbt8_M598",
+    "img_400_400": "400_400/0/1702332635047?e=1707955200&v=beta&t=utl3pvygCez47M-leIzM9fe449OsZRtT7hkxPwCRpD8",
+    "img_684_684": "800_800/0/1702332635047?e=1707955200&v=beta&t=uCp1wsPArZZ2KBYhcGGF2-p8okUPeDiK5oaNT2oc-YY",
+    "profile_id": "ACoAAAiR-jABBw1CO5NM7Uy7AzoVHLqJrWVePF4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAiR-jABBw1CO5NM7Uy7AzoVHLqJrWVePF4",
+    "member_urn": "urn:li:member:143784496",
+    "public_id": "jonathonbrowne",
+    "experience": [
+        {
+            "locationName": "Dublin, County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAiR-jABBw1CO5NM7Uy7AzoVHLqJrWVePF4,2176196632)",
+            "geoLocationName": "Dublin, County Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:105178154",
+            "companyName": "Berkley Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "description": "As a Senior Recruitment Manager at Berkley Group, I specialise in managing multiple aspects of the business to drive success.\n\nMy primary focus is on delivering exceptional talent to our clients, with a specific emphasis on Senior-level Cyber Security and Technical roles. I am dedicated to establishing strategic partnerships with clients and candidates in Dublin, particularly within Berkley Group's Business & Technology function. By cultivating these relationships, I contribute to the continuous growth and success of our organisation.\n\nI have a strong passion for expanding our presence in the Irish market and actively seek new opportunities to connect with clients. This approach allows us to consistently extend our reach and strengthen our position within the dynamic Technical market in Ireland.\n\nIf you're interested in gaining valuable insights into what Berkley Group can offer, please don't hesitate to reach out to me at jbrowne@berkley-group.com. I am always enthusiastic about sharing how our organisation can meet your talent acquisition needs and contribute to the growth of your business.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior Recruitment Manager - Technology",
+            "region": "urn:li:fs_region:(ie,0)",
+            "companyUrn": "urn:li:fs_miniCompany:111959",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGMqQMWo-SPBQ/company-logo_"
+        },
+        {
+            "locationName": "County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAiR-jABBw1CO5NM7Uy7AzoVHLqJrWVePF4,1681899041)",
+            "geoLocationName": "County Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:103810046",
+            "companyName": "The Recruitment Company Pty Ltd",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "description": "No.1 IT Infrastructure & Security Consultancy in Ireland.\n\n97% of our clients think we are exceptional (see what over 600 of them said here: http://www.therecruitmentcompany.com/reviews)!  Why? Because we exist to make people enjoy the recruitment experience again. \n\nOf course, we love when this is recognised (we’re only human), so let us dazzle you with this super long list of awards: \n\n2019 – SARA winner – The Most Innovative Agency of the Year \n2018 – Recruitment International Winner – Recruitment Innovator of the year \n2017 – SARA winner - The Most Innovative Agency of the Year \n2016, 2017 – Australian Business Award for Product Innovation \n2016 – SARA Runner Up Best Medium Sized Recruitment Agency \n2015 – SARA Finalist – Best Medium Sized Recruitment Agency \n2017, 2016, 2015, 2014, 2012 – Australian Business Award for Employer of Choice \n2017, 2013 – Australian Business Award for Service Excellence \n2013 – BRW Best Place To Work – 12th best place to work in Australia \n2012 - BRW Best Place To Work – 10th best place to work in Australia \n\nWe’ve built a culture of trust and transparency & we only employ people who share this same passion. \n\nWhy not find out more about some of our amazing people here: http://www.therecruitmentcompany.com/what-we-do-who-does-it \n\nWant to know what it takes to join our team? Find out here: http://www.therecruitmentcompany.com/join-us \n\nWe recruit within the following sectors (and we’re pretty darn good at it we think): \n\nIT infrastructure & Security\n\nAnd we offer some award winning (and free) value adds to our customers. Check out some of them here: http://www.therecruitmentcompany.com/dashboards/ \n\nThe Recruitment Company is more than just a recruitment company. It’s a bunch of great recruiters, recruiting within niche sectors, thinking up amazing value adds, offering great service, winning awards and having a lot of fun in the process.\n\nWe’re not just A recruitment company, we’re THE Recruitment Company",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Head of Network & Security Recruitment ",
+            "region": "urn:li:fs_region:(ie,0)",
+            "companyUrn": "urn:li:fs_miniCompany:453771",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQE2fm0kMP-kuQ/company-logo_"
+        },
+        {
+            "locationName": "Sydney, Australia",
+            "entityUrn": "urn:li:fs_position:(ACoAAAiR-jABBw1CO5NM7Uy7AzoVHLqJrWVePF4,1518446721)",
+            "geoLocationName": "Sydney, Australia",
+            "geoUrn": "urn:li:fs_geo:90009524",
+            "companyName": "FIRESOFT People",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "description": "I specialise in working closely with various businesses on an international level to help in their Business Intelligence & Analytics needs. I am delighted to be part of the Firesoft family focusing on working with exciting businesses from SME's to larger global brands in order to help professionals such as: CISO's, BISO's, Security Architects, Security Engineers, Security Analysts, Security Consultants, Penetration Testers, Ethical Hackers, SIEM Consultants in order to secure the right position in their chosen field.\n\nWE'RE HERE TO DO THINGS DIFFERENTLY | TO PICK A FIGHT WITH THE STATUS QUO...!\n\nFIRESOFT was founded on the principle that the standard in IT & Digital Recruitment and Consulting Services just wasn't good enough; there had to be a better way!\n\nThe FIRESOFT Team consistently work passionately to ensure every candidate and client we impact has a positive, refreshing and enlightening experience with our team. Our mission is to educate and advise our client and candidate partners in order to deliver next-level experiences.\n\nWorking with our team you'll notice the difference right away; and it's not just the absence of black suits and ties that'll give it away! Our team is unapologetically authentic; passionately transparent, and we know our sh*t! Our 21 Phase Experience Framework ensures each client and candidate we come in contact with feels understood, consulted with, heard, educated and most importantly special - because they are. We're in the business of changing lives and carving out careers; this SHOULD be a next-level experience!\n\nOne project at a time we're shifting the Paradigm of IT Recruitment...!\nOver the past few years we've been busy partnering with some incredibly exciting companies to help them grow innovative, dynamic and progressive teams which will help to shape the future of the Australian IT and Digital landscape; How AWESOME is our job?!",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior Cyber Security Recruitment Specialist",
+            "region": "urn:li:fs_region:(au,4910)",
+            "companyUrn": "urn:li:fs_miniCompany:2596181",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGFk5kUTxVU1g/company-logo_"
+        },
+        {
+            "locationName": "County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAiR-jABBw1CO5NM7Uy7AzoVHLqJrWVePF4,1472141122)",
+            "geoLocationName": "County Dublin, Ireland",
+            "companyName": "Osborne - Recruitment Consultancy",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Lead Cyber Security Recruitment Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:1809059",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEHdDYGugBGJA/company-logo_"
+        },
+        {
+            "locationName": "County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAiR-jABBw1CO5NM7Uy7AzoVHLqJrWVePF4,1395997749)",
+            "geoLocationName": "County Dublin, Ireland",
+            "companyName": "Lincoln Recruitment Specialists",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior Cyber Securit Recruitment Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:996378",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFVFNITZqLxVQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAiR-jABBw1CO5NM7Uy7AzoVHLqJrWVePF4,84946396)",
+            "schoolName": "Dublin, Ireland"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "National Recruitment Federation",
+            "name": "NRF Cert",
+            "company": {
+                "objectUrn": "urn:li:company:1184840",
+                "entityUrn": "urn:li:fs_miniCompany:1184840",
+                "name": "Employment & Recruitment Federation",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638373430396/employment_and_recruitment_federation_logo?e=1710374400&v=beta&t=m2xYFKqgxeehAFuhZt2olkAb5ScxyhK-BrwmjTnQ3uA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638373430396/employment_and_recruitment_federation_logo?e=1710374400&v=beta&t=wFNFw9lY1NSyNgcDEBjnGm4XLmBDEHa7jngKz4tPuiY",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638373430396/employment_and_recruitment_federation_logo?e=1710374400&v=beta&t=jJvzhqNYXs17e-lVq3CmhlZ39ExZig8f5lYfFdmu6j0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFUsNK4ZGcl7Q/company-logo_"
+                    }
+                },
+                "universalName": "employment-and-recruitment-federation",
+                "dashCompanyUrn": "urn:li:fsd_company:1184840",
+                "trackingId": "QRzMcy+QRcqq8nlEZXr2ag=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1184840"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

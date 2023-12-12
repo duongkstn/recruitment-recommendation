@@ -1,0 +1,237 @@
+{
+    "summary": "Als eigenaar van Senti Workwear leef ik mijn droom om met mijn team bedrijven compleet te ontzorgen in het aanschaffen van de juiste werkkleding. Daarin spelen intuïtie en service een grote rol. \n\nIn mijn volle agenda maak ik graag tijd om als Junioren voetbaltrainer/coach actief te zijn bij SV Die Haghe. Als trainer/coach probeer ik de junioren de juiste structuur, tools en coaching te bieden om zich te kunnen ontwikkelen. Dit geeft mij enorm veel positieve energie! ",
+    "industryName": "Sports",
+    "lastName": "Priester",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 12,
+        "day": 16
+    },
+    "industryUrn": "urn:li:fs_industry:33",
+    "firstName": "Miquel",
+    "entityUrn": "urn:li:fs_profile:ACoAAAWTavUBagfj5zi-Y0gKyR-Au5Q77reUCEA",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104328710"
+    },
+    "geoLocationName": "Rijswijk, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Owner Senti Workwear | Trainer/Coach Voetbal Junioren ",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQHHxabwG7a4ag/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1694166804539?e=1707955200&v=beta&t=KZAAjf9oTEbJ_sEjCkJ-DkSaMGX-rtjrtZOsm2v8cjE",
+    "img_200_200": "200_200/0/1694166804539?e=1707955200&v=beta&t=FoS76Egir16Tk1sRs9FpfmALhhbo9iec3fvTq1kFzIA",
+    "img_400_400": "400_400/0/1694166804539?e=1707955200&v=beta&t=U2Fg2F8pLiXO2KzQgpkEEET7zvhjif9TDL6dxADf2Ms",
+    "img_800_800": "800_800/0/1694166804539?e=1707955200&v=beta&t=VW23CxYTt7eBfMpS74ACGKutz4rG-y2rs9eLw7-n2QM",
+    "profile_id": "ACoAAAWTavUBagfj5zi-Y0gKyR-Au5Q77reUCEA",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAWTavUBagfj5zi-Y0gKyR-Au5Q77reUCEA",
+    "member_urn": "urn:li:member:93547253",
+    "public_id": "miquel-priester-1853b427",
+    "experience": [
+        {
+            "locationName": "Den Haag, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAWTavUBagfj5zi-Y0gKyR-Au5Q77reUCEA,2272070436)",
+            "geoLocationName": "Den Haag, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "sv Die Haghe",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Sports"
+                ]
+            },
+            "title": "Trainer/Coach JO17-1",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:56466920",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFHPKLFmo-a2g/company-logo_"
+        },
+        {
+            "locationName": "Den Haag, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAWTavUBagfj5zi-Y0gKyR-Au5Q77reUCEA,2192326019)",
+            "geoLocationName": "Den Haag, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "sv Die Haghe",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Sports"
+                ]
+            },
+            "title": "Trainer/Coach JO8-JO11",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:56466920",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFHPKLFmo-a2g/company-logo_"
+        },
+        {
+            "locationName": "Rijswijk, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAWTavUBagfj5zi-Y0gKyR-Au5Q77reUCEA,2111207015)",
+            "geoLocationName": "Rijswijk, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:104328710",
+            "companyName": "Senti Workwear",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Apparel & Fashion"
+                ]
+            },
+            "title": "Owner ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:17911247",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFT7nEFJmPpfQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAWTavUBagfj5zi-Y0gKyR-Au5Q77reUCEA,928230983)",
+            "grade": "In opleiding ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "degreeName": "Trainer Coach UEFA C Jeugd O13-O19",
+            "schoolName": "KNVB"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAWTavUBagfj5zi-Y0gKyR-Au5Q77reUCEA,928231912)",
+            "grade": "Geslaagd",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "degreeName": "Junioren Trainer Coach",
+            "schoolName": "KNVB"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAWTavUBagfj5zi-Y0gKyR-Au5Q77reUCEA,928229913)",
+            "grade": "Geslaagd ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "degreeName": "Cursus JVTC ( Jeugd Voetbal Trainer Coach )",
+            "schoolName": "KNVB"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Trainer/coach Jeugd JO11 Selectieteam",
+            "companyName": "sv Die Haghe",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2017
+                }
+            },
+            "cause": "CHILDREN",
+            "description": "In deze rol vind ik het leuk om mijn ervaringen als voetballer en coach te delen en op de juiste manier over te brengen. Mijn doel is om door middel van de juiste coaching en plan van aanpak de kinderen te laten ontwikkelen en hun talenten te benutten. Dit geeft mij enorm veel positieve energie !",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:56466920",
+                    "entityUrn": "urn:li:fs_miniCompany:56466920",
+                    "name": "sv Die Haghe",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630452166170?e=1710374400&v=beta&t=0MJQj_BARzd4vptVJiwIjg7ymPScQPXxslIIQ5LKQps",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630452166170?e=1710374400&v=beta&t=zzRnXRI6RHC7tZIAdaotG2ns4K9HgEjydGWn-nL1Eyo",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630452166170?e=1710374400&v=beta&t=ofpWgwaVtn0DfhQRsKbZmZjcaLfLqpWePiYhjm3F7Q8",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFHPKLFmo-a2g/company-logo_"
+                        }
+                    },
+                    "universalName": "svdiehaghe",
+                    "dashCompanyUrn": "urn:li:fsd_company:56466920",
+                    "trackingId": "vmnJk+QZQYGVrNejJqjA3g=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:56466920"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

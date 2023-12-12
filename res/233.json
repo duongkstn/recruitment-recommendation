@@ -1,0 +1,85 @@
+{
+    "summary": "Hi! We are Hi! And we are in the business of high performing Talent Acquisition Teams. We do this by consolidating knowledge, know-how and 30+ years of experience within market leading staffing firms. But above all; we do this with passion for our trade and passion for the people we work with. \n\nHi! exceeds where most full service agencies end. We deliver knowledge, professionals and proper solutions. We help you anticipate to the ever growing scarceness of the labour market. ‘tailor made’ is no empty shell in our vocabulary. With Hi! you are assured of a high performing Talent Acquisition Team. For today and for the future!",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Gentis",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": true,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Gilles",
+    "entityUrn": "urn:li:fs_profile:ACoAAESrCNQBBjyT6E63b9OBH5O23jwgF18lKRA",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104079901"
+    },
+    "geoLocationName": "Leiden, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "We are Hi Ring☎️ +316 49 31 23 00",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D5603AQHmO0lsuv_pSA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1688559571424?e=1707955200&v=beta&t=y-hjLZGyPibkASo-syF66Zg9Iw4wWxSwm01tJUpz3nk",
+    "img_200_200": "200_200/0/1688559571424?e=1707955200&v=beta&t=D0SkScczY9MNYhVIInNydyFlF71DslWu_61-C2cHd90",
+    "img_400_400": "400_400/0/1688559571424?e=1707955200&v=beta&t=j5NH2IUA3QyxUTZsWqmrYc33-TCnmHVlB2qGFh4Gg0o",
+    "img_800_800": "800_800/0/1688559571424?e=1707955200&v=beta&t=aNjcQQhlfHR2hIDRrLkNdMtJwYPLc46qVvP1VMIEngk",
+    "profile_id": "ACoAAESrCNQBBjyT6E63b9OBH5O23jwgF18lKRA",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAESrCNQBBjyT6E63b9OBH5O23jwgF18lKRA",
+    "member_urn": "urn:li:member:1152059604",
+    "public_id": "gilles-gentis-1b09a5281",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAESrCNQBBjyT6E63b9OBH5O23jwgF18lKRA,2205498679)",
+            "companyName": "HI Recruitment BV",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:92925659",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGHWu7JxXwuDw/company-logo_"
+        },
+        {
+            "locationName": "Leiden, South Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAESrCNQBBjyT6E63b9OBH5O23jwgF18lKRA,2205701802)",
+            "geoLocationName": "Leiden, South Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:103065434",
+            "companyName": "HI Recruitment BV",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "description": "Hi! We are Hi! And we are in the business of high performing Talent Acquisition Teams. We do this by consolidating knowledge, know-how and 30+ years of experience within market leading staffing firms. But above all; we do this with passion for our trade and passion for the people we work with. \n\nHi! exceeds where most full service agencies end. We deliver knowledge, professionals and proper solutions. We help you anticipate to the ever growing scarseness of the labour market. ‘Taylor made’ is no empty shell in our vocabulary. With Hi! you are assured of a high performing Talent Acquisition Team. For today and for the future!",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:92925659",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGHWu7JxXwuDw/company-logo_"
+        }
+    ],
+    "education": [],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,737 @@
+{
+    "summary": "I am a Digital Product Designer with demonstrated work experience in SaaS and E-commerce platform design and innovation. I firmly believe that long-term business goals can be achieved successfully by simplifying the user journey. Therefore, I have a strong passion for aligning user expectations with business objectives. I solve core product problems to accomplish profitable yet user-centric solutions. \n\nRealising my deep interest in strategic design intervention, I currently lead the efforts on an innovative pilot project initiative for Backbase Asia Hub, which builds on Backbase’s Engagement Banking Platform and aims to accommodate Asia-specific retail banking features. \n\nWorking directly with clients and large project teams on scalable products has helped me develop my skills of design resolution with effective stakeholder communication and design leadership. As exemplified in my latest projects at Backbase, I employ service design to elevate banking experience, thus simplifying banking for 60 million+ active customers. \n\nMy leadership initiatives stem from my experience at Backbase, with resolving a complex product with evolving project scope. Some of these include driving UX pattern identification, standardisation and documentation, introducing an iterative design process with checkpoints for incremental changes, and advocating for regular CAB interventions to streamline change management. These initiatives have helped improve design management on the project, thus saving several months of retrospective design improvements.\n\nI began my journey as a UX designer with Eagleowl, Bengaluru. I led end-to-end UX and UI design efforts on Eagleowl's products. Working in cross-functional collaboration with business, engineering and marketing helped develop my skills of deriving business innovation from design intervention, as demonstrated by my work on Eagleowl Marketplace 1.0. I also established a robust feedback loop with Eagleowl's clients, which helped me improve service on Eagleowl products, thus helping Eagleowl expand to 4 Indian cities in 6 months.\n\nWith my acquired experience, I aspire to continue my journey in Product Strategy in close connection with direct business innovation. Therefore, I seek leadership roles in Strategic Product Design, Service Design and Design Management. I am actively looking for mid-senior and senior level opportunities in the Netherlands. I am also always open to connect and discuss about topics in the field of but not limited to Product Strategy, Service Design, Fintech, SaaS and E-commerce.",
+    "industryName": "Computer Software",
+    "lastName": "Thatte",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 8,
+        "day": 13
+    },
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Anushree",
+    "entityUrn": "urn:li:fs_profile:ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:106851598"
+    },
+    "geoLocationName": "Delft, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Product Strategy | Design Management |  Service Design | Business Innovation | Design Systems | SaaS and E-commerce UX",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D5603AQGGst7yP9vXCA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1644581882149?e=1707955200&v=beta&t=afQKwDWUrNF2OWzhMpRzqkxU2Y7q2Uqj1GYoL8XWGCk",
+    "img_200_200": "200_200/0/1644581882149?e=1707955200&v=beta&t=hk0EO3PtlaRZ60eOCd4Ga6U7061r5bcFmKN6OIS8aE4",
+    "img_230_230": "800_800/0/1644581882149?e=1707955200&v=beta&t=yCMf4EDIFwGVX2TzyPS-UQy5lNBUK0jqBF8T5aXodmM",
+    "profile_id": "ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0",
+    "member_urn": "urn:li:member:76413794",
+    "public_id": "anushree-thatte-b4271021",
+    "experience": [
+        {
+            "locationName": "Hyderabad, Telangana, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,2030566056)",
+            "geoLocationName": "Hyderabad, Telangana, India",
+            "geoUrn": "urn:li:fs_geo:105556991",
+            "companyName": "Backbase",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "UX Designer",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:20992",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFOmtTiVwZYvA/company-logo_"
+        },
+        {
+            "locationName": "Bengaluru, Karnataka, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,1653737668)",
+            "geoLocationName": "Bengaluru, Karnataka, India",
+            "geoUrn": "urn:li:fs_geo:105307040",
+            "companyName": "EagleOwl",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Food & Beverages"
+                ]
+            },
+            "title": "User Experience Designer",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:14561440",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEBFdkPELfb8g/company-logo_"
+        },
+        {
+            "locationName": "Bengaluru Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,1399532165)",
+            "geoLocationName": "Bengaluru Area, India",
+            "geoUrn": "urn:li:fs_geo:90009633",
+            "companyName": "Cendrol",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Design and Business Development Manager",
+            "region": "urn:li:fs_region:(in,7127)",
+            "companyUrn": "urn:li:fs_miniCompany:13654962",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQH8uIKxv-h3dA/company-logo_"
+        },
+        {
+            "locationName": "Mumbai Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,1356396692)",
+            "geoLocationName": "Mumbai Area, India",
+            "geoUrn": "urn:li:fs_geo:90009639",
+            "companyName": "Tata Consulting Engineers Limited",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "description": "PROJECT- OBEROI FLIGHT SERVICES, ANDHERI EAST, MUMBAI\n· Project planning, scheduling and tracking on-site\n· Tracking cost-flows for each activity on site\n· Coordinating between client, contractor and sub-contractors\n· Managing construction processes on site as part of the consultant team\n· Material procurement and timely quality control testing\n· Safety management on site\n\nPROJECT- TIRUPATHI SMART CITY PROGRAM\n· Design program development\n· Development of conceptual master plan for slum redevelopment project\n· Material procurement for urban design for Tirupathi smart city\n· Designing affordable housing modules with cheapest construction technology available (GFRG)\n· Timeline and cost-model development for slum redevelopment program",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Design"
+                ]
+            },
+            "title": "Construction Management Trainee",
+            "region": "urn:li:fs_region:(in,7150)",
+            "companyUrn": "urn:li:fs_miniCompany:27196",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFY8eHyfLhJvg/company-logo_"
+        },
+        {
+            "locationName": "Nagpur Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,1399536122)",
+            "geoLocationName": "Nagpur Area, India",
+            "geoUrn": "urn:li:fs_geo:90009640",
+            "companyName": "Self-Employed",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "description": "· Interior design for the residence of Dr. Raje in Nagpur – designing interiors of a 4BHK duplex along\nwith architectural retrofitting and renovation, with cost-cutting design strategies and sustainable materials\n· Clubhouse design for Mr. Abhyankar in Nagpur – Architectural and interior design of clubhouse-cum-party hall with cost-effective yet aesthetically appealing design.",
+            "title": "Freelance Architect and Interior Designer",
+            "region": "urn:li:fs_region:(in,6751)"
+        }
+    ],
+    "education": [
+        {
+            "projects": [
+                "urn:li:fs_project:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,1174871010)",
+                "urn:li:fs_project:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,1174947927)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,438276143)",
+            "school": {
+                "objectUrn": "urn:li:school:13682",
+                "entityUrn": "urn:li:fs_miniSchool:13682",
+                "active": true,
+                "schoolName": "Visvesvaraya National Institute of Technology",
+                "trackingId": "h5PQYfsBSleR8PaJgPslfA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGwYLJToplqoA/company-logo_"
+            },
+            "activities": "· HUDCO Trophy, National Association for Students of Architecture (NASA) – Shelter and skill\ndevelopment center for urban homeless.\n· Conferences and walks on Heritage Conservation by Indian Institute of Architects, Nagpur chapter\n· Annual NASA Design Competition\n· 360 Degree Conference by Indian Architect and Builder\n· Participant in “Eureka” a competition on innovation by IIT Powai\n· Participant in National Competition on Urban Infrastructure and Innovation by Niti Aayog, Govt. of\nIndia (2018)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100080",
+            "degreeName": "Bachelor's in Architecture",
+            "schoolName": "Visvesvaraya National Institute of Technology",
+            "fieldOfStudy": "Architecture",
+            "schoolUrn": "urn:li:fs_miniSchool:13682"
+        },
+        {
+            "projects": [
+                "urn:li:fs_project:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,1174770378)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,551245384)",
+            "school": {
+                "objectUrn": "urn:li:school:13573",
+                "entityUrn": "urn:li:fs_miniSchool:13573",
+                "active": true,
+                "schoolName": "National Institute of Technology Karnataka",
+                "trackingId": "N0gLd0PWTDaCBWqaY3wOAA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQELOxKVJQ1O1Q/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "degreeName": "Masters in Technology",
+            "schoolName": "National Institute of Technology Karnataka",
+            "fieldOfStudy": "Construction Technology and Management",
+            "schoolUrn": "urn:li:fs_miniSchool:13573"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Hindi",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Marathi",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "The Interaction Design Foundation",
+            "name": "Become a UX Designer from scratch",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "84092",
+            "company": {
+                "objectUrn": "urn:li:company:15098063",
+                "entityUrn": "urn:li:fs_miniCompany:15098063",
+                "name": "The Interaction Design Foundation",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630606956589/the_interaction_design_foundation_logo?e=1710374400&v=beta&t=XQgz3_9bhssCbd3jNTofDH2C02BTqViMMGLY5V14wrE",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630606956589/the_interaction_design_foundation_logo?e=1710374400&v=beta&t=QxUKbzoS7gh4D-mpzRdvhk1cThV8mKo_XN319uUM5jU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630606956589/the_interaction_design_foundation_logo?e=1710374400&v=beta&t=Q_-drWPqPw1oYjo0sOpQTi_BUv6HonByIBw5NBn7DK4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG9OphzSEfepA/company-logo_"
+                    }
+                },
+                "universalName": "the-interaction-design-foundation",
+                "dashCompanyUrn": "urn:li:fsd_company:15098063",
+                "trackingId": "IvvqCT8xTiCqnFOElusRBg=="
+            },
+            "displaySource": "interaction-design.org",
+            "companyUrn": "urn:li:fs_miniCompany:15098063",
+            "url": "https://www.interaction-design.org/anushree-thatte/certificate/course/122cb982-9aec-49ec-a8b8-b48f4a088b6f"
+        },
+        {
+            "authority": "Interaction Design Foundation",
+            "name": "IDF Course- Design Thinking",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "84092",
+            "company": {
+                "objectUrn": "urn:li:company:1048470",
+                "entityUrn": "urn:li:fs_miniCompany:1048470",
+                "name": "Interaction Design Foundation (IxDF)",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1639562284184/interaction_design_org_foundation_logo?e=1710374400&v=beta&t=psbUFYzgtxa9L7S72EME2nIfEPiEX0hoD8zopUlL9lc",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1639562284184/interaction_design_org_foundation_logo?e=1710374400&v=beta&t=h8wgzoB-qFlK7EoZXUrR76cnpfzaO9MixQT-vSETVGs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1639562284184/interaction_design_org_foundation_logo?e=1710374400&v=beta&t=qeEPgCvmi1gUSr6F-LxlG0FkKDZvFSulwk3i9M3R9NE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQEeeN5zPLX97w/company-logo_"
+                    }
+                },
+                "universalName": "interaction-design-org-foundation",
+                "dashCompanyUrn": "urn:li:fsd_company:1048470",
+                "trackingId": "4EVxlKU1RrqqW6pxHmmmLQ=="
+            },
+            "displaySource": "interaction-design.org",
+            "companyUrn": "urn:li:fs_miniCompany:1048470",
+            "url": "https://www.interaction-design.org/anushree-thatte/certificate/course/4c9ef6f6-40e0-4c8e-b252-bd0c22bbfdf4"
+        },
+        {
+            "authority": "Interaction Design Foundation",
+            "name": "Human Computer Interaction",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "84092",
+            "company": {
+                "objectUrn": "urn:li:company:1048470",
+                "entityUrn": "urn:li:fs_miniCompany:1048470",
+                "name": "Interaction Design Foundation (IxDF)",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1639562284184/interaction_design_org_foundation_logo?e=1710374400&v=beta&t=psbUFYzgtxa9L7S72EME2nIfEPiEX0hoD8zopUlL9lc",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1639562284184/interaction_design_org_foundation_logo?e=1710374400&v=beta&t=h8wgzoB-qFlK7EoZXUrR76cnpfzaO9MixQT-vSETVGs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1639562284184/interaction_design_org_foundation_logo?e=1710374400&v=beta&t=qeEPgCvmi1gUSr6F-LxlG0FkKDZvFSulwk3i9M3R9NE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQEeeN5zPLX97w/company-logo_"
+                    }
+                },
+                "universalName": "interaction-design-org-foundation",
+                "dashCompanyUrn": "urn:li:fsd_company:1048470",
+                "trackingId": "xj2wu1eYTXSoqtmZwPfhSQ=="
+            },
+            "displaySource": "interaction-design.org",
+            "companyUrn": "urn:li:fs_miniCompany:1048470",
+            "url": "https://www.interaction-design.org/anushree-thatte/certificate/course/709c9fa0-24c7-4317-b86b-be195e136183"
+        },
+        {
+            "authority": "Interaction Design Foundation (IxDF)",
+            "name": "IxDF Certified Product Designer",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "84092",
+            "company": {
+                "objectUrn": "urn:li:company:1048470",
+                "entityUrn": "urn:li:fs_miniCompany:1048470",
+                "name": "Interaction Design Foundation (IxDF)",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1639562284184/interaction_design_org_foundation_logo?e=1710374400&v=beta&t=psbUFYzgtxa9L7S72EME2nIfEPiEX0hoD8zopUlL9lc",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1639562284184/interaction_design_org_foundation_logo?e=1710374400&v=beta&t=h8wgzoB-qFlK7EoZXUrR76cnpfzaO9MixQT-vSETVGs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1639562284184/interaction_design_org_foundation_logo?e=1710374400&v=beta&t=qeEPgCvmi1gUSr6F-LxlG0FkKDZvFSulwk3i9M3R9NE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQEeeN5zPLX97w/company-logo_"
+                    }
+                },
+                "universalName": "interaction-design-org-foundation",
+                "dashCompanyUrn": "urn:li:fsd_company:1048470",
+                "trackingId": "tDXiJfF8Q0iESAi0l3omxQ=="
+            },
+            "displaySource": "interaction-design.org",
+            "companyUrn": "urn:li:fs_miniCompany:1048470",
+            "url": "https://www.interaction-design.org/members/anushree-thatte/certificate/membership/mc_QMjKHDKjP"
+        },
+        {
+            "authority": "edX",
+            "name": "edX Verified Certificate for Introduction to Web Accessibility",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "5a592dd82f2a4868b8573c33c2f5ea60",
+            "company": {
+                "objectUrn": "urn:li:company:2746406",
+                "entityUrn": "urn:li:fs_miniCompany:2746406",
+                "name": "edX",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688142646299/edx_logo?e=1710374400&v=beta&t=zQ7pB35bsj0O-n48He9w8ZeFQXfZLPxV9mCpU94wsj8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688142646299/edx_logo?e=1710374400&v=beta&t=Xecg3vBGrBaliPbZ4cO199N63JCpKEXzpKYuOv4_Ec0",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688142646299/edx_logo?e=1710374400&v=beta&t=H-cCWcWHRKNTLhBJfz4-l1auc3SUtOa21tZWIvZSljM",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFG13a41008Dg/company-logo_"
+                    }
+                },
+                "universalName": "edx",
+                "dashCompanyUrn": "urn:li:fsd_company:2746406",
+                "trackingId": "0g9Golh2Tw6dCjBYmfOsfA=="
+            },
+            "displaySource": "edx.org",
+            "companyUrn": "urn:li:fs_miniCompany:2746406",
+            "url": "https://courses.edx.org/certificates/5a592dd82f2a4868b8573c33c2f5ea60"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "occupation": "urn:li:fs_education:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,551245384)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Anushree",
+                        "lastName": "Thatte",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0",
+                        "occupation": "Product Strategy | Design Management | Service Design | Business Innovation | Design Systems | SaaS and E-commerce UX",
+                        "objectUrn": "urn:li:member:76413794",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1697283706600?e=1707955200&v=beta&t=lAICvYd341Hwem4VZ1HTmj0g1qD69jZNH7qHpVNYZ2E",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1697283706600?e=1707955200&v=beta&t=6bX7tDjYHdP1L6BJ1LANt9UF_BCXpfnbvPsDBwBC1eE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQEl31WZh4AoiA/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "anushree-thatte-b4271021",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1644581882149?e=1707955200&v=beta&t=afQKwDWUrNF2OWzhMpRzqkxU2Y7q2Uqj1GYoL8XWGCk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1644581882149?e=1707955200&v=beta&t=hk0EO3PtlaRZ60eOCd4Ga6U7061r5bcFmKN6OIS8aE4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 230,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1644581882149?e=1707955200&v=beta&t=4Kwtgmd1M-ideA-lBobMu-ZyUL56SCcrS0TtJz8MUuQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 230
+                                    },
+                                    {
+                                        "width": 230,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1644581882149?e=1707955200&v=beta&t=yCMf4EDIFwGVX2TzyPS-UQy5lNBUK0jqBF8T5aXodmM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 230
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5603AQGGst7yP9vXCA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "8E+7yWZaQQaWPeJbWvBo9g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,1174770378,201348598)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0"
+                }
+            ],
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "description": "This research aims at recognising the significance of LCC in the construction\nprocess of every project in order to ensure sustainability. It is a three-fold research,\nwherein the focus is on the existing factors that affect WLCCA, their dynamics and the\nexternal factors that influence LCC. All these factors and their different combinations\nalong with changing environment and market dynamics together direct the level of complexity of LCC calculations. Secondly, the study proceeds to attempt to establish a\nrelationship between LCCA, energy-efficiency and sustainability, and explains the\nreason why these areas are important to be rendered due consideration during the initial\nstages of a project (conceptual, design, planning, scheduling and costing). In the last\nsegment of this paper, the research shall also venture into live case studies and book\ncase studies of projects that incorporated LCCA and conduct a comparative analysis\nbetween WLCCA and conventional cost calculation methods. Consequently, the goal\nof this research is to emphasize the credibility of WLCCA as a tool in establishing\nsustainability.",
+            "title": "Significance of Life Cycle Cost Analysis in establishing Sustainability in construction"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,438276143)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Anushree",
+                        "lastName": "Thatte",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0",
+                        "occupation": "Product Strategy | Design Management | Service Design | Business Innovation | Design Systems | SaaS and E-commerce UX",
+                        "objectUrn": "urn:li:member:76413794",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1697283706600?e=1707955200&v=beta&t=lAICvYd341Hwem4VZ1HTmj0g1qD69jZNH7qHpVNYZ2E",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1697283706600?e=1707955200&v=beta&t=6bX7tDjYHdP1L6BJ1LANt9UF_BCXpfnbvPsDBwBC1eE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQEl31WZh4AoiA/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "anushree-thatte-b4271021",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1644581882149?e=1707955200&v=beta&t=afQKwDWUrNF2OWzhMpRzqkxU2Y7q2Uqj1GYoL8XWGCk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1644581882149?e=1707955200&v=beta&t=hk0EO3PtlaRZ60eOCd4Ga6U7061r5bcFmKN6OIS8aE4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 230,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1644581882149?e=1707955200&v=beta&t=4Kwtgmd1M-ideA-lBobMu-ZyUL56SCcrS0TtJz8MUuQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 230
+                                    },
+                                    {
+                                        "width": 230,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1644581882149?e=1707955200&v=beta&t=yCMf4EDIFwGVX2TzyPS-UQy5lNBUK0jqBF8T5aXodmM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 230
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5603AQGGst7yP9vXCA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "8E+7yWZaQQaWPeJbWvBo9g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,1174947927,201351019)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "description": "To study the role of biophilic urbanism in the design of urban street-scape, as a catalyst in enriching the experience of walking on streets",
+            "title": "Architectural Dissertation : Biophilic Urbanism – Role of biophilic elements in enhancing walkability on streets"
+        },
+        {
+            "occupation": "urn:li:fs_education:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,438276143)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Anushree",
+                        "lastName": "Thatte",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0",
+                        "occupation": "Product Strategy | Design Management | Service Design | Business Innovation | Design Systems | SaaS and E-commerce UX",
+                        "objectUrn": "urn:li:member:76413794",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1697283706600?e=1707955200&v=beta&t=lAICvYd341Hwem4VZ1HTmj0g1qD69jZNH7qHpVNYZ2E",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1697283706600?e=1707955200&v=beta&t=6bX7tDjYHdP1L6BJ1LANt9UF_BCXpfnbvPsDBwBC1eE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQEl31WZh4AoiA/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "anushree-thatte-b4271021",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1644581882149?e=1707955200&v=beta&t=afQKwDWUrNF2OWzhMpRzqkxU2Y7q2Uqj1GYoL8XWGCk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1644581882149?e=1707955200&v=beta&t=hk0EO3PtlaRZ60eOCd4Ga6U7061r5bcFmKN6OIS8aE4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 230,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1644581882149?e=1707955200&v=beta&t=4Kwtgmd1M-ideA-lBobMu-ZyUL56SCcrS0TtJz8MUuQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 230
+                                    },
+                                    {
+                                        "width": 230,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1644581882149?e=1707955200&v=beta&t=yCMf4EDIFwGVX2TzyPS-UQy5lNBUK0jqBF8T5aXodmM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 230
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5603AQGGst7yP9vXCA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "8E+7yWZaQQaWPeJbWvBo9g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0,1174871010,201349522)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAASN-2IBlZvq79a2HuMHRn40UkMYfZFdLj0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "description": "Creating a prototype of an energy efficient, health stimulating and climate-responsive health center at VNIT (and IIM) Nagpur.",
+            "title": "Architectural Thesis : Health Stimulating Polyclinics for Residential Campuses"
+        }
+    ]
+}

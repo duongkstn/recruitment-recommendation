@@ -1,0 +1,55 @@
+{
+    "lastName": "Naberman",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": true,
+    "firstName": "Linda",
+    "entityUrn": "urn:li:fs_profile:ACoAAD5ay6sBqEzMSPgd0P_VKj4q6zmn21TklUo",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:110770771"
+    },
+    "geoLocationName": "Alkmaar, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Pedagogisch medewerker bij Kinderopvang de Kinderkamer",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQGkKqAYEQsJkA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1678628895717?e=1707955200&v=beta&t=rj56z3I8xaigEGeR4vAR2s6pFxd2cib-Vj8cEsuneEs",
+    "img_200_200": "200_200/0/1678628895717?e=1707955200&v=beta&t=T1a1kmX3Lrf0iqa1m7Ztxlb8bluedRyqxTSzV6i8res",
+    "img_400_400": "400_400/0/1678628895717?e=1707955200&v=beta&t=wbd9pcK-ah49DMKUWuplYQvWtQT7zXJ_n32lCuQHRAc",
+    "img_800_800": "800_800/0/1678628895717?e=1707955200&v=beta&t=5drE3VGTTTZTvZKDoQk9VikXySzOrecv2Bytemg6M-8",
+    "profile_id": "ACoAAD5ay6sBqEzMSPgd0P_VKj4q6zmn21TklUo",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAD5ay6sBqEzMSPgd0P_VKj4q6zmn21TklUo",
+    "member_urn": "urn:li:member:1046137771",
+    "public_id": "linda-naberman-977423252",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAD5ay6sBqEzMSPgd0P_VKj4q6zmn21TklUo,2046946760)",
+            "companyName": "Kinderopvang de Kinderkamer",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Civic & Social Organization"
+                ]
+            },
+            "title": "Pedagogisch medewerker",
+            "companyUrn": "urn:li:fs_miniCompany:69463626",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHEtTGNz3C1QA/company-logo_"
+        }
+    ],
+    "education": [],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,234 @@
+{
+    "industryName": "Human Resources",
+    "lastName": "Prins",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:137",
+    "firstName": "Melanie ",
+    "entityUrn": "urn:li:fs_profile:ACoAADO_xR8BWUxrT5wYIKRJi02B84DYcxj8u-8",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103113021"
+    },
+    "geoLocationName": "Barendrecht, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "HRM Student | Junior HR Professional | Recruitment",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFyfDWv5tUedQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1692972206858?e=1707955200&v=beta&t=-6UI2s47fHoMF3__cVhSy4sS4Jre7NhN7L93s3-JMAY",
+    "img_200_200": "200_200/0/1692972206858?e=1707955200&v=beta&t=M793GlkrygHzMX6GsO1nTO6UE7cbKdQVw_nvegdPmIQ",
+    "img_400_400": "400_400/0/1692972206858?e=1707955200&v=beta&t=qpSyAjLkdaOHNDjzk3byGzerk2DfdJW2CJdFE1q_Hdo",
+    "img_800_800": "800_800/0/1692972206858?e=1707955200&v=beta&t=dNCnyvwARFD9Gv3RtJiAyI8PPoHUHUXo2BbTz14TJLo",
+    "profile_id": "ACoAADO_xR8BWUxrT5wYIKRJi02B84DYcxj8u-8",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADO_xR8BWUxrT5wYIKRJi02B84DYcxj8u-8",
+    "member_urn": "urn:li:member:868205855",
+    "public_id": "melanie-prins-b3b915202",
+    "experience": [
+        {
+            "locationName": "Rotterdam, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADO_xR8BWUxrT5wYIKRJi02B84DYcxj8u-8,2261550134)",
+            "geoLocationName": "Rotterdam, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100467493",
+            "companyName": "Wella Company",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Cosmetics"
+                ]
+            },
+            "title": "Stagiair HR Northern Europe ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:69571610",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGbq3tKHm9eCg/company-logo_"
+        },
+        {
+            "locationName": "Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADO_xR8BWUxrT5wYIKRJi02B84DYcxj8u-8,2052710273)",
+            "geoLocationName": "Nederland",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "WHY Connect | Talent Agency - Bemiddeling & Coaching ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "description": "Wij zijn een 'Happy Talent bureau' die verder gaan dan het vinden van een passende job. Iedereen gelukkiger aan het werk is onze missie. Wij doen meer dan bemiddeling en mijn doel is om jou te helpen ontdekken wat jouw talent is om van daaruit een uitdaging te vinden waar jij echt gelukkig van wordt.\n\nEERST WAAROM. DAN VERBINDEN _\n\n/ Bemiddeling\n/ Coaching\n/ Persoonlijke groei\n\nmenselijk contact | ontwikkeling centraal | optimale match | duurzame relatie _\n\nwww.whyconnect.nl",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Talent Scout",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10806808",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFwy4zod1Gg9w/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADO_xR8BWUxrT5wYIKRJi02B84DYcxj8u-8,2120310637)",
+            "geoLocationName": "Rotterdam, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100467493",
+            "companyName": "MS Amlin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Insurance"
+                ]
+            },
+            "title": "HR-stagiair",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1052174",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFZ1t5a4ItluA/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAADO_xR8BWUxrT5wYIKRJi02B84DYcxj8u-8,2009858626)",
+            "geoLocationName": "Rotterdam, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100467493",
+            "companyName": "Starbucks",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Barista",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2271",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEQxk9y2rk7Hw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADO_xR8BWUxrT5wYIKRJi02B84DYcxj8u-8,2009861406)",
+            "companyName": "KLM Cityhopper",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Airlines/Aviation"
+                ]
+            },
+            "title": "Grond stewardes",
+            "companyUrn": "urn:li:fs_miniCompany:68837635",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFj-tiQX7P3Cg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADO_xR8BWUxrT5wYIKRJi02B84DYcxj8u-8,744874369)",
+            "school": {
+                "objectUrn": "urn:li:school:15427",
+                "entityUrn": "urn:li:fs_miniSchool:15427",
+                "active": true,
+                "schoolName": "Rotterdam University of Applied Sciences",
+                "trackingId": "wMIAPH1kSQOqjCpo9URl8w==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQG3Kyr4cUYEWQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2025
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Hogeschool Rotterdam",
+            "fieldOfStudy": "Human resources management",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15427"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADO_xR8BWUxrT5wYIKRJi02B84DYcxj8u-8,744874390)",
+            "school": {
+                "objectUrn": "urn:li:school:463004",
+                "entityUrn": "urn:li:fs_miniSchool:463004",
+                "active": true,
+                "schoolName": "ROC van Amsterdam",
+                "trackingId": "rRFxzYTNTG2/Bw4KTUDi2w==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQF7vWdh4UTwEQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "degreeName": "MBO-4",
+            "schoolName": "ROC van Amsterdam | Flevoland",
+            "fieldOfStudy": "Luchtvaartdienstverlening",
+            "schoolUrn": "urn:li:fs_miniSchool:463004"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,322 @@
+{
+    "summary": "I started my career in Big 4 auditing, moved into corporate finance & reporting, obtaining experience in accounting processes, internal and external reporting, training and managing teams. Currently working within CRH as Manager - Corporate Accounting  & Reporting Amsterdam team.\n\nI am a friendly, responsible self-starter with strong interpersonal skills. My passion and enthusiasm are my biggest assets, especially towards people, growth and improvement. I believe in striving for excellence in the workplace, in building lasting relationships and improving this world through innovative thinking.",
+    "industryName": "Building Materials",
+    "lastName": "Du Toit",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Jacqueline",
+    "entityUrn": "urn:li:fs_profile:ACoAAA4X-vcB-57POehSc_BTO48Ml2Mv9xjuJgc",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Chartered Accountant (ICAN) | Reporting Manager at CRH | Focused on reporting excellence through people-centered relationships",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQFP1DRbPUA4jg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1647602439721?e=1707955200&v=beta&t=vAvJp72Yq_rcnxle14USvODnQ9xc8bs8EWbWzXQC_UY",
+    "img_200_200": "200_200/0/1647602439721?e=1707955200&v=beta&t=bbD5TDKm_DF_TzWF0yf5xkufWUlgJAdw3h_Ry6ZQCRE",
+    "img_400_400": "400_400/0/1647602439721?e=1707955200&v=beta&t=NyHKAQmjYFU93vuE_HAyF-FB-yEfxxCNzR_hTAuzIXo",
+    "img_800_800": "800_800/0/1647602439721?e=1707955200&v=beta&t=v2fdC9zsFuWQnr_FqRUDNC1ZlfVynA9C6sHzsxLqiU8",
+    "profile_id": "ACoAAA4X-vcB-57POehSc_BTO48Ml2Mv9xjuJgc",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAA4X-vcB-57POehSc_BTO48Ml2Mv9xjuJgc",
+    "member_urn": "urn:li:member:236452599",
+    "public_id": "jacqueline-dutoit",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA4X-vcB-57POehSc_BTO48Ml2Mv9xjuJgc,1933336259)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Manager Corporate Accounting and Reporting",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA4X-vcB-57POehSc_BTO48Ml2Mv9xjuJgc,1787516675)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Statutory Reporting Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA4X-vcB-57POehSc_BTO48Ml2Mv9xjuJgc,1684699974)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Senior Reporting Specialist",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA4X-vcB-57POehSc_BTO48Ml2Mv9xjuJgc,1125914684)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Consolidation & Reporting Specialist ",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA4X-vcB-57POehSc_BTO48Ml2Mv9xjuJgc,778459079)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "companyName": "United Trust",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Financial Account Manager",
+            "companyUrn": "urn:li:fs_miniCompany:1308020",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHQA-j21FlQMQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA4X-vcB-57POehSc_BTO48Ml2Mv9xjuJgc,148314725)",
+            "school": {
+                "objectUrn": "urn:li:school:19873",
+                "entityUrn": "urn:li:fs_miniSchool:19873",
+                "active": true,
+                "schoolName": "Stellenbosch University",
+                "trackingId": "FExMPxRTSdSCjIWQljHjaw==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQEp7y5pXmG5Rw/company-logo_"
+            },
+            "activities": "Minerva House Committee",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "description": "Member of the Minerva House Committee responsible for Marketing of the house and community projects. Academic mentor to first year accounting students.",
+            "degreeName": "B.Acc (Hons)",
+            "schoolName": "Stellenbosch University/Universiteit Stellenbosch",
+            "fieldOfStudy": "Accounting and Finance",
+            "schoolUrn": "urn:li:fs_miniSchool:19873"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA4X-vcB-57POehSc_BTO48Ml2Mv9xjuJgc,276457806)",
+            "activities": "Hockey team, DJ at local radio station.",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "description": "I had the opportunity to represent Namibia at the International Space School (United Space School) in Houston, Texas.",
+            "schoolName": "Windhoek High School"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Afrikaans",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Dutch",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "PUBLIC ACCOUNTANTS’ AND AUDITORS’ BOARD (PAAB)",
+            "name": "PAAB Certified Assessor",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        },
+        {
+            "authority": "South African Institute of Charted Accountant",
+            "name": "SAICA Qualification Examination Part 1",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2011
+                }
+            }
+        },
+        {
+            "authority": "APT - Accounting Professional Training",
+            "name": "APT Auditing Specialist Course",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:10522428",
+                "entityUrn": "urn:li:fs_miniCompany:10522428",
+                "name": "APT - Accounting Professional Training",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631341179046?e=1710374400&v=beta&t=MJZ_fX3OG3qcc19fJ7_oDXFDWVkga5nPVlj67aB_N64",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631341179046?e=1710374400&v=beta&t=GIsFu6PoMalZPQcioe_6sc02WCzUn40tw6hpJWtW4ZA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631341179046?e=1710374400&v=beta&t=vO05-1dU16DVlznJ3TcQWGp1oatXjAHMo8rSqYNY7rA",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEpoAvuh-D7Yg/company-logo_"
+                    }
+                },
+                "universalName": "apt---accounting-professional-training",
+                "dashCompanyUrn": "urn:li:fsd_company:10522428",
+                "trackingId": "lqQkfPK5RWWuC/7KwVl0WQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:10522428"
+        },
+        {
+            "authority": "Independent Regulatory Board for Auditors",
+            "name": "Public Practice Examination",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1020168",
+                "entityUrn": "urn:li:fs_miniCompany:1020168",
+                "name": "x",
+                "showcase": false,
+                "active": true,
+                "universalName": "independent-regulatory-board-for-auditors",
+                "dashCompanyUrn": "urn:li:fsd_company:1020168",
+                "trackingId": "I9ZxQXqsRYWHgzX6hIhR1A=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1020168"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

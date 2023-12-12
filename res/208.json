@@ -1,0 +1,451 @@
+{
+    "summary": "Hey there,👋 thanks for stopping by my profile.\n\nI'm Maria, a open-minded, user-centered product designer with 8+ years of experience crafting innovative digital solutions in sectors of Finance, Health Tech,Cloud Services, Recruitment, etc, Focused on UX. Currently, I had a chance to build and led a team of 6 designers, collaborating with cross-functional stakeholders to create frictionless fintech B2B and B2C experiences. I appreciate honesty, open communication, and an open-minded atmosphere. I aim to empower and inspire those around me, and I'm always eager to learn.\n\nEXPERTISE🤸\n------------------\n#User and Customer Experience (UX/CX)\n+ Information Architecture, usability, and heuristics\n+ User/customer journey map)\n+ User research, user testing, user flows, wireframes, etc.\n+ Personas, behavioral archetypes\n+ UX metrics savvy, and KPIs definition in UX project management\n+ Human-centered thinking, user & customer advocate\n\n# Business and Innovation🪄\n+ Design Thinking approach and methodologies, both design and business-oriented\n+ Design sprint, storytelling, prototyping, and iterative approach\n+ Creating Design systems for cost-effective, scalable, and rapid production\n\n# Teams and Collaboration👯\n+ Mentorship, team spirit & leadership\n+ Value honesty, quality work, and good communication in collaborative & human environments\n+ Lean approach, Agile methodologies",
+    "industryName": "Computer & Network Security",
+    "lastName": "Zahedi",
+    "locationName": "Iran",
+    "student": false,
+    "geoCountryName": "Iran",
+    "geoCountryUrn": "urn:li:fs_geo:101934083",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 11,
+        "day": 18
+    },
+    "industryUrn": "urn:li:fs_industry:118",
+    "firstName": "Maria",
+    "entityUrn": "urn:li:fs_profile:ACoAAClsaqIB94HeS91ZsgTG90EIElEeFxihiYw",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101934083"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "ir"
+        }
+    },
+    "headline": "Lead Product Designer & UX Research | with 8+ Years Empowering Founders to Create User-Centric Businesses 🎯  Finance, Health Tech, Cloud, etc...",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQF_gxLBrlgTDw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1693380499552?e=1707955200&v=beta&t=JVVlOp-0butz2rD4RXcw87IbIHduT1Y9NJUfzOmTsNY",
+    "img_200_200": "200_200/0/1693380499552?e=1707955200&v=beta&t=yUM1wpYBYoq0XKO7BhwTQBD-Nyl0vmWPR_CfKZ5ZrL0",
+    "img_400_400": "400_400/0/1693380499552?e=1707955200&v=beta&t=8qpHyMuuV4v1bumb1yxySmdOw8bEjlN08XtzFFtRXEI",
+    "img_800_800": "800_800/0/1693380499552?e=1707955200&v=beta&t=tq3P_w-SZCyEmiEmtXcZAWZPec5du2-BY7K8w5RBheU",
+    "profile_id": "ACoAAClsaqIB94HeS91ZsgTG90EIElEeFxihiYw",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAClsaqIB94HeS91ZsgTG90EIElEeFxihiYw",
+    "member_urn": "urn:li:member:694971042",
+    "public_id": "maria-zahedi",
+    "experience": [
+        {
+            "locationName": "Tehran, Iran",
+            "entityUrn": "urn:li:fs_position:(ACoAAClsaqIB94HeS91ZsgTG90EIElEeFxihiYw,2051288727)",
+            "geoLocationName": "Tehran, Iran",
+            "geoUrn": "urn:li:fs_geo:103186832",
+            "companyName": "Vandar",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "description": "An integrated payment service (SaaS) with 17 payment methods, B2B | pay-by-vandar payments, and B2C services.\n\nI led and managed a cross-functional design team with a focus on motivation-driven experience design and behavioral change, and managed experience design research, LEAN hypothesis validation, and ideation efforts while ensuring effective stakeholder management and collaboration. I delivered user experiences and fostered a culture of high-fidelity deliverables and continuous process enhancement.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Product design lead",
+            "region": "urn:li:fs_region:(ir,0)",
+            "companyUrn": "urn:li:fs_miniCompany:23986870",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGJE8UxUeLbjw/company-logo_"
+        },
+        {
+            "locationName": "Tehran, Iran",
+            "entityUrn": "urn:li:fs_position:(ACoAAClsaqIB94HeS91ZsgTG90EIElEeFxihiYw,1944150141)",
+            "geoLocationName": "Tehran, Iran",
+            "geoUrn": "urn:li:fs_geo:103186832",
+            "companyName": "Vandar",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "description": "I spearheaded the implementation and facilitation of design sprints and opportunity discovery initiatives, and took charge of the UX and product design workstream, bringing my expertise to enhance the UI Design system. Furthermore, I successfully instilled a culture of design thinking and other methodologies to promote a comprehensive UX strategy across the entire service portfolio.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Senior Product Designer",
+            "region": "urn:li:fs_region:(ir,0)",
+            "companyUrn": "urn:li:fs_miniCompany:23986870",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGJE8UxUeLbjw/company-logo_"
+        },
+        {
+            "locationName": "Tehran Province, Iran",
+            "entityUrn": "urn:li:fs_position:(ACoAAClsaqIB94HeS91ZsgTG90EIElEeFxihiYw,2135000064)",
+            "geoLocationName": "Tehran Province, Iran",
+            "geoUrn": "urn:li:fs_geo:103186832",
+            "companyName": "ArvanCloud | ابر آروان",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "description": "Cloud Infrastructure\n\nI worked with two cross-functional teams at the same time, focusing on CDN and VOD services. Activities encompassed user research, wireframing and designing new features, usability testing for dashboard enhancements, and running NPS and CSAT quarterly surveys. I revamped legacy interfaces using the new design system, ensuring consistent UI/UX across all dashboard workflows",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer & Network Security"
+                ]
+            },
+            "title": "Product Designer",
+            "region": "urn:li:fs_region:(ir,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10031740",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQG_6kDYcKPFvw/company-logo_"
+        },
+        {
+            "locationName": "Tehran Province, Iran",
+            "entityUrn": "urn:li:fs_position:(ACoAAClsaqIB94HeS91ZsgTG90EIElEeFxihiYw,1576515303)",
+            "geoLocationName": "Tehran Province, Iran",
+            "geoUrn": "urn:li:fs_geo:103186832",
+            "companyName": "Orchid Pharmed",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2016
+                }
+            },
+            "description": "Digital Health and Pharmaceutical Marketing\n\nI worked in the product design team on several products, from mobile to enterprise products. I was responsible for user experience and UI consistency through multiple products.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ]
+            },
+            "title": "Product Designer",
+            "region": "urn:li:fs_region:(ir,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9304617",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFAwxxPrlS-1A/company-logo_"
+        },
+        {
+            "locationName": "Tehran Province, Iran",
+            "entityUrn": "urn:li:fs_position:(ACoAAClsaqIB94HeS91ZsgTG90EIElEeFxihiYw,1435383577)",
+            "geoLocationName": "Tehran Province, Iran",
+            "companyName": "IranTalent.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2015
+                }
+            },
+            "description": "Job Site and Online Recruitment Service\n\nIn this role, I was responsible for web page design, campaign landing pages, and ensuring job search efficiency via the website. My responsibilities included monitoring relevant metrics such as landing pages conversion rates, and user engagement, conducting A/B tests collaborating with the marketing team",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior UI UX Designer",
+            "companyUrn": "urn:li:fs_miniCompany:5008416",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQG6SEjgO9IoVA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAClsaqIB94HeS91ZsgTG90EIElEeFxihiYw,583523751)",
+            "school": {
+                "objectUrn": "urn:li:school:5073052",
+                "entityUrn": "urn:li:fs_miniSchool:5073052",
+                "active": true,
+                "schoolName": "Semnan University",
+                "trackingId": "MpNHYO2YRZ2yBhOXrNFwUQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGo0KATgRquCg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101121",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Semnan University",
+            "fieldOfStudy": "Graphic Design",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:5073052"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Academy Zarin",
+            "name": "Behavior Design ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:77011315",
+                "entityUrn": "urn:li:fs_miniCompany:77011315",
+                "name": "Academy Zarin",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1642313079443/academy_zarin_logo?e=1710374400&v=beta&t=PKwm6AthELWgI4Q8KSdS3OfEWuJBeCbylsQAuCAVrjw",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1642313079443/academy_zarin_logo?e=1710374400&v=beta&t=nmUg_RTE7sKGrjdjL8k-MNj6Mh1bSZCtBSDoqjUJngo",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1642313079443/academy_zarin_logo?e=1710374400&v=beta&t=BpxZIAa3pCFgXyBgDvJEOsrDn4CczKitf8dRcMQCePs",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGw7xYr_XrS4A/company-logo_"
+                    }
+                },
+                "universalName": "academy-zarin",
+                "dashCompanyUrn": "urn:li:fsd_company:77011315",
+                "trackingId": "3UcUzygsT7aHq6lUI3jmGw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:77011315"
+        },
+        {
+            "authority": "Docent Academy",
+            "name": "UX Specialist",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:9476304",
+                "entityUrn": "urn:li:fs_miniCompany:9476304",
+                "name": "Docent Academy",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630532749289/docentac_logo?e=1710374400&v=beta&t=ro7e6Sr57TlKdk3xCJMqgf6NrZle5SuAQdRW2s_o3O0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630532749289/docentac_logo?e=1710374400&v=beta&t=x_WVNDNgXquuNaMYtfjFSni1vuq-vEPGyCE6J08pB1Q",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630532749289/docentac_logo?e=1710374400&v=beta&t=84hr0mD6vDFlYHPt71r0WjSd7293M9ucE95ABzjzYNs",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGNva10ihkxvA/company-logo_"
+                    }
+                },
+                "universalName": "docentac",
+                "dashCompanyUrn": "urn:li:fsd_company:9476304",
+                "trackingId": "bRXdHc8VQkqsrdGJlvN8hA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:9476304"
+        },
+        {
+            "authority": "Docent Academy",
+            "name": "Information Architecture",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:9476304",
+                "entityUrn": "urn:li:fs_miniCompany:9476304",
+                "name": "Docent Academy",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630532749289/docentac_logo?e=1710374400&v=beta&t=ro7e6Sr57TlKdk3xCJMqgf6NrZle5SuAQdRW2s_o3O0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630532749289/docentac_logo?e=1710374400&v=beta&t=x_WVNDNgXquuNaMYtfjFSni1vuq-vEPGyCE6J08pB1Q",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630532749289/docentac_logo?e=1710374400&v=beta&t=84hr0mD6vDFlYHPt71r0WjSd7293M9ucE95ABzjzYNs",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGNva10ihkxvA/company-logo_"
+                    }
+                },
+                "universalName": "docentac",
+                "dashCompanyUrn": "urn:li:fsd_company:9476304",
+                "trackingId": "lIjpYzYpS/OfYmLP7Ky5NA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:9476304"
+        },
+        {
+            "authority": "INVERSE School",
+            "name": "Motion Design",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:4992416",
+                "entityUrn": "urn:li:fs_miniCompany:4992416",
+                "name": "INVERSE School",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631335652852?e=1710374400&v=beta&t=tMIWojyn2kOk7-k8oU0iH-CdhoELa_9W6tqDcvlPVgY",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631335652852?e=1710374400&v=beta&t=Blwtayx3gPafdnvGVhMcmIMxqLMXb_rYtnbbO1nufpk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631335652852?e=1710374400&v=beta&t=JGXgZcQnXLMaq8aQ9QLjDtVfEhMLN5gmSJDwNVNwxkg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGTY6ZbBic63Q/company-logo_"
+                    }
+                },
+                "universalName": "inverseschool",
+                "dashCompanyUrn": "urn:li:fsd_company:4992416",
+                "trackingId": "w1gqu4HmRYCvpQyhnp6vKA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:4992416"
+        },
+        {
+            "authority": "Docent Academy",
+            "name": "UX Writing",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:9476304",
+                "entityUrn": "urn:li:fs_miniCompany:9476304",
+                "name": "Docent Academy",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630532749289/docentac_logo?e=1710374400&v=beta&t=ro7e6Sr57TlKdk3xCJMqgf6NrZle5SuAQdRW2s_o3O0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630532749289/docentac_logo?e=1710374400&v=beta&t=x_WVNDNgXquuNaMYtfjFSni1vuq-vEPGyCE6J08pB1Q",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630532749289/docentac_logo?e=1710374400&v=beta&t=84hr0mD6vDFlYHPt71r0WjSd7293M9ucE95ABzjzYNs",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGNva10ihkxvA/company-logo_"
+                    }
+                },
+                "universalName": "docentac",
+                "dashCompanyUrn": "urn:li:fsd_company:9476304",
+                "trackingId": "wSXWAf60S9+Zc/xFU08Xyw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:9476304"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

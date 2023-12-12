@@ -1,0 +1,275 @@
+{
+    "industryName": "Accounting",
+    "lastName": "Peeters",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 3,
+        "day": 6
+    },
+    "industryUrn": "urn:li:fs_industry:47",
+    "firstName": "Chayen",
+    "entityUrn": "urn:li:fs_profile:ACoAABdgvDoBlCrKzGwNV0x1LnvXk3EJNWXbeAM",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:105855469"
+    },
+    "geoLocationName": "Gemeente Heerlen, Limburg",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Financial Controller | Huisartsen Oostelijk Zuid Limburg",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQGtiEoOkkjbKg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1641845823713?e=1707955200&v=beta&t=VELZexVxOYNxyh8yZ0KARRj7KvEY1dwV9YtfgvnhhUA",
+    "img_200_200": "200_200/0/1641845823713?e=1707955200&v=beta&t=eVEzVTh0g8z71dTCw9yNOqBGdsYCxa13QY5Ly40qVoo",
+    "img_400_400": "400_400/0/1641845823713?e=1707955200&v=beta&t=WZjOcD20l9rh_1DNdTnFdpkdmmf04PO7wBqYF1i2k4s",
+    "img_800_800": "800_800/0/1641845823713?e=1707955200&v=beta&t=cEkNEtDDav6DaPheZtK4eLTV7vs2nCaCTB2c7mLWsTo",
+    "profile_id": "ACoAABdgvDoBlCrKzGwNV0x1LnvXk3EJNWXbeAM",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABdgvDoBlCrKzGwNV0x1LnvXk3EJNWXbeAM",
+    "member_urn": "urn:li:member:392215610",
+    "public_id": "chayenpeeters",
+    "experience": [
+        {
+            "locationName": "Heerlen, Limburg, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABdgvDoBlCrKzGwNV0x1LnvXk3EJNWXbeAM,2049310025)",
+            "geoLocationName": "Heerlen, Limburg, Nederland",
+            "geoUrn": "urn:li:fs_geo:104593743",
+            "companyName": "Huisartsen Oostelijk Zuid Limburg",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ]
+            },
+            "title": "Financial Controller",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1967777",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHiePhoazxgFw/company-logo_"
+        },
+        {
+            "locationName": "Maastricht, Limburg, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABdgvDoBlCrKzGwNV0x1LnvXk3EJNWXbeAM,1847801730)",
+            "geoLocationName": "Maastricht, Limburg, Nederland",
+            "geoUrn": "urn:li:fs_geo:101361405",
+            "companyName": "Deloitte",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Senior Staff",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1038",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_"
+        },
+        {
+            "locationName": "Maastricht, Limburg, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABdgvDoBlCrKzGwNV0x1LnvXk3EJNWXbeAM,1678679470)",
+            "geoLocationName": "Maastricht, Limburg, Nederland",
+            "geoUrn": "urn:li:fs_geo:101361405",
+            "companyName": "Deloitte Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Staff",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1038",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_"
+        },
+        {
+            "locationName": "Maastricht, Limburg, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABdgvDoBlCrKzGwNV0x1LnvXk3EJNWXbeAM,1060853703)",
+            "geoLocationName": "Maastricht, Limburg, Nederland",
+            "geoUrn": "urn:li:fs_geo:101361405",
+            "companyName": "Deloitte Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Junior Staff",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1038",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_"
+        },
+        {
+            "locationName": "Maastricht, Limburg, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABdgvDoBlCrKzGwNV0x1LnvXk3EJNWXbeAM,1009817033)",
+            "geoLocationName": "Maastricht, Limburg, Nederland",
+            "geoUrn": "urn:li:fs_geo:101361405",
+            "companyName": "Deloitte Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Stagiaire/Werkstudent ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1038",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABdgvDoBlCrKzGwNV0x1LnvXk3EJNWXbeAM,745361324)",
+            "school": {
+                "objectUrn": "urn:li:school:42948",
+                "entityUrn": "urn:li:fs_miniSchool:42948",
+                "active": true,
+                "schoolName": "Maastricht University School of Business and Economics",
+                "trackingId": "QYlleiCeQy6Hl1mTXVJsUQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHfHQcKud_mbQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "degreeName": "Master of Science ",
+            "schoolName": "Maastricht University School of Business and Economics",
+            "fieldOfStudy": "IB Spec Accounting & Control",
+            "schoolUrn": "urn:li:fs_miniSchool:42948"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABdgvDoBlCrKzGwNV0x1LnvXk3EJNWXbeAM,610669007)",
+            "school": {
+                "objectUrn": "urn:li:school:19970",
+                "entityUrn": "urn:li:fs_miniSchool:19970",
+                "active": true,
+                "schoolName": "Nyenrode Business University",
+                "trackingId": "I8VlMMpYTKyCMO1qFY9fSg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHiutSI3qcscQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "degreeName": "Pre-Master",
+            "schoolName": "Nyenrode Business Universiteit",
+            "fieldOfStudy": "Accountancy",
+            "schoolUrn": "urn:li:fs_miniSchool:19970"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABdgvDoBlCrKzGwNV0x1LnvXk3EJNWXbeAM,255996991)",
+            "school": {
+                "objectUrn": "urn:li:school:15434",
+                "entityUrn": "urn:li:fs_miniSchool:15434",
+                "active": true,
+                "schoolName": "Zuyd Hogeschool | Zuyd University of Applied Sciences",
+                "trackingId": "hGBJCbDySKeisSPrk6Vrbg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQE8dXrQh1I4pQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "degreeName": "Bachelor of Science - BS",
+            "schoolName": "Zuyd Hogeschool | Zuyd University of Applied Sciences",
+            "fieldOfStudy": "Accountancy",
+            "degreeUrn": "urn:li:fs_degree:400",
+            "schoolUrn": "urn:li:fs_miniSchool:15434"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Duits",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Engels",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

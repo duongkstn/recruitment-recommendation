@@ -1,0 +1,249 @@
+{
+    "summary": "Currently working for a Tech-Stars and VC backed SaaS B2B start-up, affording me international business exposure and allowing me to gain invaluable hands-on experience in an early-stage venture.\n\nMy experience lies in fashion buying, account management, growth and business development. All coming with varying budgets, client expectations and tight deadlines.\n\nI have an inherent passion for fashion and trends. I have spent majority of my career in fashion and retail. I have vast knowledge about the retail landscape as well as the manufacturing and brand side of fashion. With a flair for communication, people and relationship-building, I am passionate about creating positive relationships both in the workplace.\n\nLet's connect!\n\nMail me: christina@thefolklore.com or book a call: https://calendly.com/christina-sardianos/30min\n\nLearn more about The Folklore: https://thefolkloregroup.com/",
+    "industryName": "Computer Software",
+    "lastName": "Sardianos",
+    "locationName": "South Africa",
+    "student": false,
+    "geoCountryName": "South Africa",
+    "geoCountryUrn": "urn:li:fs_geo:104035573",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Christina",
+    "entityUrn": "urn:li:fs_profile:ACoAABgfZj4Buu5Bwhc-HVWUid82n0_vIESzoGs",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104231451"
+    },
+    "geoLocationName": "City of Cape Town, Western Cape",
+    "location": {
+        "basicLocation": {
+            "countryCode": "za"
+        }
+    },
+    "headline": "Account Manager Lead at The Folklore Group | Revolutionizing wholesale distribution for diverse brands in emerging markets",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQG1QuXKL4wbmg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1694434547183?e=1707955200&v=beta&t=PQvI2zGB_SQiQW7lyb3Y6AyUhduQv7Aq-x8SSdJJoTk",
+    "img_200_200": "200_200/0/1694434547183?e=1707955200&v=beta&t=L9cTzFfQkMSph8WNTCHu7gnPWgi7OxDBbuONLkD2Gtg",
+    "img_400_400": "400_400/0/1694434547183?e=1707955200&v=beta&t=fWAyP82jgSku3gr2_yKMLzU9EldhY1N0GrON20fltps",
+    "img_800_800": "800_800/0/1694434547183?e=1707955200&v=beta&t=QdY9mLJ3exLVSQFxGSuCVt2MlfrYJXEZaemEj-fsZUY",
+    "profile_id": "ACoAABgfZj4Buu5Bwhc-HVWUid82n0_vIESzoGs",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABgfZj4Buu5Bwhc-HVWUid82n0_vIESzoGs",
+    "member_urn": "urn:li:member:404710974",
+    "public_id": "christina-sardianos",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABgfZj4Buu5Bwhc-HVWUid82n0_vIESzoGs,2210059198)",
+            "companyName": "The Folklore Group",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "description": "The Folklore Connect is a SaaS-enabled B2B wholesale marketplace on a mission to revolutionize wholesale distribution for diverse suppliers in emerging markets. The Folklore is a Techstars Seattle '21 and venture capital-backed company, featured by Vogue, Forbes, Fast Company, Inc., Bloomberg, and Entrepreneur. We work with enterprise retailers like Nordstrom, Shopbop, Revolve, and Bergdorf Goodman and has previously partnered with organizations like Farfetch and Coterie.\n\n- Relationship builder and client success driver\n- Brand pipeline management and outreach\n- Proven track record: Exceeding sales and outreach KPI targets and boosting customer satisfaction\n- Tailored solutions for unique client needs\n- Exceptional communication and negotiation skills\n- Cross-functional collaboration for project success\n- Market trends and industry insights\n- Customer success advocate, passionate about unparalleled service and mutual success",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Account Manager, Brands",
+            "companyUrn": "urn:li:fs_miniCompany:11379662",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEpzBoGbEmk6A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABgfZj4Buu5Bwhc-HVWUid82n0_vIESzoGs,2112962920)",
+            "companyName": "The Folklore Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Account Executive, Brands",
+            "companyUrn": "urn:li:fs_miniCompany:11379662",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEpzBoGbEmk6A/company-logo_"
+        },
+        {
+            "locationName": "Cape Town, Western Cape, South Africa",
+            "entityUrn": "urn:li:fs_position:(ACoAABgfZj4Buu5Bwhc-HVWUid82n0_vIESzoGs,1894899437)",
+            "geoLocationName": "Cape Town, Western Cape, South Africa",
+            "geoUrn": "urn:li:fs_geo:100001436",
+            "companyName": "SIGNAL HILL PRODUCTS",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Food & Beverages"
+                ]
+            },
+            "title": "Sales Account Manager",
+            "region": "urn:li:fs_region:(za,5841)",
+            "companyUrn": "urn:li:fs_miniCompany:34811825",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFHQJhkPLK2_A/company-logo_"
+        },
+        {
+            "locationName": "Cape Town, Western Cape, South Africa",
+            "entityUrn": "urn:li:fs_position:(ACoAABgfZj4Buu5Bwhc-HVWUid82n0_vIESzoGs,1845370746)",
+            "geoLocationName": "Cape Town, Western Cape, South Africa",
+            "geoUrn": "urn:li:fs_geo:100001436",
+            "companyName": "Superbalist.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "description": "Boyswear Buyer (Fixed Term Contract) \n- Apparel\n- Footwear\n- Accessories\n\nManaging 3rd Party Brands and Private Label for 2-8 Boys and 8-14 Tween Boys Categories",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Fashion Buyer",
+            "region": "urn:li:fs_region:(za,5841)",
+            "companyUrn": "urn:li:fs_miniCompany:3519834",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGSsErltJNsWw/company-logo_"
+        },
+        {
+            "locationName": "Cape Town Area, South Africa",
+            "entityUrn": "urn:li:fs_position:(ACoAABgfZj4Buu5Bwhc-HVWUid82n0_vIESzoGs,1511843934)",
+            "geoLocationName": "Cape Town Area, South Africa",
+            "geoUrn": "urn:li:fs_geo:104231451",
+            "companyName": "TFG (The Foschini Group)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "description": "- Specialty Buyer portfolio: Ladies Footwear, Outerwear and Special Projects. \n- Internal move to kidswear portfolio in 2020, buying boyswear across all categories.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Fashion Buyer",
+            "region": "urn:li:fs_region:(za,5852)",
+            "companyUrn": "urn:li:fs_miniCompany:16008",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQGEbHpIDUTO3w/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAABgfZj4Buu5Bwhc-HVWUid82n0_vIESzoGs,2033044378)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAABgfZj4Buu5Bwhc-HVWUid82n0_vIESzoGs,266786925)",
+            "school": {
+                "objectUrn": "urn:li:school:3186174",
+                "entityUrn": "urn:li:fs_miniSchool:3186174",
+                "active": true,
+                "schoolName": "STADIO Higher Education",
+                "trackingId": "Zw1vfd6AQz6HTSdHuLOePg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQGoPdRSwbtsPw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "description": "Majors: Business Studies and Management. Marketing and Retailing. Buying and Merchandising. \n\nElectives: Fashion Media, Fashion Theory, The History of Fashion, Trend Analysis, Creative Design, Computer Literacy and Design, Technical Drawing, Project Management, Merchandising Mathematics & Planning, Fashion Practice and Computer Aided Drawings, Textiles.",
+            "degreeName": "Bachelor of Arts (B.A.)",
+            "schoolName": "LISOF",
+            "fieldOfStudy": "Fashion",
+            "schoolUrn": "urn:li:fs_miniSchool:3186174"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABgfZj4Buu5Bwhc-HVWUid82n0_vIESzoGs,284735470)",
+            "grade": "12",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "National Senior Certificate (Matric IEB)",
+            "schoolName": "Heronbridge College"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Afrikaans",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Afrikaans",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Greek",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Greek",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "name": "BA Fashion"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

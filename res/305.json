@@ -1,0 +1,174 @@
+{
+    "summary": "With over 20 years of experience in executive search, I am a seasoned and skilled professional who delivers high-quality results for my clients. My core competencies include C-level search, succession planning, benchmarking, and confidential consulting. As a managing partner at MHL Executive Search, I focus on strictly confidential C and C-1 level executive search for a variety of sectors and regions. I am passionate about helping my clients optimize the quality and productivity of their executive teams, and aligning their talent strategy with their business goals and culture.",
+    "industryName": "Human Resources",
+    "lastName": "Lamberts",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:137",
+    "firstName": "Marnix",
+    "entityUrn": "urn:li:fs_profile:ACoAAABceH4BiGRBpzzwIE565wX4NQouaZbv59Q",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102434816"
+    },
+    "geoLocationName": "Utrecht, Utrecht",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Managing Partner @ MHL | Executive Search & Succession Planning",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQHC042FmTpTLg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1697795402050?e=1707955200&v=beta&t=R7F4nTwDEeMEkc7-3Lc5KBuDVQDtOQbtg5Ktpo_0HpM",
+    "img_200_200": "200_200/0/1697795402050?e=1707955200&v=beta&t=atGuo7ieBmgoe0iSb2ha3pQyE07hTO5thkSpcT4Li8Q",
+    "img_400_400": "400_400/0/1697795402050?e=1707955200&v=beta&t=tbyR2Ftmtya-meAjrXJyudgZ7RPryhWjEQPtFroxVF8",
+    "img_800_800": "800_800/0/1697795402050?e=1707955200&v=beta&t=N9jtbXUg5yJypDyIoDWsGY3C3xjKtjQhJJuUAmUJYSg",
+    "profile_id": "ACoAAABceH4BiGRBpzzwIE565wX4NQouaZbv59Q",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAABceH4BiGRBpzzwIE565wX4NQouaZbv59Q",
+    "member_urn": "urn:li:member:6060158",
+    "public_id": "marnixlamberts",
+    "experience": [
+        {
+            "locationName": "Amsterdam Area",
+            "entityUrn": "urn:li:fs_position:(ACoAAABceH4BiGRBpzzwIE565wX4NQouaZbv59Q,2274558095)",
+            "geoLocationName": "Amsterdam Area",
+            "geoUrn": "urn:li:fs_geo:90010383",
+            "companyName": "MHL Executive Search",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "description": "Focus on strictly confidential C and C -1 level executive search (replacement, succession, confidential expansion of business, benchmark against current executive team)\n\nMHL Executive Search unique approach entails delivering search results to our clients before disclosing their identity to candidates. This confidential methodology positions us as trusted advisors and skilled executors, assisting company leadership in optimizing the quality and productivity of their executive teams.\nWhether it's executive replacements, succession planning, benchmarking against the market, or making confidential business decisions such as acquisitions, new ventures, or strategic changes, MHL's services provide crucial insights on strong alternative candidates. This allows executives to consider and implement changes without alerting external stakeholders. At MHL Executive Search, we empower you to shape your future leadership discreetly and effectively.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Managing Partner",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:100126131",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFanVqOIbMcIQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAABceH4BiGRBpzzwIE565wX4NQouaZbv59Q,1031548377)",
+            "companyName": "MXL Global Search & Partners",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "description": "MXL Global Search Consultants deliver searches from start to finish themselves, without outsourcing any part of the process. Services are offered against a competitive fee.\n\nWe offer access to a candidate pool which stays out of reach of other recruitment methods (online vacancy sites) and who are an exact match with the vacancy to be filled. In terms of sector knowledge, management experience/expertise and proven trackrecord of achieved results.\n\nMarnix Lamberts has successfully delivered searches in the across Europe (Benelux, UK, Germany, Poland), Middle East (Dubai, KSA, Oman), AsiaPac/Australia (Hong Kong, Singapore, Brisbane), LaTAM (Mexico, Panama, Colombia, Brazil). \n\nClients and candidates highly rate his sector-knowledge, global network, consultative approach and the quality and speed in the delivery process. \n\nContact details:\nPhone: +31615468640\nEmail: lamberts@mxlglobalsearch.com",
+            "company": {},
+            "title": "Partner/Owner",
+            "companyUrn": "urn:li:fs_miniCompany:14832588",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHgOi9c1RDrcA/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAABceH4BiGRBpzzwIE565wX4NQouaZbv59Q,784790540)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "companyName": "Korn Ferry",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Managing Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:3741",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHyoaC1FCZ0HQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAABceH4BiGRBpzzwIE565wX4NQouaZbv59Q,48285724)",
+            "companyName": "MXL Global Search & Partners",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "company": {},
+            "title": "Global Search Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:14832588",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHgOi9c1RDrcA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, London, Singapore",
+            "entityUrn": "urn:li:fs_position:(ACoAAABceH4BiGRBpzzwIE565wX4NQouaZbv59Q,8526217)",
+            "geoLocationName": "Amsterdam, London, Singapore",
+            "companyName": "Morgan Howard International",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2006
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 1999
+                }
+            },
+            "description": "•\tP&L Northern European Business. 4 Direct reports: Manager Amsterdam, London, Stockholm, Frankfurt offices. 32 indirect.\n•\tAccount Director and lead deliverer for 3 Global accounts.\n•\tSales & delivery of international/global Search and Interim Recruitment Management assignments.",
+            "title": "Partner"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAABceH4BiGRBpzzwIE565wX4NQouaZbv59Q,2433139)",
+            "school": {
+                "objectUrn": "urn:li:school:15415",
+                "entityUrn": "urn:li:fs_miniSchool:15415",
+                "active": true,
+                "schoolName": "Erasmus University Rotterdam",
+                "trackingId": "UIjjiPTiSJGru0Kx3wH5lw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 1992
+                },
+                "startDate": {
+                    "year": 1987
+                }
+            },
+            "degreeName": "Master’s Degree",
+            "schoolName": "Erasmus Universiteit Rotterdam",
+            "fieldOfStudy": "Public Administration",
+            "schoolUrn": "urn:li:fs_miniSchool:15415"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

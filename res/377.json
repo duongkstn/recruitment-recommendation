@@ -1,0 +1,316 @@
+{
+    "summary": "Commercial & Operational Management Executive:\n\nI am happy to work in a greenfield environment helping to boost up the companies results without losing the big picture and open to help other departments in the development. Establish important internal and external relationships to support the improvement of communications. Over time developed outstanding leadership skills able to build strong, cohesive, and transparent corporate culture that creates excellent morale and encourages top performance. As a key member of executive teams, have executed major change initiatives and restructuring of multiple organizations in the past decade, including implementation of ERP (SAP, SRM, Navision, Ariba & Oracle), organizational redesign, process re-engineering, outsourced Stock management services, implemented sales leads program and more. Driving force for repeatedly taking companies to the next level of growth and success.\n\nAreas of expertise: Operations, Relationships management, Procurement, Strategy, Supply Chain, Change management, stakeholder management, centralization of sourcing, transformation management, Led global transformations, S&OP Global planning, Supply demand",
+    "industryName": "Information Technology & Services",
+    "lastName": "Hoogeman",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Patrick",
+    "entityUrn": "urn:li:fs_profile:ACoAAAcsKz0Bo5orKgvoVBH37IVxA8XCjSCVttY",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Head of Vendor Management",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQFKrxf2JRmiQw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1527602073592?e=1707955200&v=beta&t=nK-x5PKvCvQzzYSLADqrueNjv0-Yr-xVXKZlanD58X4",
+    "img_200_200": "200_200/0/1527602073645?e=1707955200&v=beta&t=CkpFVdK0JzO4fjsLr72y7VmKjzqMyV1iACBa4mdGJJA",
+    "img_400_400": "400_400/0/1527602073598?e=1707955200&v=beta&t=7njZ3leUBuTc3mPqlXTqwfgfet5YZD1eNYfxyhsXrcI",
+    "img_500_500": "800_800/0/1527602073577?e=1707955200&v=beta&t=ArTnqok92i7G-Y0H-L7D6ecJY8496CHSxDrbc8uHYDE",
+    "profile_id": "ACoAAAcsKz0Bo5orKgvoVBH37IVxA8XCjSCVttY",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAcsKz0Bo5orKgvoVBH37IVxA8XCjSCVttY",
+    "member_urn": "urn:li:member:120335165",
+    "public_id": "patrick-hoogeman-4a537234",
+    "experience": [
+        {
+            "locationName": "North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAcsKz0Bo5orKgvoVBH37IVxA8XCjSCVttY,2294290920)",
+            "geoLocationName": "North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:106993522",
+            "companyName": "IT Cloud company",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "title": "Vendor Manager, Strategic Suppliers",
+            "region": "urn:li:fs_region:(nl,0)"
+        },
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAcsKz0Bo5orKgvoVBH37IVxA8XCjSCVttY,1033653084)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Mood Media",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "description": "Leading the international Procurement team and providing all possible support to the BU's and global affiliates.\nSupport in global projects and set out the Supply Chain project procedures.\nIdentify cost avoidance and project savings.\nManage vendor partnerships\n\nCommercial client support, Contract Management, freight forwarding management/Logistics, Global demand planning S&OP, Procurement Directs & Indirect, Outsourcing, Production, Partnerships, Stakeholder management, Centralization, Global ERP implementation.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Director International Operational Procurement & Strategy",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:36347",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQE-_1l0fENaTw/company-logo_"
+        },
+        {
+            "locationName": "Almere Stad Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAcsKz0Bo5orKgvoVBH37IVxA8XCjSCVttY,658222245)",
+            "geoLocationName": "Almere Stad Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:104447608",
+            "companyName": "Mood Media",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "description": "Responsible for the strategic Operational support teams and individual Procurement experts. Formulate and drive a consistent approach towards all Operational Support and (Global) Tendering activities, so as to ensure value for money is maximized.\n\n- Leading CAPEX and Global cost savings projects\n- Reduced supplier base and consolidated spend through the approved main suppliers \n- Developed Global operational policies, procedures & KPI's\n- Leading international procurement and logistics experts.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Director Operational Sourcing Europe",
+            "region": "urn:li:fs_region:(nl,5663)",
+            "companyUrn": "urn:li:fs_miniCompany:36347",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQE-_1l0fENaTw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAcsKz0Bo5orKgvoVBH37IVxA8XCjSCVttY,187527731)",
+            "companyName": "Invensys - Acquired by Schneider Electric",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2006
+                }
+            },
+            "description": "Worked closely with Country Leads to ensure Regional (Pan-European) Operational Supply Chain & commercial support.. Providing the necessary level of leadership, support and materials to enable the procurement community to work effectively together to deliver best benefit for the business.\n*Procurement, * Logistics, * Supply demand Planning Europe S&OP, * Warehousing,* Outsourcing, *SAP/ ERP Implementation, * Facilities, * Contract management, Stakeholder management, Change management, commercial partnerships.\n\nDelivery of savings and benefits across Europe Region, through category management and leadership and expertise in the continuous development of the Procurement function in the countries.\nImprove the logistics departments and supervise the EURA service stock \nAccountable for the design, development and implementation of the regional strategy for various categories of spend\nUnderstand the complexities and sub-regional variances and develop new ways of working to maximise cross-regional opportunities in procurement.\nMake a positive impact on the business through innovation, introduction of new technologies, rationalization and consolidation where appropriate and support the wider business model through continuous improvement.\nDeliver cost savings on properties across Europe Region and support local decision making on optimizing the related cost structure.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Industrial Automation"
+                ]
+            },
+            "title": "Supply Chain Manager Europe Region 5",
+            "companyUrn": "urn:li:fs_miniCompany:3368",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFhObVSFktSlA/company-logo_"
+        },
+        {
+            "locationName": "Flevoland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAcsKz0Bo5orKgvoVBH37IVxA8XCjSCVttY,187543787)",
+            "geoLocationName": "Flevoland",
+            "companyName": "Grando Keukens & Bad",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2006
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2005
+                }
+            },
+            "description": "Goal: analyzing all unit procedures, employees performance and implementing improvements. Second goal, guide the local MD to improve the service level and professionalize. \n\nAssignment to review all processes, indicate weaknesses and implement improvement plans in cooperation with the Director. \n\nContribute to the development of the overall strategy approach. \n\nCreate sustainable cost efficiency, reorganize vendors/ vendor management and uniform supplier management. \n\nEstablish relationships with Distributors and Retail Stores \n\nCapital reduction, set savings and improvement targets. \n\nHR development plans \n\nImplementation of the Business Strategy \n\nBusiness planning and marketing controlling \n\nBusiness, Process & Service management",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Furniture"
+                ]
+            },
+            "title": "Business Procurement & Operations Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:1467436",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHUHUVPRMgZdg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAcsKz0Bo5orKgvoVBH37IVxA8XCjSCVttY,836583455)",
+            "school": {
+                "objectUrn": "urn:li:school:18043",
+                "entityUrn": "urn:li:fs_miniSchool:18043",
+                "active": true,
+                "schoolName": "Yale University",
+                "trackingId": "DLEP1UM/S2qLWgnnt1Tq8Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQGGJUjGgSYcWQ/company-logo_"
+            },
+            "activities": "www.coursera.com",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2021
+                }
+            },
+            "schoolName": "Yale University",
+            "fieldOfStudy": "The Science of Well-Being",
+            "schoolUrn": "urn:li:fs_miniSchool:18043"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAcsKz0Bo5orKgvoVBH37IVxA8XCjSCVttY,71375020)",
+            "school": {
+                "objectUrn": "urn:li:school:15428",
+                "entityUrn": "urn:li:fs_miniSchool:15428",
+                "active": true,
+                "schoolName": "Amsterdam University of Applied Sciences",
+                "trackingId": "auZA7Z8OTB6ARIXwqDi38A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_"
+            },
+            "activities": "Member of introduction Board for new students\nMember of activities Board. \nMember and associate for business relationships (organizing Company visits and introductions) ",
+            "grade": "B.Sc",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2000
+                },
+                "startDate": {
+                    "year": 1997
+                }
+            },
+            "description": "Combination of mechanical engineering, construction and electrical engineering",
+            "degreeName": "Bachelor of Science - BSc",
+            "schoolName": "Amsterdam University of Applied Sciences",
+            "fieldOfStudy": "business and technology Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15428"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Driver & Field staff",
+            "companyName": "animal protection Netherlands",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "cause": "ANIMAL_RIGHTS",
+            "description": "Volunteer as driver and field expert. Picking up injured animals and providing first care.\nIf needed take the injured animal to the veterinarian or other animal expert/ organisation.\n\nProviding training and coaching in the field how to respect wild animals and pets."
+        },
+        {
+            "role": "Basketbal Trainer and Planning Leader MT",
+            "companyName": "Local basketbal team",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2006
+                }
+            },
+            "cause": "HEALTH",
+            "description": "guiding multiple teams \nTrainer of the First team\nBoard member, Planning and main contact national league Board"
+        },
+        {
+            "role": "Emergency Response Officer, BHV",
+            "companyName": "Invensys - Acquired by Schneider Electric",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2007
+                }
+            },
+            "cause": "HEALTH",
+            "description": "Company: Emergency Response Officer/ health and safety officer",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:3368",
+                    "entityUrn": "urn:li:fs_miniCompany:3368",
+                    "name": "Invensys - Acquired by Schneider Electric",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631324505406?e=1710374400&v=beta&t=pAIdoiPkif-UFw9FxIFjh9vyd-5DhtQhkbNEtD-yLxI",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631324505406?e=1710374400&v=beta&t=MTHF7cyRf6eORS_sTQ5BNYTB91vjAzQXkXx8VMshvT4",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631324505406?e=1710374400&v=beta&t=Dcf4pKYFttxKsoQ8t-GQU3jLhO7hmRjZjzMJNW0ybFc",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFhObVSFktSlA/company-logo_"
+                        }
+                    },
+                    "universalName": "invensys",
+                    "dashCompanyUrn": "urn:li:fsd_company:3368",
+                    "trackingId": "L6TbmoPDSsSqxxahy4naBQ=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:3368"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

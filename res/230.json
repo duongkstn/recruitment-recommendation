@@ -1,0 +1,209 @@
+{
+    "summary": "Specialties: E-commerce, Scrum, Agile, IT development, Finance, Supply Chain Management, Category management, Sourcing strategies, Contracting, Sourcing and Procurement, Supplier integration and collaboration, Lean, ",
+    "industryName": "Retail",
+    "lastName": "Bercz",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Christian",
+    "entityUrn": "urn:li:fs_profile:ACoAAAEPoHcBr-dDk0OjSxyh2avejGoWyWDqgk4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104657568"
+    },
+    "geoLocationName": "Leidschendam, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Head of Contract- and Supplier Management at bol.com",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQGKrvcTq8KQTw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1576575652500?e=1707955200&v=beta&t=jiF0wQwARNRbrDbqgBuD8osZo2Dcm20dt0oQYn8nE8c",
+    "img_200_200": "200_200/0/1576575652469?e=1707955200&v=beta&t=S6zNWJohh45vGiMJTEArdN4TlwIfUNiF-dqCfxawuTg",
+    "img_400_400": "400_400/0/1576575652533?e=1707955200&v=beta&t=kWreV6vl8cuNhA8WeR2H7pR354FIBcrYdltF6Jg3t-E",
+    "img_500_500": "800_800/0/1576575652568?e=1707955200&v=beta&t=IghKSjrnNs_1iWULjjFBBFvjg3hGNdSJZWu2ghqEsbE",
+    "profile_id": "ACoAAAEPoHcBr-dDk0OjSxyh2avejGoWyWDqgk4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAEPoHcBr-dDk0OjSxyh2avejGoWyWDqgk4",
+    "member_urn": "urn:li:member:17801335",
+    "public_id": "christianbercz",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAEPoHcBr-dDk0OjSxyh2avejGoWyWDqgk4,1668931277)",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Head of Contract- and Supplier Management (for resale)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAEPoHcBr-dDk0OjSxyh2avejGoWyWDqgk4,1433542346)",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Manager Contracting (for resale)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAEPoHcBr-dDk0OjSxyh2avejGoWyWDqgk4,1433544120)",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Product Manager Supplier Portal",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEPoHcBr-dDk0OjSxyh2avejGoWyWDqgk4,698021410)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Lead & Product Owner - Contract & Condition management",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEPoHcBr-dDk0OjSxyh2avejGoWyWDqgk4,29178424)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Capgemini Consulting",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2008
+                }
+            },
+            "description": "Procurement Transformation consultant within the Supply Chain Management practice of Capgemini Consulting; The Netherlands\n\nFocus on supply chain management and sourcing strategy, strategic sourcing, organisational change, Lean procurement and channel selection.\n\n\n\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Supply Chain Management Consultant",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:1075",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQFVUYBtaPbwFQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAEPoHcBr-dDk0OjSxyh2avejGoWyWDqgk4,14233084)",
+            "school": {
+                "objectUrn": "urn:li:school:15449",
+                "entityUrn": "urn:li:fs_miniSchool:15449",
+                "active": true,
+                "schoolName": "University of Twente",
+                "trackingId": "6/fUYxoWTFOLDA6fj6htfQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_"
+            },
+            "activities": "AIESEC, DBV Arriba",
+            "degreeName": "BSc & MSc",
+            "schoolName": "Twente University",
+            "fieldOfStudy": "Industrial Engineering & Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15449"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "APMG-International",
+            "name": "PRINCE2 - Foundation & Practitioner",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2012
+                }
+            },
+            "licenseNumber": "P2R/NLPB168052"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

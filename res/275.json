@@ -1,0 +1,205 @@
+{
+    "summary": "As a data analyst at GeoPhy, I applied my analytics skills to provide data-driven insights and solutions for the real estate industry. I worked with a team of data scientists, engineers, and product managers to develop and deploy dashboards that enhanced the quality and accuracy of GeoPhy's data products and services. Prior to GeoPhy, I gained valuable experience as a business analyst at GamePoint and a data analyst at Spike, where I helped clients from different sectors and markets to leverage data and analytics to achieve their business goals and solve their challenges. I have over two years of work experience in data and marketing analytics, and I have acquired skills in machine learning algorithms, data analysis, and data visualization. I am passionate about using data to create value and impact for various stakeholders and sectors, and I am eager to learn and grow as a data analyst.",
+    "industryName": "Real Estate",
+    "lastName": "Lombardi",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:44",
+    "firstName": "Cristian",
+    "entityUrn": "urn:li:fs_profile:ACoAACcA2WoB7ieLZE5v4b9JobEBngnRiEWRyF8",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101461601"
+    },
+    "geoLocationName": "The Hague, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Data Analyst | Master's in Data Science",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQHrkJ186Otgaw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1591703703145?e=1707955200&v=beta&t=xcROaV_dpAJ9K5h69t3XxVYrQ_z9T9pUE_gH67BMguQ",
+    "img_200_200": "200_200/0/1591703703145?e=1707955200&v=beta&t=4LUG4qK8jtfnpM5bDJbG0E2H2LLQ4mjH7PgURsKp_34",
+    "img_400_400": "400_400/0/1591703703145?e=1707955200&v=beta&t=ZZh9wEtHPtry3NyhrNP_X844u7jANJfyR922x-ZfkEg",
+    "img_800_800": "800_800/0/1591703703145?e=1707955200&v=beta&t=zMZBDwoMwzoYHANDt59ne2miKELHG2n-1bDOmrz_NgM",
+    "profile_id": "ACoAACcA2WoB7ieLZE5v4b9JobEBngnRiEWRyF8",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACcA2WoB7ieLZE5v4b9JobEBngnRiEWRyF8",
+    "member_urn": "urn:li:member:654367082",
+    "public_id": "cristian-lombardi-7a2190163",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACcA2WoB7ieLZE5v4b9JobEBngnRiEWRyF8,2038042128)",
+            "companyName": "GeoPhy",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Real Estate"
+                ]
+            },
+            "title": "Data analyst ",
+            "companyUrn": "urn:li:fs_miniCompany:5104905",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGJh_a-B8nsBA/company-logo_"
+        },
+        {
+            "locationName": "L'Aia, Olanda Meridionale, Paesi Bassi",
+            "entityUrn": "urn:li:fs_position:(ACoAACcA2WoB7ieLZE5v4b9JobEBngnRiEWRyF8,1800936105)",
+            "geoLocationName": "L'Aia, Olanda Meridionale, Paesi Bassi",
+            "geoUrn": "urn:li:fs_geo:102685993",
+            "companyName": "GamePoint",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Entertainment"
+                ]
+            },
+            "title": "Business Analyst",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:51994",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHAz-lq7H_Rew/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACcA2WoB7ieLZE5v4b9JobEBngnRiEWRyF8,1745594121)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Spike - Growth Marketing Agency",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "Data Analyst",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11300393",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHEZ8gzisgQ6A/company-logo_"
+        },
+        {
+            "locationName": "Mozzecane, Veneto, Italia",
+            "entityUrn": "urn:li:fs_position:(ACoAACcA2WoB7ieLZE5v4b9JobEBngnRiEWRyF8,1388900334)",
+            "geoLocationName": "Mozzecane, Veneto, Italia",
+            "companyName": "SKRETTING ITALIA S.P.A.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Farming"
+                ]
+            },
+            "title": "Junior Accountant",
+            "companyUrn": "urn:li:fs_miniCompany:24730232"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACcA2WoB7ieLZE5v4b9JobEBngnRiEWRyF8,660566241)",
+            "school": {
+                "objectUrn": "urn:li:school:15415",
+                "entityUrn": "urn:li:fs_miniSchool:15415",
+                "active": true,
+                "schoolName": "Erasmus University Rotterdam",
+                "trackingId": "EQSAiX5XTDCpoLEzF6KrOA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "degreeName": "Master's degree",
+            "schoolName": "Erasmus University Rotterdam",
+            "fieldOfStudy": "Data Science and Marketing Analytics",
+            "degreeUrn": "urn:li:fs_degree:500",
+            "schoolUrn": "urn:li:fs_miniSchool:15415"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACcA2WoB7ieLZE5v4b9JobEBngnRiEWRyF8,563615707)",
+            "school": {
+                "objectUrn": "urn:li:school:13897",
+                "entityUrn": "urn:li:fs_miniSchool:13897",
+                "active": true,
+                "schoolName": "Università degli Studi di Verona",
+                "trackingId": "mp3+qUE9SN2yCU4K/ZiM5A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHni-2Y6MNT0w/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100990",
+            "degreeName": "Laurea breve in Scienze Economiche",
+            "schoolName": "Università degli Studi di Verona",
+            "fieldOfStudy": "Economia",
+            "degreeUrn": "urn:li:fs_degree:215",
+            "schoolUrn": "urn:li:fs_miniSchool:13897"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

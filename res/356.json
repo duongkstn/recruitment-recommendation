@@ -1,0 +1,187 @@
+{
+    "industryName": "Computer & Network Security",
+    "lastName": "Schipper",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:118",
+    "firstName": "Izak",
+    "entityUrn": "urn:li:fs_profile:ACoAAABTvR8BqqT6dyqI3ifnT1Y8zHDXUjvMORk",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Enterprise ICT Security Architect",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5103AQG-rz1uysdFXA/profile-displayphoto-shrink_",
+    "img_80_80": "800_800/0/1516351715871?e=1707955200&v=beta&t=dBrm7hxxE55vlwVthVsvez_wgF1ss-v12iQlQY2S2wM",
+    "profile_id": "ACoAAABTvR8BqqT6dyqI3ifnT1Y8zHDXUjvMORk",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAABTvR8BqqT6dyqI3ifnT1Y8zHDXUjvMORk",
+    "member_urn": "urn:li:member:5487903",
+    "public_id": "izak-schipper-a53a071",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAABTvR8BqqT6dyqI3ifnT1Y8zHDXUjvMORk,83170486)",
+            "companyName": "Integrative.it",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2008
+                }
+            },
+            "description": "Operational and Tactical Security design and implementation for different mid size and international companies.",
+            "title": "Enterprise ICT Security Architect"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAABTvR8BqqT6dyqI3ifnT1Y8zHDXUjvMORk,151907776)",
+            "companyName": "ASR Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2010
+                }
+            },
+            "title": "Security Specialist"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAABTvR8BqqT6dyqI3ifnT1Y8zHDXUjvMORk,151445238)",
+            "companyName": "ING",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Security Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:215713",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHB_xMo5kWjEA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAABTvR8BqqT6dyqI3ifnT1Y8zHDXUjvMORk,379524775)",
+            "companyName": "Zarb Limited",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Security specialist",
+            "companyUrn": "urn:li:fs_miniCompany:2996835",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQGMu6YKfAI6kQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAABTvR8BqqT6dyqI3ifnT1Y8zHDXUjvMORk,97931619)",
+            "companyName": "infotrans",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "title": "Network engineer/ Security Specialist"
+        }
+    ],
+    "education": [],
+    "languages": [
+        {
+            "name": "English"
+        },
+        {
+            "name": "French"
+        },
+        {
+            "name": "German"
+        },
+        {
+            "name": "Spanisch"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "ISACA",
+            "name": "Certified Information Security Manager® (CISM)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:21062",
+                "entityUrn": "urn:li:fs_miniCompany:21062",
+                "name": "ISACA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=cwzBvUoMgtr8ZvUvUoMsprbGmEqJ8GUYyYxY8zJoCN0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=tKdg4zFODP83AIGTCAYzrxoeUHyP4sBtLNBdvzoeUbE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630602523026/isaca_logo?e=1710374400&v=beta&t=ghFMKYB-nC9QajVN9vtalPvv2k6CxLTyCsEyGbQzIx0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEbgaF0IMoyIw/company-logo_"
+                    }
+                },
+                "universalName": "isaca",
+                "dashCompanyUrn": "urn:li:fsd_company:21062",
+                "trackingId": "jD4XEbKpSOmqx0iNr/AMAw=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:21062",
+            "url": "https://www.youracclaim.com/badges/e585d163-bc7e-485a-9a72-5acb38cc9031/linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

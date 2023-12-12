@@ -1,0 +1,1628 @@
+{
+    "summary": "I see software development as a hobby rather than a job. \n\nI have had the opportunity to use many technologies by developing desktop and web applications for 6 years. I continue to learn and grow in life using research skills and accumulated experience, following a \"be your own teacher\" philosophy.\n\nI focus on Javascript language as professional. I share the projects I have developed to learn and improve myself on Github as open source. I am working as a Front-end developer at Heybooster.\n\nMy vision is to develop myself as a high quality software developer/engineer following the ethical code of hackers.",
+    "industryName": "Computer Software",
+    "lastName": "Dalga",
+    "locationName": "Estonia",
+    "student": false,
+    "geoCountryName": "Estonia",
+    "geoCountryUrn": "urn:li:fs_geo:102974008",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Mustafa",
+    "entityUrn": "urn:li:fs_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104199723"
+    },
+    "geoLocationName": "Tallinn, Harjumaa",
+    "location": {
+        "basicLocation": {
+            "countryCode": "ee"
+        }
+    },
+    "headline": "heybooster - data & analytics -  Front End Developer",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+    "img_200_200": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+    "img_400_400": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+    "img_800_800": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+    "profile_id": "ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+    "member_urn": "urn:li:member:553155978",
+    "public_id": "mustafadalga",
+    "experience": [
+        {
+            "projects": [
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1086116852)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1086386904)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1738235951)",
+            "companyName": "heybooster - data & analytics",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "description": "Key Responsibilities and Achievements:\n\n Leadership in Code Sustainability: Directed the maintenance of front-end projects, laying down a sustainable architectural foundation to ensure the longevity and resilience of applications.\nMobile-First Responsive Design: Initiated the transformation of non-responsive designs into responsive ones, elevating user accessibility across various devices.\n Performance Enhancement: Amplified site performance by 70%, refining site transitions for optimal user experience.\nTesting & Quality Assurance: Implemented unit tests using Vitest, Testing Library, and Vue Test Utils, resolving multiple bugs to maintain top-tier user experience standards.\nCode Documentation: Introduced Vitepress, documentation.js, and tsdoc for organized code documentation, instilling a consistent documentation ethos within the team.\nProductivity Advocate: Spearheaded initiatives that bolstered team productivity, emphasizing best practices and streamlined workflows.\nRefactoring Legacy Code: Modernized legacy code by enforcing clean code principles, boosting code readability and maintainability.\nState Management: Utilized Vuex for crafting and handling Vuex modules in Vue projects and adopted Zustand for state management in the new Next.js 13 project.\nMigration Leadership: Led the migration of two legacy Vue2 projects to Vue3 and Next.js 13, achieving 25% and 50% performance gains respectively. Skillfully addressed challenges and integrated new technologies seamlessly.\nRigorous Quality Checks: Conducted thorough tests on all enhancements and bug rectifications to assure application robustness throughout the software development lifecycle.\nAPI & Form Handling: Integrated react-query for API requests and harnessed react-hook-form for form functionalities.\nMentorship: As a seasoned developer, I've taken on the role of mentor, guiding two junior front-end developers, ensuring they are equipped with the knowledge and skills to thrive in their roles.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Front End Developer",
+            "companyUrn": "urn:li:fs_miniCompany:19102767",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGW76-gqeUUyA/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,715050024)"
+            ],
+            "projects": [
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1717711779)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1186874861)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1449734779)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,295273736)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,222157392)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,198765940)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,198804400)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1567518681)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1567608156)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1567856063)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1568139634)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1322404620)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1322911424)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1116261785)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1377618065)",
+                "urn:li:fs_project:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,2014436717)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1581247711)",
+            "companyName": "GitHub",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "description": "github.com/mustafadalga\n\nTechnologies:\n✓ Python ,\n✓Django,\n✓ PHP \n✓ Laravel,\n✓ Pure Javascript,\n✓ Vue JS,\n✓ HTML 5\n✓ CSS 3\n✓ Powershell,",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Open Source Developer",
+            "companyUrn": "urn:li:fs_miniCompany:1418841",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFmuLSyL1nlPA/company-logo_"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1349430419)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:100170895",
+            "companyName": "Enprestis Human Resources Inc.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2017
+                }
+            },
+            "description": "Technologies:\n✓ Javascript,\n✓ Jquery,\n✓ HTML \n✓ CSS",
+            "title": "Front End Developer",
+            "region": "urn:li:fs_region:(tr,7585)"
+        },
+        {
+            "locationName": "Istanbul, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1348730824)",
+            "geoLocationName": "Istanbul, Turkey",
+            "geoUrn": "urn:li:fs_geo:100170895",
+            "companyName": "Dijital Vizyon",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            "description": "Technologies: \n✓ PHP, \n✓ Javascript, \n✓ Jquery,\n✓ HTML ,\n✓ CSS",
+            "company": {},
+            "title": "Software Developer",
+            "region": "urn:li:fs_region:(tr,7585)",
+            "companyUrn": "urn:li:fs_miniCompany:2726805"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1348765567)",
+            "companyName": "Teknoas Bilgisayar",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "title": "Computer Technician"
+        }
+    ],
+    "education": [
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,713631391)",
+                "urn:li:fs_course:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,714741698)",
+                "urn:li:fs_course:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,714964461)",
+                "urn:li:fs_course:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1094415391)",
+                "urn:li:fs_course:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1094701375)",
+                "urn:li:fs_course:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1094775810)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,540962532)",
+            "school": {
+                "objectUrn": "urn:li:school:17382",
+                "entityUrn": "urn:li:fs_miniSchool:17382",
+                "active": true,
+                "schoolName": "Marmara University",
+                "trackingId": "eCKnJDU0ShWzlzLJ/Y/q5w==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQGwhK4q9iV_tQ/company-logo_"
+            },
+            "grade": "GPA:3.22 / 4   | |   84.7 / 100",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Marmara University",
+            "fieldOfStudy": "Computer Education and Instructional Technology",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:17382"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,671844144)",
+            "grade": "GPA = 3.76",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "description": "Top scoring student",
+            "degreeName": "93.98 / 100",
+            "schoolName": "Technical High School",
+            "fieldOfStudy": "Information Technologies Field - Computer Technical Service"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Turkish",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [
+        {
+            "date": {
+                "month": 5,
+                "year": 2021,
+                "day": 25
+            },
+            "name": "Animal and Nature Videos",
+            "url": "https://youtube.com/channel/UCjbSpwL1nGHnAEHN2fbh7DQ",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ]
+        },
+        {
+            "name": "Blog",
+            "description": "Mustafa's Tech and Life Diaries",
+            "url": "https://sft.hashnode.dev/",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ]
+        },
+        {
+            "name": "Book Reading List",
+            "url": "http://goodreads.com/mustafadalga",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ]
+        },
+        {
+            "name": "Heybooster Tech",
+            "url": "https://www.heybooster.ai/authors/mustafadalga",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ]
+        },
+        {
+            "name": "Photography",
+            "description": "Animal and Nature Photography",
+            "url": "https://www.instagram.com/dogaklani/",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "authority": "Akademik bilişim",
+            "name": "Network security and Penetration Testing",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "displaySource": "user-images.githubusercontent.com",
+            "url": "https://user-images.githubusercontent.com/25087769/147200111-2d1cb79f-ca26-47a2-adc3-c9654b2fda40.jpeg"
+        },
+        {
+            "authority": "PikselNet",
+            "name": "C# Programming Language",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3264303",
+                "entityUrn": "urn:li:fs_miniCompany:3264303",
+                "name": "PikselNet",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631317377266?e=1710374400&v=beta&t=47atMSNJIWdLpGJ4gmHghV30sVZ0wXrsDCtK798_u3c",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631317377266?e=1710374400&v=beta&t=vNicrLx-1ff3Bz0IwS4_p95VvyXhmyE-vo57_xSEZxk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631317377266?e=1710374400&v=beta&t=Clson7-KcCOZDEB3HfSsm5Mf0SZ52GixtsiSecScazI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFec_vXqcOOVg/company-logo_"
+                    }
+                },
+                "universalName": "pikselnet",
+                "dashCompanyUrn": "urn:li:fsd_company:3264303",
+                "trackingId": "tvJabZNgQDSmJx4UyqRj0g=="
+            },
+            "displaySource": "user-images.githubusercontent.com",
+            "companyUrn": "urn:li:fs_miniCompany:3264303",
+            "url": "https://user-images.githubusercontent.com/25087769/147199293-dd13e1c1-8ea1-4720-9216-e93be7b2e374.jpg"
+        },
+        {
+            "authority": "İBB İSMEK",
+            "name": "English Language || A1-A2",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:10240145",
+                "entityUrn": "urn:li:fs_miniCompany:10240145",
+                "name": "İSMEK",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1632392533341/ibbismek_logo?e=1710374400&v=beta&t=UNerddcQ8vpdsCAhm4-H9bZxhpbTQ-8kXWcBgimX6-o",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1632392533341/ibbismek_logo?e=1710374400&v=beta&t=ThctZJAt0vYSKNYZ7KLF9DikJ7zOdUN5ecdy5RTGhbU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1632392533341/ibbismek_logo?e=1710374400&v=beta&t=R9szFreTdXmY0gqqYhTBkhc1P881FcT1voLxidOWlP8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFOJ2vuKCaLNg/company-logo_"
+                    }
+                },
+                "universalName": "enstituistanbul",
+                "dashCompanyUrn": "urn:li:fsd_company:10240145",
+                "trackingId": "8c4uA70wSVeU48xe+92KAA=="
+            },
+            "displaySource": "user-images.githubusercontent.com",
+            "companyUrn": "urn:li:fs_miniCompany:10240145",
+            "url": "https://user-images.githubusercontent.com/25087769/147200643-32951572-8637-4445-b5d2-410ccf511948.jpeg"
+        },
+        {
+            "authority": "Compec - Boğaziçi Üniversitesi Bilişim Kulübü",
+            "name": "Java Programming Language",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:11467006",
+                "entityUrn": "urn:li:fs_miniCompany:11467006",
+                "name": "Compec - Boğaziçi Üniversitesi Bilişim Kulübü",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1681306582110?e=1710374400&v=beta&t=NxmPzc_E9Bzk0vQCMNCTI_gLkTVLWugiqR6iA3H-h_8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1681306582110?e=1710374400&v=beta&t=8rZ8luIRoJthd6IYVYHijCUzz8SdDMdvqyfaq8fs7bU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1681306582110?e=1710374400&v=beta&t=2eZ_26j4Ju3uc6w2bEwOkX5bLRzVz0UJnYzI5746lnY",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4D0BAQF_PXztT2Kiug/company-logo_"
+                    }
+                },
+                "universalName": "bouncompec",
+                "dashCompanyUrn": "urn:li:fsd_company:11467006",
+                "trackingId": "Gqn9cgTBT22fGhuLKgyBOw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:11467006"
+        },
+        {
+            "authority": "Cambly Inc.",
+            "name": "Cambly Certificate of Accomplishment | English Language",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "http://www.cambly.com/en/certificate/verify/bfe9cd9a",
+            "company": {
+                "objectUrn": "urn:li:company:10558670",
+                "entityUrn": "urn:li:fs_miniCompany:10558670",
+                "name": "Cambly Inc.",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630575804340/cambly_logo?e=1710374400&v=beta&t=1CTAAV3cr0l7vrnVJWlt9x-uu0Ik42YJZs0F59h4kNQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630575804340/cambly_logo?e=1710374400&v=beta&t=Veo0Z372QQCxR_8wgsgYcfSqfA_twlTseo780e1CDGA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630575804340/cambly_logo?e=1710374400&v=beta&t=v-A5IhRN1Lnh7P29CBxHDiJtr4LthrrboRmG-WbPhUI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQGC_MmIDtIBVA/company-logo_"
+                    }
+                },
+                "universalName": "cambly",
+                "dashCompanyUrn": "urn:li:fsd_company:10558670",
+                "trackingId": "g1JgfbcyQVmSyCNf24LeeA=="
+            },
+            "displaySource": "cambly.com",
+            "companyUrn": "urn:li:fs_miniCompany:10558670",
+            "url": "http://www.cambly.com/en/certificate/verify/bfe9cd9a"
+        },
+        {
+            "authority": "Speaking Club",
+            "name": "English Speaking Club",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "licenseNumber": "https://speakingclub.com/cert/mustafadalga/en/",
+            "displaySource": "speakingclub.com",
+            "url": "https://speakingclub.com/cert/mustafadalga/en/"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1581247711)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,2014436717,408251438)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "title": "Realtime 2-Player Mangala Mind Game | Online Turkish Strategy Game"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1581247711)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1116261785,404122539)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "description": "Educational GameMagic Pyramid Mind Game: Challenge Your Mind!",
+            "title": "Magic Pyramid Mind Game"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1581247711)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1377618065,404434791)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "title": "Skyscraper Mind Game"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1581247711)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1322404620,398648478)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "description": "This project is a unique CV Terminal Builder that allows users to create dynamic, interactive CVs in a terminal-like interface. It was built using React.js, Typescript and the xterm.js library.",
+            "title": "💻 CV Terminal Builder"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1581247711)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1567856063,393614200)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "description": "A simple mock flight price offer application",
+            "title": "Fly High"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1581247711)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1568139634,393606949)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "description": "This script converts the file extensions of files in a specified directory or the current directory if no target is provided. It supports specifying the current and new file extensions, as well as the target directory.",
+            "title": "File Extension Converter"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1581247711)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1567608156,393607889)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "description": "Vite Plugin - React.js Remove Attributes\nSimplify your production code and enhance performance with this unique Vite plugin designed specifically for React.js projects. The plugin seamlessly removes specified attributes from your tsx/jsx HTML codes during production builds, ensuring a clutter-free and optimized application.\n\nThrough its robust functionality, this Vite plugin elevates your production code to a new level of cleanliness and efficiency. It's a must-have tool for any developer seeking to streamline their React.js applications for production.",
+            "title": "Vite Plugin - React.js Remove Attributes"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1581247711)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1567518681,393608756)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "description": "Vite Plugin - Remove Attributes\nThis Vite plugin is specifically designed for Vue.js projects. It allows the removal of specified attributes in production builds, supporting a variety of options like file extensions, attributes, ignored folders, and files.",
+            "title": "Vite Plugin - Vue.js Remove Attributes"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1581247711)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,198804400,370884431)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "title": "Forex Exchange",
+            "url": "https://github.com/mustafadalga/forex-exchange"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,1581247711)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Mustafa",
+                        "lastName": "Dalga",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "occupation": "heybooster - data & analytics - Front End Developer",
+                        "objectUrn": "urn:li:member:553155978",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1625069548606?e=1707955200&v=beta&t=11cv58V1JBpxtBK2iTbuoO2Zxx4BXIw5hwXzQYio4w4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1625069548606?e=1707955200&v=beta&t=JYSkTYPV1Emhxnj7WzegSFYsJr_z0CX7x7y_CAdMcfU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQGvZIxvWxA2Vw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "mustafadalga",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1691569327165?e=1707955200&v=beta&t=YUFbNxK-ba3VNgzzcG6wO9BU3hhjnpxCTbHaKFVSs8U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1691569327165?e=1707955200&v=beta&t=QSF7t6qXBTBGjnN9j10SAsH2RKHbQW-8sCXRmlyqTko",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1691569327165?e=1707955200&v=beta&t=_3bX1XI5z14F21qyEDXgGaYf2ISA_bFB0FfIpxsAy-I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1691569327165?e=1707955200&v=beta&t=MQ0K7oH_Z2oELoE7RfiZ0scjT0sn3Rv7zirFBTMR0iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQHn5xpODIifsQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "7VDqs1CSSmSVi6EFMAx5SQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0,198765940,370879943)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAACD4fYoBp_Ik6CXD4T8xf4eSBWFeZw6-hO0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "title": "Quiz Application",
+            "url": "https://github.com/mustafadalga/quiz-app"
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "industryName": "Financial Services",
+    "lastName": "Eegerdingk - Voogd",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:43",
+    "firstName": "Vanessa",
+    "entityUrn": "urn:li:fs_profile:ACoAAAUZ9p0BtuYN9uRz_FP7ACdyKU03PSVQFFc",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:115052535"
+    },
+    "geoLocationName": "Loosdrecht, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Financial Group Controller bij TriFinance",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQGgzbBGj8rWIA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1517231152320?e=1707955200&v=beta&t=OVEj58tbc37eQZLePjAnTlFKdktCp25m2aoflAayqfU",
+    "img_200_200": "200_200/0/1517231152244?e=1707955200&v=beta&t=bp43lgrO6JnhBJyzWn1g6NxEoDJlsWc2jX_W8D8TKUs",
+    "img_396_396": "800_800/0/1517231153012?e=1707955200&v=beta&t=8hSNVt9nSegybU3b1UiIzY5KJFNX6Hfr8QidUJ3y5Ho",
+    "profile_id": "ACoAAAUZ9p0BtuYN9uRz_FP7ACdyKU03PSVQFFc",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAUZ9p0BtuYN9uRz_FP7ACdyKU03PSVQFFc",
+    "member_urn": "urn:li:member:85587613",
+    "public_id": "vanessa-eegerdingk-voogd-a517b524",
+    "experience": [
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAUZ9p0BtuYN9uRz_FP7ACdyKU03PSVQFFc,1567231927)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "companyName": "TriFinance",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Financial (group) Controller",
+            "companyUrn": "urn:li:fs_miniCompany:211148",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFhGDRIagx0ZQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAUZ9p0BtuYN9uRz_FP7ACdyKU03PSVQFFc,1364147786)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "de Bijenkorf",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Commercial Planner",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:394077",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQE_sfO0H0q0CA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAUZ9p0BtuYN9uRz_FP7ACdyKU03PSVQFFc,935478825)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "de Bijenkorf",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Financial Merchandise Planner",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:394077",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQE_sfO0H0q0CA/company-logo_"
+        },
+        {
+            "locationName": "Diemen",
+            "entityUrn": "urn:li:fs_position:(ACoAAAUZ9p0BtuYN9uRz_FP7ACdyKU03PSVQFFc,778302606)",
+            "geoLocationName": "Diemen",
+            "companyName": "International Card Services",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Internal auditor",
+            "companyUrn": "urn:li:fs_miniCompany:20106",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHhATt8hZ91Og/company-logo_"
+        },
+        {
+            "locationName": "Amstelveen",
+            "entityUrn": "urn:li:fs_position:(ACoAAAUZ9p0BtuYN9uRz_FP7ACdyKU03PSVQFFc,605610493)",
+            "geoLocationName": "Amstelveen",
+            "companyName": "KPMG Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Senior Audit Financial Services",
+            "companyUrn": "urn:li:fs_miniCompany:2585815",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHNUvkt9-iGgA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAUZ9p0BtuYN9uRz_FP7ACdyKU03PSVQFFc,361152510)",
+            "school": {
+                "objectUrn": "urn:li:school:19970",
+                "entityUrn": "urn:li:fs_miniSchool:19970",
+                "active": true,
+                "schoolName": "Nyenrode Business University",
+                "trackingId": "V2wL/eMERtSqtP+ZOk1TPw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHiutSI3qcscQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "degreeName": "Post master",
+            "schoolName": "Nyenrode Business Universiteit",
+            "fieldOfStudy": "Accountancy",
+            "schoolUrn": "urn:li:fs_miniSchool:19970"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAUZ9p0BtuYN9uRz_FP7ACdyKU03PSVQFFc,154011628)",
+            "school": {
+                "objectUrn": "urn:li:school:19970",
+                "entityUrn": "urn:li:fs_miniSchool:19970",
+                "active": true,
+                "schoolName": "Nyenrode Business University",
+                "trackingId": "1/7FwesiRqWya4lryWYfcg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHiutSI3qcscQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "degreeName": "Master of Science (M.Sc.)",
+            "schoolName": "Nyenrode Business Universiteit",
+            "fieldOfStudy": "Accounting",
+            "schoolUrn": "urn:li:fs_miniSchool:19970"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAUZ9p0BtuYN9uRz_FP7ACdyKU03PSVQFFc,127801980)",
+            "school": {
+                "objectUrn": "urn:li:school:19970",
+                "entityUrn": "urn:li:fs_miniSchool:19970",
+                "active": true,
+                "schoolName": "Nyenrode Business University",
+                "trackingId": "Q33q7I+1SOinF/EOYILzcA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHiutSI3qcscQ/company-logo_"
+            },
+            "activities": "BIV-BusInfoSys,\nAuditing Theory,\nBusiness Research Methods and\nFinancial Accounting Theory",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Pre master of Accountancy",
+            "schoolName": "Nyenrode Business Universiteit",
+            "fieldOfStudy": "Accounting and Finance",
+            "schoolUrn": "urn:li:fs_miniSchool:19970"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

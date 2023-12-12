@@ -1,0 +1,342 @@
+{
+    "summary": "As a Global Procurement Manager at Nestlé, I bring a wealth of 18 years of experience and expertise in procurement, referencing key industries such as automotive and FMCG. With an MBA in Supply Chain and Logistics and a background in chemical engineering, I deliver creative and innovative solutions to the business field, consistently achieving positive outcomes in procurement.\n\nMy excellent negotiation and communication skills enable me to effectively influence and collaborate with senior stakeholders and act as a team player across a global and complex network. I have successfully managed multiple large-scale contracts, projects, and suppliers, generating significant savings, improving quality, and enhancing sustainability. My mission is to leverage my skills and knowledge to support Nestlé's vision of unlocking the power of food to enhance quality of life for everyone.",
+    "industryName": "Food & Beverages",
+    "lastName": "Lisboa",
+    "locationName": "Panama",
+    "student": false,
+    "geoCountryName": "Panama",
+    "geoCountryUrn": "urn:li:fs_geo:100808673",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 10,
+        "day": 26
+    },
+    "industryUrn": "urn:li:fs_industry:34",
+    "firstName": "Tamiris",
+    "entityUrn": "urn:li:fs_profile:ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100508521"
+    },
+    "geoLocationName": "Panama City, Panamá",
+    "location": {
+        "basicLocation": {
+            "countryCode": "pa"
+        }
+    },
+    "headline": "Senior Global Procurement Manager @ Nestlé | MBA, Supply Chain",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D5603AQHyksPfkPkp5g/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1695080500663?e=1707955200&v=beta&t=30-e9_CeU5-daSYSkY6BIo7oVjaED0S-FCq2ZFYsJbs",
+    "img_200_200": "200_200/0/1695080500663?e=1707955200&v=beta&t=boFOYkadkmAnc3rNCEP9cGz09hZHprojDNKGgzZL2yo",
+    "img_400_400": "400_400/0/1695080500663?e=1707955200&v=beta&t=ya7gYjJvSjm-MtN2HyKXTZnVahvrHpb_6YhtlMt4C6k",
+    "img_800_800": "800_800/0/1695080500663?e=1707955200&v=beta&t=gK0Rhac1x91YbnMY2c6nHy68xEvZSz3nGnfv-48WU80",
+    "profile_id": "ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM",
+    "member_urn": "urn:li:member:81841397",
+    "public_id": "tamiris-lisboa",
+    "experience": [
+        {
+            "locationName": "Panamá",
+            "entityUrn": "urn:li:fs_position:(ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM,1856285566)",
+            "geoLocationName": "Panamá",
+            "geoUrn": "urn:li:fs_geo:100808673",
+            "companyName": "Nestlé",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "description": "Focused on CAPEX. ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Food & Beverages"
+                ]
+            },
+            "title": "Global Procurement Manager",
+            "region": "urn:li:fs_region:(pa,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1393",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGaL-YyJ8xd7Q/company-logo_"
+        },
+        {
+            "locationName": "Porto Alegre e Região, Brasil",
+            "entityUrn": "urn:li:fs_position:(ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM,945274923)",
+            "geoLocationName": "Porto Alegre e Região, Brasil",
+            "geoUrn": "urn:li:fs_geo:90009578",
+            "companyName": "Fitesa",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Textiles"
+                ]
+            },
+            "title": "Global Procurement Manager",
+            "region": "urn:li:fs_region:(br,6467)",
+            "companyUrn": "urn:li:fs_miniCompany:115867",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQH3wGgKBbugXg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM,273085545)",
+            "companyName": "Navistar Inc",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2012
+                }
+            },
+            "description": "",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ]
+            },
+            "title": "Purchasing and Supplier Quality Manager",
+            "companyUrn": "urn:li:fs_miniCompany:5112",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFjayqBe56mRQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM,132183802)",
+            "companyName": "3B Polirim",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Plastics"
+                ]
+            },
+            "title": "Process Engineering Supervisor",
+            "companyUrn": "urn:li:fs_miniCompany:87437531",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFKVhQDonqtyQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM,259460599)",
+            "companyName": "John Deere",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2006
+                }
+            },
+            "description": "",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Machinery"
+                ]
+            },
+            "title": "Firld Engineering Technician",
+            "companyUrn": "urn:li:fs_miniCompany:3789",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGHcvebsMflbA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM,589287997)",
+            "school": {
+                "objectUrn": "urn:li:school:19924",
+                "entityUrn": "urn:li:fs_miniSchool:19924",
+                "active": true,
+                "schoolName": "FGV - Fundação Getulio Vargas",
+                "trackingId": "TM+CEOAMTAuH6JEIolbauQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFtDwxOTmj18Q/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101411",
+            "degreeName": "Master of Business Administration - MBA",
+            "schoolName": "Fundação Getulio Vargas",
+            "fieldOfStudy": "Gestão da Cadeia de Suprimentos e Logística",
+            "degreeUrn": "urn:li:fs_degree:700",
+            "schoolUrn": "urn:li:fs_miniSchool:19924"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM,57126777)",
+            "school": {
+                "objectUrn": "urn:li:school:10705",
+                "entityUrn": "urn:li:fs_miniSchool:10705",
+                "active": true,
+                "schoolName": "ULBRA",
+                "trackingId": "9QTYmrLuQ5Cb3CB1PnXtQg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQFLQUiahvjZqg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "degreeName": "Chemical Engineering",
+            "schoolName": "Universidade Luterana do Brasil",
+            "fieldOfStudy": "Engenharia",
+            "schoolUrn": "urn:li:fs_miniSchool:10705"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM,720540508)",
+            "school": {
+                "objectUrn": "urn:li:school:370063",
+                "entityUrn": "urn:li:fs_miniSchool:370063",
+                "active": true,
+                "schoolName": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Sertão",
+                "trackingId": "YR1IVma9SFiYjOWWeVnJeA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQEwnwBr3wmIHw/company-logo_"
+            },
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100331",
+            "degreeName": "Master of Science - MS",
+            "schoolName": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Sertão",
+            "fieldOfStudy": "Engenharia",
+            "degreeUrn": "urn:li:fs_degree:626",
+            "schoolUrn": "urn:li:fs_miniSchool:370063"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Inglês",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Português",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Tamiris",
+                        "lastName": "Lisboa",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM",
+                        "occupation": "Senior Global Procurement Manager @ Nestlé | MBA, Supply Chain",
+                        "objectUrn": "urn:li:member:81841397",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1689489722200?e=1707955200&v=beta&t=stYYaF7Z93cBWUSKoXUsSm_x4N2SYyHkuTqaFlL7esQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1284,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1689489722200?e=1707955200&v=beta&t=Z5BBez55xhwxehl3VBRvn4orYiCKuXzl-p_U3BkVVvU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 321
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQE7XqQFy8P2xg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "tamiris-lisboa",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1695080500663?e=1707955200&v=beta&t=30-e9_CeU5-daSYSkY6BIo7oVjaED0S-FCq2ZFYsJbs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1695080500663?e=1707955200&v=beta&t=boFOYkadkmAnc3rNCEP9cGz09hZHprojDNKGgzZL2yo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1695080500663?e=1707955200&v=beta&t=ya7gYjJvSjm-MtN2HyKXTZnVahvrHpb_6YhtlMt4C6k",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1695080500663?e=1707955200&v=beta&t=gK0Rhac1x91YbnMY2c6nHy68xEvZSz3nGnfv-48WU80",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5603AQHyksPfkPkp5g/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "PjLBivBDTK6malKIXawwEA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM,1203734942,118326939)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAATgzPUBBG26YpWNgGOLwwnqmCZ3_oy6MvM"
+                }
+            ],
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2014
+                }
+            },
+            "description": "Editora Sagah/ Grupo A",
+            "title": "Engineering Teacher - Material Science Engineering"
+        }
+    ]
+}

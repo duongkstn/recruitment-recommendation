@@ -1,0 +1,242 @@
+{
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Zubeir",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 4,
+        "day": 30
+    },
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Dilan",
+    "entityUrn": "urn:li:fs_profile:ACoAAAdZ0NgBtmdVygMbcS8ZWGEH-I9SFtCcn44",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Tech Recruitment / Owner @ DND B.V.  |",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQF7FUFd7EqFog/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1516584371391?e=1707955200&v=beta&t=YibaGN01eLNMLq9gW2OpG9jMim6I2NBetyQb4Tknyy4",
+    "img_200_200": "200_200/0/1516584371371?e=1707955200&v=beta&t=FWpM5e6nfUISM6emTbkK4BW84eknDa_CH3CMaVQtSZ4",
+    "img_400_400": "400_400/0/1516584371422?e=1707955200&v=beta&t=yZGiXBqNGBFTX2mhbO-ldteeEzWLBhtKQb6e-wsFZHk",
+    "img_450_450": "800_800/0/1516584371456?e=1707955200&v=beta&t=R_WY_p2dWFVi8nYkY3aWWIHj4N9G0C8h4iOti5wP4dA",
+    "profile_id": "ACoAAAdZ0NgBtmdVygMbcS8ZWGEH-I9SFtCcn44",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAdZ0NgBtmdVygMbcS8ZWGEH-I9SFtCcn44",
+    "member_urn": "urn:li:member:123326680",
+    "public_id": "dilanzubeir",
+    "experience": [
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAdZ0NgBtmdVygMbcS8ZWGEH-I9SFtCcn44,2208944643)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Tech Recruiter a.i. ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAdZ0NgBtmdVygMbcS8ZWGEH-I9SFtCcn44,1961081458)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "DND B.V. ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "title": "Owner | Freelance / a.i. | IT Recruitment",
+            "region": "urn:li:fs_region:(nl,0)"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAdZ0NgBtmdVygMbcS8ZWGEH-I9SFtCcn44,2073539297)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "APG",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Recruitment Business Partner a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:162473",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHPSeIkS96b5Q/company-logo_"
+        },
+        {
+            "locationName": "Amersfoort, Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAdZ0NgBtmdVygMbcS8ZWGEH-I9SFtCcn44,2073533953)",
+            "geoLocationName": "Amersfoort, Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102600253",
+            "companyName": "Stater N.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Tech Recruiter a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:166145",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGXSpHbq6o04w/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAdZ0NgBtmdVygMbcS8ZWGEH-I9SFtCcn44,1961042111)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "description": "http://careers.bol.com\n\nBol.com are the market leader for online retail in the Netherlands & Belgium. With our HQ based out in Utrecht, and together with our 2500 employees, our mission is to create the best shopping experience for everyone who wants to buy or sell something. At the moment of writing, we are with 2500 employees in total, 650 colleagues in IT, 150 self-steering Product Teams - and scaling rapidly.\n\nWhy do our colleagues love working at bol.com?\n👯 Autonomous teams\n⏱ Great work life balance\n💙 Work is fun\n💡 High level of innovation",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Tech Recruiter a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAdZ0NgBtmdVygMbcS8ZWGEH-I9SFtCcn44,72676595)",
+            "school": {
+                "objectUrn": "urn:li:school:15428",
+                "entityUrn": "urn:li:fs_miniSchool:15428",
+                "active": true,
+                "schoolName": "Amsterdam University of Applied Sciences",
+                "trackingId": "Iqo+qcCeSouTt4Zv5mIRsw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_"
+            },
+            "activities": "-Passed the Entrepreneurship (young entrepreneurship) examination, by Hva Amsterdam university of applies sciences. \n\n-Earned a certificate of appreciation for organizing an international lunch for the international students and teachers at the Amsterdam university of applied sciences.\n\n- Sales certificates for the Hamilton Bright sales academy part one and two \n\n- Certificate for SAP ERP",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "description": "Hunkemöller B.V.\nConsultant; Creating a business plan for the Hunkemöller company to expand their  Business activities to the country of Sweden. Containing a legal chapter, a Detailed company analyses, market research, creating export strategies,  surveying potential target groups, several business models like DESTEP  analyses, seven S model, Diamond porter model and relevant country  information.",
+            "degreeName": "Bachelor's Degree",
+            "schoolName": "Hogeschool voor Economische Studies Amsterdam (HES)",
+            "fieldOfStudy": "International Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15428"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAdZ0NgBtmdVygMbcS8ZWGEH-I9SFtCcn44,257838393)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "degreeName": "HAVO",
+            "schoolName": "minkema college",
+            "fieldOfStudy": "Economics"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Arabic",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "German",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Kurdish",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "ELEMENTARY"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "name": "Sales academy part 1 and 2 at Hamilton Bright"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,384 @@
+{
+    "summary": "Welcome to my profile!👋\n\nI am an IT Recruitment Consultant specializing in the placement of permanent specialists in the fields of Network and Security.\n\nWith my deep understanding of the industry and tech job market insights, I strive to connect talented professionals with ambitious companies and help companies find top talent.\n\n𝗜'𝗺 𝗮𝗹𝘄𝗮𝘆𝘀 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 𝘀𝗽𝗲𝗮𝗸𝗶𝗻𝗴 𝘁𝗼 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝘀 𝘄𝗵𝗼 𝗵𝗮𝘃𝗲 𝘁𝗵𝗲 𝘀𝗸𝗶𝗹𝗹𝘀 𝗮𝗻𝗱 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗼𝗳:\n✔ 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴 (Hardware, TCP/IP, BGP, VPN, monitoring, automation)\n✔ 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 (Designing, implementation, monitoring, troubleshooting, optimizing)\n✔ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 (Firewall, IDS/IPS, Vulnerability, IAM, Encryption, Penetration Testing)\n\nReach out to me for a personalized consultation, or apply directly to available opportunities here: https://www.darwinrecruitment.nl/search-jobs/?_consultant=zulayma-susebeek \n\nIf you're seeking the top Network or Security talent in the Netherlands, feel free to get in touch with me!\n\n📭 Zulayma.Susebeek@darwinrecruitment.com\n📞 020-305 8554",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Susebeek",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Zulayma",
+    "entityUrn": "urn:li:fs_profile:ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "IT Recruitment Consultant | Network | Cybersecurity",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQF4_LSwXsyyFQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1699619906958?e=1707955200&v=beta&t=iBq2bCb9Gm6tkjQOI6Y2rubptefEfsFvw0EG_e6S6VA",
+    "img_200_200": "200_200/0/1699619906958?e=1707955200&v=beta&t=n0bP7kYcr9OeiLOWbkV1N67YCNA22LXP9Zo3kTIpZ6g",
+    "img_400_400": "400_400/0/1699619906958?e=1707955200&v=beta&t=wIzSIuxX3sIF_an3YwOnm-r-qnbSznIZou1yve_MQjg",
+    "img_800_800": "800_800/0/1699619906958?e=1707955200&v=beta&t=0f_Sn6bA2xL0uzf8VZk5Nt9F0_hGwPmKKA6bLGXw1X0",
+    "profile_id": "ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw",
+    "member_urn": "urn:li:member:330939985",
+    "public_id": "zulayma-susebeek",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw,2135311363)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Darwin Recruitment",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Executive Consultant | Network Infrastructure & Cybersecurity",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:470100",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFcwSQZkXawRA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw,1837164250)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Darwin Recruitment",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "IT Recruitment Consultant ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:470100",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFcwSQZkXawRA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw,1602350063)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Panda International",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Talent Acquisition Specialist",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2647871",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGQoEJtdXHyOQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw,1660993931)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "Thuisleefgids.nl",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ]
+            },
+            "title": "Graduate Intern | Implementation & Innovation Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10265627",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGKOvf61210Bg/company-logo_"
+        },
+        {
+            "locationName": "Zeist",
+            "entityUrn": "urn:li:fs_position:(ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw,1216309830)",
+            "geoLocationName": "Zeist",
+            "companyName": "Bartimeus",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ]
+            },
+            "title": "Intern | Innovation & Technology",
+            "companyUrn": "urn:li:fs_miniCompany:62330",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHyyXZ1SqtvtQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "projects": [
+                "urn:li:fs_project:(ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw,1990477222)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw,628288945)",
+            "school": {
+                "objectUrn": "urn:li:school:23151",
+                "entityUrn": "urn:li:fs_miniSchool:23151",
+                "active": true,
+                "schoolName": "Avans University of Applied Sciences",
+                "trackingId": "cfw523x0RqyMejL1cTzf8w==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "degreeName": "Bachelor of Applied Science - BASc",
+            "schoolName": "Avans University of Applied Sciences",
+            "fieldOfStudy": "Gezondheidszorgtechnologie (Bachelor of Science)",
+            "degreeUrn": "urn:li:fs_degree:259",
+            "schoolUrn": "urn:li:fs_miniSchool:23151"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw,670014732)",
+            "school": {
+                "objectUrn": "urn:li:school:15431",
+                "entityUrn": "urn:li:fs_miniSchool:15431",
+                "active": true,
+                "schoolName": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+                "trackingId": "yiQ598lIT/+2hDmSrnsThA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQE5MUvxbWmHLg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "description": "During this minor I focused on how design interventions can contribute to social changes in the fields of health, technology and sustainability through Design Thinking by bringing stakeholders with different points of view, input and competences together to tackle a specific problem.",
+            "degreeName": "Minor",
+            "schoolName": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+            "fieldOfStudy": "Co-Design",
+            "schoolUrn": "urn:li:fs_miniSchool:15431"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Papiamento",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Growth Tribe",
+            "name": "Digital Leadership",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "licenseNumber": "02831589034279",
+            "company": {
+                "objectUrn": "urn:li:company:9336598",
+                "entityUrn": "urn:li:fs_miniCompany:9336598",
+                "name": "Growth Tribe",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631410631847/growth_tribe_logo?e=1710374400&v=beta&t=ViW7cMd77y_wyTcsBv5un6rV9kn-JNVs07xaSuMq3A4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631410631847/growth_tribe_logo?e=1710374400&v=beta&t=WkCLhfMivHhOA187THU3koUBAPjiXa__OoPt_Td-haQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631410631847/growth_tribe_logo?e=1710374400&v=beta&t=oLUz7fRZP94oC2vCgyqyGBfR2ddRI8KW-HeeDv8GiNY",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHeR_dfrmhFUQ/company-logo_"
+                    }
+                },
+                "universalName": "growth-tribe",
+                "dashCompanyUrn": "urn:li:fsd_company:9336598",
+                "trackingId": "Z5Xy512qR8GFwsN1BfhTgQ=="
+            },
+            "displaySource": "growthtribe.io",
+            "companyUrn": "urn:li:fs_miniCompany:9336598",
+            "url": "https://certificates.growthtribe.io/en/verify/02831589034279?ref"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "occupation": "urn:li:fs_education:(ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw,628288945)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Zulayma",
+                        "lastName": "Susebeek",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw",
+                        "occupation": "IT Recruitment Consultant | Network | Cybersecurity",
+                        "objectUrn": "urn:li:member:330939985",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1658305431930?e=1707955200&v=beta&t=NvI_3j5NQ9LNPNt_11SJrezc6Z5yN2pAWvTJsWFbGDY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1200,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1658305431930?e=1707955200&v=beta&t=8UF0XHVFdoF1JFQmyyhoVGrs2T1UqusZYR2nXHBrxR8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 300
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHQBW061pr4mg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "zulayma-susebeek",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1699619906958?e=1707955200&v=beta&t=iBq2bCb9Gm6tkjQOI6Y2rubptefEfsFvw0EG_e6S6VA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1699619906958?e=1707955200&v=beta&t=n0bP7kYcr9OeiLOWbkV1N67YCNA22LXP9Zo3kTIpZ6g",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1699619906958?e=1707955200&v=beta&t=wIzSIuxX3sIF_an3YwOnm-r-qnbSznIZou1yve_MQjg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1699619906958?e=1707955200&v=beta&t=0f_Sn6bA2xL0uzf8VZk5Nt9F0_hGwPmKKA6bLGXw1X0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E03AQF4_LSwXsyyFQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "wXZ0nh+ORdiVt+DYIvpw/w=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw,1990477222,258142001)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABO5vlEBJ5n7DbH07oBfaoW2q6E6CrwT4Aw"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "description": " \n\n ",
+            "title": "2nd price RAAK-award, Project Medical Robotics"
+        }
+    ]
+}

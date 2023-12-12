@@ -1,0 +1,436 @@
+{
+    "summary": "Dynamic, tech-savvy Commercial Executive with over 5 years of experience. Acknowledged for exceeding business goals through optimizing business processes and innovation. My career path has given me a variety of skills that allow me to be well-rounded, a quick learner, good communicator, flexible, organised, result-driven, and creative. The most important aspect to me is learning and gaining as much experience as possible. My enthusiasm and flexibility has allowed me to work as a team player and to take on responsibilities independently",
+    "industryName": "Internet",
+    "lastName": "Hendrickx",
+    "locationName": "Belgium",
+    "student": false,
+    "geoCountryName": "Belgium",
+    "geoCountryUrn": "urn:li:fs_geo:100565514",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:6",
+    "firstName": "Alec",
+    "entityUrn": "urn:li:fs_profile:ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:105877877"
+    },
+    "geoLocationName": "Antwerp, Flemish Region",
+    "location": {
+        "basicLocation": {
+            "countryCode": "be"
+        }
+    },
+    "headline": "Partner Network Development @ bol.com",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQGeaV5dsyCNXw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1573599043660?e=1707955200&v=beta&t=kQXRqjzXAl1Se9i_DI2jW6X6jnFRJFFqJXzqtIEhg7M",
+    "img_200_200": "200_200/0/1573599043634?e=1707955200&v=beta&t=bqoUtkNUHlxmZG966VNj1nW2YOKXIedsyxCL9TbiC98",
+    "img_400_400": "400_400/0/1573599043698?e=1707955200&v=beta&t=z_k7EAwevgU8-UusJNW3jPMU6M8MlfnRSxjEjsYAbyw",
+    "img_800_800": "800_800/0/1573599043743?e=1707955200&v=beta&t=XYAyNQiaJh5tblGDdwuLvhpz0-cgkYrOMNgqz4vuRhQ",
+    "profile_id": "ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs",
+    "member_urn": "urn:li:member:142530299",
+    "public_id": "alec-hendrickx-98b8963b",
+    "experience": [
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs,2233654252)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "description": "Supporting businesses to grow multichannel with a focus on Electronics & Entertainment",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "International Business Development Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs,2015042861)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "description": "Responsible for the overall growth of the Belgian Electronics & Entertainment platform revenue on Bol.com. Hereby the main purpose is to manage and increase the share of Belgium's biggest key accounts. This allowed me to develop my strategic sourcing, negotiations and relationship management skills.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Account Developer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Antwerp Metropolitan Area",
+            "entityUrn": "urn:li:fs_position:(ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs,1909781179)",
+            "geoLocationName": "Antwerp Metropolitan Area",
+            "geoUrn": "urn:li:fs_geo:90009603",
+            "companyName": "MSC Mediterranean Shipping Company",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "description": "Responsible for the commercialization and implementation of auxiliary services. \n\nWorking together with customers on identifying their logistical challenges and how our auxiliary services can empower their supply chain. While also acting as an internal focal point for our new auxiliary services, implementing new processes and procedures to create efficient booking processes in order to guarantee a high customer facing service level.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "title": "Commercial Executive - Cross selling & Product Integration",
+            "region": "urn:li:fs_region:(be,4918)",
+            "companyUrn": "urn:li:fs_miniCompany:586414",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF85Rj8s5jygw/company-logo_"
+        },
+        {
+            "locationName": "Antwerp Area, Belgium",
+            "geoUrn": "urn:li:fs_geo:90009603",
+            "companyName": "MSC Mediterranean Shipping Company",
+            "description": "As part of a new 'business development & support' department within MSC I focus on the marketing activities. Marketing responsibilities of the department are: communication (internal & external), marketing (digital, print, events) & business intelligence (market intel, customer statistics & insights). For this, I work with programs such as Power BI, Kentico and Campaign Monitor on a daily basis.\n\nIn this capacity I'm also member of the European Marketing Team, with this international team we streamline the marketing efforts of all European agencies and share best practices during regular European and Global marketing meetings.\n\nFurthermore I'm also member of 'The Innovation Team' within MSC. With this diverse team we look into new ideas, start-ups and innovations that may potentially compliment and improve our business.",
+            "title": "Business Marketing Coordinator",
+            "companyUrn": "urn:li:fs_miniCompany:586414",
+            "honors": [
+                "urn:li:fs_honor:(ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs,338176867)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs,1517742623)",
+            "geoLocationName": "Antwerp Area, Belgium",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "region": "urn:li:fs_region:(be,4918)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF85Rj8s5jygw/company-logo_"
+        },
+        {
+            "locationName": "Ipswich, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs,1564792417)",
+            "geoLocationName": "Ipswich, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009490",
+            "companyName": "media",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "description": "As part of my traineeship I spent a couple of months abroad, where I also did a rotation across different departments. By working abroad in a different branch I got to complete the bigger picture and gain a deeper understanding into the workings of a multinational, as well as learning to adopt and conduct business in a new environment.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ]
+            },
+            "title": "Commercial Trainee",
+            "region": "urn:li:fs_region:(gb,4593)",
+            "companyUrn": "urn:li:fs_miniCompany:586414",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF85Rj8s5jygw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs,82957553)",
+            "school": {
+                "objectUrn": "urn:li:school:10420",
+                "entityUrn": "urn:li:fs_miniSchool:10420",
+                "active": true,
+                "schoolName": "Ghent University",
+                "trackingId": "+dSVJz/yRVyJfNVwW8iGHw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQFWIve9JLlDZQ/company-logo_"
+            },
+            "activities": "Vlaamse Economische Kring (VEK)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "description": "Major: Marketing\nMinor: Finance",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100991",
+            "degreeName": "Master's degree",
+            "schoolName": "Ghent University",
+            "fieldOfStudy": "Applied Economics",
+            "degreeUrn": "urn:li:fs_degree:500",
+            "schoolUrn": "urn:li:fs_miniSchool:10420"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs,338623066)",
+            "school": {
+                "objectUrn": "urn:li:school:10420",
+                "entityUrn": "urn:li:fs_miniSchool:10420",
+                "active": true,
+                "schoolName": "Ghent University",
+                "trackingId": "W27rszlUQO+BEMBE5l+FlA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQFWIve9JLlDZQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100991",
+            "degreeName": "Bachelor of Science (B.S.)",
+            "schoolName": "Ghent University",
+            "fieldOfStudy": "Applied Economics",
+            "degreeUrn": "urn:li:fs_degree:400",
+            "schoolUrn": "urn:li:fs_miniSchool:10420"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs,782185179)",
+            "school": {
+                "objectUrn": "urn:li:school:5114017",
+                "entityUrn": "urn:li:fs_miniSchool:5114017",
+                "active": true,
+                "schoolName": "Sint-Jozef-Klein-Seminarie",
+                "trackingId": "iQdYFranSo+oKK9I5NCdqQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHB4SK-0Q-BHQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2005
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100693",
+            "degreeName": "General secondary education",
+            "schoolName": "Sint-Jozef-Klein-Seminarie",
+            "fieldOfStudy": "Mathematics",
+            "schoolUrn": "urn:li:fs_miniSchool:5114017"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch"
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "French"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "PADI",
+            "name": "Open Water Diver",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:165383",
+                "entityUrn": "urn:li:fs_miniCompany:165383",
+                "name": "PADI",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630478255591/padi_logo?e=1710374400&v=beta&t=g5AqCiYgfuhfe77iHsgVHoWoflTfGBErDus_7bHp82k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630478255591/padi_logo?e=1710374400&v=beta&t=82ZZji5xxWQoTzvYhYDR9-W5Ju3WqPow4zdgOZPtuAo",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630478255591/padi_logo?e=1710374400&v=beta&t=mDqFN4-mclYCDygP00xIk8rEh2qeWpwrApNxu5GwrGI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGt15EDpU4Jhg/company-logo_"
+                    }
+                },
+                "universalName": "padi",
+                "dashCompanyUrn": "urn:li:fsd_company:165383",
+                "trackingId": "DrGASGlJS3i1n0kKx1ykSQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:165383"
+        },
+        {
+            "authority": "University of Antwerp",
+            "name": "Pharma logistics Masterclass",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:166626",
+                "entityUrn": "urn:li:fs_miniCompany:166626",
+                "name": "University of Antwerp",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630665608636/university_of_antwerp_logo?e=1710374400&v=beta&t=nAC1hwbvwG4ht7-NOmyNeEEvHcD7wuxFlfGQRhys7Is",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630665608636/university_of_antwerp_logo?e=1710374400&v=beta&t=7rFevnIrZ-4s99zG_0yY86fBh75sWudXkWxTmgxnkLI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630665608636/university_of_antwerp_logo?e=1710374400&v=beta&t=ufRJUNpKOr4mz0AD3ObCr-DxooNmbLiiuc19LP34tM8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHu5reEC1C_kQ/company-logo_"
+                    }
+                },
+                "universalName": "university-of-antwerp",
+                "dashCompanyUrn": "urn:li:fsd_company:166626",
+                "trackingId": "A4I5I9n2Q/KFshhQmBWG5w=="
+            },
+            "displaySource": "uantwerpen.be",
+            "companyUrn": "urn:li:fs_miniCompany:166626",
+            "url": "https://medialibrary.uantwerpen.be/files/7325/eb415bb6-b4c6-4b84-87ca-a1a821c0792e.pdf"
+        },
+        {
+            "authority": "Hovingh & Partners",
+            "name": "Sales Mastery - Account Management",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:17905800",
+                "entityUrn": "urn:li:fs_miniCompany:17905800",
+                "name": "Hovingh & Partners",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631349235293?e=1710374400&v=beta&t=Cq-zGUJ_3G7bl6vs3-jya-9UF3QFyP4-tWf-E9JlWIU",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631349235293?e=1710374400&v=beta&t=MzEAStrW2bBQvH6XqJTVNY6xXKug-Kj076aBtXPebRg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631349235293?e=1710374400&v=beta&t=L0KHVFhAX5UmMCgqq99qenKA3rMJzeiDcN_PpKFsyj0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQFYLpJ6DECUAg/company-logo_"
+                    }
+                },
+                "universalName": "hovingh-&-partners",
+                "dashCompanyUrn": "urn:li:fsd_company:17905800",
+                "trackingId": "AtvHpWsER8GPxxSg5fISWg=="
+            },
+            "displaySource": "hovingh.eu",
+            "companyUrn": "urn:li:fs_miniCompany:17905800",
+            "url": "https://hovingh.eu/our-solutions/account-management/id=23"
+        }
+    ],
+    "volunteer": [],
+    "honors": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAh-1vsB_egeeKj_PEEuH_e940OZrA6wPLs,1517742623)",
+            "description": "Nominated by the logistics newspaper 'Flows' as 'Rookie of the Year'. \n\nFor this award every company in the sector has the chance to present a candidate after which he or she has to write a paper. Based on this paper combined with the achievements of the candidate in his early career, 3-4 finalists are selected. As a finalist I had to give a presentation at the Transport & Logistics Fair 2019 for a group of sector veterans and a jury, after which the jury selected a winner.\n\nhttps://www.flows.be/nl/people-jobs/kandidaten-flows-rookie-year-alec-hendrickx-msc\n",
+            "title": "Nominee - Flows Rookie Of The Year",
+            "issueDate": {
+                "month": 10,
+                "year": 2019
+            },
+            "issuer": "Flows"
+        }
+    ],
+    "projects": []
+}

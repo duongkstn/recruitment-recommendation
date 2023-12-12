@@ -1,0 +1,286 @@
+{
+    "summary": "Native English speaker currently working as an interim Talent Acquisition Partner in Amsterdam. Responsible for the entire end to end recruitment process and stakeholder management with experience in both internal and agency recruitment in start-up, scale-up and corporate environments for tech and non-tech roles. I also have over six years of Sales and Customer Service experience.\n\nRoles recruited for: Frontend, Backend, Fullstack, UX/UI Design, DevOps, QA, Data, SAP, Scrum Master, Product Owner, Business Analyst, SEA, SEO, CRO, Web3, Program & Project Management, Agile Coach. As well as roles in Sales, Finance, CS, Supply Chain, Marketing and more.",
+    "industryName": "Computer Software",
+    "lastName": "Doyle",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Amy",
+    "entityUrn": "urn:li:fs_profile:ACoAACFyMvcBzWedd_QKnPUCKtN2lnG3mKF4W6A",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Freelance Recruiter (Tech & Product) currently at bol.",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQGTFN9ge46UxA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1659537098546?e=1707955200&v=beta&t=c8K2pr9lUTaUmdsQB_1SAGazpHTrC_vLV79eH0MMsrQ",
+    "img_200_200": "200_200/0/1659537098546?e=1707955200&v=beta&t=XY-53mZiWTzlQ1pPxVbaO6-yeNZIa62WwFnHkHXN4ZA",
+    "img_400_400": "400_400/0/1659537098546?e=1707955200&v=beta&t=RaHv43xFqZgK84eROk1UA-0di-oyuwoySecQ2tE6RTo",
+    "img_599_599": "800_800/0/1659537098546?e=1707955200&v=beta&t=uDQ4GVhql8W5O5wsbwxeac3SToHUf8aRDwpXqWr5wOc",
+    "profile_id": "ACoAACFyMvcBzWedd_QKnPUCKtN2lnG3mKF4W6A",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACFyMvcBzWedd_QKnPUCKtN2lnG3mKF4W6A",
+    "member_urn": "urn:li:member:561132279",
+    "public_id": "amydoyle1993",
+    "experience": [
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACFyMvcBzWedd_QKnPUCKtN2lnG3mKF4W6A,2208675552)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Recruiter a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACFyMvcBzWedd_QKnPUCKtN2lnG3mKF4W6A,2174081349)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "SnappCar",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "description": "Responsible for actively sourcing and managing the full recruitment process for roles in Product, Finance, Marketing and Customer Support.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Recruiter a.i.",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2263460",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGAR3ZJ4gjaNw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACFyMvcBzWedd_QKnPUCKtN2lnG3mKF4W6A,1817646019)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "PVH Corp.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "description": "Recruiting for tech, E-Commerce and Omnichannel \nResponsible for critical hires within European HQ\nManaging candidate from application to hire\nATS management\nActive sourcing\nStakeholder management\nSalary negotiation with candidates, HR Business Partner’s and Hiring managers",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Apparel & Fashion"
+                ]
+            },
+            "title": "Interim Tech Talent Acquisition Specialist (a.i.)",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11541",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGRftUXZ47BFg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACFyMvcBzWedd_QKnPUCKtN2lnG3mKF4W6A,1584186936)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "RocketPeople",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "description": "Client onboarding \nStakeholder management\nProject Lead - RAAS Clients - multi-role, long term projects\nCandidate management from application to hire\nFirst point of contact for all applicants\nConducting in-person and online interviews\nCreating & implementing sourcing strategies\nNegotiating salaries & offers\nATS Management\nUpkeep of talent acquisition sites\nActive sourcing\nWorking on the business - recruitment strategies, playbooks, new business etc.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Tech Talent Business Partner",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:9382082",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQH-pcdujdwaYQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACFyMvcBzWedd_QKnPUCKtN2lnG3mKF4W6A,1437225933)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "WeTransfer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "description": "Placing the top tech talent in the Product department of WeTransfer in Amsterdam, New York, LA and Seattle.\n\nSole recruiter responsible for the entire recruitment process within the product department of WeTransfer globally. \nIncluding but not only;\n\n*Recruitment forecasting\n*Candidate management from application to hire\n*First point of contact for all applicants\n*Conducting in-person and online interviews\n*Stakeholder Management\n*Creating & implementing sourcing strategies\n*Providing interview training\n*Negotiating salaries & offers\n*ATS Management\n*Upkeep of talent acquisition sites \n*Active sourcing\n*Headcount Management\n*Organising Networking Events",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Technical Recruiter",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:664527",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFbe4YqCm4SnQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACFyMvcBzWedd_QKnPUCKtN2lnG3mKF4W6A,657845838)",
+            "school": {
+                "objectUrn": "urn:li:school:15453",
+                "entityUrn": "urn:li:fs_miniSchool:15453",
+                "active": true,
+                "schoolName": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "trackingId": "RCfFNo/OT6OtzMIoH4y9Zw==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101459",
+            "degreeName": "Master of Business Administration - MBA",
+            "schoolName": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+            "fieldOfStudy": "Human Resources Management",
+            "degreeUrn": "urn:li:fs_degree:700",
+            "schoolUrn": "urn:li:fs_miniSchool:15453"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACFyMvcBzWedd_QKnPUCKtN2lnG3mKF4W6A,393359057)",
+            "school": {
+                "objectUrn": "urn:li:school:19932",
+                "entityUrn": "urn:li:fs_miniSchool:19932",
+                "active": true,
+                "schoolName": "University College Cork",
+                "trackingId": "tG172+cHTxWuFv++76iJIQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHPKzWbkHSJgQ/company-logo_"
+            },
+            "grade": "2.1",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "degreeName": "Bachelor’s Degree",
+            "schoolName": "University College Cork",
+            "fieldOfStudy": "Social Sciences",
+            "schoolUrn": "urn:li:fs_miniSchool:19932"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Irish",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "GCHQ Certified training",
+            "name": "GDPR Awareness Course",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            }
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Co-Founder",
+            "companyName": "Josef Urbanszky Fund",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2014
+                }
+            },
+            "cause": "HEALTH",
+            "description": "Co-founder and chairperson of a charity fund. Role included financial matters, social media campaigns, event management, task and goal development and delegation. Collaborated with organisations, businesses and individuals such as Mark Pollock."
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,222 @@
+{
+    "summary": "\"Speed over Perfection\"",
+    "industryName": "Marketing & Advertising",
+    "lastName": "Zuiverloon",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:80",
+    "firstName": "Daniel",
+    "entityUrn": "urn:li:fs_profile:ACoAABUrGJUBJ-_9lEV2EELa0qdndN21qvza7xY",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90010383"
+    },
+    "geoLocationName": "Amsterdam Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Tech Recruitment Consultant / Founder at Tribe28 |",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQG9fsU-a7SkBw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1613918856847?e=1707955200&v=beta&t=-yfdJfxPF2e2mXFSrvgMtFidlKx4sjoO5CDbzr4HoP0",
+    "img_200_200": "200_200/0/1613918856847?e=1707955200&v=beta&t=LtR5yGK0DvV013rffL4JkWQyZJ6kF8UVoAcD0S08QUQ",
+    "img_400_400": "400_400/0/1613918856847?e=1707955200&v=beta&t=F9HAh7hqw0Kme3Pw3dMzh7BtCJGqmv-6FK9zuF8QZkM",
+    "img_550_550": "800_800/0/1613918856847?e=1707955200&v=beta&t=ES6w9erlaBYF7JlbCWuUUNBm-gg9cDEpkrBhCFWA5OY",
+    "profile_id": "ACoAABUrGJUBJ-_9lEV2EELa0qdndN21qvza7xY",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABUrGJUBJ-_9lEV2EELa0qdndN21qvza7xY",
+    "member_urn": "urn:li:member:355145877",
+    "public_id": "daniel-zuiverloon-299b309a",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABUrGJUBJ-_9lEV2EELa0qdndN21qvza7xY,1419969513)",
+            "companyName": "Tribe28",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "description": "‘De Tribe28 way’; met veel plezier, open en eerlijkheid doen wij er alles aan om jou te helpen bij de volgende stap in je carrière. Dit gecombineerd met onze principes; open & eerlijk over jouw kansen, ruime ervaring & een uitgebreid netwerk, jij als centraal punt en een plezierige samenwerking zorgt ervoor dat er een perfect passende match ontstaat. \n\nDoor onze jarenlange ervaring in (IT) recruitment kunnen we je mooie, exclusieve mogelijkheden bieden bij onze klanten. We verbinden mensen zoals jij met bedrijven die naar je op zoek zijn. \n\nWat ons anders maakt dan de rest is dat we ons richten op jouw ambities, maar niet zonder je eerlijk te adviseren over je mogelijkheden. We helpen je bij elke stap, maar verliezen het echte doel, een succesvolle en duurzame match voor jullie allebei, niet uit het oog!\n\nWww.Tribe28.Com\nDanielzuiverloon@Tribe28.com\n0623738085",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Founder",
+            "companyUrn": "urn:li:fs_miniCompany:35501219",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF9yir_BGXFvw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABUrGJUBJ-_9lEV2EELa0qdndN21qvza7xY,1554760703)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Body & Fit",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "description": "Collaboration between Body&Fit and Tribe28. In search for the best talent out there!\n\nSamenwerking tussen Body&Fit en Tribe28. Op zoek naar de \"best of the best\" kandidaten voor Body&Fit.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Health, Wellness and Fitness"
+                ]
+            },
+            "title": "Sr. Talent Acquisition Partner",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:2601804",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHYwe9gykp45g/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABUrGJUBJ-_9lEV2EELa0qdndN21qvza7xY,1226724351)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Wonderkind",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "description": "In my role as Account Executive Enterprise, I let enterprises discover the most convenient way to acquire the best candidates and to grow their employer brand. By leveraging Artificial Intelligence we reach top talent with genius job ads, on the media channels they actually love and use. Together, we make the hiring needs of your business clear and find the best approach to find the right talent that will help you grow your business.\n\nLet’s get to work!\n\nhttps://ptdrv.linkedin.com/dglfqk4 \n\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Account Executive Enterprise",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:15225612",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQG4rAKsudFC8Q/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABUrGJUBJ-_9lEV2EELa0qdndN21qvza7xY,645237186)",
+            "geoLocationName": "Amsterdam en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "YorTeam B.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2015
+                }
+            },
+            "description": "De professionals van Yorteam snappen precies wat je zoekt in een match. We kijken dan ook verder dan een cv. \n \nYorteam is oprecht geïnteresseerd in de behoefte van de opdrachtgever en de talenten van de specialist. Natuurlijk letten we op de hard skills. Maar soft skills zijn voor ons minstens zo belangrijk. \n\nWij investeren in een kwalitatieve en langdurige relatie. Waarbij een transparante en eerlijke manier van communiceren centraal staat. In combinatie met onze jarenlange ervaring garandeert dit maatwerk en een optimale match. \n\nDat is Yorteam! \n\nwww.yorteam.nl",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Account Executive",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:2008740",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFMsoQNT-jFoA/company-logo_"
+        },
+        {
+            "locationName": "Ijmuiden",
+            "entityUrn": "urn:li:fs_position:(ACoAABUrGJUBJ-_9lEV2EELa0qdndN21qvza7xY,560194514)",
+            "geoLocationName": "Ijmuiden",
+            "companyName": "Telstar 1963 N.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Sports"
+                ]
+            },
+            "title": "Professional Footballer",
+            "companyUrn": "urn:li:fs_miniCompany:528915",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQE0YGAEYgkS8g/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABUrGJUBJ-_9lEV2EELa0qdndN21qvza7xY,378439066)",
+            "school": {
+                "objectUrn": "urn:li:school:15428",
+                "entityUrn": "urn:li:fs_miniSchool:15428",
+                "active": true,
+                "schoolName": "Amsterdam University of Applied Sciences",
+                "trackingId": "5zcAst3pSIqibczeRvYqPw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_"
+            },
+            "grade": "7",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Bachelor’s Degree (Deeltijd)",
+            "schoolName": "Amsterdam University of Applied Sciences",
+            "fieldOfStudy": "Business/Managerial Economics",
+            "schoolUrn": "urn:li:fs_miniSchool:15428"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Ayub Shaikh - Holistica Consulting Ltd ",
+            "name": "The IT Recruitment Masterclass",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2015
+                }
+            }
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

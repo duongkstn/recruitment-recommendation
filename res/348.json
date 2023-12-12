@@ -1,0 +1,887 @@
+{
+    "summary": "I am deeply passionate about the world of Mobility and dedicated to revolutionizing the way people move by introducing the incredible potential of volvero. With a strong focus on enabling Mobility freedom for everyone, my goal is to reshape the way we navigate our surroundings.\n\nMoreover, I bring extensive expertise as a category/sourcing expert, actively contributing to capital infrastructure projects across the EMEA region. Over the course of 12 years, I have honed my skills in engineering, procurement, and contracts management, cultivating a profound understanding of project management, data analytics, strategic consulting, and engagement. This diverse background has allowed me to provide valuable support and insights to drive successful ventures in the Construction, Consulting, FCMG, Manufacturing & Logistics sectors.",
+    "industryName": "Logistics & Supply Chain",
+    "lastName": "Alao",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:116",
+    "firstName": "Kayode",
+    "entityUrn": "urn:li:fs_profile:ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Construction | Procurement | Leading mobility (MaaS) transformation",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQHX4NU-ohU_jA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1662759511428?e=1707955200&v=beta&t=_Mk9_de7cgg3nzEHJVZMdER5CFE3v2JtiObX6-HWgGE",
+    "img_200_200": "200_200/0/1662759511428?e=1707955200&v=beta&t=IhcZBdQCcpFOkhju13AGEJBnz-10WoJwfim8Mj7nLAg",
+    "img_400_400": "400_400/0/1662759511428?e=1707955200&v=beta&t=JRVMR32grdhFSYU3ynCZsCExxyK1A2YVZAHfpgNQDcM",
+    "img_800_800": "800_800/0/1662759511428?e=1707955200&v=beta&t=h5OZbS2qONX9vw3wja62w4qELVchxwDaIH9JKMrBbp8",
+    "profile_id": "ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg",
+    "member_urn": "urn:li:member:115975451",
+    "public_id": "kayodealao",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg,1919448414)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Amazon",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Senior Construction Category Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1586",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg,1584703030)",
+            "companyName": "volvero",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Co-Founder",
+            "companyUrn": "urn:li:fs_miniCompany:18996197",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEfiIFYhwhz6g/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg,1693876456)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Danone & GEA",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2022
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "description": "IT, BPO, Consulting, Capex, Real Estate, and Facilities Management, MRO",
+            "title": "Sr. Regional Procurement - Europe",
+            "region": "urn:li:fs_region:(nl,0)"
+        },
+        {
+            "locationName": "Milan, Lombardy, Italy",
+            "entityUrn": "urn:li:fs_position:(ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg,1498364676)",
+            "geoLocationName": "Milan, Lombardy, Italy",
+            "geoUrn": "urn:li:fs_geo:100881402",
+            "companyName": "EY",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Procurement Lead Italy (Real Estate & Workplace Services)",
+            "region": "urn:li:fs_region:(it,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1073",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQGpRhkpxp5A9A/company-logo_"
+        },
+        {
+            "locationName": "Milan Area, Italy",
+            "entityUrn": "urn:li:fs_position:(ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg,795828932)",
+            "geoLocationName": "Milan Area, Italy",
+            "companyName": "Webuild",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "description": "Medium and long-term strategy for engineering services for projects over 200M EUR",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Construction"
+                ]
+            },
+            "title": "Procurement and Contracts Engineer ",
+            "companyUrn": "urn:li:fs_miniCompany:49132582",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFrQmdGWb1qDg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg,348142733)",
+            "school": {
+                "objectUrn": "urn:li:school:13843",
+                "entityUrn": "urn:li:fs_miniSchool:13843",
+                "active": true,
+                "schoolName": "Politecnico di Milano",
+                "trackingId": "kf0En459RU2mpwzOFnrv3A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQGRQliQAbXOSQ/company-logo_"
+            },
+            "degreeName": "Master's degree",
+            "schoolName": "Politecnico di Milano",
+            "fieldOfStudy": "International Construction Management (cum laude)",
+            "schoolUrn": "urn:li:fs_miniSchool:13843"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg,138887934)",
+            "school": {
+                "objectUrn": "urn:li:school:19875",
+                "entityUrn": "urn:li:fs_miniSchool:19875",
+                "active": true,
+                "schoolName": "University of Cape Town",
+                "trackingId": "40DXgPF3QF+VBu5UbKbUMg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEFCqoOrVEFCA/company-logo_"
+            },
+            "degreeName": "Master of Science in Engineering M.Sc.(Eng)",
+            "schoolName": "University of Cape Town",
+            "fieldOfStudy": "Civil Engineering",
+            "schoolUrn": "urn:li:fs_miniSchool:19875"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg,69225612)",
+            "school": {
+                "objectUrn": "urn:li:school:4072260",
+                "entityUrn": "urn:li:fs_miniSchool:4072260",
+                "active": true,
+                "schoolName": "Federal University of Technology Akure",
+                "trackingId": "ayUu8i+hSe6xstouXZUKew==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQGMgYJJzqNI_w/company-logo_"
+            },
+            "degreeName": "Bachelor of Engineering (B.Eng Hons.)",
+            "schoolName": "Federal University of Technology Akure",
+            "fieldOfStudy": "Civil Engineering",
+            "schoolUrn": "urn:li:fs_miniSchool:4072260"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "French ",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Italian",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Yoruba",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Coursera",
+            "name": "Managing Your Time, Money, and Career: MBA Insights for Undergraduates",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "nOl7JusBR+K/s7zVqAR9ew=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/course/managingmoney"
+        },
+        {
+            "authority": "Coursera",
+            "name": "Geodesign: Change Your World",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "rsz9mqYUQhGTquRnPtf9+w=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/course/geodesign"
+        },
+        {
+            "authority": "IFP School",
+            "name": "MOOC Oil & Gas Achievement Certificate",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "licenseNumber": "IFP/OG1/cert386",
+            "company": {
+                "objectUrn": "urn:li:company:2910119",
+                "entityUrn": "urn:li:fs_miniCompany:2910119",
+                "name": "IFP School",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631341294474?e=1710374400&v=beta&t=8tPmHEIY0aRalwJ4caBVLWgqDgBKWWOykYOi0Si02Qo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631341294474?e=1710374400&v=beta&t=TkpmjNAUCXSLeJ4bp0aoCTZElIllQGdzmUIyPKKeTro",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631341294474?e=1710374400&v=beta&t=KMATBe45-5jjdqUNzUEESz-gf8Dr_ucqLr1yd1np9eE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHmkg2h-NGH3Q/company-logo_"
+                    }
+                },
+                "universalName": "ifp-school",
+                "dashCompanyUrn": "urn:li:fsd_company:2910119",
+                "trackingId": "+VKO3ABWTQ2zuCpt0G15ag=="
+            },
+            "displaySource": "unow-mooc.org",
+            "companyUrn": "urn:li:fs_miniCompany:2910119",
+            "url": "http://certification.unow-mooc.org/IFP/OG1/cert386.pdf"
+        },
+        {
+            "authority": "iversity",
+            "name": "Climate Change &amp; Health for Policy-Makers - Statement of Participation",
+            "company": {
+                "objectUrn": "urn:li:company:1433745",
+                "entityUrn": "urn:li:fs_miniCompany:1433745",
+                "name": "iversity",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631310211721?e=1710374400&v=beta&t=F3nPO_NVuNzWVrsZtWMfMHA6RPbZJeQEF6zbobQIJcs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631310211721?e=1710374400&v=beta&t=XOhCEXQuyyQNvG7_bRaRg6sWBJSNrpP3PaMGIBbG310",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631310211721?e=1710374400&v=beta&t=9rqjsCsZ1u7oMPjpRhbSPeDjDyB9BMzWl2WRsw9Jpl4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQFbnORiinaL6Q/company-logo_"
+                    }
+                },
+                "universalName": "iversity",
+                "dashCompanyUrn": "urn:li:fsd_company:1433745",
+                "trackingId": "X6IDaEVCQSK3POw/sYmfAw=="
+            },
+            "displaySource": "iversity.org",
+            "companyUrn": "urn:li:fs_miniCompany:1433745",
+            "url": "https://iversity.org/verify/OhnUhL"
+        },
+        {
+            "authority": "Indian Institute for Human Settlements",
+            "name": "Sustainable Cities",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "licenseNumber": "o7ysj82q ",
+            "company": {
+                "objectUrn": "urn:li:company:803396",
+                "entityUrn": "urn:li:fs_miniCompany:803396",
+                "name": "Indian Institute for Human Settlements",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631388358425?e=1710374400&v=beta&t=x3A3J-v5jCu_i6H2jl4ablYu1ZJo0HZW4MTdm5WCaJ0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631388358425?e=1710374400&v=beta&t=s_ulLbkWteccIgQGhyPfThSMZXZkSVz0KOUZZuFX-eo",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631388358425?e=1710374400&v=beta&t=H2Btr6vpCIyRjkos1-BgeoD6slgi6oXZrEoatlMBLGE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQEavs74mSha9g/company-logo_"
+                    }
+                },
+                "universalName": "iihsin",
+                "dashCompanyUrn": "urn:li:fsd_company:803396",
+                "trackingId": "ncmjCmxLTaKYkPXaOIFESg=="
+            },
+            "displaySource": "sdgacademy.org",
+            "companyUrn": "urn:li:fs_miniCompany:803396",
+            "url": "https://courses.sdgacademy.org/verify/o7ysj82q"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Six Sigma Foundations",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "mSj31JZ2TNmUGSVc+GQVeQ=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/25dc87a8e109a3352b5f876a19033298872e035affce88476ba7409c11fc1d9e?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Six Sigma: Green Belt",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "7+1m0e+RS4G0pQOkYvSl3w=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/ae665d9b2c0b418b6d694692364da52964a1da502d2156f14541b05c9d31916e?trk=backfilled_certificate"
+        },
+        {
+            "authority": "Frankfurt School Blockchain Center",
+            "name": "Blockchain Masterclass ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "8281 159 284 1111",
+            "company": {
+                "objectUrn": "urn:li:company:18276290",
+                "entityUrn": "urn:li:fs_miniCompany:18276290",
+                "name": "Frankfurt School Blockchain Center",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631432358681?e=1710374400&v=beta&t=ed31IQvdBe9Es82SJcMhX3ZMUFc8p4dcBJgDadlYGV4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631432358681?e=1710374400&v=beta&t=D1xqLDe0dH0fr1-ONnfczm_24nNcEms3Xc7OXPwHq9g",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631432358681?e=1710374400&v=beta&t=9QAl6wq8RoQaeurLIlIbJ_48xEx9ewiLoAXrYRorY4Y",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQF-Galv7ayidg/company-logo_"
+                    }
+                },
+                "universalName": "frankfurt-school-blockchain-center",
+                "dashCompanyUrn": "urn:li:fsd_company:18276290",
+                "trackingId": "ayQNORTFQqGmPw4umfNgWg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:18276290"
+        },
+        {
+            "authority": "Binance",
+            "name": "Masterclass on Blockchain development  (Developer's Edition)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:13336409",
+                "entityUrn": "urn:li:fs_miniCompany:13336409",
+                "name": "Binance",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1702298173912/binance_logo?e=1710374400&v=beta&t=pImXGRhvo1TPZwf1zDbsfjqhJdLjnjyKyRKK9W-pju4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1702298173913/binance_logo?e=1710374400&v=beta&t=D7XvV9OXoDes6kEtDRIDRkKbXw1doWttZxb3fTHkpu8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1702298173913/binance_logo?e=1710374400&v=beta&t=JC07OSMg0t4FgBE0viW3vZ6Lp4kEIX7FNRDJtuYeJ0A",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQHq0RzAk1QRaQ/company-logo_"
+                    }
+                },
+                "universalName": "binance",
+                "dashCompanyUrn": "urn:li:fsd_company:13336409",
+                "trackingId": "cBO1t049QqaAnqVjVM/gvA=="
+            },
+            "displaySource": "evidenz.io",
+            "companyUrn": "urn:li:fs_miniCompany:13336409",
+            "url": "https://certificate.evidenz.io/check/82AEEA963D30B89F112DE9B55E2257B284EF12047315879EDCF5936767325E78WDRjc3R0YVg5UDJxMHcxa0xoTzdkUVBQZ2sxOTR2ZDkwcXkxMGNGd0V4a2hjdmIr"
+        },
+        {
+            "authority": "Growth Tribe",
+            "name": "Data Fundamentals",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2022
+                }
+            },
+            "licenseNumber": "70179244212644",
+            "company": {
+                "objectUrn": "urn:li:company:9336598",
+                "entityUrn": "urn:li:fs_miniCompany:9336598",
+                "name": "Growth Tribe",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631410631847/growth_tribe_logo?e=1710374400&v=beta&t=ViW7cMd77y_wyTcsBv5un6rV9kn-JNVs07xaSuMq3A4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631410631847/growth_tribe_logo?e=1710374400&v=beta&t=WkCLhfMivHhOA187THU3koUBAPjiXa__OoPt_Td-haQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631410631847/growth_tribe_logo?e=1710374400&v=beta&t=oLUz7fRZP94oC2vCgyqyGBfR2ddRI8KW-HeeDv8GiNY",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHeR_dfrmhFUQ/company-logo_"
+                    }
+                },
+                "universalName": "growth-tribe",
+                "dashCompanyUrn": "urn:li:fsd_company:9336598",
+                "trackingId": "zAz9w8iHRz69I1xJNGCNAA=="
+            },
+            "displaySource": "growthtribe.io",
+            "companyUrn": "urn:li:fs_miniCompany:9336598",
+            "url": "https://certificates.growthtribe.io/en/verify/70179244212644?ref"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Ambassador",
+            "companyName": "The Sustainable Procurement Pledge",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "cause": "ENVIRONMENT",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:28929421",
+                    "entityUrn": "urn:li:fs_miniCompany:28929421",
+                    "name": "The Sustainable Procurement Pledge",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630518165033?e=1710374400&v=beta&t=jznDutGXn5ffy7KsQ3Jxblq7Q1ftDZ805kh97QhcPHs",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630518165033?e=1710374400&v=beta&t=-Qm61En7tPTdmep_teTarvlomUspSm89MG2EwmxDKao",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630518165033?e=1710374400&v=beta&t=WX9hunBd82YasbOi1AaZr0GbzlHvcwlXHi2e0DdhmCg",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQE5gAncalFvyg/company-logo_"
+                        }
+                    },
+                    "universalName": "sustainable-procurement-pledge",
+                    "dashCompanyUrn": "urn:li:fsd_company:28929421",
+                    "trackingId": "nFaNPOtyRQ6D6WOICaT/cw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:28929421"
+        },
+        {
+            "role": "Business Mentor",
+            "companyName": "JA Italia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "description": "Crescere Che Impresa (Mentor)\n\nThe entrepreneurial education and financial literacy program inspires and encourages girls and boys between 11 and 14 years old to believe in themselves and their ideas, equipping them with the skills to effectively realize their future.\n\nWith Crescere che impresa! students experience the dynamics and evolutions of the economy, assuming the point of view of entrepreneurs and discovering the potential of technology and digital. With an experiential teaching methodology, the classes use tools, methods and concepts typical of innovation, in order to understand more closely the world of work and discover skills, competences and professional vocations. For the 3 lessons of 2 hours each, held by a teacher from the school or, in some cases, by a volunteer professional, both adequately trained, the classes enrolled have free access to digital teaching materials.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:753797",
+                    "entityUrn": "urn:li:fs_miniCompany:753797",
+                    "name": "JA Italia",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1656324530434/junior_achievement_italia_logo?e=1710374400&v=beta&t=N401n7lqG1bUArv1vcPTWPS3IZ7k0gAfzZms1tXpgHw",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1656324530434/junior_achievement_italia_logo?e=1710374400&v=beta&t=_KvKjkM7Bq19Ri5mmHzj_ijGiDmj3JpwEmKNsH2v98k",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1656324530434/junior_achievement_italia_logo?e=1710374400&v=beta&t=nVlpXusoZtAfoMlxcmASPa3R19okek6NVATig6DMIOg",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFAP3MT-Ob_4A/company-logo_"
+                        }
+                    },
+                    "universalName": "junior-achievement-italia",
+                    "dashCompanyUrn": "urn:li:fsd_company:753797",
+                    "trackingId": "w/1FcOtJTQWuPE9JBmaazQ=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:753797"
+        },
+        {
+            "role": "Consulting Member (West and Central Africa)",
+            "companyName": "UN Major Group for Children and Youth",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "cause": "ENVIRONMENT",
+            "description": "•\tEnhance young people's knowledge of the challenges of sustainable urban development.\n•\tIntroduce young people to the HABITAT III process and the agenda it addresses, including possibilities and importance of youth participation. \n",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:10578937",
+                    "entityUrn": "urn:li:fs_miniCompany:10578937",
+                    "name": "Major Group for Children and Youth",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630577071697?e=1710374400&v=beta&t=JwoDpe2w0MYEJxRFSWAA4neHnYjwJiBNorz9_b6n6_s",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630577071697?e=1710374400&v=beta&t=i7Pbd_RbKonVmAxtwFh3fUv63c1H8CybCHQ0uyZUrPY",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630577071697?e=1710374400&v=beta&t=ECV4yusQCGkdF4BLUmHGmm0B6XyUARfrEf8BpapY-Zs",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHg6nQ0Ue3WkQ/company-logo_"
+                        }
+                    },
+                    "universalName": "unmgcy",
+                    "dashCompanyUrn": "urn:li:fsd_company:10578937",
+                    "trackingId": "b/T83gaTRtCIBB+SMlRyCA=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:10578937"
+        }
+    ],
+    "honors": [
+        {
+            "title": "Falling Wall Labs Young Innovator",
+            "issueDate": {
+                "month": 11,
+                "year": 2015
+            },
+            "issuer": "Falling Walls Foundation| AT Kearney"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg,383022805)",
+            "title": "Social Consciousness Winner ",
+            "issueDate": {
+                "month": 10,
+                "year": 2014
+            },
+            "issuer": "Faculty of Engineering and the Built Environment - University of Cape Town"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAbppRsBfjWucainrPUcC8iLAiR-EhQ7hdg,383022805)",
+            "title": "Civil Engineering Postgraduate scholarship",
+            "issueDate": {
+                "month": 1,
+                "year": 2013
+            },
+            "issuer": "University of Cape Town"
+        }
+    ],
+    "projects": []
+}

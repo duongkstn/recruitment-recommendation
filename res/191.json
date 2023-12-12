@@ -1,0 +1,670 @@
+{
+    "summary": "Infrastructure engineer with over 6 years of experience in Windows and Linux administration. Strong foundation in networks, operating systems, and virtualization technologies with ever-growing knowledge in containerization and orchestration technologies such as Docker and Kubernetes.  \n\nProficient in Bash scripting and hands-on experience with monitoring and alerting tools. Creative problem solver with a proven track record of collaborating effectively in cross-functional teams to deliver innovative solutions. \n\nLearning is a never-ending process for me, and I embrace learning new tools and technologies to improve my domain of knowledge and expertise.",
+    "industryName": "Information Technology & Services",
+    "lastName": "Ahmadi",
+    "locationName": "Italy",
+    "student": false,
+    "geoCountryName": "Italy",
+    "geoCountryUrn": "urn:li:fs_geo:103350119",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 5,
+        "day": 9
+    },
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Soroush",
+    "entityUrn": "urn:li:fs_profile:ACoAADm6ztYBBcpUlYUktzdCpt1FLlIljB8--Eg",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103959800"
+    },
+    "geoLocationName": "Savona, Liguria",
+    "location": {
+        "basicLocation": {
+            "countryCode": "it"
+        }
+    },
+    "headline": "System Administrator | DevOps Engineer | Cybersecurity Certified | AWS Cloud Essentials Badge",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQGmIJiJQUHDYQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1699216484031?e=1707955200&v=beta&t=3_JC_U4cPc8qdyMUClKZu-vdt_my7_-VqSNra3tqhtY",
+    "img_200_200": "200_200/0/1699216484031?e=1707955200&v=beta&t=bnbCsb-kvibFCRtwF_7HjiMc9uCGzH32uSPkI24tGk4",
+    "img_400_400": "400_400/0/1699216484031?e=1707955200&v=beta&t=BDilpXksUhtCVAbTHxU1ndzTJBhji6R8xiIZfAwXnxY",
+    "img_800_800": "800_800/0/1699216484032?e=1707955200&v=beta&t=COIMM6cLw6AsCFiG066O_Lqmi4k7zeqc_elKdByC9Qo",
+    "profile_id": "ACoAADm6ztYBBcpUlYUktzdCpt1FLlIljB8--Eg",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADm6ztYBBcpUlYUktzdCpt1FLlIljB8--Eg",
+    "member_urn": "urn:li:member:968543958",
+    "public_id": "soroush-ahmadi73",
+    "experience": [
+        {
+            "locationName": "Savona, Liguria, Italy",
+            "entityUrn": "urn:li:fs_position:(ACoAADm6ztYBBcpUlYUktzdCpt1FLlIljB8--Eg,2144008058)",
+            "geoLocationName": "Savona, Liguria, Italy",
+            "geoUrn": "urn:li:fs_geo:104086813",
+            "companyName": "CIMA Research Foundation",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Research"
+                ]
+            },
+            "title": "System Administrator - DevOps",
+            "region": "urn:li:fs_region:(it,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1176686",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEAwHRqJfgoSQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADm6ztYBBcpUlYUktzdCpt1FLlIljB8--Eg,1907866491)",
+            "companyName": "Shygun System | شایگان سیستم",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Network Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:10385068",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFIFi7NAmZ-gQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADm6ztYBBcpUlYUktzdCpt1FLlIljB8--Eg,1907871056)",
+            "companyName": "Mehrbod Computers",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "title": "IT Specialist"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADm6ztYBBcpUlYUktzdCpt1FLlIljB8--Eg,774380870)",
+            "school": {
+                "objectUrn": "urn:li:school:13871",
+                "entityUrn": "urn:li:fs_miniSchool:13871",
+                "active": true,
+                "schoolName": "Università degli Studi di Genova",
+                "trackingId": "lMpANCZARMKcGGJYDbRpAA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEeDsZtaK8JFA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "description": "\"Internet Technologies: Architectures and Protocols\" Course",
+            "schoolName": "Università degli Studi di Genova",
+            "fieldOfStudy": "Internet and Multimedia Engineering",
+            "schoolUrn": "urn:li:fs_miniSchool:13871"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADm6ztYBBcpUlYUktzdCpt1FLlIljB8--Eg,774382729)",
+            "school": {
+                "objectUrn": "urn:li:school:370001",
+                "entityUrn": "urn:li:fs_miniSchool:370001",
+                "active": true,
+                "schoolName": "Golestan University",
+                "trackingId": "dc/31kz6SXafaCCuGUlL8Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQFjQvYGrcOaUw/company-logo_"
+            },
+            "activities": ". \n• Overviewing multiple researches on IEEE and scrutinizing them on the subject of \nWireless Sensor Network Protocols\n• Studying and simulating CCNA R\\S course in GNS3 and Cisco Packet \nTracer\n• Creating an E-Commerce Website with WordPress",
+            "grade": "GPA 3.21",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100347",
+            "degreeName": "Bachelor of Engineering - BE",
+            "schoolName": "Golestan University",
+            "fieldOfStudy": "Computer Engineering",
+            "degreeUrn": "urn:li:fs_degree:269",
+            "schoolUrn": "urn:li:fs_miniSchool:370001"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Italian",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Persian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Coursera",
+            "name": "Azure: Create a Virtual Machine and Deploy a Web Server",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "licenseNumber": "TX2V73UZFZ5W",
+            "company": {
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=veP_v1the38gc2-RCcvb6DGVOy1YMy1RC5pXl0nnHNs",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=X_bZFGHejnJmGQt5Tc6sdywNQhahOUpa_OJe_GEwEuw",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630530042036/coursera_logo?e=1710374400&v=beta&t=zp6FeZqkmbtVN6qJ0POns8jV6-7NrNU9cHIzRxX_wnw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                    }
+                },
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "QZ+pNBVMT4mTnhunQqYJnA=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:2453129",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/TX2V73UZFZ5W"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Prepare for the Apple Certified Support Professional macOS 11 Exam",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "licenseNumber": "AR3BGDbhzkq1fnOcxHr1L5rBH_Ap",
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "SeN20f6bR3+4xJY6o76AWQ=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/e46662d24b5df0f708d20ae2e95fa7ebf65af488333ba6c83b4d55bf2779b77d?trk=backfilled_certificate"
+        },
+        {
+            "authority": "Udemy",
+            "name": "Intune Training with Microsoft Endpoint Manager (MDM/MAM)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "licenseNumber": "UC-f1b65d42-64bb-47e2-8c47-cef7c5a050fa",
+            "company": {
+                "objectUrn": "urn:li:company:822535",
+                "entityUrn": "urn:li:fs_miniCompany:822535",
+                "name": "Udemy",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630536914848/udemy_logo?e=1710374400&v=beta&t=CNH_uJP3wyp3dMkDFMphBjNYWvGRYVTgPTrxofSxsEA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630536914848/udemy_logo?e=1710374400&v=beta&t=3-OkXFRrJxXM1X4awWMlC9Sx6djj_f0-JL9UHRE0cls",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630536914848/udemy_logo?e=1710374400&v=beta&t=TRfjAFfHzeWW5E0ErbC_acDTYW2NMD8o1FNngdB3lE8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                    }
+                },
+                "universalName": "udemy",
+                "dashCompanyUrn": "urn:li:fsd_company:822535",
+                "trackingId": "3HxwfUoGQwyYcEPdil9i5A=="
+            },
+            "displaySource": "udemy-certificate.s3.amazonaws.com",
+            "companyUrn": "urn:li:fs_miniCompany:822535",
+            "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-f1b65d42-64bb-47e2-8c47-cef7c5a050fa.pdf"
+        },
+        {
+            "authority": "Google",
+            "name": "Google IT Support",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "licenseNumber": "WKKK2H3XANAE",
+            "company": {
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631311446380?e=1710374400&v=beta&t=_0gnABnVbe_EqmnW25OJ9a8a3eJJBiPUX4scKbZ3nJg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631311446380?e=1710374400&v=beta&t=AqetEFJOXMBuYXBnOT-x9YqzHuTxD8A-bLLLA4QAPcg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                    }
+                },
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "5L0eXVRSSMCeqz0DYPuDrg=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:1441",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/WKKK2H3XANAE"
+        },
+        {
+            "authority": "Credly",
+            "name": "Google IT Support Certificate",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2973827",
+                "entityUrn": "urn:li:fs_miniCompany:2973827",
+                "name": "Credly by Pearson",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1667436004075/credly_logo?e=1710374400&v=beta&t=ra6U35iXFCNe8RqmlI0fj_dIeA94cQYGbDPWXaTg9k8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1667436004075/credly_logo?e=1710374400&v=beta&t=Vs5fPGqM5PpVur-yPPiXr-bDKTDtD0aFMBJJrGzZ0Dg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1667436004075/credly_logo?e=1710374400&v=beta&t=nOZLhNJ_5YXG_dpD6CwMLID-ny8GXzBVoI_zUyvBBq4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQHtxDeZFo34zA/company-logo_"
+                    }
+                },
+                "universalName": "credly",
+                "dashCompanyUrn": "urn:li:fsd_company:2973827",
+                "trackingId": "Iw9QE8whRRC1rRs0ViY0UA=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:2973827",
+            "url": "https://www.credly.com/badges/74135942-1cdb-4399-aa3e-2750a3ee25cc/linked_in_profile"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "licenseNumber": "3TXR4KJ4EUAE",
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "oihNnoPtQuatz/nxQRum8A=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:1035",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/3TXR4KJ4EUAE"
+        },
+        {
+            "authority": "Udemy",
+            "name": "Introduction to Service Management with ITIL 4",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "UC-1bcf647-e604-4255-81fd-938375ab2802",
+            "company": {
+                "objectUrn": "urn:li:company:822535",
+                "entityUrn": "urn:li:fs_miniCompany:822535",
+                "name": "Udemy",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630536914848/udemy_logo?e=1710374400&v=beta&t=CNH_uJP3wyp3dMkDFMphBjNYWvGRYVTgPTrxofSxsEA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630536914848/udemy_logo?e=1710374400&v=beta&t=3-OkXFRrJxXM1X4awWMlC9Sx6djj_f0-JL9UHRE0cls",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630536914848/udemy_logo?e=1710374400&v=beta&t=TRfjAFfHzeWW5E0ErbC_acDTYW2NMD8o1FNngdB3lE8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                    }
+                },
+                "universalName": "udemy",
+                "dashCompanyUrn": "urn:li:fsd_company:822535",
+                "trackingId": "78cqzn50SpGkPy9oro6ksQ=="
+            },
+            "displaySource": "udemy.com",
+            "companyUrn": "urn:li:fs_miniCompany:822535",
+            "url": "https://www.udemy.com/certificate/UC-1bcf6347-e604-4255-81fd-938375ab2802/"
+        },
+        {
+            "authority": "Udemy",
+            "name": "IT Service Management",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "UC-42015ca4-8a7e-40c4-9710-9562996625fe",
+            "company": {
+                "objectUrn": "urn:li:company:822535",
+                "entityUrn": "urn:li:fs_miniCompany:822535",
+                "name": "Udemy",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630536914848/udemy_logo?e=1710374400&v=beta&t=CNH_uJP3wyp3dMkDFMphBjNYWvGRYVTgPTrxofSxsEA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630536914848/udemy_logo?e=1710374400&v=beta&t=3-OkXFRrJxXM1X4awWMlC9Sx6djj_f0-JL9UHRE0cls",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630536914848/udemy_logo?e=1710374400&v=beta&t=TRfjAFfHzeWW5E0ErbC_acDTYW2NMD8o1FNngdB3lE8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                    }
+                },
+                "universalName": "udemy",
+                "dashCompanyUrn": "urn:li:fsd_company:822535",
+                "trackingId": "mKclZwXCSauKdcY+UY9xQg=="
+            },
+            "displaySource": "udemy.com",
+            "companyUrn": "urn:li:fs_miniCompany:822535",
+            "url": "https://www.udemy.com/certificate/UC-42015ca4-8a7e-40c4-9710-9562996625fe/"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Prepare for the Linux Foundation Certified System Administrator (LFCS) Exam",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "SHJJi9BaSDmjE882mU6IDA=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/e9ad36f5acbf1d20cd28a7af13d44a729e9d62dee94e1ae059c13c3773f505c6"
+        },
+        {
+            "authority": "Google",
+            "name": "Google Cybersecurity",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "MEVNNCXUMWS4",
+            "company": {
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631311446380?e=1710374400&v=beta&t=_0gnABnVbe_EqmnW25OJ9a8a3eJJBiPUX4scKbZ3nJg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631311446380?e=1710374400&v=beta&t=AqetEFJOXMBuYXBnOT-x9YqzHuTxD8A-bLLLA4QAPcg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                    }
+                },
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "CFPw2uV+TNmbd47ioQ0vuA=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:1441",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/MEVNNCXUMWS4"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

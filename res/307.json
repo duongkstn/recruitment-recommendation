@@ -1,0 +1,119 @@
+{
+    "summary": "Looking for opportunities in Netherlands & Belgium , please drop CV's to jobs@hnmsolutions.eu or DM me.",
+    "industryName": "Information Technology & Services",
+    "lastName": "Kumari",
+    "locationName": "Belgium",
+    "student": false,
+    "geoCountryName": "Belgium",
+    "geoCountryUrn": "urn:li:fs_geo:100565514",
+    "geoLocationBackfilled": false,
+    "elt": true,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Amrita",
+    "entityUrn": "urn:li:fs_profile:ACoAAEE7chkBAcnyZlmXUL7x1C5_WWw9v17xbxs",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100565514"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "be"
+        }
+    },
+    "headline": "Information Technology Recruiter  at HNM Solutions Europe , Belgium .",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQH-AUXT_lSBtA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1696402461838?e=1707955200&v=beta&t=LiCHlRaBOxNpWKi1U_n_pc1xSrj0Jl5rAs5-deIv7EE",
+    "img_200_200": "200_200/0/1696402461839?e=1707955200&v=beta&t=ux0CdIwsuYhW2Z4Pa8jG0tQH79VGCRu7EoFnufuTfiE",
+    "img_400_400": "400_400/0/1696402461839?e=1707955200&v=beta&t=YS4mOwLIFpNc1w_XVmmz1V1kqoNaC5WPpU9U3kncaTQ",
+    "img_800_800": "800_800/0/1696402461839?e=1707955200&v=beta&t=v_6i-a3FdZHxFQxuwnstY8KgzB1fi7B3lQguaP2MfGQ",
+    "profile_id": "ACoAAEE7chkBAcnyZlmXUL7x1C5_WWw9v17xbxs",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAEE7chkBAcnyZlmXUL7x1C5_WWw9v17xbxs",
+    "member_urn": "urn:li:member:1094414873",
+    "public_id": "amrita-kumari-b35625266",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAEE7chkBAcnyZlmXUL7x1C5_WWw9v17xbxs,2124168371)",
+            "companyName": "HNM Solutions Europe",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Information Technology Recruiter",
+            "companyUrn": "urn:li:fs_miniCompany:14505992",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHNB_3w46WJcQ/company-logo_"
+        },
+        {
+            "locationName": "Ranchi, Jharkhand, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAEE7chkBAcnyZlmXUL7x1C5_WWw9v17xbxs,2125041181)",
+            "geoLocationName": "Ranchi, Jharkhand, India",
+            "geoUrn": "urn:li:fs_geo:110604688",
+            "companyName": "Nimbus Adcom Private Limited",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Human Resources Intern",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1963009",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGuF77Z_0AF8Q/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAEE7chkBAcnyZlmXUL7x1C5_WWw9v17xbxs,864659427)",
+            "school": {
+                "objectUrn": "urn:li:school:13604",
+                "entityUrn": "urn:li:fs_miniSchool:13604",
+                "active": true,
+                "schoolName": "Ranchi University",
+                "trackingId": "jggGaOK/SiaJ+Wz7fCFIhQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQGx69Q7WLtFQQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "degreeName": "Bachelor of Business Administration - BBA ",
+            "schoolName": "Ranchi University",
+            "fieldOfStudy": "Human Resources Management",
+            "schoolUrn": "urn:li:fs_miniSchool:13604"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

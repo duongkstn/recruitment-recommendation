@@ -1,0 +1,239 @@
+{
+    "summary": "I am a professional with an entrepreneurial mindset and extensive experience in the development and implementation of (new) technologies within the organization. Motivated, hard-working, and results driven. Cross functional thinking with a natural feeling for sensitivity of the business. Strong in driving change in an intercultural and complex environment. Broad knowledge of procurement and procurement processes to enable all levels of procurement to work transparently, efficiently and effectively.",
+    "industryName": "Building Materials",
+    "lastName": "Burgering",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Jelle",
+    "entityUrn": "urn:li:fs_profile:ACoAAAHPrrIBl5FbbIeq7x2fZGXCE542365hAJw",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102011674"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Head of Procurement Corporate HQ Amsterdam at CRH",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQExkeHB5q_3rQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1610551560727?e=1707955200&v=beta&t=cAojpc54J8ON-x9EL-K5OKax9KyWi8TQ_WxOeQ-1BJo",
+    "img_200_200": "200_200/0/1610551560727?e=1707955200&v=beta&t=ShCGBv3VGjPYIcnmAxSn0psE2EK1Q-l8__r1FRWCUFc",
+    "img_400_400": "400_400/0/1610551560727?e=1707955200&v=beta&t=G0JTJMC8JTuXzspiJ2na1Ztd1VrK_ng2Rt5yd0qRKfw",
+    "img_488_488": "800_800/0/1610551560727?e=1707955200&v=beta&t=LFHJ4cw-vQlxmDg4wHjQpaWGVAa8E3vVtwPOXPXJA2c",
+    "profile_id": "ACoAAAHPrrIBl5FbbIeq7x2fZGXCE542365hAJw",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAHPrrIBl5FbbIeq7x2fZGXCE542365hAJw",
+    "member_urn": "urn:li:member:30387890",
+    "public_id": "jelleburgering",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHPrrIBl5FbbIeq7x2fZGXCE542365hAJw,1777741555)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Head of Procurement Corporate HQ Amsterdam",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHPrrIBl5FbbIeq7x2fZGXCE542365hAJw,1722037713)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Head of Spend & Data Management",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHPrrIBl5FbbIeq7x2fZGXCE542365hAJw,1722047420)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Process Application Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Rijswijk",
+            "entityUrn": "urn:li:fs_position:(ACoAAAHPrrIBl5FbbIeq7x2fZGXCE542365hAJw,295065341)",
+            "geoLocationName": "Rijswijk",
+            "companyName": "CRH Europe Products & Distribution",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2012
+                }
+            },
+            "description": "- Developing and planning performance and decision support analytics for purchasing program\n- Analysing and developing sourcing related processes\n- Maintain and further develop purchasing support tools \n- Align purchasing tools development on CRH Plc level (Global)\n- Execute progress tracking and savings/benefits monitoring",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Business Analyst Procurement",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAHPrrIBl5FbbIeq7x2fZGXCE542365hAJw,124411147)",
+            "companyName": "CRH Fencing & Security Group B.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2010
+                }
+            },
+            "description": "CRH Fencing & Security Group B.V. is the leading supplier of outdoor security systems in Europe. The group consists of 5 business units. CRH F&S Netherlands, F&S Germany, F&S UK, F&S Nordic and CRH Mobile Fencing & Security,. The most well-known brands are: Heras, Darfen and Adronit.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "ICT Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAHPrrIBl5FbbIeq7x2fZGXCE542365hAJw,74925373)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "description": "PRINCE2 (PRojects IN Controlled Environments) is een gestructureerde methode voor projectmanagement. Deze methode is gericht op het management, de besturing en de organisatie van een project. PRINCE2 is ontwikkeld en wordt onderhouden door de Britse semi-overheidsorganisatie Office of Government Commerce (OGC).",
+            "schoolName": "Ruysdael",
+            "fieldOfStudy": "PRINCE2 Foundation & Practitioner"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAHPrrIBl5FbbIeq7x2fZGXCE542365hAJw,27661937)",
+            "school": {
+                "objectUrn": "urn:li:school:21097",
+                "entityUrn": "urn:li:fs_miniSchool:21097",
+                "active": true,
+                "schoolName": "TSM Business School",
+                "trackingId": "fgMFsqmdToigYs9Ge1gThA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQF-TvGbzI49vg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "schoolName": "TSM Business School",
+            "fieldOfStudy": "Young Professional Program (YPP) - CRH",
+            "schoolUrn": "urn:li:fs_miniSchool:21097"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAHPrrIBl5FbbIeq7x2fZGXCE542365hAJw,24717038)",
+            "school": {
+                "objectUrn": "urn:li:school:15423",
+                "entityUrn": "urn:li:fs_miniSchool:15423",
+                "active": true,
+                "schoolName": "Inholland University of Applied Sciences",
+                "trackingId": "J/iW1wO+TrC1L5Jx2CnWWA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQF4kRIPNGd2sw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            },
+            "degreeName": "Bachelor",
+            "schoolName": "Inholland University of Applied Sciences",
+            "fieldOfStudy": "Technical Engineer / Business Administration",
+            "schoolUrn": "urn:li:fs_miniSchool:15423"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

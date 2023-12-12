@@ -1,0 +1,247 @@
+{
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Robson",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 7,
+        "day": 7
+    },
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Jack",
+    "entityUrn": "urn:li:fs_profile:ACoAABpgJVUBOEp7Ke524PTG7grCGwqAEzJULBQ",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Director - Netherlands at Phaidon International",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQGmBfM4P--XBQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1567597715091?e=1707955200&v=beta&t=hFbmGtJu1KA7ExSUvOp47fIBoSDuyE5ngrCSFAQFmoM",
+    "img_200_200": "200_200/0/1567597715067?e=1707955200&v=beta&t=CL6pkmlMfFi581hOKA-nq1A1Mn5_v59YC5opVt145MA",
+    "img_400_400": "400_400/0/1567597715146?e=1707955200&v=beta&t=7-Ck1712pySmS5yNO4mmVcrum3cOLj32CCdl2N-ux4s",
+    "img_500_500": "800_800/0/1567597715174?e=1707955200&v=beta&t=Yn8fl5FbAxpc_OnW8u_MrVRapO9f1jXoWqWEH-rQmJ4",
+    "profile_id": "ACoAABpgJVUBOEp7Ke524PTG7grCGwqAEzJULBQ",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABpgJVUBOEp7Ke524PTG7grCGwqAEzJULBQ",
+    "member_urn": "urn:li:member:442508629",
+    "public_id": "jack-robson-471241104",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABpgJVUBOEp7Ke524PTG7grCGwqAEzJULBQ,2065385440)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Phaidon International",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Director - Netherlands ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1728091",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEtJ7B4uHSWyw/company-logo_"
+        },
+        {
+            "locationName": "London, England, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAABpgJVUBOEp7Ke524PTG7grCGwqAEzJULBQ,2022209907)",
+            "geoLocationName": "London, England, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:102257491",
+            "companyName": "DSJ Global",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Director",
+            "region": "urn:li:fs_region:(gb,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2121817",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGh0PmAc0TeTQ/company-logo_"
+        },
+        {
+            "locationName": "London, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAABpgJVUBOEp7Ke524PTG7grCGwqAEzJULBQ,1698831864)",
+            "geoLocationName": "London, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:102257491",
+            "companyName": "DSJ Global",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Associate Director - Supply Chain",
+            "region": "urn:li:fs_region:(gb,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2121817",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGh0PmAc0TeTQ/company-logo_"
+        },
+        {
+            "locationName": "London, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAABpgJVUBOEp7Ke524PTG7grCGwqAEzJULBQ,1537981372)",
+            "geoLocationName": "London, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009496",
+            "companyName": "DSJ Global",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "description": "Leading the growth of a team of specialist recruitment consultants in Supply Chain.\n\nOur specialist recruitment team is aligned to the end to end supply chain, across all industries, as below:\n\nPLAN (Supply planning, demand planning, IBP, S&OP)\nSOURCE (Category management, procurement ops)\nMAKE (Manufacturing, engineer)\nDELIVER (Logistics, warehousing, distribution, network optimization)\nIMPROVE (Operational excellence, continuous improvement, strategy)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Head of Supply Chain Search ",
+            "region": "urn:li:fs_region:(gb,4573)",
+            "companyUrn": "urn:li:fs_miniCompany:2121817",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGh0PmAc0TeTQ/company-logo_"
+        },
+        {
+            "locationName": "London, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAABpgJVUBOEp7Ke524PTG7grCGwqAEzJULBQ,948720875)",
+            "geoLocationName": "London, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009496",
+            "companyName": "DSJ Global",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "description": "Leading the Industrial Search Team at DSJ Global specialising in Procurement and Supply Chain in Europe. I am passionate about representing niche talent to help industrial businesses thrive, through developing meaningful and fruitful relationships.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Managing Principal Consultant - Procurement and Supply Chain",
+            "region": "urn:li:fs_region:(gb,4573)",
+            "companyUrn": "urn:li:fs_miniCompany:2121817",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGh0PmAc0TeTQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABpgJVUBOEp7Ke524PTG7grCGwqAEzJULBQ,664668741)",
+            "school": {
+                "objectUrn": "urn:li:school:19926",
+                "entityUrn": "urn:li:fs_miniSchool:19926",
+                "active": true,
+                "schoolName": "The London School of Economics and Political Science (LSE)",
+                "trackingId": "8vVz5uHtSiyaDm9PHpev+A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEmNyPMuyVfyQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "description": "Modules: Leading with influence, Economics for managers, Competitive strategy, Corporate strategy, Financial accounting, Management accounting, Analysing financial statements, In the mind of the manager, Nudging behaviour and Organisational culture as a leadership tool. \n",
+            "degreeName": "MBA Essentials ",
+            "schoolName": "The London School of Economics and Political Science (LSE)",
+            "schoolUrn": "urn:li:fs_miniSchool:19926"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABpgJVUBOEp7Ke524PTG7grCGwqAEzJULBQ,302640231)",
+            "school": {
+                "objectUrn": "urn:li:school:12686",
+                "entityUrn": "urn:li:fs_miniSchool:12686",
+                "active": true,
+                "schoolName": "University of Bath",
+                "trackingId": "kY8mTP9MTECdl+m0YM5Kyg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHQLVwhPQAQ1g/company-logo_"
+            },
+            "grade": "2.1",
+            "description": "1st XV Rugby ",
+            "degreeName": "Bachelor of Science (BSc)",
+            "schoolName": "University of Bath",
+            "fieldOfStudy": "Sport and Exercise Science",
+            "schoolUrn": "urn:li:fs_miniSchool:12686"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABpgJVUBOEp7Ke524PTG7grCGwqAEzJULBQ,302974838)",
+            "activities": "House Captain, 1st XV Rugby Captain",
+            "grade": "A*, A*, A",
+            "degreeName": "A Level",
+            "schoolName": "Bishop Vesey's Grammar School",
+            "fieldOfStudy": "Mathematics, Physiology, Biology"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Spanish",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

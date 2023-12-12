@@ -1,0 +1,305 @@
+{
+    "summary": "A mechanical engineer specializing in engineering management with a demonstrated history of international sales and business developments with multiple stakeholder environments. Able to make decisions independently and quickly with minimal escalation.",
+    "industryName": "Electrical & Electronic Manufacturing",
+    "lastName": "Demirbağ",
+    "locationName": "Turkey",
+    "student": false,
+    "geoCountryName": "Turkey",
+    "geoCountryUrn": "urn:li:fs_geo:102105699",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:112",
+    "firstName": "Ünal",
+    "entityUrn": "urn:li:fs_profile:ACoAABoiNdkB2jQdnIEsyd59dVl2MQ9ftE2wdzI",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104162620"
+    },
+    "geoLocationName": "İzmir",
+    "location": {
+        "basicLocation": {
+            "countryCode": "tr"
+        }
+    },
+    "headline": "Sr. International Sales Manager - Sharp Brand at Vestel",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQH54CeCrr8GTw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1701179726669?e=1707955200&v=beta&t=0TCkdsTy6kApsSuGO1YIfxm3mQtWePRRL6QmCPN2F4c",
+    "img_200_200": "200_200/0/1701179726669?e=1707955200&v=beta&t=5nUOHfWG761aOogTZMv0gS5Y_Oyvrwg5INF2fEEZQDI",
+    "img_400_400": "400_400/0/1701179726669?e=1707955200&v=beta&t=cHTtJI4B2SnqDvqh0r9kXqiyA5H_gjUo3VDdhv4nZm8",
+    "img_800_800": "800_800/0/1701179726669?e=1707955200&v=beta&t=d6PHzSqT_97Y_oDpwCZ9OF3gayt-uqpDfRPhLaEB050",
+    "profile_id": "ACoAABoiNdkB2jQdnIEsyd59dVl2MQ9ftE2wdzI",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABoiNdkB2jQdnIEsyd59dVl2MQ9ftE2wdzI",
+    "member_urn": "urn:li:member:438449625",
+    "public_id": "unaldemirbag",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABoiNdkB2jQdnIEsyd59dVl2MQ9ftE2wdzI,1461169745)",
+            "companyName": "Vestel International",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2019
+                }
+            },
+            "description": "Responsible for the sales of Sharp Japan Home Appliances in Eastern Europe and Benelux (formerly Middle East, DACH, Nordic and Iberia).\n-Initiating the business in CIS Region on behalf of Sharp Home Appliances \n-First Sharp tumble dryer sale to Middle East\n-First cooking product sale to Middle East \n-Being the 2nd best seller brand in tumble dryer category in Germany\n-Management of 60M Eur sales turnover\n-Brand management and business development for Sharp brand (most innovative brand in 2021)\n-Supporting and mentoring all the team members",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Electronics"
+                ]
+            },
+            "title": "Senior Sales Manager - Sharp Brand",
+            "companyUrn": "urn:li:fs_miniCompany:18337022",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHoAdR5VRUugA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABoiNdkB2jQdnIEsyd59dVl2MQ9ftE2wdzI,995996160)",
+            "companyName": "CMS JANT VE MAKİNA SAN. A.Ş.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "description": "Aluminum raw material purchasing and planning. Management of more then 120 M EUR purchase turnover and budget.\nTendering and E-auction for all scrap types.\nWeekly and monthly reports for Aluminum market by using LME data and various news. \n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Automotive"
+                ]
+            },
+            "title": "Purchasing Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:315135",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHAYZUDj6c4XA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABoiNdkB2jQdnIEsyd59dVl2MQ9ftE2wdzI,780768478)",
+            "companyName": "Gates Corporation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "description": "Project launch for Aluminum die casting components.\nE-auction with HPDC producers.\nTracking of mold lives to take action earlier and have bargain power by using my own special file. \nCommodity buyer role for HPDC category. ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Industrial Automation"
+                ]
+            },
+            "title": "Project Buyer",
+            "companyUrn": "urn:li:fs_miniCompany:7167",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGdBSs88Pnx0w/company-logo_"
+        },
+        {
+            "locationName": "İzmir, Türkiye",
+            "entityUrn": "urn:li:fs_position:(ACoAABoiNdkB2jQdnIEsyd59dVl2MQ9ftE2wdzI,701398919)",
+            "geoLocationName": "İzmir, Türkiye",
+            "geoUrn": "urn:li:fs_geo:102105699",
+            "companyName": "Cummins Inc.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ]
+            },
+            "title": "Corporate Purchasing Intern (Part-time Eng.)",
+            "region": "urn:li:fs_region:(tr,7613)",
+            "companyUrn": "urn:li:fs_miniCompany:3625",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQGQf222hCAvoQ/company-logo_"
+        },
+        {
+            "locationName": "Tekirdag, Turkey",
+            "entityUrn": "urn:li:fs_position:(ACoAABoiNdkB2jQdnIEsyd59dVl2MQ9ftE2wdzI,701401734)",
+            "geoLocationName": "Tekirdağ, Türkiye",
+            "geoUrn": "urn:li:fs_geo:102105699",
+            "companyName": "BSH Turkey",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "Internship",
+            "region": "urn:li:fs_region:(tr,7586)",
+            "companyUrn": "urn:li:fs_miniCompany:5811",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEnnBoR-CAO_w/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABoiNdkB2jQdnIEsyd59dVl2MQ9ftE2wdzI,361480624)",
+            "school": {
+                "objectUrn": "urn:li:school:17372",
+                "entityUrn": "urn:li:fs_miniSchool:17372",
+                "active": true,
+                "schoolName": "Izmir Institute of Technology",
+                "trackingId": "KM9znpBJTa+wbC6ic3bU7w==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQFkbX9FQ5D3EA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "description": "3.7",
+            "degreeName": "Master of Science - MSc",
+            "schoolName": "İzmir Yüksek Teknoloji Enstitüsü",
+            "fieldOfStudy": "Engineering Management",
+            "schoolUrn": "urn:li:fs_miniSchool:17372"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABoiNdkB2jQdnIEsyd59dVl2MQ9ftE2wdzI,296896050)",
+            "school": {
+                "objectUrn": "urn:li:school:17351",
+                "entityUrn": "urn:li:fs_miniSchool:17351",
+                "active": true,
+                "schoolName": "Ege University",
+                "trackingId": "LPoqtnxzQ62QaOG3zCTnlA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHJ-5CUKUBTTQ/company-logo_"
+            },
+            "activities": "Edebiyat, Yüzme, Futbol",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "description": "3.3",
+            "degreeName": "Mühendislik Fakültesi Mezunu",
+            "schoolName": "Ege Üniversitesi",
+            "fieldOfStudy": "Makine Mühendisliği",
+            "schoolUrn": "urn:li:fs_miniSchool:17351"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABoiNdkB2jQdnIEsyd59dVl2MQ9ftE2wdzI,296896068)",
+            "school": {
+                "objectUrn": "urn:li:school:17132",
+                "entityUrn": "urn:li:fs_miniSchool:17132",
+                "active": true,
+                "schoolName": "Technical University of Košice",
+                "trackingId": "K4Tn/Fr7RJ+5KCQaYKBSTg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQESkqS0iLImFg/company-logo_"
+            },
+            "activities": "Erasmus Social Network Presov",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "degreeName": "Lisans Derecesi",
+            "schoolName": "Technická univerzita v Košiciach",
+            "fieldOfStudy": "Makine Mühendisliği, Erasmus",
+            "schoolUrn": "urn:li:fs_miniSchool:17132"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Türkçe",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "İngilizce",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "name": "TS 16949"
+        },
+        {
+            "authority": "Gates Corporation",
+            "name": "FMEA",
+            "company": {
+                "objectUrn": "urn:li:company:7167",
+                "entityUrn": "urn:li:fs_miniCompany:7167",
+                "name": "Gates Corporation",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631327133510?e=1710374400&v=beta&t=11kN6HOJG15mFfIyxHlcDvgbbdAvmh6_CWcHrsCTDyQ",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631327133510?e=1710374400&v=beta&t=gF4SGQ5oBcBGES4pcatDCZlpthplTAxTF_aYtCFGPTQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631327133511?e=1710374400&v=beta&t=CIPtJvdcqiMap84ppNB8h2Vstba6Vyu0XMtWdz4uqPc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGdBSs88Pnx0w/company-logo_"
+                    }
+                },
+                "universalName": "gates-corporation",
+                "dashCompanyUrn": "urn:li:fsd_company:7167",
+                "trackingId": "gQopdepWTfC6IbiLi8WTCw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:7167"
+        },
+        {
+            "name": "APQP-PPAP"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

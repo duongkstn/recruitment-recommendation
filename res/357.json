@@ -1,0 +1,265 @@
+{
+    "summary": "Specialties: SAP",
+    "industryName": "Food & Beverages",
+    "lastName": "van Haaren",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 10,
+        "day": 16
+    },
+    "industryUrn": "urn:li:fs_industry:34",
+    "firstName": "Thijs",
+    "entityUrn": "urn:li:fs_profile:ACoAAAU_p2sB1QZnWCUjU_tAhDci1y8Q17TMuuo",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Tech Lead SAP Security at Orkla",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQF9D8Qw5PLg4Q/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1517272747621?e=1707955200&v=beta&t=Gr7DgmmNV8Tc5gf1Zj1yRaFQoZq1QyW3JND46RTkDQE",
+    "img_200_200": "200_200/0/1517272747616?e=1707955200&v=beta&t=Xmv151Pn_54dELATddail8u0T7L8AWfP-Aqa5J6a4zw",
+    "img_353_353": "800_800/0/1517272747640?e=1707955200&v=beta&t=e-CVqX6ftQqFBhUxssZmqXx6E7IXByE6sYi2n0UaasI",
+    "profile_id": "ACoAAAU_p2sB1QZnWCUjU_tAhDci1y8Q17TMuuo",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAU_p2sB1QZnWCUjU_tAhDci1y8Q17TMuuo",
+    "member_urn": "urn:li:member:88057707",
+    "public_id": "thijs-van-haaren-3a35a725",
+    "experience": [
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAU_p2sB1QZnWCUjU_tAhDci1y8Q17TMuuo,1853356920)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Orkla Group",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Tech Lead SAP Security",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:165347",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQFXIc4l42BYfw/company-logo_"
+        },
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAU_p2sB1QZnWCUjU_tAhDci1y8Q17TMuuo,1816539272)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Orkla Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Senior SAP Security Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:165347",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQFXIc4l42BYfw/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAU_p2sB1QZnWCUjU_tAhDci1y8Q17TMuuo,1678646354)",
+            "geoLocationName": "Rotterdam, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100467493",
+            "companyName": "KPMG Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Manager GRC Technology",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2585815",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHNUvkt9-iGgA/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAU_p2sB1QZnWCUjU_tAhDci1y8Q17TMuuo,1371560057)",
+            "geoLocationName": "Rotterdam",
+            "companyName": "KPMG Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Senior Consultant GRC Technology",
+            "companyUrn": "urn:li:fs_miniCompany:2585815",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHNUvkt9-iGgA/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAU_p2sB1QZnWCUjU_tAhDci1y8Q17TMuuo,1225747117)",
+            "geoLocationName": "Rotterdam",
+            "companyName": "KPMG Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2015
+                }
+            },
+            "description": "Consultant SAP GRC, Authorizations and Internal Control.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Consultant GRC Technology",
+            "companyUrn": "urn:li:fs_miniCompany:2585815",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHNUvkt9-iGgA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAU_p2sB1QZnWCUjU_tAhDci1y8Q17TMuuo,388372043)",
+            "school": {
+                "objectUrn": "urn:li:school:15415",
+                "entityUrn": "urn:li:fs_miniSchool:15415",
+                "active": true,
+                "schoolName": "Erasmus University Rotterdam",
+                "trackingId": "C+EItyLVRP+MMrXNRMUz5Q==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "degreeName": "Master’s Degree",
+            "schoolName": "Erasmus University Rotterdam",
+            "fieldOfStudy": "IT-Auditing & Advisory",
+            "schoolUrn": "urn:li:fs_miniSchool:15415"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAU_p2sB1QZnWCUjU_tAhDci1y8Q17TMuuo,167921472)",
+            "school": {
+                "objectUrn": "urn:li:school:15452",
+                "entityUrn": "urn:li:fs_miniSchool:15452",
+                "active": true,
+                "schoolName": "Tilburg University",
+                "trackingId": "x+45iojhQNCo6Wu+FfZ+gg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "degreeName": "Master's Degree",
+            "schoolName": "Tilburg University",
+            "fieldOfStudy": "Information Management",
+            "schoolUrn": "urn:li:fs_miniSchool:15452"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAU_p2sB1QZnWCUjU_tAhDci1y8Q17TMuuo,56325710)",
+            "school": {
+                "objectUrn": "urn:li:school:23151",
+                "entityUrn": "urn:li:fs_miniSchool:23151",
+                "active": true,
+                "schoolName": "Avans University of Applied Sciences",
+                "trackingId": "ZMwYYHtJQCuWxGNPI16h4A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "Bachelor’s Degree",
+            "schoolName": "Avans Hogeschool Den Bosch",
+            "fieldOfStudy": "Accountancy",
+            "schoolUrn": "urn:li:fs_miniSchool:23151"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

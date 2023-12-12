@@ -1,0 +1,345 @@
+{
+    "summary": "Maya Angelou once said “People will forget what you said, what you did, but will never forget how you made them feel” I live by this motto.\n\nI’ve always enjoyed meeting, chatting, and helping people, and when recruiting , I make it a mission to get to know people and their needs, while providing a top service and really take pride. I enjoy exploring all options and connecting top talent with the right opportunity in the HR industry. \n\nI worked for almost a decade in the central London’s real estate market, and I am known to be a candid, honest, helpful, and professional individual.\n\nI am originally from Mexico, have lived in various countries and have a deep understanding and appreciation of cultures, languages, and values. I am a DEI ambassador, passionate about Diversity and a fundamental believer of the fact that Diversity creates impact with Inclusion. \n\nFor a confidential discussion about career or staffing needs please contact me on +316 1176 3632 or by emailing me at isabelguerresi@frazerjones.com",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Guerresi",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Isabel",
+    "entityUrn": "urn:li:fs_profile:ACoAACdvB10BXHqgkiBvQhuRcxFvpj7a3APy7So",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Specializing in HR Recruitment Roles in Benelux | Connecting Top Talent with the Right Opportunity | DEI ambassador and advocate for unbiased hiring",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQE4IP1upO-ftQ/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1699631747789?e=1702972800&v=beta&t=qIlbQ__uwlQz69SCFea1M8KK7j7rnQs1VcjITbAJPdQ",
+    "img_200_200": "200_200/0/1699631747789?e=1702972800&v=beta&t=OdDwSxsn_aRW4aBnn0OYTLnx4YTbOz-UuvDS8OUJvuw",
+    "img_800_800": "800_800/0/1699631747789?e=1702972800&v=beta&t=aa5AXIYZl0-blFQLpwtx28NRJvldAdZmxQcUooe_XLA",
+    "img_100_100": "100_100/0/1699631747789?e=1702972800&v=beta&t=zIH3IhPB4c4o-JHQflrsoUEf75ev66RLdo3du3rjSi4",
+    "profile_id": "ACoAACdvB10BXHqgkiBvQhuRcxFvpj7a3APy7So",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACdvB10BXHqgkiBvQhuRcxFvpj7a3APy7So",
+    "member_urn": "urn:li:member:661587805",
+    "public_id": "isabelguerresi",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACdvB10BXHqgkiBvQhuRcxFvpj7a3APy7So,1943908180)",
+            "companyName": "Frazer Jones",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "description": "I specialise in permanent, Senior Executive Roles in the Benelux area. \n\nWe are a global HR executive search and recruitment consultancy. Driven by the work ethic and passion of our people, we help HR professionals thrive and empower HR leaders to put people and culture at the heart of their business –creating a more progressive future, for everyone.\n\nFor a confidential discussion about career or staffing needs please contact me on +316 1176 3632 or by emailing me at isabelguerresi@frazerjones.com",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Recruitment Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:36130",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGEejiu6XnJLg/company-logo_"
+        },
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACdvB10BXHqgkiBvQhuRcxFvpj7a3APy7So,2223057885)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "The SR Group",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "description": "The SR Group is a global recruitment company comprising four specialist search and recruitment consultancies, Frazer Jones (Human Resources), Brewer Morris, Carter Murray and Taylor Root.   \n\nOver the last five years alone, we’ve successfully placed more than 15,000 professionals into some of the biggest and brightest businesses across more than 55 markets. \n\nWith 14 international offices, our teams cover specialisms including human resources, tax, treasury, senior finance, legal, risk and compliance and marketing, sales in every corner of the world.\n\nFor a confidential discussion about career or staffing needs please contact me on +316 1176 3632 or by emailing me at isabelguerresi@frazerjones.com",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Recruitment Consultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:129914",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEbNZr6P_77Dg/company-logo_"
+        },
+        {
+            "locationName": "London, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAACdvB10BXHqgkiBvQhuRcxFvpj7a3APy7So,1341165560)",
+            "geoLocationName": "London, United Kingdom",
+            "companyName": "Foxtons",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "description": "***Left due to Covid-19 & relocation***\n\nA wonderful company, where I gained experience, friends, successfully managed an office in the central London market and created a reputable career.\n\nI was ambassador for 2 years for the LGTBQ+ Network 🏳️‍🌈 at Foxtons, at the time led by the COO, Patrick Franco.\n\nFoxtons is a leading estate agency for New Homes, sale, long term rent and short term rental properties in London and Surrey.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Real Estate"
+                ]
+            },
+            "title": "Sales Manager",
+            "companyUrn": "urn:li:fs_miniCompany:12967",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFN3jSEWIko6A/company-logo_"
+        },
+        {
+            "locationName": "London, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAACdvB10BXHqgkiBvQhuRcxFvpj7a3APy7So,1327757078)",
+            "geoLocationName": "London, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009496",
+            "companyName": "Foxtons",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Real Estate"
+                ]
+            },
+            "title": " Sales Valuer",
+            "region": "urn:li:fs_region:(gb,4573)",
+            "companyUrn": "urn:li:fs_miniCompany:12967",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFN3jSEWIko6A/company-logo_"
+        },
+        {
+            "locationName": "London, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAACdvB10BXHqgkiBvQhuRcxFvpj7a3APy7So,1328887432)",
+            "geoLocationName": "London, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:90009496",
+            "companyName": "Foxtons",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Real Estate"
+                ]
+            },
+            "title": "Senior Sales Negotiator",
+            "region": "urn:li:fs_region:(gb,4573)",
+            "companyUrn": "urn:li:fs_miniCompany:12967",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFN3jSEWIko6A/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACdvB10BXHqgkiBvQhuRcxFvpj7a3APy7So,777473364)",
+            "school": {
+                "objectUrn": "urn:li:school:15004",
+                "entityUrn": "urn:li:fs_miniSchool:15004",
+                "active": true,
+                "schoolName": "Universidad de las Américas Puebla",
+                "trackingId": "DM/U2cOJQJ+OnIinLWbNzg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQG4ISm14rOnfQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101458",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Universidad de las Américas Puebla",
+            "fieldOfStudy": "Hotel, Motel, and Restaurant Management",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15004"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACdvB10BXHqgkiBvQhuRcxFvpj7a3APy7So,821721812)",
+            "school": {
+                "objectUrn": "urn:li:school:4175004",
+                "entityUrn": "urn:li:fs_miniSchool:4175004",
+                "active": true,
+                "schoolName": "Lycée Francais Vincent van Gogh Pays-Bas",
+                "trackingId": "q3UlaC1oQ4SCP+14J0Jy/A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQE4SattkmYCJw/company-logo_"
+            },
+            "degreeName": "Brevet",
+            "schoolName": "Lycée Francais Vincent van Gogh Pays-Bas",
+            "schoolUrn": "urn:li:fs_miniSchool:4175004"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACdvB10BXHqgkiBvQhuRcxFvpj7a3APy7So,821720933)",
+            "school": {
+                "objectUrn": "urn:li:school:3162004",
+                "entityUrn": "urn:li:fs_miniSchool:3162004",
+                "active": true,
+                "schoolName": "The British School in The Netherlands",
+                "trackingId": "K6wULRWHTiO8Kw/O/3hOFg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQH5mA91lk_N3g/company-logo_"
+            },
+            "degreeName": "GCSE & A-level",
+            "schoolName": "The British School in The Netherlands",
+            "schoolUrn": "urn:li:fs_miniSchool:3162004"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "SAJE Montréal Centre",
+            "name": "Sales Technique Certificate ",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:34905166",
+                "entityUrn": "urn:li:fs_miniCompany:34905166",
+                "name": "SAJE Montréal Centre",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630656039806/saje_montreal_centre_logo?e=1710374400&v=beta&t=PdnR4t2LjsyGxIz1d9pMshJjDje_A-R3ep9xyEYVw60",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630656039806/saje_montreal_centre_logo?e=1710374400&v=beta&t=chBMcgEicZRwJZJkHJJAkuJorGy7w4RqhIhVwwYG4DE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630656039806/saje_montreal_centre_logo?e=1710374400&v=beta&t=hR1i3-KyC6sZPDKrMWlHVCrkcUFQFf5oZVFDGigsHC0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGh9LTmMYTNwQ/company-logo_"
+                    }
+                },
+                "universalName": "saje-montreal-centre",
+                "dashCompanyUrn": "urn:li:fsd_company:34905166",
+                "trackingId": "HcDeCoQNRJ6+u7E3lS3/YQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:34905166"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Administrative Assistant",
+            "companyName": "The Hague International Model United Nations",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2001
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2001
+                }
+            },
+            "cause": "EDUCATION"
+        },
+        {
+            "role": "Assistant Coordinator",
+            "companyName": "Montrealisimas (Spanish/English)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2006
+                }
+            },
+            "cause": "ARTS_AND_CULTURE",
+            "description": "Spanish Speaking Group"
+        },
+        {
+            "role": "Treasurer",
+            "companyName": "Verdun Canin (French/English)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2009
+                }
+            },
+            "cause": "ANIMAL_RIGHTS"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

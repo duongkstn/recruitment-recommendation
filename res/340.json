@@ -1,0 +1,272 @@
+{
+    "summary": "Experienced Global Purchasing Manager with a demonstrated history of working in the building materials industry. Strong operations professional skilled in Negotiation, Operations Management, Management, Low Cost Country Sourcing.",
+    "industryName": "Consumer Goods",
+    "lastName": "Tortigue",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:25",
+    "firstName": "Nicolas",
+    "entityUrn": "urn:li:fs_profile:ACoAAAZbEuEBQm5vuGke3VeM9FUa1MS-XOlR-GI",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Global Raw Materials Purchasing Manager",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQEJzhno1iypHw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1633349879180?e=1707955200&v=beta&t=CiVQOJgIAq8AcMdl3EvCMaYyenlZiqVNnrtOhGkvq3Q",
+    "img_200_200": "200_200/0/1633349879180?e=1707955200&v=beta&t=KZLRwXyxfyXmKU71DfOYOzx8K3kNa2wlMO-3NqG3HWY",
+    "img_400_400": "400_400/0/1633349879180?e=1707955200&v=beta&t=Rvz4URMjcL4ONeH4I5WsqdGR8KbBDwk8B5bKGlXLarY",
+    "img_560_560": "800_800/0/1633349879180?e=1707955200&v=beta&t=cWE0xvAXhkrsM3npjKDLoHhn_D1DNu7E0wyxEtaEjCo",
+    "profile_id": "ACoAAAZbEuEBQm5vuGke3VeM9FUa1MS-XOlR-GI",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAZbEuEBQm5vuGke3VeM9FUa1MS-XOlR-GI",
+    "member_urn": "urn:li:member:106631905",
+    "public_id": "nicolas-tortigue-3418642b",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Hollande Septentrionale, Pays-Bas",
+            "entityUrn": "urn:li:fs_position:(ACoAAAZbEuEBQm5vuGke3VeM9FUa1MS-XOlR-GI,2030689368)",
+            "geoLocationName": "Amsterdam, Hollande Septentrionale, Pays-Bas",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Henkel",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "Global Raw Materials Purchasing Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:258644",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQG9iyngkPfUfQ/company-logo_"
+        },
+        {
+            "locationName": "Paris et périphérie",
+            "entityUrn": "urn:li:fs_position:(ACoAAAZbEuEBQm5vuGke3VeM9FUa1MS-XOlR-GI,1516614169)",
+            "geoLocationName": "Paris et périphérie",
+            "geoUrn": "urn:li:fs_geo:90009659",
+            "companyName": "Saint-Gobain",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Global Raw Materials Purchasing Manager",
+            "region": "urn:li:fs_region:(fr,5227)",
+            "companyUrn": "urn:li:fs_miniCompany:2981",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFPsDZJtWL8Ww/company-logo_"
+        },
+        {
+            "locationName": "Paris et périphérie",
+            "entityUrn": "urn:li:fs_position:(ACoAAAZbEuEBQm5vuGke3VeM9FUa1MS-XOlR-GI,796777253)",
+            "geoLocationName": "Paris et périphérie",
+            "geoUrn": "urn:li:fs_geo:90009659",
+            "companyName": "Saint-Gobain",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Purchasing Manager",
+            "region": "urn:li:fs_region:(fr,5227)",
+            "companyUrn": "urn:li:fs_miniCompany:2981",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFPsDZJtWL8Ww/company-logo_"
+        },
+        {
+            "locationName": "Paris et périphérie",
+            "entityUrn": "urn:li:fs_position:(ACoAAAZbEuEBQm5vuGke3VeM9FUa1MS-XOlR-GI,542579923)",
+            "geoLocationName": "Paris et périphérie",
+            "geoUrn": "urn:li:fs_geo:90009659",
+            "companyName": "Saint-Gobain",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Category Manager",
+            "region": "urn:li:fs_region:(fr,5227)",
+            "companyUrn": "urn:li:fs_miniCompany:2981",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFPsDZJtWL8Ww/company-logo_"
+        },
+        {
+            "locationName": "Mumbai Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAAZbEuEBQm5vuGke3VeM9FUa1MS-XOlR-GI,190428821)",
+            "geoLocationName": "Mumbai Area, India",
+            "geoUrn": "urn:li:fs_geo:90009639",
+            "companyName": "Saint-Gobain",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Product Sourcing Executive",
+            "region": "urn:li:fs_region:(in,7150)",
+            "companyUrn": "urn:li:fs_miniCompany:2981",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFPsDZJtWL8Ww/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAZbEuEBQm5vuGke3VeM9FUa1MS-XOlR-GI,64816183)",
+            "school": {
+                "objectUrn": "urn:li:school:12416",
+                "entityUrn": "urn:li:fs_miniSchool:12416",
+                "active": true,
+                "schoolName": "NEOMA Business School",
+                "trackingId": "7WQDgcZWSbO8cQpeQKd1bg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQGkpW2bgM79Og/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "description": "(Graduated in 2007)",
+            "degreeName": "Master of Science in European Management",
+            "schoolName": "NEOMA Business School",
+            "fieldOfStudy": "Marketing, International trade, Projects, Managment",
+            "schoolUrn": "urn:li:fs_miniSchool:12416"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAZbEuEBQm5vuGke3VeM9FUa1MS-XOlR-GI,64816448)",
+            "school": {
+                "objectUrn": "urn:li:school:15036",
+                "entityUrn": "urn:li:fs_miniSchool:15036",
+                "active": true,
+                "schoolName": "Tecnológico de Monterrey",
+                "trackingId": "2+ibPNviTnKybBRbsadwRw==",
+                "logoUrl": "https://media.licdn.com/dms/image/D560BAQGkxQA88bs8ew/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "description": "2006 (1 Semester)",
+            "schoolName": "Tecnológico de Monterrey",
+            "fieldOfStudy": "International Exchange program",
+            "schoolUrn": "urn:li:fs_miniSchool:15036"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAZbEuEBQm5vuGke3VeM9FUa1MS-XOlR-GI,64816230)",
+            "school": {
+                "objectUrn": "urn:li:school:12416",
+                "entityUrn": "urn:li:fs_miniSchool:12416",
+                "active": true,
+                "schoolName": "NEOMA Business School",
+                "trackingId": "UcpYOn5GRYKsOI2h7LCoAA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQGkpW2bgM79Og/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            },
+            "description": "Majors: Management and Marketing (Graduated in May 2005)",
+            "degreeName": "B.com",
+            "schoolName": "NEOMA Business School",
+            "fieldOfStudy": "International Business",
+            "schoolUrn": "urn:li:fs_miniSchool:12416"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Hindi",
+            "proficiency": "ELEMENTARY"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,198 @@
+{
+    "industryName": "Outsourcing/Offshoring",
+    "lastName": "Hardin",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:123",
+    "firstName": "Richi",
+    "entityUrn": "urn:li:fs_profile:ACoAABZceBwBxJqZTal6yDEl0TmaIK9eJ0_KzeI",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Manager Tactical Account Development",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFJgM-3ADaPRA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1678582226951?e=1707955200&v=beta&t=VKewms08b7u79L1ybAzftoIn1M6qEkyNUHQhOvzyAqE",
+    "img_200_200": "200_200/0/1678582226951?e=1707955200&v=beta&t=kU3HU2KvJzE-2feMJ0KeEP1IJlChR_9jMymxyaeivwA",
+    "img_400_400": "400_400/0/1678582226951?e=1707955200&v=beta&t=1ofJDSgSMXPIgoykNyrRydqiglUN6rnFyY8ukU7fMlQ",
+    "img_800_800": "800_800/0/1678582226951?e=1707955200&v=beta&t=sQoYr3JFkBZsuyTtAzjs9SqME1G4BNxizch9av_wNYk",
+    "profile_id": "ACoAABZceBwBxJqZTal6yDEl0TmaIK9eJ0_KzeI",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABZceBwBxJqZTal6yDEl0TmaIK9eJ0_KzeI",
+    "member_urn": "urn:li:member:375158812",
+    "public_id": "richi-hardin-964781a5",
+    "experience": [
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABZceBwBxJqZTal6yDEl0TmaIK9eJ0_KzeI,1870325104)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Manager Tactical Account Development",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Veenendaal",
+            "entityUrn": "urn:li:fs_position:(ACoAABZceBwBxJqZTal6yDEl0TmaIK9eJ0_KzeI,1377409290)",
+            "geoLocationName": "Veenendaal",
+            "companyName": "SB Telecom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "description": "Verantwoordelijk voor de resultaten van het Sales team van SB Bussines Communicatie",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Sales Manager",
+            "companyUrn": "urn:li:fs_miniCompany:254751",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQEr_QHP1ji-uQ/company-logo_"
+        },
+        {
+            "locationName": "Veenendaal",
+            "entityUrn": "urn:li:fs_position:(ACoAABZceBwBxJqZTal6yDEl0TmaIK9eJ0_KzeI,1021476667)",
+            "geoLocationName": "Veenendaal",
+            "companyName": "SB Telecom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            "description": "In goed overleg hebben SB Business communicatie uit Veenendaal en VH telecom uit Nieuwegein besloten dat SB de activiteiten van VH Telecom overneemt. \n\nDe medewerkers van VH Telecom zullen worden ondergebracht bij SB Business Communicatie. Dit betekend dat wij onze klanten dezelfde service zullen bieden als ze van ons gewend zijn.\n\nSB Business Communicatie staat bekend als de grootste onafhankelijke telecomleverancier.\n \nwilt u graag weten wat wij voor u kunnen betekenen?\nkijk dan op www.sbbusinesscommunicatie.nl of mail\nr.hardin@sb-bc.nl voor het maken van een vrijblijvende afspraak",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Account Manager",
+            "companyUrn": "urn:li:fs_miniCompany:254751",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQEr_QHP1ji-uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht - Veenendaal",
+            "entityUrn": "urn:li:fs_position:(ACoAABZceBwBxJqZTal6yDEl0TmaIK9eJ0_KzeI,591069964)",
+            "geoLocationName": "Utrecht - Veenendaal",
+            "companyName": "VH Telecom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2013
+                }
+            },
+            "description": "achieved year agreements KPN 2013\nachieved year agreementsKPN 2014\nachieved year agreements KPN 2015\nachieved year agreements KPN 2016\n\nVH telecom is UW Zakelijke Telecompartner binnen Nederland!\n\nAls onafhankelijk en landelijk opererend totaalaanbieder op gebied van Telecom helpen wij onze klanten bij het maken van de juiste keuzes. Of het nu gaat om mobiele telefonie, vaste telefonie, hosted voice, IP-telefonie, telefooncentrales of geïntegreerde oplossingen, met onze unieke en servicegerichte aanpak bereiken wij altijd de best mogelijke oplossing voor onze klanten. \n\nDe beste oplossingen gaan bij VH Telecom altijd hand in hand met onze excellente service. Korte lijnen, zodat u altijd een contactpersoon heeft. VH Telecom is onafhankelijk telecomadviesbureau, wij werken samen met de meest vooraanstaande telecomoperators, hierdoor kunnen onze klanten altijd rekenen op een onafhankelijk en objectief advies. \n\nVH Telecom werkt met een team van zo’n 10 specialisten die door heel het land werkzaam zijn, deze specialisten kunnen u verder helpen in het doolhof van de Telecomwereld. \n50% besparen op de huidige kosten is niets, maar ‘we’ moeten er wel even induiken!\n\nWilt u graag weten wat wij voor u kunnen betekenen? \n\nKijk dan op www.vhtelecom.nl of mail r.hardin@vhtelecom.nl voor het maken van een vrijblijvende afspraak.",
+            "title": "Eigenaar"
+        },
+        {
+            "locationName": "Utrecht en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABZceBwBxJqZTal6yDEl0TmaIK9eJ0_KzeI,591073201)",
+            "geoLocationName": "Utrecht en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "KPN",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2010
+                }
+            },
+            "description": "Verantwoordelijk voor rayon: Utrecht\nAchieved all targets in 2012\nAchieved all targets in 2011\nAchieved all targets in 2010\n\nOplossing:\n\n- Mobiele telefonie\n- Vaste telefonie\n- Glasvezel\n- Internet\n\nTaken:\n- 70% new business \n- Acquisitie plegen, coldselling en upselling\n- Offertes maken en voorstellen\n- Prijsonderhandelingen\n- Vergaderingen bijwonen\n- Geven van presentaties bij klanten\n- Werken met targets\n- Opstellen van plannen om sales doelen te behalen\n\nScore Integrated. is een 100%  partner van KPN, \n\nIn de afgelopen zeven jaar is door middel van outsourced sales een intensieve samenwerking ontstaan met de vaste accountmanagers van KPN. Score  Integrated is daarmee volledig geïntegreerd in de KPN organisatie. Met deze samenwerking en de optimale bereikbaarheid van onze vaste accountmanager worden alle vragen en wensen, ook bij calamiteiten snel en stipt opgelost. \n\nWij bedienen in samenwerking met KPN de markt op het gebied van alle portfolio van KPN, te denken aan o.a. mobiele telefonie en data, vaste telefonie en data, werken in the cloud en bedrijfsnetwerken. \nWij leveren enkel en alleen producten en diensten van KPN, de enige en beste totaalleverancier op het gebied van ICT en Telecom. Om die reden geven wij altijd het beste advies, gedacht vanuit de klant, en niet geleid door vergoedingen, ons advies is tevens altijd exact berekend en op maat gemaakt.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Account Manager new business",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:1442",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFHdzywk2aJGA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABZceBwBxJqZTal6yDEl0TmaIK9eJ0_KzeI,756112046)",
+            "school": {
+                "objectUrn": "urn:li:school:3154066",
+                "entityUrn": "urn:li:fs_miniSchool:3154066",
+                "active": true,
+                "schoolName": "ROC Midden Nederland",
+                "trackingId": "gsnvOzBeSOaSKNI/FmVumQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQEO0FSstH2IMg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            },
+            "degreeName": "Diploma of Education",
+            "schoolName": "ROC Midden Nederland",
+            "fieldOfStudy": "Ondernemen Mangement",
+            "degreeUrn": "urn:li:fs_degree:513",
+            "schoolUrn": "urn:li:fs_miniSchool:3154066"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

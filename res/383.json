@@ -1,0 +1,660 @@
+{
+    "summary": "Experienced professional with over 5 years of dedicated involvement in the building materials industry. Recognized for driving operational excellence, strategic thinking, and fostering cross-division collaborations. Skilled in project and program management, with a proven ability to lead and influence teams.\nI hold a degree in Mineral Resources Engineering and have successfully obtained a Green Belt Lean Six Sigma certification. Fluent in both Greek and English, with a successful track record in diverse environments spanning the United Kingdom, Ireland, and North America.\nI passionately pursue new opportunities and consistently strive to expand my skill sets. Adaptable and open to relocating for the right career prospects.\n\nMBTI type: ISTJ – 'The Responsible Realist.'\"",
+    "industryName": "Building Materials",
+    "lastName": "Lytra",
+    "locationName": "United States",
+    "student": false,
+    "geoCountryName": "United States",
+    "geoCountryUrn": "urn:li:fs_geo:103644278",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 11,
+        "day": 20
+    },
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Sophia E.",
+    "entityUrn": "urn:li:fs_profile:ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90000376"
+    },
+    "geoLocationName": "Kansas City Metropolitan Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "us"
+        }
+    },
+    "headline": "Digital Transformation, Americas Cement / Ash Grove Cement at CRH",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D5603AQEoqs_em0Z2BQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1678764470067?e=1707955200&v=beta&t=GuQHR2N62MM1jVeOQ_2p_nZbAYXH68xI3vv3EZxQerw",
+    "img_200_200": "200_200/0/1678764470067?e=1707955200&v=beta&t=JfZXbodDCRa70CsibKodf95xdmFfcqH-QnNkWPnJo2w",
+    "img_400_400": "400_400/0/1678764470067?e=1707955200&v=beta&t=PfZ6nSIzt62cS2w6CLu1QLflprCsj_Zf61UWhrLuBmc",
+    "img_800_800": "800_800/0/1678764470067?e=1707955200&v=beta&t=5jc6tpy3fi51AzqE-oiqjZJFlJ_8cth8I0mCH2yugKo",
+    "profile_id": "ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0",
+    "member_urn": "urn:li:member:504754606",
+    "public_id": "sophia-lytra",
+    "experience": [
+        {
+            "locationName": "Kansas City Metropolitan Area",
+            "entityUrn": "urn:li:fs_position:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,2180080400)",
+            "geoLocationName": "Kansas City Metropolitan Area",
+            "geoUrn": "urn:li:fs_geo:90000376",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "description": "Develop, manage, monitor, and implement the group's digital strategy in line with organizational values, objectives, and priorities.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Director of Digital Transformation",
+            "region": "urn:li:fs_region:(us,376)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Kansas City, Kansas, United States",
+            "entityUrn": "urn:li:fs_position:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,1803115460)",
+            "geoLocationName": "Kansas City, Kansas, United States",
+            "geoUrn": "urn:li:fs_geo:104388316",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Business Executive , CRH Americas Cement / Ash Grove Cement ",
+            "region": "urn:li:fs_region:(us,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": " Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,1305736091)",
+            "geoLocationName": " Dublin, Ireland",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "description": "- Developing reports, dashboards reflecting financial and operational KPIs to support decision-making by business unit leaders and SVPs of €4.5bn division.\n- Executing several ad hoc analyses - plant network, waste analysis, production cost, transport analysis, cost savings analysis.\n- Multiple travels around Europe in various business units (onsite operations) to identify cost reduction opportunities – Travel 40%.Experienced using the Lean Six Sigma Methodology – Green Belt Certified.\n- Project Coordinator: Artificial Intelligence and Innovation Projects.\n-Analysing current process standards and metrics, developing process improvement procedures in \n order to provide solutions for operational efficiency and business excellence.\n- Managing team communication strategy by building, maintaining & upgrading online collaboration platforms across different business units (500users).\n-Rolled-out lead e-learning courses to over 250 EU colleagues across the Group; designed and served as the main point of contact. \n- Organised and managed internal workshops around EU (100attendees)–determining content, vendors, presenters, and attendees to ensure impactful and content-rich events.  \n- Building relationships with senior management and on-site personnel resulting in better collaboration and communication",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Performance Improvement Analyst, Operational Excellence",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Guildford, England, United Kingdom",
+            "entityUrn": "urn:li:fs_position:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,1721149011)",
+            "geoLocationName": "Guildford, England, United Kingdom",
+            "geoUrn": "urn:li:fs_geo:111338824",
+            "companyName": "Debenhams",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "description": "-Handling customer complaints in a flexible and negotiable manner.\n-Utilizing interpersonal and communicational skills while providing customer service and engaging with costumers to provide tailor-made advice and recommendation.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Sales Supervisor",
+            "region": "urn:li:fs_region:(gb,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9746",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQG6wjSGkVF6Hw/company-logo_"
+        },
+        {
+            "locationName": "Greece",
+            "entityUrn": "urn:li:fs_position:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,1178723747)",
+            "geoLocationName": "Greece",
+            "geoUrn": "urn:li:fs_geo:104677530",
+            "companyName": ".",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "description": "\"Food Storia\" - Organic Olive Oil Brand (from Kalamata/Greece) development  & launch in CEE. \n\n\"CapriTouch\" by \"AnaCapri. - summer 2017 project - Opening & managing the Mykonos island's store of the brand \"AnaCapri in Greece. ",
+            "title": "Freelance Product launch projects - Food & Fashion",
+            "region": "urn:li:fs_region:(gr,0)"
+        }
+    ],
+    "education": [
+        {
+            "projects": [
+                "urn:li:fs_project:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,21464357)"
+            ],
+            "description": "Graduated 7th out of 65 degree holders of the year 2017\n\nDiploma Thesis - \"Rheological properties of Bentonite suspensions after dynamic aging at high temperatures.\"\nRheology of drilling fluids at high temperatures is still growing. \nThe mineralogy examination combined with the rheology profile of the fluids explains the behavior of the fluid after aging at high temperatures. Numerous factors were examined in order for the problem to be understood and solved. The work presented at the 16th International Congress of Clays in Granada, Spain & at the 9th Mid-European Clay Conference in Zagreb, Croatia.",
+            "degreeName": "Master of Science - MS",
+            "schoolUrn": "urn:li:fs_miniSchool:12848",
+            "entityUrn": "urn:li:fs_education:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,348630586)",
+            "school": {
+                "objectUrn": "urn:li:school:12848",
+                "entityUrn": "urn:li:fs_miniSchool:12848",
+                "active": true,
+                "schoolName": "Technical University of Crete",
+                "trackingId": "b6C7cGRsSDGuN7jxHZimkg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFMD2PTr9CPLQ/company-logo_"
+            },
+            "grade": "7.22 /10 ( 2:1 UK Equivalent)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "testScores": [
+                "urn:li:fs_testScore:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,21328975)"
+            ],
+            "schoolName": "Technical University of Crete",
+            "fieldOfStudy": "Mineral Resources Engineering",
+            "degreeUrn": "urn:li:fs_degree:626"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,492754022)",
+            "school": {
+                "objectUrn": "urn:li:school:12848",
+                "entityUrn": "urn:li:fs_miniSchool:12848",
+                "active": true,
+                "schoolName": "Technical University of Crete",
+                "trackingId": "OVI+3QBAScOZyF+BV60byA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFMD2PTr9CPLQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "description": "Subjects : Drilling-Blasting and Boring of Underground Openings | Probability and Statistics for Engineers | Management System and Processes | Underground Mining Methods | Industrial Minerals and Rocks | Applied Fluid Mechanics | Strength of Materials | Mineral Exploration | Material Science | Rock Mechanics | Geophysics 1&2",
+            "degreeName": "Bachelor of Science - BS",
+            "schoolName": "Technical University of Crete / Πολυτεχνείο Κρήτης",
+            "fieldOfStudy": "Mineral Resources Engineering ",
+            "degreeUrn": "urn:li:fs_degree:400",
+            "schoolUrn": "urn:li:fs_miniSchool:12848"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,348628997)",
+            "grade": "17.9 / 20.",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "testScores": [
+                "urn:li:fs_testScore:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,21395851)"
+            ],
+            "degreeName": "Secondary",
+            "schoolName": "Protipo Athinon",
+            "fieldOfStudy": "High school"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Deutsch",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "French",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Greek",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [
+        {
+            "date": {
+                "year": 2016
+            },
+            "name": "Rheological properties of bentonite suspensions after dynamic aging at high temperatures",
+            "publisher": "16th International Congress of Clays, Granada, Spain",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Sophia E.",
+                        "lastName": "Lytra",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0",
+                        "occupation": "Digital Transformation, Americas Cement / Ash Grove Cement at CRH",
+                        "objectUrn": "urn:li:member:504754606",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 761,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1571329246167?e=1707955200&v=beta&t=_GRBO-FTQ2Fnjlb2sAeAmZQleZyVDxkBSNJLbQOJj5k",
+                                        "expiresAt": 1707955200000,
+                                        "height": 190
+                                    },
+                                    {
+                                        "width": 761,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1571329246199?e=1707955200&v=beta&t=TvZoSCk7TCeynJ9J82jLXO9Q-nP4Oc6hSD8arXwSya8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 190
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH5Eynkf4OKkw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "sophia-lytra",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1678764470067?e=1707955200&v=beta&t=GuQHR2N62MM1jVeOQ_2p_nZbAYXH68xI3vv3EZxQerw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1678764470067?e=1707955200&v=beta&t=JfZXbodDCRa70CsibKodf95xdmFfcqH-QnNkWPnJo2w",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1678764470067?e=1707955200&v=beta&t=PfZ6nSIzt62cS2w6CLu1QLflprCsj_Zf61UWhrLuBmc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1678764470067?e=1707955200&v=beta&t=5jc6tpy3fi51AzqE-oiqjZJFlJ_8cth8I0mCH2yugKo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5603AQEoqs_em0Z2BQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "hbrKdW/iSkSIk2Zgdakbhg=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0"
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "authority": "SQT Training Ltd",
+            "name": "Lean Six Sigma Green Belt (ICGB)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3137802",
+                "entityUrn": "urn:li:fs_miniCompany:3137802",
+                "name": "SQT Training Ltd",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1637677319023/sqt_training_ltd_logo?e=1710374400&v=beta&t=P8C_HuSoDAZjRjGhkSvKH2H1PRvfaC9xlE8byz_-jIw",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1637677319023/sqt_training_ltd_logo?e=1710374400&v=beta&t=bMszz6Ct553u0716wIioSa9W16Q5nK2QsDJmf0_XImU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1637677319023/sqt_training_ltd_logo?e=1710374400&v=beta&t=bmQlVp5VVJQeDzwGQdaY33mhvX8LslEE3hUgPP5CLjw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGM2k8MwolBhQ/company-logo_"
+                    }
+                },
+                "universalName": "sqt-training-ltd",
+                "dashCompanyUrn": "urn:li:fsd_company:3137802",
+                "trackingId": "ip3IFR6vQVqE1Sw7hKCLEg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:3137802"
+        },
+        {
+            "authority": "CIMA",
+            "name": "CIMA (Cert BA)  Candidate",
+            "company": {
+                "objectUrn": "urn:li:company:163045",
+                "entityUrn": "urn:li:fs_miniCompany:163045",
+                "name": "CIMA",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630497816724/cima_logo?e=1710374400&v=beta&t=u0-4hk8Ox_BHsRNREeyFLxtRmMfe4rFolGqwo0CR778",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630497816724/cima_logo?e=1710374400&v=beta&t=rtkEgIzUer72gL6B2RvtadglVMZfcXcTljazHhHjluY",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630497816724/cima_logo?e=1710374400&v=beta&t=pYe7d3GOWVA2aWkIbe2JZiTBMAN8EqluOuXoO4JS0JU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFtpxXRD0a0gA/company-logo_"
+                    }
+                },
+                "universalName": "cima",
+                "dashCompanyUrn": "urn:li:fsd_company:163045",
+                "trackingId": "RztMCjDeQJGZbO/zcEPbKw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:163045"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Economic support",
+            "companyName": "Greenpeace",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2011
+                }
+            },
+            "cause": "ANIMAL_RIGHTS",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:7458",
+                    "entityUrn": "urn:li:fs_miniCompany:7458",
+                    "name": "Greenpeace",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1697637566307/greenpeace_logo?e=1710374400&v=beta&t=DbC7dyp-xYiyUMzuNrOOoq4aNY7FBL4xbx4hC8scFX4",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1697637566307/greenpeace_logo?e=1710374400&v=beta&t=whhijnJkWlM9r5bJUEYxhQZtXA8VOZkkBSgAVJtje6E",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1697637566307/greenpeace_logo?e=1710374400&v=beta&t=xTo9X-KtzoyzvYZkawiePwvi5KWxJxcAsKqfHLEH46c",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQERv3bxsMbVjg/company-logo_"
+                        }
+                    },
+                    "universalName": "greenpeace",
+                    "dashCompanyUrn": "urn:li:fsd_company:7458",
+                    "trackingId": "ce9wsGmES7Gkgi4LDHf6vg=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:7458"
+        },
+        {
+            "role": "Volunteer",
+            "companyName": "Animal Welfare ( Chania, Greece)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2012
+                }
+            },
+            "cause": "ANIMAL_RIGHTS"
+        }
+    ],
+    "honors": [],
+    "projects": [
+        {
+            "occupation": "urn:li:fs_education:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,348630586)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Sophia E.",
+                        "lastName": "Lytra",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0",
+                        "occupation": "Digital Transformation, Americas Cement / Ash Grove Cement at CRH",
+                        "objectUrn": "urn:li:member:504754606",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 761,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1571329246167?e=1707955200&v=beta&t=_GRBO-FTQ2Fnjlb2sAeAmZQleZyVDxkBSNJLbQOJj5k",
+                                        "expiresAt": 1707955200000,
+                                        "height": 190
+                                    },
+                                    {
+                                        "width": 761,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1571329246199?e=1707955200&v=beta&t=TvZoSCk7TCeynJ9J82jLXO9Q-nP4Oc6hSD8arXwSya8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 190
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH5Eynkf4OKkw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "sophia-lytra",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1678764470067?e=1707955200&v=beta&t=GuQHR2N62MM1jVeOQ_2p_nZbAYXH68xI3vv3EZxQerw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1678764470067?e=1707955200&v=beta&t=JfZXbodDCRa70CsibKodf95xdmFfcqH-QnNkWPnJo2w",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1678764470067?e=1707955200&v=beta&t=PfZ6nSIzt62cS2w6CLu1QLflprCsj_Zf61UWhrLuBmc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1678764470067?e=1707955200&v=beta&t=5jc6tpy3fi51AzqE-oiqjZJFlJ_8cth8I0mCH2yugKo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5603AQEoqs_em0Z2BQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "hbrKdW/iSkSIk2Zgdakbhg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,21464357,159305386)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "title": "Geodesy project - 7.5"
+        },
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Sophia E.",
+                        "lastName": "Lytra",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0",
+                        "occupation": "Digital Transformation, Americas Cement / Ash Grove Cement at CRH",
+                        "objectUrn": "urn:li:member:504754606",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 761,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1571329246167?e=1707955200&v=beta&t=_GRBO-FTQ2Fnjlb2sAeAmZQleZyVDxkBSNJLbQOJj5k",
+                                        "expiresAt": 1707955200000,
+                                        "height": 190
+                                    },
+                                    {
+                                        "width": 761,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1571329246199?e=1707955200&v=beta&t=TvZoSCk7TCeynJ9J82jLXO9Q-nP4Oc6hSD8arXwSya8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 190
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH5Eynkf4OKkw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "sophia-lytra",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1678764470067?e=1707955200&v=beta&t=GuQHR2N62MM1jVeOQ_2p_nZbAYXH68xI3vv3EZxQerw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1678764470067?e=1707955200&v=beta&t=JfZXbodDCRa70CsibKodf95xdmFfcqH-QnNkWPnJo2w",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1678764470067?e=1707955200&v=beta&t=PfZ6nSIzt62cS2w6CLu1QLflprCsj_Zf61UWhrLuBmc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1678764470067?e=1707955200&v=beta&t=5jc6tpy3fi51AzqE-oiqjZJFlJ_8cth8I0mCH2yugKo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5603AQEoqs_em0Z2BQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "hbrKdW/iSkSIk2Zgdakbhg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0,21087865,159306127)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAB4V8a4BhHoGNY5bTWhYjn8TT25SYEva-g0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            },
+            "title": "How to make a \"smart classroom\". - Voluntary project for TieLab"
+        }
+    ]
+}

@@ -1,0 +1,353 @@
+{
+    "summary": "Ik ben een (recruitment) marketeer met een communicatie achtergrond. Als recruitment markteer heb ik zowel ervaring met strategische vraagstukken, als met het uitvoeren tot in detailniveau.",
+    "industryName": "Marketing & Advertising",
+    "lastName": "van Lit",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:80",
+    "firstName": "Mats",
+    "entityUrn": "urn:li:fs_profile:ACoAABqYOCIBPL9pF_ikoTNlzLiq9xib0q5yZDg",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Recruitment Marketeer bij bol",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQEGVrDARiIpbA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1582531279795?e=1707955200&v=beta&t=XjdgZgGng0-f6dYyMpQbPKfXoKY1K2jEdTSMqNHSqE0",
+    "img_200_200": "200_200/0/1582531279768?e=1707955200&v=beta&t=wc8bf5nPGLcKgfeZCMaaZW2bMWZ7Xies7DfN3eQI4RA",
+    "img_400_400": "400_400/0/1582531279829?e=1707955200&v=beta&t=Di1EMUiHRGdeZQkv9ZsF-d3aIKxvuuvKXIT1n-a8BFQ",
+    "img_800_800": "800_800/0/1582531279864?e=1707955200&v=beta&t=t_WFNfOTzd7vv3VYHVQGJltBEQR1UoJjGez0RBrpnGM",
+    "profile_id": "ACoAABqYOCIBPL9pF_ikoTNlzLiq9xib0q5yZDg",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABqYOCIBPL9pF_ikoTNlzLiq9xib0q5yZDg",
+    "member_urn": "urn:li:member:446183458",
+    "public_id": "mats-van-lit-02a514105",
+    "experience": [
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABqYOCIBPL9pF_ikoTNlzLiq9xib0q5yZDg,2168694932)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Recruitment Marketeer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAABqYOCIBPL9pF_ikoTNlzLiq9xib0q5yZDg,1976649980)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "DPG Media Nederland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "description": "- Wervingssite: ontwikkelen en beheren van een compleet nieuwe wervingssite dankzij arbeidsmarktcommunicatie en marketingtechnieken.\n- Campagnemanagement: sturing geven aan externe teams om groot bereik te creëeren en converterende campagnes te maken\n- Social media: met bewezen data inzichtelijk gemaakt welke media het beste ingezet kan worden per doelgroep. Succesvol geëxperimenteerd met nieuwe sociale media voor de werving van krantenbezorgers (TikTok).\n- Data optimalisatie: door strak op de data te zitten (Google Analytics, Looker) adviseer ik recruiters, managers en mijzelf. Ik let op een goede balans tussen data, ervaring en 'onderbuikgevoel'. \n- Onderzoek: behoud is het nieuwe werven en ik heb onderzoek gedaan in hoeverre de huidige behoudsinitiatieven een daadwerkelijk effect hebben (gehad).",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Media Production"
+                ]
+            },
+            "title": "Recruitment Marketeer",
+            "companyUrn": "urn:li:fs_miniCompany:20338442",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFnjM8hH5MaZQ/company-logo_"
+        },
+        {
+            "locationName": "Den Haag",
+            "entityUrn": "urn:li:fs_position:(ACoAABqYOCIBPL9pF_ikoTNlzLiq9xib0q5yZDg,1492114018)",
+            "geoLocationName": "Den Haag",
+            "companyName": "ANWB",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "description": "- Employer Branding: ontwikkelen en onderhouden van een scherp gepositioneerde Employer Branding\n- Data gedreven: marketingacties evalueren en opzetten op basis van zelf verzamelde (recruitment)data\n- Websitebeheer: Optimaliseren en ontwerpen van vacatures en contentpagina's, seo en technisch beheer\n- Nieuwsbrieven: ontwerpen, invullen en digitaal verspreiden\n- Referral recruitment: vernieuwen, verbrede scope en activatie\n- Wervingscampagnes (groot en klein): (creatief) ontwikkelen, plannen, uitzetten, meten en optimaliseren\n- Social media: strategie voor owned en paid kanalen, maken van content en templates\n- Evenementen: deelnemen, invullen, leads genereren, communicatie verzorgen vooraf en achteraf",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Leisure, Travel & Tourism"
+                ]
+            },
+            "title": "Recruitment marketeer",
+            "companyUrn": "urn:li:fs_miniCompany:162467",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQG9XJ9oys-K3Q/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABqYOCIBPL9pF_ikoTNlzLiq9xib0q5yZDg,1962107920)",
+            "companyName": "ANWB",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "description": "Afstudeeronderzoek gedaan naar hoe communicatie kan bijdragen aan een succesvolle fusie tussen bedrijfsculturen.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Leisure, Travel & Tourism"
+                ]
+            },
+            "title": "Afstudeerstage communicatie",
+            "companyUrn": "urn:li:fs_miniCompany:162467",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQG9XJ9oys-K3Q/company-logo_"
+        },
+        {
+            "locationName": "The Hague, South Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABqYOCIBPL9pF_ikoTNlzLiq9xib0q5yZDg,1432136197)",
+            "geoLocationName": "The Hague, South Holland, Netherlands",
+            "companyName": "ANWB",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "description": "- Maken van een contentplanning\n- Content maken voor de werkenbijANWB kanalen (website en social)\n- Ontwerpen van een interne nieuwsbrief\n- Uitdenken van een nieuwe social strategie",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Leisure, Travel & Tourism"
+                ]
+            },
+            "title": "Internship arbeidsmarktcommunicatie",
+            "companyUrn": "urn:li:fs_miniCompany:162467",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQG9XJ9oys-K3Q/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABqYOCIBPL9pF_ikoTNlzLiq9xib0q5yZDg,302125445)",
+            "school": {
+                "objectUrn": "urn:li:school:15426",
+                "entityUrn": "urn:li:fs_miniSchool:15426",
+                "active": true,
+                "schoolName": "Hogeschool Leiden",
+                "trackingId": "Volhha/fToGQ404zVaQvbw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHIPvWbdvh9dw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100140",
+            "degreeName": "Bachelor of Arts - BA",
+            "schoolName": "Hogeschool Leiden",
+            "fieldOfStudy": "Communication, General",
+            "degreeUrn": "urn:li:fs_degree:350",
+            "schoolUrn": "urn:li:fs_miniSchool:15426"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABqYOCIBPL9pF_ikoTNlzLiq9xib0q5yZDg,581988162)",
+            "school": {
+                "objectUrn": "urn:li:school:15426",
+                "entityUrn": "urn:li:fs_miniSchool:15426",
+                "active": true,
+                "schoolName": "Hogeschool Leiden",
+                "trackingId": "NIa9cqL+R7mcRkbFsv1T+w==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHIPvWbdvh9dw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "degreeName": "Minor Cambridge English",
+            "schoolName": "Hogeschool Leiden",
+            "schoolUrn": "urn:li:fs_miniSchool:15426"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABqYOCIBPL9pF_ikoTNlzLiq9xib0q5yZDg,581988168)",
+            "school": {
+                "objectUrn": "urn:li:school:15426",
+                "entityUrn": "urn:li:fs_miniSchool:15426",
+                "active": true,
+                "schoolName": "Hogeschool Leiden",
+                "trackingId": "542JlUR3RMCAH9tJqoL/Nw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHIPvWbdvh9dw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "degreeName": "Minor Coporate Social Responsibility",
+            "schoolName": "Hogeschool Leiden",
+            "schoolUrn": "urn:li:fs_miniSchool:15426"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch"
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "Japanese"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Bureau Zuidema",
+            "name": "Inzicht in Invloed",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:46019",
+                "entityUrn": "urn:li:fs_miniCompany:46019",
+                "name": "Bureau Zuidema",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630560859259/bureau_zuidema_logo?e=1710374400&v=beta&t=4RJO9qe3Gb9Y1p4Vr7Jr8s3b5Qt1YUa_zrJdJLFuwEM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630560859259/bureau_zuidema_logo?e=1710374400&v=beta&t=o25AJjveT18obswfC0sBMAtnPJ5VgvL_iUemhaT8fs4",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630560859259/bureau_zuidema_logo?e=1710374400&v=beta&t=47pvMv4TCY1euXqqHJu8WqxI6C_Nb6oWoIoIoRXvSnQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEJnra1wEdbAg/company-logo_"
+                    }
+                },
+                "universalName": "bureau-zuidema",
+                "dashCompanyUrn": "urn:li:fsd_company:46019",
+                "trackingId": "NOXzKDELQ9KHl9oGZ47RCQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:46019"
+        },
+        {
+            "authority": "Hogeschool Leiden",
+            "name": "Bachelor Communicatie",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:24763",
+                "entityUrn": "urn:li:fs_miniCompany:24763",
+                "name": "Hogeschool Leiden",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630648064622/hogeschool_leiden_logo?e=1710374400&v=beta&t=rVHTKDeL-rjQSfqfIYa1-mBNCA0kJY1pdUYz1etlcAk",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630648064622/hogeschool_leiden_logo?e=1710374400&v=beta&t=d47DDbHCnmZUTxN4teeCdsE1E1voJS2B-J4Pxf59ND8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630648064622/hogeschool_leiden_logo?e=1710374400&v=beta&t=KafgIy8y5O_V4ywQYRzGofpm1QYPSGAwAqBMgI9HiJE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHIPvWbdvh9dw/company-logo_"
+                    }
+                },
+                "universalName": "hogeschool-leiden",
+                "dashCompanyUrn": "urn:li:fsd_company:24763",
+                "trackingId": "WN0u0IeaTFS0gvSiJoV9Qw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:24763"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

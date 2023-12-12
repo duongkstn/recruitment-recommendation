@@ -1,0 +1,297 @@
+{
+    "summary": "Passionate about all technical cybersecurity topics. ",
+    "industryName": "Telecommunications",
+    "lastName": "Saoudi",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 6,
+        "day": 20
+    },
+    "industryUrn": "urn:li:fs_industry:8",
+    "firstName": "Yacine",
+    "entityUrn": "urn:li:fs_profile:ACoAAB6qDTEBQBQItWQ9AHlXmhVus25uFUmdu6g",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Cybersecurity expert",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQHoTyrTH_hg9g/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1612632049308?e=1707955200&v=beta&t=HMDkMDVd8uhQBsD7U2yZ3dVC1DXfNJLWicR-7nRpyn8",
+    "img_200_200": "200_200/0/1612632049308?e=1707955200&v=beta&t=hA8V3BCYNPu0SKOTvtEC-SBOiq2OwwztTK3_mx7Pigs",
+    "img_400_400": "400_400/0/1612632049308?e=1707955200&v=beta&t=1AsQ1TjAT23pNeVpoV5UAJhjrCFyUkHKaw4Uqh0WHB8",
+    "img_800_800": "800_800/0/1612632049308?e=1707955200&v=beta&t=ohTGvOBUbGXk8unPhQ44F7d1DlzmY4ZUIgMw1fgqJYg",
+    "profile_id": "ACoAAB6qDTEBQBQItWQ9AHlXmhVus25uFUmdu6g",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAB6qDTEBQBQItWQ9AHlXmhVus25uFUmdu6g",
+    "member_urn": "urn:li:member:514460977",
+    "public_id": "yacine-saoudi-581360124",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAB6qDTEBQBQItWQ9AHlXmhVus25uFUmdu6g,2247759897)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "KPN",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Ethical Hacker",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1442",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFHdzywk2aJGA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam et périphérie",
+            "entityUrn": "urn:li:fs_position:(ACoAAB6qDTEBQBQItWQ9AHlXmhVus25uFUmdu6g,1832008457)",
+            "geoLocationName": "Amsterdam et périphérie",
+            "geoUrn": "urn:li:fs_geo:90010383",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "description": "- ICS / OT security assessments \n- Windows and Linux servers hardening \n- Privileged Access Management program and tool integration advisory\n- SIEM detection use cases analysis \n...",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Senior cybersecurity auditor",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Région de Paris, France",
+            "entityUrn": "urn:li:fs_position:(ACoAAB6qDTEBQBQItWQ9AHlXmhVus25uFUmdu6g,1365587138)",
+            "geoLocationName": "Région de Paris, France",
+            "companyName": "AXA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "description": "- Large scale penetration testing / red team assessments on acquired companies (including external surface and internal network)\n- Web applications penetration testing\n- AWS and Azure cloud security assessments\n- Active Directory hardening\n- Network architecture and firewall rules reviews on several datacenters \n...",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Insurance"
+                ]
+            },
+            "title": "Cybersecurity auditor",
+            "companyUrn": "urn:li:fs_miniCompany:2221",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGAsVEEdkQRGg/company-logo_"
+        },
+        {
+            "locationName": "Région de Paris, France",
+            "entityUrn": "urn:li:fs_position:(ACoAAB6qDTEBQBQItWQ9AHlXmhVus25uFUmdu6g,1219214089)",
+            "geoLocationName": "Région de Paris, France",
+            "companyName": "Orange Cyberdefense (Groupe Orange)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "title": "Penetration tester"
+        },
+        {
+            "locationName": "Région de Montpellier, France",
+            "entityUrn": "urn:li:fs_position:(ACoAAB6qDTEBQBQItWQ9AHlXmhVus25uFUmdu6g,1147633056)",
+            "geoLocationName": "Région de Montpellier, France",
+            "geoUrn": "urn:li:fs_geo:90009688",
+            "companyName": "DenyAll",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "title": "Web Application Firewall developper",
+            "region": "urn:li:fs_region:(fr,5216)"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB6qDTEBQBQItWQ9AHlXmhVus25uFUmdu6g,356321498)",
+            "school": {
+                "objectUrn": "urn:li:school:12516",
+                "entityUrn": "urn:li:fs_miniSchool:12516",
+                "active": true,
+                "schoolName": "Université de Technologie de Troyes",
+                "trackingId": "klyIvAvnS5OK67/wyYj4NA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGR-sUaoEAcqQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "testScores": [
+                "urn:li:fs_testScore:(ACoAAB6qDTEBQBQItWQ9AHlXmhVus25uFUmdu6g,770742191)"
+            ],
+            "degreeName": "Diplôme d'ingénieur",
+            "schoolName": "Université de Technologie de Troyes",
+            "fieldOfStudy": "Réseaux et Télécommunications filière Sécurité",
+            "schoolUrn": "urn:li:fs_miniSchool:12516"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB6qDTEBQBQItWQ9AHlXmhVus25uFUmdu6g,356331733)",
+            "grade": "Mention Très Bien",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "Baccalauréat Scientifique",
+            "schoolName": "Lycée Galilée à Cergy"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Allemand",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Anglais",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Français",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Fédération Française de Sauvetage et de Secourisme",
+            "name": "Premiers Secours en Equipe de Niveau 1",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            }
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "President of the university's sailing club",
+            "companyName": "UTT - Université de technologie de Troyes",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:43495",
+                    "entityUrn": "urn:li:fs_miniCompany:43495",
+                    "name": "UTT - Université de technologie de Troyes",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631325760274?e=1710374400&v=beta&t=tH8LI-YvLaMX7ZhndppQTzhd-6y-p0TgBcrF0JpoqP8",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631325760274?e=1710374400&v=beta&t=-ptzTFeRDoEJ-FMBnYjjkfxE3WfMCgWxcpYod4WcYEA",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631325760274?e=1710374400&v=beta&t=yHa85I9u6ARQVLHRrGu37ijJnNjzvkAjjezR0Q0sXLg",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQFqcr2NcHpt7A/company-logo_"
+                        }
+                    },
+                    "universalName": "utt",
+                    "dashCompanyUrn": "urn:li:fsd_company:43495",
+                    "trackingId": "yowHmk8sSKOh9NT28hZ56g=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:43495"
+        },
+        {
+            "role": "First aid volunteer",
+            "companyName": "Fédération Française de Sauvetage et de Secourisme",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            }
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

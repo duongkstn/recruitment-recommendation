@@ -1,0 +1,260 @@
+{
+    "summary": "As Head of Market Toys, Media & Books I drive growth and profitability in these categories through strategic initiatives based on consumer behavior and market trends. My experience in category management, marketing, sourcing and sales has led to a strong track record of revenue growth and market share gains. I thrive on collaboration with cross-functional teams, focusing on customer satisfaction and building long-term relationships with partners.",
+    "industryName": "Retail",
+    "lastName": "Feuerstacke",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Thomas",
+    "entityUrn": "urn:li:fs_profile:ACoAAAAQN08BXCs64aPgJCjWF3IpBJdw2qzZdAE",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Head of Market Toys, Media & Books at bol.",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQH2n0OAUtHmTQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1676139411761?e=1707955200&v=beta&t=i8bI2_4fC9ECcE7UW37pwYZB54WW8VkL-GdScZHzxzE",
+    "img_200_200": "200_200/0/1676139411761?e=1707955200&v=beta&t=1mJA_2o9BoPCU9Sk7cY4i_cNkXQb4m0gCnWhHRpMeUs",
+    "img_400_400": "400_400/0/1676139411761?e=1707955200&v=beta&t=cp53Pq5kjXhTtnAxC3lQRXezoPqqrQPjoewryCqS35U",
+    "img_743_743": "800_800/0/1676139411761?e=1707955200&v=beta&t=3bjWCSPzbK0n2EDLM7uhCxYspi6M93joLQAtn4t4R8o",
+    "profile_id": "ACoAAAAQN08BXCs64aPgJCjWF3IpBJdw2qzZdAE",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAAQN08BXCs64aPgJCjWF3IpBJdw2qzZdAE",
+    "member_urn": "urn:li:member:1062735",
+    "public_id": "thomas-feuerstacke-013433",
+    "experience": [
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAQN08BXCs64aPgJCjWF3IpBJdw2qzZdAE,2159947242)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Head of Market Toys, Media & Books",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAQN08BXCs64aPgJCjWF3IpBJdw2qzZdAE,1745093816)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Head of Platform Electronics, Toys & Entertainment",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAQN08BXCs64aPgJCjWF3IpBJdw2qzZdAE,1201138356)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Head of Sourcing Electronics",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAQN08BXCs64aPgJCjWF3IpBJdw2qzZdAE,1067633921)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "description": "- Responsible for the P&L and management of the buying and product management team (20 FTE's).",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Sr. Category Manager Team Toys",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAQN08BXCs64aPgJCjWF3IpBJdw2qzZdAE,477807185)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2013
+                }
+            },
+            "description": "- Responsible for the P&L and management of the buying and product management team (20 FTE's).",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Sr. Category Manager Team Domestic Appliances (SDA/MDA)",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAQN08BXCs64aPgJCjWF3IpBJdw2qzZdAE,17406883)",
+            "school": {
+                "objectUrn": "urn:li:school:15448",
+                "entityUrn": "urn:li:fs_miniSchool:15448",
+                "active": true,
+                "schoolName": "Maastricht University",
+                "trackingId": "jjMFumLxQ/6IAiHfjndUPg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFA1gR1FvG8aQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            },
+            "degreeName": "M.Sc.",
+            "schoolName": "Maastricht University",
+            "fieldOfStudy": "International Business Administration",
+            "schoolUrn": "urn:li:fs_miniSchool:15448"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAQN08BXCs64aPgJCjWF3IpBJdw2qzZdAE,17406889)",
+            "school": {
+                "objectUrn": "urn:li:school:17114",
+                "entityUrn": "urn:li:fs_miniSchool:17114",
+                "active": true,
+                "schoolName": "National University of Singapore",
+                "trackingId": "jowg5WXBQRa8tQ0I9CKRLg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQGvBq9cz6AIIQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "description": "Exchange semester",
+            "schoolName": "National University of Singapore",
+            "fieldOfStudy": "Business Administration",
+            "schoolUrn": "urn:li:fs_miniSchool:17114"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAQN08BXCs64aPgJCjWF3IpBJdw2qzZdAE,17406960)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1990
+                }
+            },
+            "degreeName": "German Abitur",
+            "schoolName": "Deutsche Internationale Schule Den Haag (Gymnasium)"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch"
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "German"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

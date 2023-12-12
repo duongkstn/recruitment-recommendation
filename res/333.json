@@ -1,0 +1,717 @@
+{
+    "summary": "As an experienced HR professional with nearly 8 years of expertise in people operation, HR administration, compensation, and mobility, I bring a diverse, proactive, and enthusiastic approach to the table. My work style is characterized by transparency, collaboration, and pragmatism, and I am deeply committed to enhancing the employee experience while also driving value for the organization. I am passionate about improving processes and executing projects that make a positive impact on the business. \n\nMy colleagues often describe me as a flexible, empathetic, decisive, proactive, and strategic thinker who communicates effectively and is always reliable. I am adept at serving as a bridge between employees and other departments throughout the entire HR lifecycle.",
+    "industryName": "Human Resources",
+    "lastName": "Singh",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:137",
+    "firstName": "Anjana",
+    "entityUrn": "urn:li:fs_profile:ACoAAA53LYsBC-s7nuRNBK4gFMWOUvu4TNZHP-Y",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90010384"
+    },
+    "geoLocationName": "Utrecht Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "People Operation Specialist| Changing the future of road transport",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQEAMHYWh0D8Nw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1603293120338?e=1707955200&v=beta&t=koDsPuzzgRFXj_ACEGaqOuRoOltZCgHOZFfu1OVi10c",
+    "img_200_200": "200_200/0/1603293120338?e=1707955200&v=beta&t=7Yv1xgwtGOuDy0e9FaFmnLdbGjqGCEueGviTM3gl5NA",
+    "img_400_400": "400_400/0/1603293120338?e=1707955200&v=beta&t=wpddyyT-07zPDZBLjE9tGocO0MNHqPc-2VvkNa1XBqc",
+    "img_785_785": "800_800/0/1603293120338?e=1707955200&v=beta&t=pVIAqOYrD898Ksrd3ScvEUhz1CX1klozr76OZRwrUek",
+    "profile_id": "ACoAAA53LYsBC-s7nuRNBK4gFMWOUvu4TNZHP-Y",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAA53LYsBC-s7nuRNBK4gFMWOUvu4TNZHP-Y",
+    "member_urn": "urn:li:member:242691467",
+    "public_id": "connecttoanjana",
+    "experience": [
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA53LYsBC-s7nuRNBK4gFMWOUvu4TNZHP-Y,2205088050)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Milence",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Utilities"
+                ]
+            },
+            "title": "People Operations Specialist",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:86300301",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGs4bt383K4sg/company-logo_"
+        },
+        {
+            "locationName": "Schiedam, South Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA53LYsBC-s7nuRNBK4gFMWOUvu4TNZHP-Y,2146582247)",
+            "geoLocationName": "Schiedam, South Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:103577625",
+            "companyName": "BYD EUROPE",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "description": "An HR Specialist focusing on the Compensation and Benefits module for the employee.\n\n- Compensation and benefits: Administering compensation and benefits programs, conducting \n        salary surveys, and managing employee leave programs.\n- Payroll Compliance: Research to identify legislative updates impacting EMEA payroll and compliance.\n- Compliance: Ensuring compliance with federal and state labor laws, company policies, and \n        regulations related to equal employment opportunity, affirmative action, and workplace safety.\n- HRIS management: Maintaining employee records, updating HR information systems, and \n        generating HR reports.\n- Policy development and implementation: Developing and implementing HR policies and \n        procedures, and communicating them to employees.\n- HR analytics: Collecting and analyzing HR metrics, and using data to identify trends and areas for \n        improvement.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Automotive"
+                ]
+            },
+            "title": "HR Specialist - Compensation and Benefits",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:13628105",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGO-icP1bbfrQ/company-logo_"
+        },
+        {
+            "locationName": "Schiedam, South Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAA53LYsBC-s7nuRNBK4gFMWOUvu4TNZHP-Y,1767305764)",
+            "geoLocationName": "Schiedam, South Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:103577625",
+            "companyName": "BYD EUROPE",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "description": "As an HR Administrator, responsible for the overall employee lifecycle including contract management, international mobility, HR policy and compliance management, and payroll liaisoning.\n- Reviewing and assessing Salary and benefits (Sales Incentive, KPI, Irregularity Allowance, Promotions, and other employee-specific benefits) and preparing compensation proposals for new positions.\n- Acting as a leader for HR services to support complex international mobility and benefits, i.e 30 % ruling for an ex-pat, Visa, and work permit processing.\n- Coordinating new employee orientation and training, completing the necessary paperwork, and ensuring a smooth transition for new hires.\n-Addressing employee concerns and grievances, managing conflict, and promoting positive relationships between employees and management.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Automotive"
+                ]
+            },
+            "title": "Human Resources Administrator",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:13628105",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGO-icP1bbfrQ/company-logo_"
+        },
+        {
+            "locationName": "Balasore Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAA53LYsBC-s7nuRNBK4gFMWOUvu4TNZHP-Y,1040383770)",
+            "geoLocationName": "Balasore Area, India",
+            "geoUrn": "urn:li:fs_geo:100694233",
+            "companyName": "Balasore Alloys Limited",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2016
+                }
+            },
+            "description": "Balasore Alloys, formerly Ispat Alloys Limited is part of the renowned Ispat group of Companies, a major business house in the country, promoted by the Mittals. The group’s companies are spread across six countries including India, Libya, Bosnia, the Philippines, Azerbaijan, and Uzbekistan.\n\nResponsible For: \n- Handling full-cycle recruitment & facilitated smooth onboarding.\n- Handling Performance Appraisal right from preparing Goals, KRA, KPIs, normalization of bell curve & preparation of appraisal letters.\n- Handling other HR operations like HR Analytics, Employee Engagement, Succession Planning, Employee Budgeting.\n- Delivering the Leadership Development project, developing and organizing the management training program for all levels of managers by working in liaison with the company’s top managers, HR directors, and external global training providers.\n- Liaison with Government Offices for filing returns, renewal of licenses & calculation of ESIC, PF, Bonus, Gratuity.\n- Liaison with payroll and accounting/finance teams to constantly get them updated on all HR activities or changes (new hires, terminations, salary increases, holiday track, etc.).",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Mining & Metals"
+                ]
+            },
+            "title": "Human Resources Specialist",
+            "region": "urn:li:fs_region:(in,6776)",
+            "companyUrn": "urn:li:fs_miniCompany:2019815",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEOdYdOL48BGw/company-logo_"
+        },
+        {
+            "locationName": "Asansol Area, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAA53LYsBC-s7nuRNBK4gFMWOUvu4TNZHP-Y,1461303148)",
+            "geoLocationName": "Asansol Area, India",
+            "geoUrn": "urn:li:fs_geo:102713980",
+            "companyName": "Super Smelters Limited",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2014
+                }
+            },
+            "description": "Super Smelters Limited a flagship company of Sai Group is engaged in steel manufacturing, steel processing & allied activities. It has a setup of 1.1 million ton integrated steel plant along with captive power plant with state of art technology at Jamuria Industrial estate.\n\nResponsible For:\n- Hiring through Employee Referral, Own database, Print Media & Advertising, Internal Sources, Consultants and Online job portals across all functions. Working for competitive recruitment plans \nthereby reducing recruitment costs for the Organization.\n- Process all salary changes stemming from merit increases, bonuses, promotions & general processing of salary & wages on monthly basis.\n- Ensured the compliance with local labor laws through the consultation\nof local HR Managers.\n- Planning and initiating various Training activities, TNA, Gap Analysis, MDP.\n- Delivered a professional and engaging HR induction and provided the new starter with the resources, tools, and knowledge necessary to understand, navigate and comply with the company’s culture, values,\nregulations.\n- HR Data analytics.\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Construction"
+                ]
+            },
+            "title": "Human Resources Officer",
+            "region": "urn:li:fs_region:(in,6633)",
+            "companyUrn": "urn:li:fs_miniCompany:588200",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGxGHzL88es7A/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA53LYsBC-s7nuRNBK4gFMWOUvu4TNZHP-Y,168075586)",
+            "school": {
+                "objectUrn": "urn:li:school:3153536",
+                "entityUrn": "urn:li:fs_miniSchool:3153536",
+                "active": true,
+                "schoolName": "Banaras Hindu University",
+                "trackingId": "RTuYr45XSMiaUGonNehTog==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQHBI-8DAUffpg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "degreeName": "Bachelor of Science (BSc)",
+            "schoolName": "Banaras Hindu University",
+            "fieldOfStudy": "Economics",
+            "schoolUrn": "urn:li:fs_miniSchool:3153536"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA53LYsBC-s7nuRNBK4gFMWOUvu4TNZHP-Y,152169129)",
+            "school": {
+                "objectUrn": "urn:li:school:13653",
+                "entityUrn": "urn:li:fs_miniSchool:13653",
+                "active": true,
+                "schoolName": "The University of Burdwan",
+                "trackingId": "y2Y36PNHTOW1Nifw+L81Tw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C510BAQEIg5Usn8pPnw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "degreeName": "Master of Business Administration (MBA)",
+            "schoolName": "University of Burdwan",
+            "fieldOfStudy": "Human Resources Management and Services",
+            "schoolUrn": "urn:li:fs_miniSchool:13653"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "LinkedIn",
+            "name": "Human Resources: Managing Employee Problems",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "PMBDQRrTSFaJST3wpeaL8A=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/173a1059214884daa111180367f82e7ef42ac927857ec21afcdbce7c3198c625?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Recruiting Foundations",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "+BSrQ7jnT9W4bklgyS204A=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/47c0261bb1e8082c26eb59205ffd17cf4a1a0c1b5be6f57f8ba87b3bf33dc403?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Technical Recruiting",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "BMw6DFKyRD2VLVYQr5DWvA=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/fa5ff3f5b79d3e6cb40ef0423e9b5a8c8abea5bb0078cba3a46d2740026e1253?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Talent Sourcing",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "6IQZoxQPTB27UMepMfNtHw=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/43d12a58c50ee96a0cc809059949703b63e5a2fce34508c85fadaabd12e437f7?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Learning LinkedIn Recruiter",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "UAuc1rZKREWs8T7qv3lMig=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/3e99d7e8e924b057ef5cc6a0e1c471cff439fa50c825b3dc02670f3b2e1b1c9a?trk=backfilled_certificate"
+        },
+        {
+            "authority": "SHRM",
+            "name": "Performance-Based Hiring",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "AeLkV6XdYjdhUhSGeUH61gVG7IsE",
+            "company": {
+                "objectUrn": "urn:li:company:11282",
+                "entityUrn": "urn:li:fs_miniCompany:11282",
+                "name": "SHRM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1672752953557/shrm_logo?e=1710374400&v=beta&t=Cqp7O2jo6h0ay03DdV0ZkLQO15I6pc0xCI8Vp73F3zU",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1672752953557/shrm_logo?e=1710374400&v=beta&t=0qdfwzaJ0CLxV3plGPzmVdZtxzb4Fmqo5OTUfu8bz_c",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1672752953557/shrm_logo?e=1710374400&v=beta&t=dHhGYeMRsNeRBbqmE2kYggj5yegesPX2hqXZ6SBEfqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQH3XsOFHmclSQ/company-logo_"
+                    }
+                },
+                "universalName": "shrm",
+                "dashCompanyUrn": "urn:li:fsd_company:11282",
+                "trackingId": "yjmHQzSBTEWynfjKmSKuWA=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:11282",
+            "url": "http://www.linkedin.com/learning/performance-based-hiring"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Interviewing a Job Candidate for Recruiters",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "b19SnTuLRz6e3wiKnopi1g=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/170d04bd6d3b54133cae1d62b2501bcfe9ffb99f005ab8b7e88aa2ac539943c8?trk=backfilled_certificate"
+        },
+        {
+            "authority": "Lund University",
+            "name": "European Business Law: Competing in Europe",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "coursera.org/verify/27FLFR2NPLM2",
+            "company": {
+                "objectUrn": "urn:li:company:5077",
+                "entityUrn": "urn:li:fs_miniCompany:5077",
+                "name": "Lund University",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631375165915/lunduniversity_logo?e=1710374400&v=beta&t=97_mf1ySTr6xMkAc2d0zz41GXzPuNq5OfPCakRHXd_U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631375165915/lunduniversity_logo?e=1710374400&v=beta&t=9KgRg3zul-QUkoZRmUu671TeNjKKx2vf2wc_pIQmPJ0",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631375165915/lunduniversity_logo?e=1710374400&v=beta&t=0C3CuyfIqwx0W7bGfcg6SleHkiVDkJnXDliY32ljE4M",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGZdRyM61SwOw/company-logo_"
+                    }
+                },
+                "universalName": "lunduniversity",
+                "dashCompanyUrn": "urn:li:fsd_company:5077",
+                "trackingId": "aafnhn02REuAm68D0Hj8BA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5077"
+        },
+        {
+            "authority": "Dutch First BV",
+            "name": "CEFR A",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:28618969",
+                "entityUrn": "urn:li:fs_miniCompany:28618969",
+                "name": "Dutch First",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1683745083757?e=1710374400&v=beta&t=bSMjZ6hEEawkLZ9fIxhbm8-wBpr_cCMvgG-W9rdIlIM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1683745083757?e=1710374400&v=beta&t=GhSdaZHZX4HytpWkmHGfzgiGXBICc07Zaq0IJiXwp1w",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1683745083757?e=1710374400&v=beta&t=RV2bq_OirL_brARdBlMTkMgQxei--gRfiQA_DGd33eE",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFTSXP5uDOuXQ/company-logo_"
+                    }
+                },
+                "universalName": "dutchfirst",
+                "dashCompanyUrn": "urn:li:fsd_company:28618969",
+                "trackingId": "+g1Sht7ISAWQtN0u6RyFqw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:28618969"
+        },
+        {
+            "authority": "LinkedIn Learning ⋅ Course Certificate",
+            "name": "Become a Technical Recruiter",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "AftXDv0KPfA-Oj_nlOyMF_8r6J8v",
+            "company": {
+                "objectUrn": "urn:li:company:66206774",
+                "entityUrn": "urn:li:fs_miniCompany:66206774",
+                "name": "LinkedIn Learning ⋅ Course Certificate",
+                "showcase": false,
+                "active": false,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630564182241/linkedin_learning_with_linda_com_logo?e=1710374400&v=beta&t=mMCnFdqIduBQhtVmcmXxRtXtKLryTAE09v41HGvnq48",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630564182241/linkedin_learning_with_linda_com_logo?e=1710374400&v=beta&t=TLUaVu4OREKRbfakkWCO79xYS2f_GWldY906rQZ2I4s",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630564182241/linkedin_learning_with_linda_com_logo?e=1710374400&v=beta&t=nSKNKw_wdojaCKLXHkwq2K7CzokK318xqY4anCMUvNI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGpFEAOzhl8cQ/company-logo_"
+                    }
+                },
+                "universalName": "linkedin-learning-with-linda-com",
+                "dashCompanyUrn": "urn:li:fsd_company:66206774",
+                "trackingId": "2j9Kx+KXReG4HDeNtMbM6w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:66206774"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,256 @@
+{
+    "industryName": "Retail",
+    "lastName": "Van Saase",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Anniek",
+    "entityUrn": "urn:li:fs_profile:ACoAACXEUVsBmn9W0oWuWTj98rJTv7jN0Yam654",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Key Account Manager Retail NL at Deoleo - The Olive Oil Company",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQEiYR45xWWy8w/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1654756770276?e=1707955200&v=beta&t=ZJwcKhVCFhXqmxkDfN6Rh5dAVdcEwuq1M88RZXjh5N0",
+    "img_200_200": "200_200/0/1654756770276?e=1707955200&v=beta&t=aq-QxBktsYhBk6r4abJXdMktAYYPO4oBdacL3n_Z9WI",
+    "img_400_400": "400_400/0/1654756770276?e=1707955200&v=beta&t=i81iV6WacwHI8IWAyKe-NPNni7wVrMRAG3F7mn3selU",
+    "img_588_588": "800_800/0/1654756770276?e=1707955200&v=beta&t=UGpzodZ7pQS9mUInJHYVeVqfo_dZhB-7dTDR4c3RJ8E",
+    "profile_id": "ACoAACXEUVsBmn9W0oWuWTj98rJTv7jN0Yam654",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACXEUVsBmn9W0oWuWTj98rJTv7jN0Yam654",
+    "member_urn": "urn:li:member:633622875",
+    "public_id": "anniek-van-saase-aa3247158",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACXEUVsBmn9W0oWuWTj98rJTv7jN0Yam654,2218814771)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Deoleo",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Food & Beverages"
+                ]
+            },
+            "title": "Key Account Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2253376",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQG9M4yL63YosA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACXEUVsBmn9W0oWuWTj98rJTv7jN0Yam654,1745521723)",
+            "companyName": "Ahold Delhaize",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Merchandising & Sourcing Assistent Non Food Albert Heijn",
+            "companyUrn": "urn:li:fs_miniCompany:10877849",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHBqCTwTO_nlA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACXEUVsBmn9W0oWuWTj98rJTv7jN0Yam654,1652422209)",
+            "companyName": "Ahold Delhaize",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Merchandising & Sourcing Intern Breakfast Albert Heijn",
+            "companyUrn": "urn:li:fs_miniCompany:10877849",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHBqCTwTO_nlA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACXEUVsBmn9W0oWuWTj98rJTv7jN0Yam654,1282415073)",
+            "companyName": "Albert Heijn",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Verkoper",
+            "companyUrn": "urn:li:fs_miniCompany:10031312",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQE_asn6DhgWeg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACXEUVsBmn9W0oWuWTj98rJTv7jN0Yam654,1577427720)",
+            "companyName": "Ahold Delhaize",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Digital Innovation Intern Etos",
+            "companyUrn": "urn:li:fs_miniCompany:10877849",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHBqCTwTO_nlA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACXEUVsBmn9W0oWuWTj98rJTv7jN0Yam654,829639551)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "degreeName": "Master of Business Administration - MBA",
+            "schoolName": "BEBS Barcelona Executive Business School",
+            "fieldOfStudy": "International Business Management and Innovation",
+            "degreeUrn": "urn:li:fs_degree:700"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACXEUVsBmn9W0oWuWTj98rJTv7jN0Yam654,494873318)",
+            "school": {
+                "objectUrn": "urn:li:school:15418",
+                "entityUrn": "urn:li:fs_miniSchool:15418",
+                "active": true,
+                "schoolName": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+                "trackingId": "HjAKFOWvRveIZ8sJG+F2Uw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFtr7VqGaVWcQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+            "fieldOfStudy": "International Business and Management",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15418"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACXEUVsBmn9W0oWuWTj98rJTv7jN0Yam654,576891236)",
+            "school": {
+                "objectUrn": "urn:li:school:20278",
+                "entityUrn": "urn:li:fs_miniSchool:20278",
+                "active": true,
+                "schoolName": "Seminole State College of Florida",
+                "trackingId": "rCUF93+aT+etWvdbvOzXQg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFbk5wnzWxh2Q/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "description": "Spring Semester Study Abroad",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101465",
+            "degreeName": "Bachelor of Business Administration - BBA",
+            "schoolName": "Seminole State College of Florida",
+            "fieldOfStudy": "International Business",
+            "degreeUrn": "urn:li:fs_degree:450",
+            "schoolUrn": "urn:li:fs_miniSchool:20278"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Wedstrijdcommissie",
+            "companyName": "T.V. Van Nispen",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "cause": "SOCIAL_SERVICES"
+        },
+        {
+            "role": "Vrijwilliger",
+            "companyName": "Stichting fietsmaatje Noordwijk",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2020
+                }
+            }
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

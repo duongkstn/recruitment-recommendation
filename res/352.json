@@ -1,0 +1,323 @@
+{
+    "summary": "International Senior HR Lead , generalist, more than 12 years international HR ’ experience, working with cross functional teams, talent development,  developed a performance development plan, merger experience, employability, experience works council (FR and NL), performance management, retention programs.\nIn 2019 successfully completed Pre- Master change- management at VU university Amsterdam.\n\n",
+    "industryName": "Construction",
+    "lastName": "Abcouwer",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:48",
+    "firstName": "Audrey",
+    "entityUrn": "urn:li:fs_profile:ACoAAAEcg6cBkizYIIiII5Jxg8pc3cD8MCxPwZE",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "HR Director Europe- Architectural Products",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQE4MW1UG7ecDA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1640272744698?e=1707955200&v=beta&t=AtWkZM15tHmUJ-VIaahwc_wVRXF41M_mL4U_cNGNUPs",
+    "img_200_200": "200_200/0/1640272744698?e=1707955200&v=beta&t=1w9EKREev1HCBKbN1wAPEN6fNfthwBU3F0AN9IfrfAc",
+    "img_400_400": "400_400/0/1640272744698?e=1707955200&v=beta&t=C2gWI8PT6_4RQxMZAi4aOfC9WLj-VhxSHuMOI4Vquio",
+    "img_800_800": "800_800/0/1640272744698?e=1707955200&v=beta&t=XocLu-3diU6vNq3P7cXJr-JjQtb_-y9rIUKVmh0xEvo",
+    "profile_id": "ACoAAAEcg6cBkizYIIiII5Jxg8pc3cD8MCxPwZE",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAEcg6cBkizYIIiII5Jxg8pc3cD8MCxPwZE",
+    "member_urn": "urn:li:member:18645927",
+    "public_id": "audreyabcouwer",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEcg6cBkizYIIiII5Jxg8pc3cD8MCxPwZE,1891793666)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "HR Director Europe- Architectural Products ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Hoofddorp",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEcg6cBkizYIIiII5Jxg8pc3cD8MCxPwZE,974925122)",
+            "geoLocationName": "Hoofddorp",
+            "companyName": "JLG Industries",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Machinery"
+                ]
+            },
+            "title": "Senior Human Resources Manager Europe, Middle East, Russia, India",
+            "companyUrn": "urn:li:fs_miniCompany:17902",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEjFHIVEvdtKA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEcg6cBkizYIIiII5Jxg8pc3cD8MCxPwZE,27899448)",
+            "geoLocationName": "Amsterdam",
+            "companyName": "James Hardie Building Products",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2013
+                }
+            },
+            "description": "Member of the MT. Responsable for HR & OD Europe (UK, France, Germany, Denmark ,The Netherlands ).Providing HR advice and guidance to managers, create development programs for employees in line with the companies' strategy.\n•\tCoordinating the performance cycle\n•\tResponsible for Recruitment & Retention programs\n•\tTraining & Development\n•\tAdvising management on labour related issues\n•\tWriting and executing HR policy’s",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "HR & OD Manager Europe",
+            "companyUrn": "urn:li:fs_miniCompany:8202",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEWSRQhpRuixg/company-logo_"
+        },
+        {
+            "locationName": "Amstelveen",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEcg6cBkizYIIiII5Jxg8pc3cD8MCxPwZE,439136034)",
+            "geoLocationName": "Amstelveen",
+            "companyName": "Nexct - ICT solutions",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2008
+                }
+            },
+            "description": "Built a HR department from scratch  and coordinated a successful merger.  \n•\tResponsible for recruitment\n•\tAdvising and executing HR policy \n•\tCoordinating and managing the personnel flow  \n•\tAdvising and supporting the HR policy concerning; recruitment, education, absenteeism, assessments, performance, pension\n•\tCoordinating and supporting personnel development\n•\tEmployer Branding\n•\tProviding guidance to management\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "HR Manager",
+            "companyUrn": "urn:li:fs_miniCompany:380079",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQFZcryrrMn9ww/company-logo_"
+        },
+        {
+            "locationName": "Schiphol",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEcg6cBkizYIIiII5Jxg8pc3cD8MCxPwZE,32904663)",
+            "geoLocationName": "Schiphol",
+            "companyName": "Olympia",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            },
+            "description": "Achievements; Increase in turnover due to education/ training and multi employability \n•\tResponsible for 200 employees (payroll, benefits, pension, education,)\n•\tResponsible for the recruitment process\n•\tAdvising customer (KLM) and employees concerning working conditions and the flexmarket\n•\tComposing policy for contractors\n\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Manager flex teams aviation",
+            "companyUrn": "urn:li:fs_miniCompany:21594",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGECBnsFOtWew/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAEcg6cBkizYIIiII5Jxg8pc3cD8MCxPwZE,646547845)",
+            "school": {
+                "objectUrn": "urn:li:school:15453",
+                "entityUrn": "urn:li:fs_miniSchool:15453",
+                "active": true,
+                "schoolName": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "trackingId": "zS/joAwDRFydN4G8kaCmzg==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "description": "Changemanagement",
+            "degreeName": "Postgraduate",
+            "schoolName": "Vrije Universiteit Amsterdam",
+            "fieldOfStudy": "Changemanagement",
+            "schoolUrn": "urn:li:fs_miniSchool:15453"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAEcg6cBkizYIIiII5Jxg8pc3cD8MCxPwZE,75170707)",
+            "school": {
+                "objectUrn": "urn:li:school:23151",
+                "entityUrn": "urn:li:fs_miniSchool:23151",
+                "active": true,
+                "schoolName": "Avans University of Applied Sciences",
+                "trackingId": "Urqr3e/7S5uBJ8OxZLDyPQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "degreeName": "HBO",
+            "schoolName": "Avans Hogeschool Breda",
+            "fieldOfStudy": "Bedrijfskundig en strategisch HRM",
+            "schoolUrn": "urn:li:fs_miniSchool:23151"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAEcg6cBkizYIIiII5Jxg8pc3cD8MCxPwZE,15089695)",
+            "school": {
+                "objectUrn": "urn:li:school:15428",
+                "entityUrn": "urn:li:fs_miniSchool:15428",
+                "active": true,
+                "schoolName": "Amsterdam University of Applied Sciences",
+                "trackingId": "3dawZG1PQcSG+6SWJV16Xg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_"
+            },
+            "activities": "Vice voorzitter studentenvereniging Pigmentum",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1993
+                },
+                "startDate": {
+                    "year": 1989
+                }
+            },
+            "degreeName": "B ec",
+            "schoolName": "Hogeschool voor Economische Studies Amsterdam (HES)",
+            "fieldOfStudy": "Marketing/ European Business Studies",
+            "schoolUrn": "urn:li:fs_miniSchool:15428"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Duits",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Engels",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Frans",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Member People platform",
+            "companyName": "American Chamber of Commerce in the Netherlands (AmCham)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:736083",
+                    "entityUrn": "urn:li:fs_miniCompany:736083",
+                    "name": "American Chamber of Commerce in the Netherlands (AmCham)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631339451430?e=1710374400&v=beta&t=xlmFNxy7A-bxULchiZU01ULQH5Wrb84Q5fZQLBXLpSM",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631339451430?e=1710374400&v=beta&t=anXSBwFJyZk6jA2cZ8wR6Q6wNdp0VuoFyOcFg0SS7Lo",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631339451430?e=1710374400&v=beta&t=DcXyeBaM9rPPi3aJjxG3680RAwOp8tJwX9t910_CQ4E",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEUFKw851CoSQ/company-logo_"
+                        }
+                    },
+                    "universalName": "american-chamber-of-commerce-in-the-netherlands",
+                    "dashCompanyUrn": "urn:li:fsd_company:736083",
+                    "trackingId": "qlRYAzBqTb+i8GsjLA621g=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:736083"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

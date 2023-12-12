@@ -1,0 +1,434 @@
+{
+    "summary": "With over seven years experience in e-commerce covering customer success, account management and leadership roles, I'm a relationship builder who enjoys solving complex problems using knowledge and reasoning. I'm also a dedicated listener, committed to forming strong partnerships and driven by curiosity. \n\nI excel in settings that prioritize a strong sense of community, placing trust, cooperation, and flexibility as core values.\n\nOutside of work, you'll often find me pursuing my hobbies: traveling to new places, capturing the world through my lens in photography, recharging with nature walks, and experimenting in the kitchen.\n\nLet's connect and share our journeys! 🌟📸🌿🍳",
+    "industryName": "Retail",
+    "lastName": "Corio",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 6,
+        "day": 1
+    },
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Serena",
+    "entityUrn": "urn:li:fs_profile:ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Team Leader Account Management | E-commerce | Customer Success | International Online Retail 🌍",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D5635AQEvoJDQuQ15Fg/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1701942868350?e=1702972800&v=beta&t=Hr8g9NWPvWxGmBtdoTQQRM7MU7q8ATifU23afownb9I",
+    "img_200_200": "200_200/0/1701942868350?e=1702972800&v=beta&t=A3kGE-S07_0uuAwmm1TG6qngtjF7Upb0QWt0dCDUxjk",
+    "img_500_500": "800_800/0/1701942868350?e=1702972800&v=beta&t=Q9AUrRoUSC-6w9_7xy4ThxYHo8ubovKr9NxeOTzs7Xo",
+    "img_100_100": "100_100/0/1701942868350?e=1702972800&v=beta&t=xZem-QVCncQSGIb3eQ6beekUqF1-08YZf_b0eQ7-4LU",
+    "profile_id": "ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4",
+    "member_urn": "urn:li:member:737529421",
+    "public_id": "serena-corio-011bb7186",
+    "experience": [
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4,1918082730)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "vidaXL",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "description": "• Steered a multicultural and partially remote team of 6 Account Managers and Customer Success Managers, responsible for an expanding portfolio of 40+ B2C and B2B marketplaces in the US and European markets.\n• Guided the team to identify revenue opportunities on marketplaces and areas for enhancement to boost sales and operational efficiency.\n• Engaged in Quarterly Business Reviews alongside C-level partners to align on priorities and strategic business direction.\n• Offered tailored support for internal and partner projects and resolution of complex and cross-departmental issues.\n• Actively contributed to building a high-performing 10-people Account Management team in Romania in five months, taking part in recruitment, onboarding, coaching, and the continuous improvement of training materials.\n• Engaged in process and tool optimisation, including the creation of reports to provide the team with comprehensive analysis-ready data, reducing manual efforts.\n\nTools: SuccessFactors, Looker, Qlikview, Jira, Xflow",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Team Leader Account Management",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:823465",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFjpWaCC2HinA/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4,1639847753)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "vidaXL",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "description": "vidaXL is a fast-growing international retail company designing, producing, selling and shipping over 80,000 different produts, ranging from home furniture and decor, to electrical appliances, urban mobility and much more. vidaXL is a leading player in major European and international marketplaces, such as Amazon, Manomano, Ebay, Rakuten, Walmart, Allegro, Wayfair and Bol.com.\n\n• Cultivated strong partnerships with marketplaces aimed at achieving top positioning of assortment.\n• Developed and executed sales strategies aimed at increasing profitability, based on competitor and market analysis, planning of discount promotions, sponsored campaigns, listing creation and keyword and content optimisation.\n• Reported weekly and monthly over sales and KPI performance of key accounts, leveraging data-driven insights to develop corrective actions when needed to ensure a healthy performance.\n• Cooperated with internal stakeholders to effectively address technical challenges and deliver on business objectives.\n\nTools: SuccessFactors, Looker, Qlikview, Jira, Xflow",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Key Account Manager - Marketplaces",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:823465",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFjpWaCC2HinA/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4,1362390935)",
+                "urn:li:fs_course:(ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4,1362910587)"
+            ],
+            "locationName": "Utrecht, Paesi Bassi",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "skydreams",
+            "description": "Skydreams is a fast-paced company in rapid expansion which operates globally with its 147 different lead generation marketplaces across 17 countries, striving to connect homeowners with service professionals to achieve win-win solutions.\n\n• Onboarded and managed a steadily growing client count encompassing SMEs and corporates in the renewable energy and building sector and implemented strategies to ensure retention, long-lasting strong partnerships and increased revenue\n• Coordinated testing of new features across all international markets\n• Coordinated translation of all product updates and marketing communications\n• Arranged technical requirements for effective onboarding of new candidates\n• Trained and mentored 3 AMs (French, DACH and Spanish market)\n• Managed ES/UK AM backup (schedule and tasks)\n• Temporarily managed French-speaking accounts (FR/BE/CH) \n• Prepared and launched a new comprehensive marketplace in the Italian market (Homedeal.it), with supportive role for IT, SEA, SEO requirements\n\nTop 3 personal achievements:\n• +31% portfolio expansion of services available to clients based on market research, with successful upsell of 75% of the targeted client base \n• Form optimisation project leading to +25% increase in SEA transactions\n• Setting up of a rewarding loyal clients plan\n\nTools: Impraise, TargetProcess, GitHub, Inhouse CRM, Trello, Hotjar, Hubspot",
+            "title": "Medior Account Manager & Coach | Sales and Customer Success Team",
+            "companyUrn": "urn:li:fs_miniCompany:268066",
+            "entityUrn": "urn:li:fs_position:(ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4,1462948873)",
+            "geoLocationName": "Utrecht, Paesi Bassi",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Internet"
+                ]
+            },
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFpWSFDo8Glgg/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Paesi Bassi",
+            "entityUrn": "urn:li:fs_position:(ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4,1466006428)",
+            "geoLocationName": "Utrecht, Paesi Bassi",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "skydreams",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "description": "• Managed a portfolio consisting of +200 clients from SME to corporates in the renewable energy and building sector\n• Directly responsible of full sales cycle, from onboarding to retention\n• Executed commercial strategies for different client groups, with a focus on upsell/cross-sell opportunities\n• Identified product development opportunities and owned projects to increase efficiency in AM’s daily tasks\n• Tested product updates for the Italian market\n• Supported our developing SEO team (copy-editing)\n\nTools: GitHub, Inhouse CRM, Trello, Hubspot",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Internet"
+                ]
+            },
+            "title": "Account Manager | Sales and Customer Success Team",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:268066",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFpWSFDo8Glgg/company-logo_"
+        },
+        {
+            "locationName": "Baku",
+            "entityUrn": "urn:li:fs_position:(ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4,1466018882)",
+            "geoLocationName": "Baku",
+            "companyName": "Baku 2015 European Games Operation Committee",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "description": "Responsibilities as language services team member \n•\tConsecutive interpretation Italian/English between athletes and media (press and broadcast) \n•\tLinguistic assistance for VIP guests\n\nResponsibilities as protocol team member \n•\tAccess control in VIP areas \n•\tReception of and assistance to VIP and IPP guests in Protocol areas",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Sports"
+                ]
+            },
+            "title": "Language services and protocol team member",
+            "companyUrn": "urn:li:fs_miniCompany:3476091",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQElvS2Ev0ZX_w/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4,594609313)",
+            "school": {
+                "objectUrn": "urn:li:school:10410",
+                "entityUrn": "urn:li:fs_miniSchool:10410",
+                "active": true,
+                "schoolName": "KU Leuven",
+                "trackingId": "aRj/cKthScGLb2zK0LzDqg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHAtw6LesXG-w/company-logo_"
+            },
+            "grade": "passed cum laude",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "degreeName": "Master's degree",
+            "schoolName": "KU Leuven",
+            "fieldOfStudy": "European studies (EU External relations) ",
+            "degreeUrn": "urn:li:fs_degree:500",
+            "schoolUrn": "urn:li:fs_miniSchool:10410"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4,1362609095)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAACv1zk0B5Ju0HXdEbQNGQu7-wY8LTGPzSh4,594610005)",
+            "school": {
+                "objectUrn": "urn:li:school:13853",
+                "entityUrn": "urn:li:fs_miniSchool:13853",
+                "active": true,
+                "schoolName": "Università Cattolica del Sacro Cuore",
+                "trackingId": "eECShBNfR1GpsO1yIesDvw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGGHmU2O4tYlg/company-logo_"
+            },
+            "grade": "110/110 cum laude ",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Università Cattolica del Sacro Cuore",
+            "fieldOfStudy": "Foreign Languages for International Relations ",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:13853"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Italian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "ETS",
+            "name": "TOEFL ibt: 109/120",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:163705",
+                "entityUrn": "urn:li:fs_miniCompany:163705",
+                "name": "ETS",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630587150189/educational_testing_service_ets_logo?e=1710374400&v=beta&t=8GBXg-dQ4pv_W2BFuK5F4viA-i7wd_aaZEyGZ_aSgv8",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630587150189/educational_testing_service_ets_logo?e=1710374400&v=beta&t=j9Z3vOvOPPk-DyI-qebsIQWiEXS-jmoR_VBGdJDytVE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630587150189/educational_testing_service_ets_logo?e=1710374400&v=beta&t=q7aC5VvsF6qZpqBrlKC12vqPH5GFTYwe4sAuvW64ucg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQG8wr1PJuA-qw/company-logo_"
+                    }
+                },
+                "universalName": "educational-testing-service-ets",
+                "dashCompanyUrn": "urn:li:fsd_company:163705",
+                "trackingId": "efxJIqiBSPqcrcxIiFZ6EA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:163705"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Italian Pavillion Promoter",
+            "companyName": "EXPO 2015 S.P.A.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2015
+                }
+            },
+            "cause": "ANIMAL_RIGHTS",
+            "description": "•\tPresenting the Italian pavilion to groups of visitors \n•\tAssisting field operators inside and outside the Italian Pavilion (providing visitors with information about the site, attending to elderlies and disabled people, regulating access to the pavilion) \n",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:413259",
+                    "entityUrn": "urn:li:fs_miniCompany:413259",
+                    "name": "EXPO 2015 S.p.A.",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631307445989?e=1710374400&v=beta&t=s-EjdYcxXgf1reROkyytXQmpapGLG2MfWTav3uXUtgc",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631307445989?e=1710374400&v=beta&t=Gih142yPyVoDP1yzrPADKYXGBGAQC1iZonjhFQFFhc8",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631307445989?e=1710374400&v=beta&t=zxtfSZ8xuY-YIr0jy2H6QZ4QAoxAj-EU-e_GwHn4BR8",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGvC1ZG7eLClw/company-logo_"
+                        }
+                    },
+                    "universalName": "expo-2015-s.p.a.",
+                    "dashCompanyUrn": "urn:li:fsd_company:413259",
+                    "trackingId": "pvu+wYKjRyGqvcNRHzphVw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:413259"
+        },
+        {
+            "role": "Childcare assistant",
+            "companyName": "Starfish Volunteers",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2013
+                }
+            },
+            "cause": "CHILDREN",
+            "description": "•\tAssisting teachers for everyday activities in a kindergarten \n•\tTeaching basic English notions to pupils \n•\tAssistance to teachers in a shelter for kids with multiple disabilities \n•\tHelping out with the construction of a new kindergarten in the outskirts of Surin ",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:2856334",
+                    "entityUrn": "urn:li:fs_miniCompany:2856334",
+                    "name": "Starfish Volunteers",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631377480427?e=1710374400&v=beta&t=mBniq47hfBSqq-YzdanI7EiR098P0auF3ceRcxwin58",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631377480427?e=1710374400&v=beta&t=JKFc5FDfbHGI0FVBnPHYt4v18cMaOkzDyRDl3AD73-Q",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631377480427?e=1710374400&v=beta&t=jAQN1d9VDOoPpscIfnIHm5VF1XGpo8lgsPy94yat0_M",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C510BAQEa0R6mZ3qqUQ/company-logo_"
+                        }
+                    },
+                    "universalName": "starfish-volunteers",
+                    "dashCompanyUrn": "urn:li:fsd_company:2856334",
+                    "trackingId": "qrJm8eyrR5ulJF7QZdiXsA=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2856334"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,633 @@
+{
+    "industryName": "Individual & Family Services",
+    "lastName": "Genevasen",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 4,
+        "day": 21
+    },
+    "industryUrn": "urn:li:fs_industry:88",
+    "firstName": "★ Natascha",
+    "entityUrn": "urn:li:fs_profile:ACoAABRUFkQBIdgEymiaahVDYjlhJZW5y_hx-Zk",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:105929347"
+    },
+    "geoLocationName": "Bodegraven, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Young Professional Projectmanagement, Marketing & Sales",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQHOimEZ6sneaw/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1693896404833?e=1702972800&v=beta&t=ZHv_KDWpOcqTqeEhO2r4AA9tp0ykqps-_WjTd6UBTkI",
+    "img_200_200": "200_200/0/1693896404833?e=1702972800&v=beta&t=OuuE4JiaD9XtUBgLVpLZtCMjgrLfp_owkGlkaG8S3YE",
+    "img_775_775": "800_800/0/1693896404833?e=1702972800&v=beta&t=vQM5ukvK0F1ne1u3tKyVPEJUjMIQ0UMrz5iH74OYXqo",
+    "img_100_100": "100_100/0/1693896404833?e=1702972800&v=beta&t=KsxFfoDeMigDq_bSX_gx3JAsAEWQbCzNrKakE0XH-_s",
+    "profile_id": "ACoAABRUFkQBIdgEymiaahVDYjlhJZW5y_hx-Zk",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABRUFkQBIdgEymiaahVDYjlhJZW5y_hx-Zk",
+    "member_urn": "urn:li:member:341055044",
+    "public_id": "★-natascha-genevasen-99827596",
+    "experience": [
+        {
+            "locationName": "Bodegraven, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABRUFkQBIdgEymiaahVDYjlhJZW5y_hx-Zk,1693782442)",
+            "geoLocationName": "Bodegraven, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:105929347",
+            "companyName": "Droogspecialist",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "description": "Droogspecialist biedt professionele oplossingen op het gebied van drogen, verwarmen, ventileren en vochtmeten bij vocht- en/of klimaatproblemen in woningen, bedrijfspanden, bouw, scheepvaart en industrie. Droogspecialist verzorgt de plaatsing van de apparatuur en controleert het gehele droogproces.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Construction"
+                ]
+            },
+            "title": "Marketing & Sales Professional",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9236411",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQFwu9qFQtxPiw/company-logo_"
+        },
+        {
+            "locationName": "’s-Hertogenbosch, Provincie Noord-Brabant, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABRUFkQBIdgEymiaahVDYjlhJZW5y_hx-Zk,1218245329)",
+            "geoLocationName": "’s-Hertogenbosch, Provincie Noord-Brabant, Nederland",
+            "companyName": "RIFF Online Marketing",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "description": "RIFF Nederland B.V. is een internationaal bedrijf gebouwd op een stevig Nederlands fundament. \nZij bieden een breed portfolio aan proposities op het gebied van content, technology, digital marketing en social webcare. Met een gecombineerde expertise helpt RIFF bedrijven met het creëren van een unieke digitale klantbeleving.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "Online Business Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:64258741",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF0GOidokUdBw/company-logo_"
+        },
+        {
+            "locationName": "’s-Hertogenbosch, Provincie Noord-Brabant, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABRUFkQBIdgEymiaahVDYjlhJZW5y_hx-Zk,1066026936)",
+            "geoLocationName": "’s-Hertogenbosch, Provincie Noord-Brabant, Nederland",
+            "companyName": "RIFF Online Marketing",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "Projectmanager",
+            "companyUrn": "urn:li:fs_miniCompany:64258741",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF0GOidokUdBw/company-logo_"
+        },
+        {
+            "locationName": "Eindhoven, Provincie Noord-Brabant, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABRUFkQBIdgEymiaahVDYjlhJZW5y_hx-Zk,1390490287)",
+            "geoLocationName": "Eindhoven, Provincie Noord-Brabant, Nederland",
+            "companyName": "ANWB",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Leisure, Travel & Tourism"
+                ]
+            },
+            "title": "Marketing Trainee",
+            "companyUrn": "urn:li:fs_miniCompany:162467",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQG9XJ9oys-K3Q/company-logo_"
+        },
+        {
+            "locationName": "Eindhoven en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABRUFkQBIdgEymiaahVDYjlhJZW5y_hx-Zk,536875815)",
+            "geoLocationName": "Eindhoven en omgeving, Nederland",
+            "companyName": "vanHaren Schoenen BV",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Marketing Management",
+            "companyUrn": "urn:li:fs_miniCompany:463228",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHrR6XziCaqZw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABRUFkQBIdgEymiaahVDYjlhJZW5y_hx-Zk,218795423)",
+            "school": {
+                "objectUrn": "urn:li:school:23151",
+                "entityUrn": "urn:li:fs_miniSchool:23151",
+                "active": true,
+                "schoolName": "Avans University of Applied Sciences",
+                "trackingId": "kwilVP/oRyiZdVAOrz1UlQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "description": "De Associate degree (Ad) is een wettelijk erkende tweejarige hbo-opleiding onder verantwoordelijkheid van een hogeschool. De belangrijkste doelgroep is een doorstromende mbo-student, deze kan met een Ad-opleiding de stap maken naar het hbo. Na 2 jaar kunnen zij hun Ad-opleiding afronden met een volwaardig en gevalideerd diploma, waarna zij doorstromen naar de arbeidsmarkt óf in 2 jaar een hbo-bachelor afronden.",
+            "degreeName": "Ad",
+            "schoolName": "Avans University of Applied  Sciences",
+            "fieldOfStudy": "Marketing Management",
+            "schoolUrn": "urn:li:fs_miniSchool:23151"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABRUFkQBIdgEymiaahVDYjlhJZW5y_hx-Zk,393112805)",
+            "school": {
+                "objectUrn": "urn:li:school:23153",
+                "entityUrn": "urn:li:fs_miniSchool:23153",
+                "active": true,
+                "schoolName": "Summa College",
+                "trackingId": "MyhqTfo9Q0SC8Fz3mJuy6g==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEgAUq3rF0JGA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "degreeName": "Mbo",
+            "schoolName": "Summa College",
+            "fieldOfStudy": "Handel & Marketing",
+            "schoolUrn": "urn:li:fs_miniSchool:23153"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Avans University of Applied  Sciences",
+            "name": "Taalkennis Nederlands Hoger Onderwijs",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:13515",
+                "entityUrn": "urn:li:fs_miniCompany:13515",
+                "name": "Avans University of Applied Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=tLTllbKmTGSF3zMtCU59Wcz9LY8q5d--3TqLEjYLhjA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=mRzVmOTbRuMo-QDxss0hIRytQ7ijRWsm8fFnZ4B5iEg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=1wOhIjCQaQ1voOqlRmad5sxBHDXsLyKl7HLBKf2SvF0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+                    }
+                },
+                "universalName": "avans-hogeschool",
+                "dashCompanyUrn": "urn:li:fsd_company:13515",
+                "trackingId": "QSNE4L6mSA6A6OWO664xqQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:13515"
+        },
+        {
+            "authority": "Vogels Organisatie Advies",
+            "name": "Praktijkopleider",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1319251",
+                "entityUrn": "urn:li:fs_miniCompany:1319251",
+                "name": "Vogels Organisatie Advies",
+                "showcase": false,
+                "active": true,
+                "universalName": "vogels-organisatie-advies",
+                "dashCompanyUrn": "urn:li:fsd_company:1319251",
+                "trackingId": "OdP0HvUiQaiuOx0FCUwg7Q=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1319251"
+        },
+        {
+            "authority": "Google",
+            "name": "Advanced Google Analytics",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631311446380?e=1710374400&v=beta&t=_0gnABnVbe_EqmnW25OJ9a8a3eJJBiPUX4scKbZ3nJg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631311446380?e=1710374400&v=beta&t=AqetEFJOXMBuYXBnOT-x9YqzHuTxD8A-bLLLA4QAPcg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                    }
+                },
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "tXDGr/1sQTukHTqDIEe/ng=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1441"
+        },
+        {
+            "authority": "Google",
+            "name": "Google AdWords Fundamentals",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631311446380?e=1710374400&v=beta&t=_0gnABnVbe_EqmnW25OJ9a8a3eJJBiPUX4scKbZ3nJg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631311446380?e=1710374400&v=beta&t=AqetEFJOXMBuYXBnOT-x9YqzHuTxD8A-bLLLA4QAPcg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                    }
+                },
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "n577zDufQzqxwAf2kysVYw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1441"
+        },
+        {
+            "authority": "Google",
+            "name": "Google Digital Sales",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631311446380?e=1710374400&v=beta&t=_0gnABnVbe_EqmnW25OJ9a8a3eJJBiPUX4scKbZ3nJg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631311446380?e=1710374400&v=beta&t=AqetEFJOXMBuYXBnOT-x9YqzHuTxD8A-bLLLA4QAPcg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631311446380?e=1710374400&v=beta&t=9gnQkXa0yBqgNAsg5ZXAOFNjzReWaHzt2hFRMm5DInc",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                    }
+                },
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "fF4/pRe+T6euc+lxEM+OWw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1441"
+        },
+        {
+            "authority": "MKB Cursus & Training",
+            "name": "Bedrijfshulpverlener",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:818960",
+                "entityUrn": "urn:li:fs_miniCompany:818960",
+                "name": "MKB Cursus & Training",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630571550098/mkb_cursus__training_logo?e=1710374400&v=beta&t=fUxNFvdnBmh_fI_Wde6t4wfJXlXWr6uah7edQBI6IqU",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630571550098/mkb_cursus__training_logo?e=1710374400&v=beta&t=qc6PGXCyNd60nRcOod4NZsnWdL_2JzvBQuscxtF2DtM",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630571550098/mkb_cursus__training_logo?e=1710374400&v=beta&t=Gsv1mv9ZRQoQCr9oRrUxZSJiQERD9EaOd-rakk-BEnI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQF_zBGZMyIFrQ/company-logo_"
+                    }
+                },
+                "universalName": "mkb-cursus-&-training",
+                "dashCompanyUrn": "urn:li:fsd_company:818960",
+                "trackingId": "RE2BDAOHRMWhbXMWT7e5BA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:818960"
+        },
+        {
+            "authority": "Avans University of Applied  Sciences",
+            "name": "Associate degree, Marketing Management",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:13515",
+                "entityUrn": "urn:li:fs_miniCompany:13515",
+                "name": "Avans University of Applied Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=tLTllbKmTGSF3zMtCU59Wcz9LY8q5d--3TqLEjYLhjA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=mRzVmOTbRuMo-QDxss0hIRytQ7ijRWsm8fFnZ4B5iEg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=1wOhIjCQaQ1voOqlRmad5sxBHDXsLyKl7HLBKf2SvF0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+                    }
+                },
+                "universalName": "avans-hogeschool",
+                "dashCompanyUrn": "urn:li:fsd_company:13515",
+                "trackingId": "2zIm1bgJTGGwkjk4SokhJg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:13515"
+        },
+        {
+            "authority": "Summa College | Business",
+            "name": "Manager Retail",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:10136499",
+                "entityUrn": "urn:li:fs_miniCompany:10136499",
+                "name": "Summa College | Business",
+                "showcase": false,
+                "active": false,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631375607214/summa_business_logo?e=1710374400&v=beta&t=X6pcJHZH4FS7hxeZEoKtC7fbqb9LFrHO1jT07TFysOc",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631375607214/summa_business_logo?e=1710374400&v=beta&t=ShL8X2V7RQtWH_4VqvHLBykKOL2vRcyGMUfJCbTIleg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631375607215/summa_business_logo?e=1710374400&v=beta&t=EytR85u_lfR76eu6LDFmEoAnSR_ZQPnv8CX38QXdoxg",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHu2QYkTm33Lw/company-logo_"
+                    }
+                },
+                "universalName": "summa-business",
+                "dashCompanyUrn": "urn:li:fsd_company:10136499",
+                "trackingId": "TmBWbbWKSIuAo8MO6bhaMA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:10136499"
+        },
+        {
+            "authority": "Avans University of Applied  Sciences",
+            "name": "Propedeuse",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:13515",
+                "entityUrn": "urn:li:fs_miniCompany:13515",
+                "name": "Avans University of Applied Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=tLTllbKmTGSF3zMtCU59Wcz9LY8q5d--3TqLEjYLhjA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=mRzVmOTbRuMo-QDxss0hIRytQ7ijRWsm8fFnZ4B5iEg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630466761929/avans_hogeschool_logo?e=1710374400&v=beta&t=1wOhIjCQaQ1voOqlRmad5sxBHDXsLyKl7HLBKf2SvF0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_"
+                    }
+                },
+                "universalName": "avans-hogeschool",
+                "dashCompanyUrn": "urn:li:fsd_company:13515",
+                "trackingId": "srIACEKDQg2jLkXURj6ZfQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:13515"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

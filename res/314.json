@@ -1,0 +1,275 @@
+{
+    "summary": "At Badenoch + Clark, we have been helping professionals make the right connections since 1980. Whether you are taking the next step in your career or taking on a new talent, we support our valued customers to make intelligent business and career decisions. \n \nValue a different level of expertise delivered in a refreshingly honest and open way. \n \nBadenoch + Clark is part of the Adecco Group, the world's leading provider of HR solutions. With more than 32,000 FTE employees and around 5,100 branches, in over 60 countries and territories around the world. \n\nWe base our success around our knowledge of the markets in which we operate, our extended network of relationships and our expertise in the recruitment process.  \n \nIf you’re looking for the right career choices or to attract the best talent to your organisation, you’ll want to work with a partner who can make things happen. Someone who understands your market and has a track record of success.  \n\nAt Badenoch + Clark, I’m always aiming to build long-lasting partnerships with my clients, candidates and colleagues.\n\nMy goal has always been centered around helping & advising others, whether it’s been through customer service, being a guide through the interview process or connecting people to an opportunity.  \n\nContact:\n\nines@badenochandclark.be\nMobile +32 (0) 499 58 30 09",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Cox",
+    "locationName": "Belgium",
+    "student": false,
+    "geoCountryName": "Belgium",
+    "geoCountryUrn": "urn:li:fs_geo:100565514",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 5,
+        "day": 9
+    },
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Ines",
+    "entityUrn": "urn:li:fs_profile:ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:108706789"
+    },
+    "geoLocationName": "Pelt, Flemish Region",
+    "location": {
+        "basicLocation": {
+            "countryCode": "be"
+        }
+    },
+    "headline": "Senior Executive Recruitment & Client Partner - Team Leader Recruitment Solutions Belgium",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQF5oKyYUISALQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1678451562154?e=1707955200&v=beta&t=6Yg29ShMdC6kpIewwLJjD6wCJHr3LTDlZYaxDNqFNYU",
+    "img_200_200": "200_200/0/1678451562154?e=1707955200&v=beta&t=rCsa7E1lm60EngALMyDiW4uEyYQFFTgaYHYfczTFPDA",
+    "img_400_400": "400_400/0/1678451562154?e=1707955200&v=beta&t=tD03utcdTSPesmuaL_O3xMl2ZgcPdo8MSY4Hx7jXguk",
+    "img_800_800": "800_800/0/1678451562154?e=1707955200&v=beta&t=niKouj28oL9OACX0BY-ruBzilcDjhIk0m2Jb0fhXvhw",
+    "profile_id": "ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8",
+    "member_urn": "urn:li:member:222101687",
+    "public_id": "ines-cox-09b46b62",
+    "experience": [
+        {
+            "locationName": "Belgium",
+            "entityUrn": "urn:li:fs_position:(ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8,2039631544)",
+            "geoLocationName": "Belgium",
+            "geoUrn": "urn:li:fs_geo:100565514",
+            "companyName": "Badenoch + Clark",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior Executive Recruitment & Client Partner - Team Leader Recruitment Solutions Belgium",
+            "region": "urn:li:fs_region:(be,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9415",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHrxTwQjtn9zw/company-logo_"
+        },
+        {
+            "locationName": "Belgium",
+            "entityUrn": "urn:li:fs_position:(ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8,1792673673)",
+            "geoLocationName": "Belgium",
+            "geoUrn": "urn:li:fs_geo:100565514",
+            "companyName": "Badenoch + Clark",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Practice Leader - Permanent Recruitment & Executive Search",
+            "region": "urn:li:fs_region:(be,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9415",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHrxTwQjtn9zw/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8,5)"
+            ],
+            "locationName": "Belgium",
+            "entityUrn": "urn:li:fs_position:(ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8,778881928)",
+            "geoLocationName": "Belgium",
+            "geoUrn": "urn:li:fs_geo:100565514",
+            "companyName": "Badenoch & Clark Belgium",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior Recruitment Consultant - Direct Search",
+            "region": "urn:li:fs_region:(be,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9415",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHrxTwQjtn9zw/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8,1)",
+                "urn:li:fs_course:(ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8,2)",
+                "urn:li:fs_course:(ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8,3)",
+                "urn:li:fs_course:(ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8,4)"
+            ],
+            "locationName": "Limburg, Vlaanderen, België",
+            "entityUrn": "urn:li:fs_position:(ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8,346688833)",
+            "geoLocationName": "Limburg, Vlaanderen, België",
+            "geoUrn": "urn:li:fs_geo:105006245",
+            "companyName": "The Adecco Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Senior Recruitment Consultant",
+            "region": "urn:li:fs_region:(be,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1929",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF3CNVYVAnNaw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8,731145923)",
+            "companyName": "Delhaize Belgium",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2005
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2003
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Commercial Administrative Assistant",
+            "companyUrn": "urn:li:fs_miniCompany:3580412",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHEAKX6rxOg8g/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAA09ALcBD9wOJLX4_ynwLIh-qBIYAx3cFL8,430270482)",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100981",
+            "schoolName": "Agnetencollege te Peer",
+            "fieldOfStudy": "Sociale wetenschappen"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "French",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Federgon",
+            "name": "Social legislation & Wel-being at work",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:100889",
+                "entityUrn": "urn:li:fs_miniCompany:100889",
+                "name": "Federgon - Network for work",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1647597953029/federgon_logo?e=1710374400&v=beta&t=eMPXYZYoGnJmBJ4i8M2yWngqzkFXVkJ9l5xLcn7gZsU",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1647597953029/federgon_logo?e=1710374400&v=beta&t=UjY1lz__NDML5yjL9iMFEDxNTsLaNkZtAzm9oXs-dRg",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1647597953029/federgon_logo?e=1710374400&v=beta&t=SES4HPRCF5u03g-OQ2kiH-FJkjqtFafH7CVjYIuvDG8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQHnXyKfL2Cylg/company-logo_"
+                    }
+                },
+                "universalName": "federgon",
+                "dashCompanyUrn": "urn:li:fsd_company:100889",
+                "trackingId": "lMJhl37BS8auxMbXl/SWgg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:100889"
+        },
+        {
+            "name": "Business administration",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            }
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

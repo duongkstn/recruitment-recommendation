@@ -1,0 +1,244 @@
+{
+    "summary": "Tackle the difficult problem of releasing and maintaining software. We often see organizations struggle to deliver quality software at speed. The delivery pipelines feature slow, unpredictable and unreliable results. \n\nAt Gedge, we have the specific knowledge and understanding to get your ideas and features in front of customers. Quick, and reliable. Maximizing revenue on your digital assets. \n\nWe help organizations that care about how their software is delivered.   \n\nhttps://gedge.io",
+    "industryName": "Information Technology & Services",
+    "lastName": "Bakker",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Hessel",
+    "entityUrn": "urn:li:fs_profile:ACoAAAavDsUBwX-3xc0uOQ-2Atop077evFtjJvA",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Release Engineering & DevOps | gedge.io",
+    "profile_id": "ACoAAAavDsUBwX-3xc0uOQ-2Atop077evFtjJvA",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAavDsUBwX-3xc0uOQ-2Atop077evFtjJvA",
+    "member_urn": "urn:li:member:112135877",
+    "public_id": "hessel-bakker",
+    "experience": [
+        {
+            "locationName": "Amsterdam, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAavDsUBwX-3xc0uOQ-2Atop077evFtjJvA,600325715)",
+            "geoLocationName": "Amsterdam, Netherlands",
+            "companyName": "Gedge",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2014
+                }
+            },
+            "description": "https://gedge.io/\n\nBased in Amsterdam, we provide services and expertise to maximize revenue on your digital assets through consulting services on release engineering & devops\n\nKeywords: DevOps | Cloud | Containers | Agile | Docker | Kubernetes | Linux/Unix | Ansible | Terraform | Puppet | Jenkins | CI/CD | Git | Maven | Tomcat | Configuration as Code | Groovy | Agile Spotify model | Helm | Swarm | Amazon AWS | Microsoft Azure",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Founder",
+            "companyUrn": "urn:li:fs_miniCompany:5398983",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEnMNfxJDuagA/company-logo_"
+        },
+        {
+            "locationName": "Zaandam, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAavDsUBwX-3xc0uOQ-2Atop077evFtjJvA,1350614956)",
+            "geoLocationName": "Zaandam, Netherlands",
+            "companyName": "Ahold Delhaize",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "description": "Managing teams implementing Site Reliability Engineering (SRE) principles and practices, and designing, migrating and managing on-premise clusters. Clusters which service the ecommerce platforms for multiple daughter companies, servicing upwards of half a million user sessions per day. \nCreating and implementing the continuous delivery architecture for over two hundred developers, employing configuration as code principles and working on cloud migration to Microsoft Azure with all our micro-services. \n\nAncillary activities: \n- Organizing knowledge exchanges outside of the organization\n- Presiding over the CI/CD guild and Automation Community of Practice\n- DevOps/Site Reliability Engineering (SRE) roadshow\n- Presiding over the Coffee Club™\n\nKeywords: DevOps | Cloud | Azure | Containers | Agile | Docker | Kubernetes | Helm | Linux/Unix | Ansible | Terraform | CI/CD | Release Engineering | GitHub Actions | Jenkins | Git | Configuration as Code | Groovy",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Technical Product Owner",
+            "companyUrn": "urn:li:fs_miniCompany:10877849",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHBqCTwTO_nlA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAavDsUBwX-3xc0uOQ-2Atop077evFtjJvA,951482305)",
+            "geoLocationName": "Amsterdam, Netherlands",
+            "companyName": "Eurocommercial Properties N.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "description": "Implementation of continuous delivery pipelines and containerization platform for homegrown software solutions. Subsequently brought this platform to production, providing the business with functionality like feature branch testing and continuous deployment.\n\nKeywords: DevOps | Linux/Unix | Agile | Docker | Swarm | Puppet | Jenkins | CI/CD | Git | Maven | Configuration as Code | Amazon AWS | Tomcat | Apache Isis",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Real Estate"
+                ]
+            },
+            "title": "DevOps Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:100637",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGEm92AFAQc_w/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAavDsUBwX-3xc0uOQ-2Atop077evFtjJvA,801223021)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "companyName": "Capgemini",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "description": "Main engagement consulting with ING Bank on devops, and conducting the migration of applications that serve the 1.3 million credit card customers to new datacenter(s). \n\nAncillary activities: \n- Applied Innovation Exchange, developing a model to teach our NAO robot to speak using IBM Watson\n- Capsonus (Capgemini band)\n\n\nKeywords: DevOps | Linux/Unix | Bash | Jenkins | CI/CD | Agile | Spotify model | Git | Jira | ServiceNow",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "IT Infrastructure Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:157240",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQF_q1awsuPNAg/company-logo_"
+        },
+        {
+            "locationName": "Enschede, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAavDsUBwX-3xc0uOQ-2Atop077evFtjJvA,709130656)",
+            "geoLocationName": "Enschede, Netherlands",
+            "companyName": "Dutch Startup Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "description": "The Dutch Startup Group kickstarts of start- and scale-up's with a dedicated, multi-disciplinary team of professionals. Within the role of co-founder designed the IT infrastructure and directed the other technical aspects. View the start-up portfolio at http://www.dutch-startup.nl/\n\nKeywords: DevOps | Linux/Unix | Docker | Agile | Entrepreneurship",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Internet"
+                ]
+            },
+            "title": "Co-Founder",
+            "companyUrn": "urn:li:fs_miniCompany:9435760",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHJ5iMPa1JD3g/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAavDsUBwX-3xc0uOQ-2Atop077evFtjJvA,370990472)",
+            "school": {
+                "objectUrn": "urn:li:school:15451",
+                "entityUrn": "urn:li:fs_miniSchool:15451",
+                "active": true,
+                "schoolName": "University of Amsterdam",
+                "trackingId": "cYJY2cN6RpGimDT3S/ehcQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_"
+            },
+            "activities": "Study Association Via",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "description": "Graduated in the Business Information Systems track of the master Information Studies, focusing on the alignment of business with information, and perspectives on information and management.\n\nArticles (co-)authored:\n- Inter-organizational Trust in Cyber Security\n- Coherentism in research on autopoietic systems\n- Inter-organizational trust: A validation effort towards the propensity to trust concept (Graduation Thesis)",
+            "degreeName": "Master of Science (M.Sc.)",
+            "schoolName": "University of Amsterdam",
+            "fieldOfStudy": "Information Studies",
+            "schoolUrn": "urn:li:fs_miniSchool:15451"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAavDsUBwX-3xc0uOQ-2Atop077evFtjJvA,80226839)",
+            "school": {
+                "objectUrn": "urn:li:school:15443",
+                "entityUrn": "urn:li:fs_miniSchool:15443",
+                "active": true,
+                "schoolName": "Saxion University of Applied Sciences",
+                "trackingId": "My86PC8dSDilJhuyJHp6wg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHx7isknIg5gQ/company-logo_"
+            },
+            "activities": "Saxion Startup Center, cMe",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "description": "IT Service Management education program including a minor in Administration and Security and a major in Server-based Computing. Graduated within my own startup on designing and building a PaaS  platform based on container technologies.",
+            "degreeName": "Bachelor of Applied Science (B.A.Sc.)",
+            "schoolName": "Saxion Hogescholen",
+            "fieldOfStudy": "Information and Communication Technology",
+            "schoolUrn": "urn:li:fs_miniSchool:15443"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Volunteer",
+            "companyName": "The Center for Humane Technology",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "humanetech.com | Realigning technology with humanity's best interests."
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

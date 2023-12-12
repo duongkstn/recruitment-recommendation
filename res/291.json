@@ -1,0 +1,509 @@
+{
+    "summary": "To date I have worked in leadership roles of increasing seniority within the specialty chemical and construction materials sectors across eight locations and seven countries within three continents. \n\nMy roles within ICI and CRH have ranged from R&D / Engineering / Manufacturing management to Executive responsibility for the large scale multi-site Operations, Performance, Sustainability,  Environmental, Quality, Engineering & Projects and Quarrying functions in a variety of businesses and locations.\n\nMy current role is to lead capability building initiatives in our Global Operations including delivery of the Frontline Leadership Program at CRH. This Program is aimed at improving our long term safety and operating performance through the development of our Frontline Leaders.",
+    "industryName": "Building Materials",
+    "lastName": "Wills",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Martin",
+    "entityUrn": "urn:li:fs_profile:ACoAAAEDujkBzfy3pNOK0rbiDLQYtbqQk3VD18o",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Vice President - Global Operations Development at CRH",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQEP5h77hFeU1w/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1666367012864?e=1707955200&v=beta&t=drWU66vBp51dYFXH93NmNYitCUfpGNoommADRWooD_g",
+    "img_200_200": "200_200/0/1666367012864?e=1707955200&v=beta&t=qDy7HVh0Fl9asom2MSdDzjhAnx2taT5EpXlW8rIwU5U",
+    "img_400_400": "400_400/0/1666367012864?e=1707955200&v=beta&t=8zMp3mRMeoVBfCw423uZLFUY3m3-3NKoyhipltqKeVM",
+    "img_800_800": "800_800/0/1666367012864?e=1707955200&v=beta&t=-6NUYUpuVVyB5bIQ2hVKPFZNewiQ1KLN8rkIR_LCgP0",
+    "profile_id": "ACoAAAEDujkBzfy3pNOK0rbiDLQYtbqQk3VD18o",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAEDujkBzfy3pNOK0rbiDLQYtbqQk3VD18o",
+    "member_urn": "urn:li:member:17021497",
+    "public_id": "martin-wills-4a184a5",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEDujkBzfy3pNOK0rbiDLQYtbqQk3VD18o,2103598903)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "description": "Responsible for leading the establishment, design and global roll-out of a portfolio of initiatives aimed at the development of CRH operational frontline workers, frontline leaders and their managers in line with our cultural and strategic priorities at CRH. This portfolio includes continued responsibility for the CRH Frontline Leadership Program.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Vice President - Global Operations Development",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEDujkBzfy3pNOK0rbiDLQYtbqQk3VD18o,1642481959)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "description": "Responsible for the development and roll out of the CRH Frontline Leadership Program in >20 languages to ca.10,000 employees located in over 30 countries with the aim of reducing serious safety incidents, improving performance and developing talent",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Global Director - Frontline Leadership Program",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Manila, Philippines",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEDujkBzfy3pNOK0rbiDLQYtbqQk3VD18o,825993796)",
+            "geoLocationName": "Manila, Philippines",
+            "companyName": "Republic Cement",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "description": "Republic Cement Group is the proud supplier of the Philippines best-quality cement and building materials under the brands - Republic, Fortune, Rapidset, Kapitbalay, Mindanao, and Wallmaster. \n\nAs VP Manufacturing I am responsible for the safe, compliant, efficient and cost effective operation and development of our six strategically located manufacturing sites across the Philippines offering the widest supply footprint to serve the needs of the rapidly developing Philippines economy.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Vice President Manufacturing",
+            "companyUrn": "urn:li:fs_miniCompany:6480934",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGQe5onV_7e0w/company-logo_"
+        },
+        {
+            "locationName": "Beijing China",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEDujkBzfy3pNOK0rbiDLQYtbqQk3VD18o,743015945)",
+            "geoLocationName": "Beijing China",
+            "companyName": "CRH China",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2014
+                }
+            },
+            "description": "As Cement Director I supported the operation, development and post-acquisition integration of our Heavyside businesses within the Asia Pacific region.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Cement Director",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Beijing, China",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEDujkBzfy3pNOK0rbiDLQYtbqQk3VD18o,320927460)",
+            "geoLocationName": "Beijing, China",
+            "companyName": "CRH China",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2012
+                }
+            },
+            "description": "As Technical Director my responsibilities centered on:\n- Driving cost reduction efforts and building a strong engineering team in our Chinese JV interests\n- Coordinating the key technical support to CRH cement operations and cement business development in China\n- Enhancing stakeholder engagement and sustainable development of CRH activities within the Chinese Building Materials sector\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Technical Director",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAEDujkBzfy3pNOK0rbiDLQYtbqQk3VD18o,855825896)",
+            "school": {
+                "objectUrn": "urn:li:school:374058",
+                "entityUrn": "urn:li:fs_miniSchool:374058",
+                "active": true,
+                "schoolName": "UCD Michael Smurfit Graduate Business School",
+                "trackingId": "LNrteQGIQ/ildxEYOIGpcQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFeoY8iuxxI6Q/company-logo_"
+            },
+            "grade": "Distinction",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "description": "Pathway towards MSc in Business (Leadership & Management Practice)\nKey topics covered:\n1. Interpretation and use of financial reports to make better business decisions and obtain a broader understanding of corporate finance in relation to enterprise strategy \n2. Capital Structure and financing decisions\n3. Cost drivers, cost allocation, flexible budgeting and profitability analysis\n4. Working capital management and creating shareholder value through investment decisions, marketing and innovation\n5. International financial markets and the economic impact of the interplay of interest rates, inflation levels and exchange rates\n6. Evaluation of mergers and acquisitions including the valuation of target companies and synergies, the structuring of consideration, understanding and effective management of ‘agency problems’ through effective corporate governance, performance related pay etc.",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101426",
+            "degreeName": "Professional Diploma - Business Finance",
+            "schoolName": "UCD Michael Smurfit Graduate Business School",
+            "fieldOfStudy": "Accounting and Finance",
+            "schoolUrn": "urn:li:fs_miniSchool:374058"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAEDujkBzfy3pNOK0rbiDLQYtbqQk3VD18o,267008454)",
+            "school": {
+                "objectUrn": "urn:li:school:12445",
+                "entityUrn": "urn:li:fs_miniSchool:12445",
+                "active": true,
+                "schoolName": "INSEAD",
+                "trackingId": "FgganokwRhiRJyZTKIKzog==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "schoolName": "INSEAD",
+            "fieldOfStudy": "Finance for Executives - Managing Value Creation",
+            "schoolUrn": "urn:li:fs_miniSchool:12445"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAEDujkBzfy3pNOK0rbiDLQYtbqQk3VD18o,40736050)",
+            "school": {
+                "objectUrn": "urn:li:school:13379",
+                "entityUrn": "urn:li:fs_miniSchool:13379",
+                "active": true,
+                "schoolName": "Dublin City University",
+                "trackingId": "GQHjnB4kT8m4Clypfezl9w==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQFPxkpvHFH-Lg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "degreeName": "MBA",
+            "schoolName": "Dublin City University",
+            "fieldOfStudy": "Business",
+            "schoolUrn": "urn:li:fs_miniSchool:13379"
+        }
+    ],
+    "languages": [
+        {
+            "name": "French"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Engineering Council",
+            "name": "Chartered Engineer: CEng (UK)",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:554119",
+                "entityUrn": "urn:li:fs_miniCompany:554119",
+                "name": "Engineering Council",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630560763097/engineering_council_logo?e=1710374400&v=beta&t=GoOK0Yl7rUMysWa8xt-uSC-p-5bMwN3p6RFwLSnon0Q",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630560763097/engineering_council_logo?e=1710374400&v=beta&t=B3YFS8hXvvkY2uZqsubm2NAC5ZSQ1Lg8p4m95XvKciI",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630560763097/engineering_council_logo?e=1710374400&v=beta&t=Gcyn1M-p0AcITwkkmp1_0uryhXh2anbQuPFNk5mBGhk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQEUoO3JbZCCww/company-logo_"
+                    }
+                },
+                "universalName": "engineering-council",
+                "dashCompanyUrn": "urn:li:fsd_company:554119",
+                "trackingId": "XthVZnhaRYqE7S01msM8Pw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:554119"
+        },
+        {
+            "authority": "Science Council",
+            "name": "Chartered Scientist: CSci",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2004
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2187815",
+                "entityUrn": "urn:li:fs_miniCompany:2187815",
+                "name": "Science Council",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1663669797484/science_council_logo?e=1710374400&v=beta&t=i0HORrD3KifgSxrQZGmbtu_vwG77LIBhjZn16UatuHg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1663669797484/science_council_logo?e=1710374400&v=beta&t=Ye0-fXCurmlfVWzBJyAB3yLxolt51y75xLyWRCYDLtk",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1663669797484/science_council_logo?e=1710374400&v=beta&t=7TezxGoLnxjC5EWj_i7UA6kMshofDIPFruw6CBxhkuU",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGjx2v_jLoFgg/company-logo_"
+                    }
+                },
+                "universalName": "science-council",
+                "dashCompanyUrn": "urn:li:fsd_company:2187815",
+                "trackingId": "qJVcEL++T1ahTldk7ihgnQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2187815"
+        },
+        {
+            "authority": "Institution of Chemical Engineers (IChemE)",
+            "name": "Corporate Member (MIChemE)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:74625",
+                "entityUrn": "urn:li:fs_miniCompany:74625",
+                "name": "Institution of Chemical Engineers (IChemE)",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1663655619462/icheme_logo?e=1710374400&v=beta&t=9T6w2pCjdVgGCX5mKRlQnbRDCwymQqlse-p1KeG1bPw",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1663655619462/icheme_logo?e=1710374400&v=beta&t=YDCWd1gmsDH4XHNDUC0O4hpxN5bOFPrG-hsEw-GZ-ZE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1663655619462/icheme_logo?e=1710374400&v=beta&t=1Y-JFuoeo0gNj9elfcF8R2PtwQHYJ62D8tI_qe-HArM",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGiJM_J7dyuAw/company-logo_"
+                    }
+                },
+                "universalName": "icheme",
+                "dashCompanyUrn": "urn:li:fsd_company:74625",
+                "trackingId": "SYK9dRNtR/eiA2tW65KKrw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:74625"
+        },
+        {
+            "authority": "Institution of Chemical Engineers (IChemE)",
+            "name": "Fellow of Institution of Chemical Engineers (FIChemE)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:74625",
+                "entityUrn": "urn:li:fs_miniCompany:74625",
+                "name": "Institution of Chemical Engineers (IChemE)",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1663655619462/icheme_logo?e=1710374400&v=beta&t=9T6w2pCjdVgGCX5mKRlQnbRDCwymQqlse-p1KeG1bPw",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1663655619462/icheme_logo?e=1710374400&v=beta&t=YDCWd1gmsDH4XHNDUC0O4hpxN5bOFPrG-hsEw-GZ-ZE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1663655619462/icheme_logo?e=1710374400&v=beta&t=1Y-JFuoeo0gNj9elfcF8R2PtwQHYJ62D8tI_qe-HArM",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGiJM_J7dyuAw/company-logo_"
+                    }
+                },
+                "universalName": "icheme",
+                "dashCompanyUrn": "urn:li:fsd_company:74625",
+                "trackingId": "qnKJLscSQmCpHPcbj8IcNA=="
+            },
+            "displaySource": "icheme.org",
+            "companyUrn": "urn:li:fs_miniCompany:74625",
+            "url": "https://www.icheme.org/membership/membership-grades/fellow/"
+        },
+        {
+            "authority": "Institution of Chemical Engineers",
+            "name": "Process Safety Leadership and Culture",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "30176811",
+            "displaySource": "credential.net",
+            "url": "https://www.credential.net/b9409887-7081-4e29-a5dc-ef41131aab98"
+        },
+        {
+            "authority": "DDI | Development Dimensions International",
+            "name": "DDI Facilitator Certification Process Workshop",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:163390",
+                "entityUrn": "urn:li:fs_miniCompany:163390",
+                "name": "DDI | Development Dimensions International",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1651684277548/ddiworld_logo?e=1710374400&v=beta&t=Mr2faokG6ai6TSAhKrNUMGq3US-Xl1sFoChvNa0zMss",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1651684277548/ddiworld_logo?e=1710374400&v=beta&t=nQvs4psmVvLLZGKx8KSt9jlYFPHdAVcwa6Rd1z3e9Xs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1651684277548/ddiworld_logo?e=1710374400&v=beta&t=sIKJJfWdcjFYCdEtLACjfFOqgnkHL1EFPg_eiEeEoFw",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGLQxWtU0v9EA/company-logo_"
+                    }
+                },
+                "universalName": "ddiworld",
+                "dashCompanyUrn": "urn:li:fsd_company:163390",
+                "trackingId": "5+C7i1VSQTSKnuXv/i3yYQ=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:163390",
+            "url": "https://www.credly.com/badges/1dfa133d-cacc-41c0-accb-bae9c49b5981/linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

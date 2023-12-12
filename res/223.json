@@ -1,0 +1,148 @@
+{
+    "industryName": "Publishing",
+    "lastName": "Vermond",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:82",
+    "firstName": "Lorenzo",
+    "entityUrn": "urn:li:fs_profile:ACoAAB7r8YMBJSB-c02_6qFQOvdxRZapVMQVJZ0",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104079901"
+    },
+    "geoLocationName": "Leiden, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Accountmanager bij Rebo Publishers ",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQGKSJvRqiCEYg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1575315441843?e=1707955200&v=beta&t=9WJ_rU1LNyItym0UQWD6jB5kXNkq1Mu0WC4MfYFgTMY",
+    "img_200_200": "200_200/0/1575315441802?e=1707955200&v=beta&t=Xe5WqCqYMCDuw0NowSGpv-JadOsAUTOawIRTl9tWW2k",
+    "img_400_400": "400_400/0/1575315441870?e=1707955200&v=beta&t=j0mtOuAsWbR5UlFMOKpJ5DKulHzOCqf0pJkROzhLjag",
+    "img_800_800": "800_800/0/1575315441912?e=1707955200&v=beta&t=ws7UFj6qTNau-8ssDVM99gKm_9kjXV_JPLYEaK46uCA",
+    "profile_id": "ACoAAB7r8YMBJSB-c02_6qFQOvdxRZapVMQVJZ0",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAB7r8YMBJSB-c02_6qFQOvdxRZapVMQVJZ0",
+    "member_urn": "urn:li:member:518779267",
+    "public_id": "lorenzo-vermond-5978a3125",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAB7r8YMBJSB-c02_6qFQOvdxRZapVMQVJZ0,1550989517)",
+            "companyName": "Rebo Publishers ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Publishing"
+                ]
+            },
+            "title": "Accountmanager",
+            "companyUrn": "urn:li:fs_miniCompany:2201387",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHL6uQJ7Dm2CA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam (Premium) Kalverstraat ",
+            "entityUrn": "urn:li:fs_position:(ACoAAB7r8YMBJSB-c02_6qFQOvdxRZapVMQVJZ0,1340186302)",
+            "geoLocationName": "Amsterdam (Premium) Kalverstraat ",
+            "companyName": "Nelson Schoenen BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Regiomanager i.o/Shopcoach/vestigingsmanager ",
+            "companyUrn": "urn:li:fs_miniCompany:663238",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGfMyxTsqzumw/company-logo_"
+        },
+        {
+            "locationName": "Leiden, Provincie Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAB7r8YMBJSB-c02_6qFQOvdxRZapVMQVJZ0,906978535)",
+            "geoLocationName": "Leiden, Provincie Zuid-Holland, Nederland",
+            "companyName": "Nelson Schoenen BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "description": "Shopcoach (Begeleiding tien winkels)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Vestigingsmanager/Shopcoach",
+            "companyUrn": "urn:li:fs_miniCompany:663238",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGfMyxTsqzumw/company-logo_"
+        },
+        {
+            "locationName": "Nootdorp, Provincie Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAB7r8YMBJSB-c02_6qFQOvdxRZapVMQVJZ0,838058546)",
+            "geoLocationName": "Nootdorp, Provincie Zuid-Holland, Nederland",
+            "companyName": "Nelson Schoenen BV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "description": "Shopcoach (Begeleiding vijf winkels) ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Vestigingsmanager",
+            "companyUrn": "urn:li:fs_miniCompany:663238",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGfMyxTsqzumw/company-logo_"
+        }
+    ],
+    "education": [],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

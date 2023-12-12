@@ -1,0 +1,324 @@
+{
+    "summary": "I focus on finding the Best Role for the Best Person.\nI believe the human element is the best part of the recruitment experience - I love chatting to candidates and understanding what it is that will allow them to enjoy work and flourish .\nFor any business to succeed, it must allow its people to succeed first.\n\n“When we strive to become better than we are, everything around us becomes better too.”\n - Paulo Coelho\n\n\n\n\n",
+    "industryName": "Human Resources",
+    "lastName": "Gillen (CIPD)",
+    "locationName": "Ireland",
+    "student": false,
+    "geoCountryName": "Ireland",
+    "geoCountryUrn": "urn:li:fs_geo:104738515",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 8,
+        "day": 11
+    },
+    "industryUrn": "urn:li:fs_industry:137",
+    "firstName": "Danielle",
+    "entityUrn": "urn:li:fs_profile:ACoAACXhpRsB1BWoUPXN5BeORvBrLhnKstdTAg4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100354076"
+    },
+    "geoLocationName": "Dublin City, County Dublin",
+    "location": {
+        "basicLocation": {
+            "countryCode": "ie"
+        }
+    },
+    "headline": "Business Support Recruitment Team Manager - HR (Junior and Senior Market) and Business Support Specialist",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQHBjDKHeOuNjA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1619699604859?e=1707955200&v=beta&t=TSZ1vnbkWcWsfG6JXT2HvXtwrX4R--pySYRkuCZcYY4",
+    "img_200_200": "200_200/0/1619699604859?e=1707955200&v=beta&t=4rk25dptjNx7Z6b1taSaJNgoim_x3WQV5ncD7LZHmhY",
+    "img_400_400": "400_400/0/1619699604859?e=1707955200&v=beta&t=hvZZ531onmT5TQ7IQEPuCMiGuCMezRTdnkw22_bkWDQ",
+    "img_800_800": "800_800/0/1619699604859?e=1707955200&v=beta&t=xesZwrSAeJUXQEiIk_rwUWMXqzbuK3xWWmVN8vr4D8E",
+    "profile_id": "ACoAACXhpRsB1BWoUPXN5BeORvBrLhnKstdTAg4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACXhpRsB1BWoUPXN5BeORvBrLhnKstdTAg4",
+    "member_urn": "urn:li:member:635544859",
+    "public_id": "danielle-gillen-cipd-1b7a14158",
+    "experience": [
+        {
+            "locationName": "Dublin, County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAACXhpRsB1BWoUPXN5BeORvBrLhnKstdTAg4,2111230815)",
+            "geoLocationName": "Dublin, County Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:105178154",
+            "companyName": "Walters People",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Manager of Business Support",
+            "region": "urn:li:fs_region:(ie,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1681136",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHoSieIsAozZA/company-logo_"
+        },
+        {
+            "locationName": "Dublin, County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAACXhpRsB1BWoUPXN5BeORvBrLhnKstdTAg4,1999351361)",
+            "geoLocationName": "Dublin, County Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:105178154",
+            "companyName": "Walters People",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Senior Recruitment Consultant",
+            "region": "urn:li:fs_region:(ie,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1681136",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHoSieIsAozZA/company-logo_"
+        },
+        {
+            "locationName": "Dublin, County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAACXhpRsB1BWoUPXN5BeORvBrLhnKstdTAg4,1744267536)",
+            "geoLocationName": "Dublin, County Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:105178154",
+            "companyName": "Walters People",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Business Support Recruitment Consultant",
+            "region": "urn:li:fs_region:(ie,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1681136",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHoSieIsAozZA/company-logo_"
+        },
+        {
+            "locationName": "Mullingar, County Westmeath, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAACXhpRsB1BWoUPXN5BeORvBrLhnKstdTAg4,1744270068)",
+            "geoLocationName": "Mullingar, County Westmeath, Ireland",
+            "geoUrn": "urn:li:fs_geo:105947142",
+            "companyName": "Bloomfield House Hotel, Leisure Club & Spa",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Hospitality"
+                ]
+            },
+            "title": "Front Desk Receptionist",
+            "region": "urn:li:fs_region:(ie,10141)",
+            "companyUrn": "urn:li:fs_miniCompany:2654694",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQExsM8SAY62cg/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACXhpRsB1BWoUPXN5BeORvBrLhnKstdTAg4,1512525487)",
+            "companyName": "Dalata Hotel Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "description": "Within this role I shall work within each department in two of the brand hotels. Starting with a twenty day induction, I shall then branch into front office, accommodation, food and beverage, sales and marketing, human resources, maintenance, leisure and sales and marketing.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospitality"
+                ]
+            },
+            "title": "Graduate Management Trainee",
+            "companyUrn": "urn:li:fs_miniCompany:2768963",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFk6DgdfcW8Tw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACXhpRsB1BWoUPXN5BeORvBrLhnKstdTAg4,916594967)",
+            "school": {
+                "objectUrn": "urn:li:school:13371",
+                "entityUrn": "urn:li:fs_miniSchool:13371",
+                "active": true,
+                "schoolName": "Institute of Technology, Sligo",
+                "trackingId": "I7/9j4tBQ7eLwTB4U+DzvA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHkWuJTuw9Wvg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "degreeName": "Part-Time Postgraduate Degree",
+            "schoolName": "Institute of Technology, Sligo",
+            "fieldOfStudy": "Strategic People Management",
+            "schoolUrn": "urn:li:fs_miniSchool:13371"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACXhpRsB1BWoUPXN5BeORvBrLhnKstdTAg4,710035941)",
+            "school": {
+                "objectUrn": "urn:li:school:13366",
+                "entityUrn": "urn:li:fs_miniSchool:13366",
+                "active": true,
+                "schoolName": "Technological University of the Shannon, Athlone Campus ",
+                "trackingId": "BRRBGFSZQcqyWKdz2xbLKA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQEt4fMWUVcecg/company-logo_"
+            },
+            "activities": "Within this course we have covered a  multitude of HR related topics such as:\nDeveloping yourself as an effective HR practitioner\nResourcing Talent\nRecording HR information\nEmployment Relations\nPerformance and reward management\nDelivering learning and development activities\nSupporting change within organisations.",
+            "grade": "Foundation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "degreeName": "Diploma of Education",
+            "schoolName": "Athlone Institute of Technology",
+            "fieldOfStudy": "CIPD Diploma in HR Practice",
+            "degreeUrn": "urn:li:fs_degree:513",
+            "schoolUrn": "urn:li:fs_miniSchool:13366"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACXhpRsB1BWoUPXN5BeORvBrLhnKstdTAg4,499081975)",
+            "school": {
+                "objectUrn": "urn:li:school:13370",
+                "entityUrn": "urn:li:fs_miniSchool:13370",
+                "active": true,
+                "schoolName": "Galway-Mayo Institute of Technology",
+                "trackingId": "M11avwqGTwu3jinTVQIrcQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFCz0fvl_KhwA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "schoolName": "Galway-Mayo Institute of Technology",
+            "schoolUrn": "urn:li:fs_miniSchool:13370"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Volunteer",
+            "companyName": "Oxfam",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2013
+                }
+            },
+            "cause": "POVERTY_ALLEVIATION",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:6884",
+                    "entityUrn": "urn:li:fs_miniCompany:6884",
+                    "name": "Oxfam",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630594753447/oxfam_logo?e=1710374400&v=beta&t=-OhsfXXeIM76D7HKoGCbzmdfDGpEwAKRdB5BY8OiG_g",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630594753447/oxfam_logo?e=1710374400&v=beta&t=1cHOSXmJfwooxoNvZd7kVLEDZS5vJLbAOsIJOaqAHZ0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630594753447/oxfam_logo?e=1710374400&v=beta&t=LDyFUwDk5FUbkl54Bt_C2YSpAU9-g8Ak_OMFowOOZUc",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C560BAQGxggEAfTho3A/company-logo_"
+                        }
+                    },
+                    "universalName": "oxfam",
+                    "dashCompanyUrn": "urn:li:fsd_company:6884",
+                    "trackingId": "oYWHvBY2SgWNA0+tywFDlA=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:6884"
+        }
+    ],
+    "honors": [
+        {
+            "description": "The President’s Award is a self-development programme that encourages you to find your passion, get active and make a difference in your community! Gaisce is a direct challenge from the President of Ireland to young people aged 15-25 to dream big and realize their potential. Within this award i have completed both the Bronze and Silver award levels",
+            "title": "Gaisce ",
+            "issueDate": {
+                "month": 5,
+                "year": 2015
+            },
+            "issuer": "The President of Ireland"
+        }
+    ],
+    "projects": []
+}

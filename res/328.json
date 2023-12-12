@@ -1,0 +1,240 @@
+{
+    "summary": "Arne van Faassen is a 24 year old Master’s student and currently based in Amsterdam.\nAfter obtaining his Bachelor's degree in Business Administration at the Univeristy of Amsterdam, he gained experience as a consultant working at Page Personnel in the field of IT Recruitment. This experience also helped him develop his sales and communication capabilities further.\nAt the moment, he is pursuing his Master's degree in Management Consulting at the VU in Amsterdam to further develop his expertise in the area of consulting.",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "van Faassen",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Arne",
+    "entityUrn": "urn:li:fs_profile:ACoAAC9HsfkB50QWO6-xqH6GnZ58LmcFcpppl10",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Master student in Management Consulting at VU Amsterdam",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQE18wpPmxqQmA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1631193385171?e=1707955200&v=beta&t=nxM3pjuL-oRHlw5uUgrzky35cP0mYHJx8d6GKer5Qb8",
+    "img_200_200": "200_200/0/1631193385171?e=1707955200&v=beta&t=6stfwfyn0z_5Fie4gzg-UuziHTPla1BTT0pzf9tz7hw",
+    "img_400_400": "400_400/0/1631193385171?e=1707955200&v=beta&t=vDxodcdV99P5TUsIgjXTPcjL53Poz7fpn8aXzR18jZk",
+    "img_800_800": "800_800/0/1631193385171?e=1707955200&v=beta&t=Arfkvzk_RfZZQUmcUtqmzF7GptPllaEzJOLVCUJr_2I",
+    "profile_id": "ACoAAC9HsfkB50QWO6-xqH6GnZ58LmcFcpppl10",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAC9HsfkB50QWO6-xqH6GnZ58LmcFcpppl10",
+    "member_urn": "urn:li:member:793227769",
+    "public_id": "arne-van-faassen",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAC9HsfkB50QWO6-xqH6GnZ58LmcFcpppl10,1602092243)",
+            "companyName": "AVF Sales",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Fund-Raising"
+                ]
+            },
+            "title": "Eigenaar",
+            "companyUrn": "urn:li:fs_miniCompany:69497916",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFdqUGDyc1v5g/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAC9HsfkB50QWO6-xqH6GnZ58LmcFcpppl10,2149459384)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Page Personnel",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "IT-recruitmentconsultant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:339092",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFi9vvPwqd_lQ/company-logo_"
+        },
+        {
+            "locationName": "Barcelona, Catalonië, Spanje",
+            "entityUrn": "urn:li:fs_position:(ACoAAC9HsfkB50QWO6-xqH6GnZ58LmcFcpppl10,2032534253)",
+            "geoLocationName": "Barcelona, Catalonië, Spanje",
+            "geoUrn": "urn:li:fs_geo:107025191",
+            "companyName": "Universitat Pompeu Fabra - UPF",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ]
+            },
+            "title": "Student at Universidad Pompeu Fabra",
+            "region": "urn:li:fs_region:(es,0)",
+            "companyUrn": "urn:li:fs_miniCompany:9520",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQGKUPI03WP6vA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAC9HsfkB50QWO6-xqH6GnZ58LmcFcpppl10,1919835040)",
+            "companyName": "Study Association Sefa",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Education Management"
+                ]
+            },
+            "title": "Acquisition",
+            "companyUrn": "urn:li:fs_miniCompany:610942",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEO6JYkJVaA2A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAC9HsfkB50QWO6-xqH6GnZ58LmcFcpppl10,1752002361)",
+            "companyName": "Study Association Sefa",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Education Management"
+                ]
+            },
+            "title": "Chairman Events Committee ",
+            "companyUrn": "urn:li:fs_miniCompany:610942",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEO6JYkJVaA2A/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAC9HsfkB50QWO6-xqH6GnZ58LmcFcpppl10,916303034)",
+            "school": {
+                "objectUrn": "urn:li:school:15453",
+                "entityUrn": "urn:li:fs_miniSchool:15453",
+                "active": true,
+                "schoolName": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "trackingId": "pafGQJI9QUK0p5mvB5DyBQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "description": "Master's degree in Business Administration - Management Consulting",
+            "degreeName": "Master's degree",
+            "schoolName": "Vrije Universiteit Amsterdam",
+            "fieldOfStudy": "Management Consulting",
+            "degreeUrn": "urn:li:fs_degree:500",
+            "schoolUrn": "urn:li:fs_miniSchool:15453"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAC9HsfkB50QWO6-xqH6GnZ58LmcFcpppl10,638250775)",
+            "school": {
+                "objectUrn": "urn:li:school:15451",
+                "entityUrn": "urn:li:fs_miniSchool:15451",
+                "active": true,
+                "schoolName": "University of Amsterdam",
+                "trackingId": "Ut/Fq1NRSCShFZKIC1YWxA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2022
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "degreeName": "Bachelorgraad",
+            "schoolName": "Universiteit van Amsterdam",
+            "fieldOfStudy": "Business administration / Bedrijfskunde / Business management / Bedrijfsmanagement",
+            "schoolUrn": "urn:li:fs_miniSchool:15451"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Duits",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Engels",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Nederlands",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Spaans",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

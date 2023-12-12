@@ -1,0 +1,340 @@
+{
+    "summary": "Junior SAP Consultant",
+    "industryName": "Information Technology & Services",
+    "lastName": "Peijs",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Ruben",
+    "entityUrn": "urn:li:fs_profile:ACoAACt4kLUBpaUsdyFKwb3XGUg1I2Tx_SS0I_E",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100605941"
+    },
+    "geoLocationName": "Moerdijk, North Brabant",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Junior SAP Consultant bij Deloitte",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQHn23oH5l6oWg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1678456655994?e=1707955200&v=beta&t=stP04RqLbxjiFLkUDiexw5-NWJ1sCbcgyML2hEywpkI",
+    "img_200_200": "200_200/0/1678456655994?e=1707955200&v=beta&t=hgIuIkj9SbXjyup7QLMOmwv6XHFqjyyIOeuEEoZjBp4",
+    "img_389_389": "800_800/0/1678456655994?e=1707955200&v=beta&t=YV_5ThVEMOw97WTWThcr6Yq3JaZhUQoSRl_n8sfe1vs",
+    "profile_id": "ACoAACt4kLUBpaUsdyFKwb3XGUg1I2Tx_SS0I_E",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACt4kLUBpaUsdyFKwb3XGUg1I2Tx_SS0I_E",
+    "member_urn": "urn:li:member:729321653",
+    "public_id": "rubenpeijs",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAACt4kLUBpaUsdyFKwb3XGUg1I2Tx_SS0I_E,2048496752)",
+            "companyName": "Deloitte",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Junior SAP Consultant",
+            "companyUrn": "urn:li:fs_miniCompany:1038",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_"
+        },
+        {
+            "locationName": "Roosendaal, Noord-Brabant, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACt4kLUBpaUsdyFKwb3XGUg1I2Tx_SS0I_E,1799464007)",
+            "geoLocationName": "Roosendaal, Noord-Brabant, Nederland",
+            "geoUrn": "urn:li:fs_geo:103226954",
+            "companyName": "Albert Heijn",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Teamlead Production",
+            "region": "urn:li:fs_region:(nl,5685)",
+            "companyUrn": "urn:li:fs_miniCompany:10031312",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQE_asn6DhgWeg/company-logo_"
+        },
+        {
+            "locationName": "Zevenbergen, Provincie Noord-Brabant, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACt4kLUBpaUsdyFKwb3XGUg1I2Tx_SS0I_E,1454604605)",
+            "geoLocationName": "Zevenbergen, Provincie Noord-Brabant, Nederland",
+            "companyName": "Albert Heijn",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Teamleider",
+            "companyUrn": "urn:li:fs_miniCompany:10031312",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQE_asn6DhgWeg/company-logo_"
+        },
+        {
+            "locationName": "Zevenbergen, Provincie Noord-Brabant, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACt4kLUBpaUsdyFKwb3XGUg1I2Tx_SS0I_E,1456249265)",
+            "geoLocationName": "Zevenbergen, Provincie Noord-Brabant, Nederland",
+            "companyName": "Albert Heijn",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Medewerker Verkoopklaar",
+            "companyUrn": "urn:li:fs_miniCompany:10031312",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQE_asn6DhgWeg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACt4kLUBpaUsdyFKwb3XGUg1I2Tx_SS0I_E,707654531)",
+            "school": {
+                "objectUrn": "urn:li:school:15452",
+                "entityUrn": "urn:li:fs_miniSchool:15452",
+                "active": true,
+                "schoolName": "Tilburg University",
+                "trackingId": "EVbeL05MTp6MsEIwcsEpjw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_"
+            },
+            "grade": "7.4",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2022
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "description": "Behaald Juni 2022",
+            "degreeName": "Master of Science - MS",
+            "schoolName": "Tilburg University",
+            "fieldOfStudy": "Strategisch Management",
+            "degreeUrn": "urn:li:fs_degree:626",
+            "schoolUrn": "urn:li:fs_miniSchool:15452"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACt4kLUBpaUsdyFKwb3XGUg1I2Tx_SS0I_E,589826891)",
+            "school": {
+                "objectUrn": "urn:li:school:15415",
+                "entityUrn": "urn:li:fs_miniSchool:15415",
+                "active": true,
+                "schoolName": "Erasmus University Rotterdam",
+                "trackingId": "vcOFbtDWQOGL0AjX0IeyUQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101407",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "Erasmus Universiteit Rotterdam",
+            "fieldOfStudy": "Bedrijfskunde",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15415"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Tilburg University",
+            "name": "Strategy Consulting Skills",
+            "company": {
+                "objectUrn": "urn:li:company:166451",
+                "entityUrn": "urn:li:fs_miniCompany:166451",
+                "name": "Tilburg University",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631003396463/tilburg_university_logo?e=1710374400&v=beta&t=-ZtiJZ5vYlULsoPZDxILZ5S13F0aFabJzv2-LbK9UnA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631003396463/tilburg_university_logo?e=1710374400&v=beta&t=byHMBScn5JoQ3j6GOvL2P_FZfkTUXhz36Ajf1j5yVDE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631003396463/tilburg_university_logo?e=1710374400&v=beta&t=f4nTtFeYNrk7B-VYGz-6wom6pfHkK4lfpMMwxwWYtMo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_"
+                    }
+                },
+                "universalName": "tilburg-university",
+                "dashCompanyUrn": "urn:li:fsd_company:166451",
+                "trackingId": "9ShC43ddR/+PFvR3IKoreQ=="
+            },
+            "displaySource": "edubadges.nl",
+            "companyUrn": "urn:li:fs_miniCompany:166451",
+            "url": "https://www.edubadges.nl/public/assertions/lO11M6VxTbChiB5uTyc2sw"
+        },
+        {
+            "authority": "SAP",
+            "name": "SAP Certified Application Associate - SAP S/4HANA Sales 2021",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2028
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1115",
+                "entityUrn": "urn:li:fs_miniCompany:1115",
+                "name": "SAP",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688178772044/sap_logo?e=1710374400&v=beta&t=MNJ3NGT249QmXb6LKk1TJMB5zC9U3Xb0NVuYzNq8SSM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688178772044/sap_logo?e=1710374400&v=beta&t=RcTH3u4oZziPRqROPzwO4ib1XWYKZGMY-4f-W1fiE08",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688178772044/sap_logo?e=1710374400&v=beta&t=6mx5SeyxsoYjinHMWI3pDSXQOP5Ac6K2k2eS06xvkmI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFgplzXUs8o1Q/company-logo_"
+                    }
+                },
+                "universalName": "sap",
+                "dashCompanyUrn": "urn:li:fsd_company:1115",
+                "trackingId": "84RsB7g6QKiqQyP9hr1pfA=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:1115",
+            "url": "https://www.credly.com/badges/a2910ee8-c711-4479-9bf2-2559c88abc04/linked_in_profile"
+        },
+        {
+            "authority": "SAP",
+            "name": "SAP Certified Application Associate - SAP S/4HANA Cloud - Public Edition - Sales 2023",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1115",
+                "entityUrn": "urn:li:fs_miniCompany:1115",
+                "name": "SAP",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688178772044/sap_logo?e=1710374400&v=beta&t=MNJ3NGT249QmXb6LKk1TJMB5zC9U3Xb0NVuYzNq8SSM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688178772044/sap_logo?e=1710374400&v=beta&t=RcTH3u4oZziPRqROPzwO4ib1XWYKZGMY-4f-W1fiE08",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688178772044/sap_logo?e=1710374400&v=beta&t=6mx5SeyxsoYjinHMWI3pDSXQOP5Ac6K2k2eS06xvkmI",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFgplzXUs8o1Q/company-logo_"
+                    }
+                },
+                "universalName": "sap",
+                "dashCompanyUrn": "urn:li:fsd_company:1115",
+                "trackingId": "nxGGe2lzRXqht9BtzrwwoA=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:1115",
+            "url": "https://www.credly.com/badges/751eba83-47c1-4c44-8252-92b6d8adebde/linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

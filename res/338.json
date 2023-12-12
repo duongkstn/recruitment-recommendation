@@ -1,0 +1,278 @@
+{
+    "summary": "Nearly twenty years’ experience providing efficient secretarial, administrative and managerial support to senior management.  Proven track record in meeting deadlines efficiently, resolving problems independently, using initiative to improve processes and working hard to meet organisational objectives.  Able to work under pressure and successfully deal with competing demands while maintaining complete confidentiality.\n\nCertified DPO since June 2018",
+    "industryName": "Building Materials",
+    "lastName": "Dowling",
+    "locationName": "Ireland",
+    "student": false,
+    "geoCountryName": "Ireland",
+    "geoCountryUrn": "urn:li:fs_geo:104738515",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Gwen",
+    "entityUrn": "urn:li:fs_profile:ACoAABo2xOABPbG92XiaAR6jFGrcGgtNV85LLSQ",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104738515"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "ie"
+        }
+    },
+    "headline": "Demand Manager - Europe IT",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQH2mbEf-Uhs7w/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1556120436504?e=1707955200&v=beta&t=tYj7Vig6yF5-wK3VRwzwHygJ8DUfMoBU3AILVe64A2I",
+    "img_200_200": "200_200/0/1556120436505?e=1707955200&v=beta&t=naq9-jK6uBBgXeFwEKAVVFul9_08RD_Rj4e-kRY_SpM",
+    "img_400_400": "400_400/0/1556120436591?e=1707955200&v=beta&t=cDX6BJ30Bdg7mJlax-ElvStgH3PHn8fGmqNby6t88-Q",
+    "img_500_500": "800_800/0/1556120436487?e=1707955200&v=beta&t=z-6JrgTGuXEEJ1CDW5ycEz6Jp9sydnumqkSRy6Yg5qk",
+    "profile_id": "ACoAABo2xOABPbG92XiaAR6jFGrcGgtNV85LLSQ",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABo2xOABPbG92XiaAR6jFGrcGgtNV85LLSQ",
+    "member_urn": "urn:li:member:439796960",
+    "public_id": "gwen-dowling-168354103",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABo2xOABPbG92XiaAR6jFGrcGgtNV85LLSQ,2116737050)",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Demand Manager",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "EMAT Finance",
+            "entityUrn": "urn:li:fs_position:(ACoAABo2xOABPbG92XiaAR6jFGrcGgtNV85LLSQ,1942384482)",
+            "geoLocationName": "EMAT Finance",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Process Automation Officer",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Stonemason's Way, Rathfarnham, Dublin 16",
+            "entityUrn": "urn:li:fs_position:(ACoAABo2xOABPbG92XiaAR6jFGrcGgtNV85LLSQ,1454430392)",
+            "geoLocationName": "Stonemason's Way, Rathfarnham, Dublin 16",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "description": "",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Data & Audit Quality Analyst/EA to HOIA",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Stonemason's Way, Rathfarnham, Dublin 16",
+            "entityUrn": "urn:li:fs_position:(ACoAABo2xOABPbG92XiaAR6jFGrcGgtNV85LLSQ,1454432309)",
+            "geoLocationName": "Stonemason's Way, Rathfarnham, Dublin 16",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "description": "",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "European Operations Administrator and SOX Controller",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Stonemason's Way, Rathfarnham, Dublin 16",
+            "entityUrn": "urn:li:fs_position:(ACoAABo2xOABPbG92XiaAR6jFGrcGgtNV85LLSQ,700024047)",
+            "geoLocationName": "Stonemason's Way, Rathfarnham, Dublin 16",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2015
+                }
+            },
+            "description": "",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Financial Administrator",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABo2xOABPbG92XiaAR6jFGrcGgtNV85LLSQ,589494161)",
+            "schoolName": "Sancta Maria College"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Microsoft",
+            "name": "Microsoft Certified: Data Analyst Associate",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "//OQe7cnQ06t7I7a8W595A=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:1035",
+            "url": "https://www.credly.com/badges/6d92388f-402f-43eb-b3f9-ed74ee72634e?source=linked_in_profile"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "MTA: Database Fundamentals - Certified 2021",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "yKuyCgPfSUK8rSe+EgeMug=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:1035",
+            "url": "https://www.credly.com/badges/ed007563-55d4-4cab-954c-75a4dcc6beea?source=linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

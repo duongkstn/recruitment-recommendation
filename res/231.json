@@ -1,0 +1,704 @@
+{
+    "summary": "Experienced Sales Agent with a demonstrated history of working in the retail industry. Skilled in Search Engine Optimization (SEO), Microsoft Word, Sales, Social Media, and Microsoft PowerPoint. Strong sales professional with a Bachelor's degree focused in Bedrijfskunde from De Haagse Hogeschool / The Hague University of Applied Sciences.",
+    "industryName": "Retail",
+    "lastName": "S.",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:27",
+    "firstName": "Rhaziya",
+    "entityUrn": "urn:li:fs_profile:ACoAACGN3-cB-69RCRQ-QjJH0CyrZ-fiuR00ceo",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101461601"
+    },
+    "geoLocationName": "The Hague, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "BSc Bedrijfskunde - Business Administration",
+    "profile_id": "ACoAACGN3-cB-69RCRQ-QjJH0CyrZ-fiuR00ceo",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAACGN3-cB-69RCRQ-QjJH0CyrZ-fiuR00ceo",
+    "member_urn": "urn:li:member:562946023",
+    "public_id": "rhaziya-samseer",
+    "experience": [
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACGN3-cB-69RCRQ-QjJH0CyrZ-fiuR00ceo,2217397211)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Recruitmentcoördinator",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Den Haag en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACGN3-cB-69RCRQ-QjJH0CyrZ-fiuR00ceo,1513744270)",
+            "geoLocationName": "Den Haag en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "de Bijenkorf",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Verkoopmedewerker bij Dune London",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:394077",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQE_sfO0H0q0CA/company-logo_"
+        },
+        {
+            "locationName": "Utrecht",
+            "entityUrn": "urn:li:fs_position:(ACoAACGN3-cB-69RCRQ-QjJH0CyrZ-fiuR00ceo,2121136784)",
+            "geoLocationName": "Utrecht",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Employer Branding medewerker",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Rotterdam, Zuid-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACGN3-cB-69RCRQ-QjJH0CyrZ-fiuR00ceo,1830267333)",
+            "geoLocationName": "Rotterdam, Zuid-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:100467493",
+            "companyName": "KVL",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "description": "- Employer Branding\n- Adobe \n- Social media\n- Content",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Marketing medewerker",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:211564",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQHp79TR7SKclw/company-logo_"
+        },
+        {
+            "locationName": "Den Haag en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAACGN3-cB-69RCRQ-QjJH0CyrZ-fiuR00ceo,1418961105)",
+            "geoLocationName": "Den Haag en omgeving, Nederland",
+            "companyName": "Gemeente Den Haag",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Government Administration"
+                ]
+            },
+            "title": "Promotiemedewerker",
+            "companyUrn": "urn:li:fs_miniCompany:8311",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHY6l4GYCXMdA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACGN3-cB-69RCRQ-QjJH0CyrZ-fiuR00ceo,615776695)",
+            "school": {
+                "objectUrn": "urn:li:school:15418",
+                "entityUrn": "urn:li:fs_miniSchool:15418",
+                "active": true,
+                "schoolName": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+                "trackingId": "tu//JYUlS0K9LBlHLFK4eQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFtr7VqGaVWcQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "description": "Minors:\n- Vastgoedmanagement\n- Zakelijke evenememten",
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101408",
+            "degreeName": "Bachelor's degree",
+            "schoolName": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+            "fieldOfStudy": "Business administration / Bedrijfskunde / Business management / Bedrijfsmanagement",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15418"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACGN3-cB-69RCRQ-QjJH0CyrZ-fiuR00ceo,395256466)",
+            "school": {
+                "objectUrn": "urn:li:school:5072387",
+                "entityUrn": "urn:li:fs_miniSchool:5072387",
+                "active": true,
+                "schoolName": "ROC Mondriaan",
+                "trackingId": "q9tbL2NJT4SV5HFVDTFVDw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQE80CmphheHfQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "schoolName": "ROC Mondriaan",
+            "fieldOfStudy": "Marketing en Communicatie",
+            "schoolUrn": "urn:li:fs_miniSchool:5072387"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAACGN3-cB-69RCRQ-QjJH0CyrZ-fiuR00ceo,395257821)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "degreeName": "High School",
+            "schoolName": "Stanislascollege Pijnacker"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Anglia Examinations",
+            "name": "Anglia Network Europe",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:2707746",
+                "entityUrn": "urn:li:fs_miniCompany:2707746",
+                "name": "Anglia Examinations",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631336594018?e=1710374400&v=beta&t=tLSwzkuNZW-gedsUaLlBrD-LyRCyFYT_S23dUjl2EUg",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631336594018?e=1710374400&v=beta&t=_erKfRDI4Uy3vGxYoFjYIteA-rfB6s14iSPW6wdwUPQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631336594018?e=1710374400&v=beta&t=qIcoWZVA9zcQV37rjqriAAi4blgknjx0o_KPaUpg22s",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQEQhmuKs72uUQ/company-logo_"
+                    }
+                },
+                "universalName": "anglia-examinations",
+                "dashCompanyUrn": "urn:li:fsd_company:2707746",
+                "trackingId": "6in5jsr8S42NOjWheY2mIg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2707746"
+        },
+        {
+            "authority": "Streetwise Nederland",
+            "name": "DDDN",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:504903",
+                "entityUrn": "urn:li:fs_miniCompany:504903",
+                "name": "Streetwise Fundraising",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630641345046/streetwise_nederland_logo?e=1710374400&v=beta&t=wnF0Kpuiv0GRpZH7BhZKkR7lhZawlHQCbxnbi_zCh1o",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630641345046/streetwise_nederland_logo?e=1710374400&v=beta&t=lmihl1rPPA0EgUb8TDEpXhOfyzox9nkZNfGQi_gs4gU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630641345046/streetwise_nederland_logo?e=1710374400&v=beta&t=vluwbtrFsVkRx6JAS99se5ppUffH4gi7n6WBQgS6ggo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHA9oct5fJdvg/company-logo_"
+                    }
+                },
+                "universalName": "streetwise-nederland",
+                "dashCompanyUrn": "urn:li:fsd_company:504903",
+                "trackingId": "hmsk+3LLTYOSdu6pj67oCA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:504903"
+        },
+        {
+            "authority": "Yoast.com",
+            "name": "SEO for beginners",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1414157",
+                "entityUrn": "urn:li:fs_miniCompany:1414157",
+                "name": "Yoast",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=konUpKGSEv-1U1ZS2R31fN1Ee1ThLusLtSon57b9QKw",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=sB3GwTBUD1t-zGOqz1DU7Nl4vTAIWkP36yiObIDFyCs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=NTe1EgXdCWC9og-JBqrKPN43s9vxYkLE1FuRK00inGo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFYIgIDskwsMA/company-logo_"
+                    }
+                },
+                "universalName": "yoast-com",
+                "dashCompanyUrn": "urn:li:fsd_company:1414157",
+                "trackingId": "liclU5qfRdOL3LmLMWVFJw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1414157"
+        },
+        {
+            "authority": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+            "name": "Propedeuse",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:264461",
+                "entityUrn": "urn:li:fs_miniCompany:264461",
+                "name": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631341177018?e=1710374400&v=beta&t=UK5hPKnAAjz_etKhWJJ27L5JNssXdCGlvXjcqbmWVrA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631341177018?e=1710374400&v=beta&t=OXnZldU19Kk5sJv2q4ExLcmBEqkq1WTT28UJa_G8gOA",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631341177018?e=1710374400&v=beta&t=Fgod49I9hDTBOojOn7OToiDorVkLpnCKdj6E3MJuZ8o",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFtr7VqGaVWcQ/company-logo_"
+                    }
+                },
+                "universalName": "haagse-hogeschool",
+                "dashCompanyUrn": "urn:li:fsd_company:264461",
+                "trackingId": "kOsXvHhzRRWAwZrbL6Pjhg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:264461"
+        },
+        {
+            "authority": "e-Academy.org",
+            "name": "Customer Journey",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:10196656",
+                "entityUrn": "urn:li:fs_miniCompany:10196656",
+                "name": "e-Academy.org",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631332242470?e=1710374400&v=beta&t=mh3nvN5aTjho7Ezc0xg_kYdRm0OJOUoDPa4msVt9ahk",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631332242470?e=1710374400&v=beta&t=XUMCo_Upn32Yl3UJw9gGfuHIRmNQo7qaA-Ep-ZILfcQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631332242470?e=1710374400&v=beta&t=Dac7Ze4lxBX9ql-A-jY8haHaqg41ezjyeG4QkSktLu4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQH_-jclttr-Nw/company-logo_"
+                    }
+                },
+                "universalName": "thuiswinkel-e-academy",
+                "dashCompanyUrn": "urn:li:fsd_company:10196656",
+                "trackingId": "UZOrJ1mPQaWTPRmsh0ogOw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:10196656"
+        },
+        {
+            "authority": "e-Academy.org",
+            "name": "e-Commerce Wet- en Regelgeving",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:10196656",
+                "entityUrn": "urn:li:fs_miniCompany:10196656",
+                "name": "e-Academy.org",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631332242470?e=1710374400&v=beta&t=mh3nvN5aTjho7Ezc0xg_kYdRm0OJOUoDPa4msVt9ahk",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631332242470?e=1710374400&v=beta&t=XUMCo_Upn32Yl3UJw9gGfuHIRmNQo7qaA-Ep-ZILfcQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631332242470?e=1710374400&v=beta&t=Dac7Ze4lxBX9ql-A-jY8haHaqg41ezjyeG4QkSktLu4",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C510BAQH_-jclttr-Nw/company-logo_"
+                    }
+                },
+                "universalName": "thuiswinkel-e-academy",
+                "dashCompanyUrn": "urn:li:fsd_company:10196656",
+                "trackingId": "Lg+1tsbCSgm8mrC6FFGcYA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:10196656"
+        },
+        {
+            "authority": "Yoast.com",
+            "name": "Structured data",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1414157",
+                "entityUrn": "urn:li:fs_miniCompany:1414157",
+                "name": "Yoast",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=konUpKGSEv-1U1ZS2R31fN1Ee1ThLusLtSon57b9QKw",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=sB3GwTBUD1t-zGOqz1DU7Nl4vTAIWkP36yiObIDFyCs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=NTe1EgXdCWC9og-JBqrKPN43s9vxYkLE1FuRK00inGo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFYIgIDskwsMA/company-logo_"
+                    }
+                },
+                "universalName": "yoast-com",
+                "dashCompanyUrn": "urn:li:fsd_company:1414157",
+                "trackingId": "wTa7JE1bQ+OpzzK/J4GGfw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1414157"
+        },
+        {
+            "authority": "Yoast.com",
+            "name": "Techincal SEO",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1414157",
+                "entityUrn": "urn:li:fs_miniCompany:1414157",
+                "name": "Yoast",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=konUpKGSEv-1U1ZS2R31fN1Ee1ThLusLtSon57b9QKw",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=sB3GwTBUD1t-zGOqz1DU7Nl4vTAIWkP36yiObIDFyCs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=NTe1EgXdCWC9og-JBqrKPN43s9vxYkLE1FuRK00inGo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFYIgIDskwsMA/company-logo_"
+                    }
+                },
+                "universalName": "yoast-com",
+                "dashCompanyUrn": "urn:li:fsd_company:1414157",
+                "trackingId": "nwUM7PZISC+Zds4GfGJmkA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1414157"
+        },
+        {
+            "authority": "Yoast.com",
+            "name": "International SEO",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1414157",
+                "entityUrn": "urn:li:fs_miniCompany:1414157",
+                "name": "Yoast",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=konUpKGSEv-1U1ZS2R31fN1Ee1ThLusLtSon57b9QKw",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=sB3GwTBUD1t-zGOqz1DU7Nl4vTAIWkP36yiObIDFyCs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=NTe1EgXdCWC9og-JBqrKPN43s9vxYkLE1FuRK00inGo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFYIgIDskwsMA/company-logo_"
+                    }
+                },
+                "universalName": "yoast-com",
+                "dashCompanyUrn": "urn:li:fsd_company:1414157",
+                "trackingId": "vJLY1lBbRcKA4EuH9nO17g=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1414157"
+        },
+        {
+            "authority": "Yoast.com",
+            "name": "Yoast SEO for WordPress (classic editor)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1414157",
+                "entityUrn": "urn:li:fs_miniCompany:1414157",
+                "name": "Yoast",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=konUpKGSEv-1U1ZS2R31fN1Ee1ThLusLtSon57b9QKw",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=sB3GwTBUD1t-zGOqz1DU7Nl4vTAIWkP36yiObIDFyCs",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1684324429098/yoast_com_logo?e=1710374400&v=beta&t=NTe1EgXdCWC9og-JBqrKPN43s9vxYkLE1FuRK00inGo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D4E0BAQFYIgIDskwsMA/company-logo_"
+                    }
+                },
+                "universalName": "yoast-com",
+                "dashCompanyUrn": "urn:li:fsd_company:1414157",
+                "trackingId": "K3MVEmk+RzGMNM9GT8TmPQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1414157"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

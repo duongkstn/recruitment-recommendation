@@ -1,0 +1,393 @@
+{
+    "summary": "Wij versterken jouw recruitmentproces en helpen je met het beter neerzetten van een strategisch werkgeversmerk, het bereiken van de gewenste doelgroep en dus het invullen van je vacatures. Wij gaan altijd voor duurzame oplossingen en samenwerkingen. Together we do the job! \n\nDe Primatch HR Groep De Primatch HR Groep zoekt partners die willen aansluiten bij ons landelijke netwerk. \n\t\nRECRUITMENTSTRATEGIE\nEen strategie op basis van data? Wij bepalen samen met jou de beste data gedreven strategie. \n\nTEST & ASSESSMENT\nWij helpen je bij meer inzicht in competenties, persoonlijkheid en kracht.\n\nEMPLOYER BRANDING\nWij helpen je bij het positioneren en het versterken van je werkgeversmerk. \n\nINTERIM RECRUITMENT\nWij zorgen voor professionele denk- en slagkracht, een frisse blik en toegang tot recruitmenttools.\n\nJOBMARKETING\nWij presenteren je vacature bij de juiste doelgroep, op het juiste moment met de juiste boodschap.\n\nWERKEN-BIJ WEBSITE\nWij helpen je met de online zichtbaarheid en vindbaarheid van je organisatie middels een site.",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Leeuwenberg",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Ronald",
+    "entityUrn": "urn:li:fs_profile:ACoAAAArTD8BOKdsuqahHX48uim9nSSnzN-wSy4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009710"
+    },
+    "geoLocationName": "Brabantine City Row",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Sluit je aan als zelfstandig recruitmentpartner. Wij ondersteunen jou met sales, marketing en finance. ✓ Snelle start door onboarding en opdrachten  ✓ Goed verdienmodel   ✓ Sterk netwerk  ✓ Collega's",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E35AQHfg4ugNFWAJg/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/0/1700117692458?e=1702972800&v=beta&t=RuHBF0i_wcxCjLBB2Bh_wTiw5UFryClVofqQDjcnfFU",
+    "img_200_200": "200_200/0/1700117692458?e=1702972800&v=beta&t=77nbgJHHy-k1i5qmHPVDJ29ataNa0k6pYXr14C-6wfE",
+    "img_800_800": "800_800/0/1700117692458?e=1702972800&v=beta&t=alURzTmjscUnWzIb7oW0MyrlYa7PNHz8kHUHZNLe8Qw",
+    "img_100_100": "100_100/0/1700117692458?e=1702972800&v=beta&t=mtrn2gRSg8ImheIud4fA64NTB22MdXLBMZKgjhUSAaY",
+    "profile_id": "ACoAAAArTD8BOKdsuqahHX48uim9nSSnzN-wSy4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAArTD8BOKdsuqahHX48uim9nSSnzN-wSy4",
+    "member_urn": "urn:li:member:2837567",
+    "public_id": "primatch01",
+    "experience": [
+        {
+            "locationName": "Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAArTD8BOKdsuqahHX48uim9nSSnzN-wSy4,3864869)",
+            "geoLocationName": "Nederland",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Primatch HR Groep",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2000
+                }
+            },
+            "description": "Primatch HR Groep is een recruitment consultancy bureau en ondersteunt bedrijven & organisaties op strategisch, tactisch en operationeel niveau.\n\n✓ Recruitmentstrategie\n✓ Employer Branding\n✓ Jobmarketing\n✓ Test & Assessment\n✓ Interim Recruitment\n✓ Arbeidsmarktcommunicatie\n✓ Werken-bij website\n✓ Recruitmentsoftware \n\nWij toveren geen kandidaat uit de hoge hoed, maar wij helpen jou om de juiste personen op de juiste manier te bereiken, te werven, te beoordelen en te selecteren. Wij gaan altijd voor duurzame oplossingen en samenwerkingen. Together we do the job!\n\nMeer weten? Ga naar: www.primatch.nl                                                                                                                                 .",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "Managing Partner ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:225081",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEwLPQ9Lv-iVQ/company-logo_"
+        },
+        {
+            "locationName": "Tilburg en omgeving, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAArTD8BOKdsuqahHX48uim9nSSnzN-wSy4,1141710447)",
+            "geoLocationName": "Tilburg en omgeving, Nederland",
+            "geoUrn": "urn:li:fs_geo:90009710",
+            "companyName": "TOOL2MATCH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2016
+                }
+            },
+            "description": "Tool2match is ontstaan vanuit de behoefte van bedrijven om hun werving en selectie in eigen hand te houden en meer structuur en overzicht aan te brengen in het proces. Het is ontworpen om slimmer en beter te werven en correct te communiceren met je doelgroepen. Daarbij is het systeem volledige AVG proof en gebouwd in één van de nieuwste programmeertalen.  ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Co Owner",
+            "region": "urn:li:fs_region:(nl,5907)",
+            "companyUrn": "urn:li:fs_miniCompany:16194450",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQELKlG3uaJWBQ/company-logo_"
+        },
+        {
+            "locationName": "divers",
+            "entityUrn": "urn:li:fs_position:(ACoAAAArTD8BOKdsuqahHX48uim9nSSnzN-wSy4,1542941828)",
+            "geoLocationName": "divers",
+            "companyName": "Several Startups",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2015
+                }
+            },
+            "description": "Adviseur en ondernemerscoach voor de directie op het gebied van strategische personeelsplanning, groei, innovatie en algehele bedrijfsvoering.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ]
+            },
+            "title": "RVA",
+            "companyUrn": "urn:li:fs_miniCompany:27182227",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHa1DC9CkkJkA/company-logo_"
+        },
+        {
+            "locationName": "Eindhoven Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAArTD8BOKdsuqahHX48uim9nSSnzN-wSy4,10944692)",
+            "geoLocationName": "Eindhoven Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009710",
+            "companyName": "Randstad Groep",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 1999
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 1997
+                }
+            },
+            "description": "Responsable for the region Brabant",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Recruitment - HRM Consultant",
+            "region": "urn:li:fs_region:(nl,5668)",
+            "companyUrn": "urn:li:fs_miniCompany:2327",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFqC--DBWZjDA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAArTD8BOKdsuqahHX48uim9nSSnzN-wSy4,627729870)",
+            "school": {
+                "objectUrn": "urn:li:school:482707",
+                "entityUrn": "urn:li:fs_miniSchool:482707",
+                "active": true,
+                "schoolName": "Governance Academy",
+                "trackingId": "LTG4TSmhRJ6z7GE8LLUxHw==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQH4WSkQlRLA4A/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "schoolName": "Governance University",
+            "fieldOfStudy": "AE commissaris opleiding ",
+            "schoolUrn": "urn:li:fs_miniSchool:482707"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAArTD8BOKdsuqahHX48uim9nSSnzN-wSy4,794995449)",
+            "school": {
+                "objectUrn": "urn:li:school:21166",
+                "entityUrn": "urn:li:fs_miniSchool:21166",
+                "active": true,
+                "schoolName": "TIAS School for Business and Society",
+                "trackingId": "WOkKbFURRheXBAZh8Sx/Kg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFucgVg-DftwA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2015
+                }
+            },
+            "degreeName": "Master Class",
+            "schoolName": "TIAS School for Business and Society",
+            "fieldOfStudy": "Marketing Strategy",
+            "schoolUrn": "urn:li:fs_miniSchool:21166"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAArTD8BOKdsuqahHX48uim9nSSnzN-wSy4,4144349)",
+            "school": {
+                "objectUrn": "urn:li:school:15452",
+                "entityUrn": "urn:li:fs_miniSchool:15452",
+                "active": true,
+                "schoolName": "Tilburg University",
+                "trackingId": "PnQzw7eHRKaEaGFrq+mRJA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_"
+            },
+            "activities": "Horeca",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1996
+                },
+                "startDate": {
+                    "year": 1991
+                }
+            },
+            "degreeName": "drs.",
+            "schoolName": "Tilburg University",
+            "fieldOfStudy": "HRM",
+            "schoolUrn": "urn:li:fs_miniSchool:15452"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Tilburg University",
+            "name": "Strategische Personeelsplanning - Skills lab PEW",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "licenseNumber": "Seminar",
+            "company": {
+                "objectUrn": "urn:li:company:166451",
+                "entityUrn": "urn:li:fs_miniCompany:166451",
+                "name": "Tilburg University",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631003396463/tilburg_university_logo?e=1710374400&v=beta&t=-ZtiJZ5vYlULsoPZDxILZ5S13F0aFabJzv2-LbK9UnA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631003396463/tilburg_university_logo?e=1710374400&v=beta&t=byHMBScn5JoQ3j6GOvL2P_FZfkTUXhz36Ajf1j5yVDE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631003396463/tilburg_university_logo?e=1710374400&v=beta&t=f4nTtFeYNrk7B-VYGz-6wom6pfHkK4lfpMMwxwWYtMo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_"
+                    }
+                },
+                "universalName": "tilburg-university",
+                "dashCompanyUrn": "urn:li:fsd_company:166451",
+                "trackingId": "jUQJodEpQr6IdzHRhGw3Rg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:166451"
+        },
+        {
+            "authority": "Tilburg University",
+            "name": "Arbeidsrecht Update",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:166451",
+                "entityUrn": "urn:li:fs_miniCompany:166451",
+                "name": "Tilburg University",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631003396463/tilburg_university_logo?e=1710374400&v=beta&t=-ZtiJZ5vYlULsoPZDxILZ5S13F0aFabJzv2-LbK9UnA",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631003396463/tilburg_university_logo?e=1710374400&v=beta&t=byHMBScn5JoQ3j6GOvL2P_FZfkTUXhz36Ajf1j5yVDE",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631003396463/tilburg_university_logo?e=1710374400&v=beta&t=f4nTtFeYNrk7B-VYGz-6wom6pfHkK4lfpMMwxwWYtMo",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_"
+                    }
+                },
+                "universalName": "tilburg-university",
+                "dashCompanyUrn": "urn:li:fsd_company:166451",
+                "trackingId": "VuVkyEUWTSilEOxCZCj0pQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:166451"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "RVA ",
+            "companyName": "UniPartners Tilburg",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "UniPartners is een bruisend adviesbureau dat u de mogelijkheid biedt om gepassioneerde, universitaire studenten met up-to-date kennis uitdagingen binnen uw organisatie op te laten pakken. Zo heeft UniPartners met verschillende projecten al honderden organisaties geholpen, van klein tot groot.",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:760147",
+                    "entityUrn": "urn:li:fs_miniCompany:760147",
+                    "name": "UniPartners Tilburg",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1631345516419?e=1710374400&v=beta&t=i7iFokrhQ3Pv_9gyGArQFvi_vf_PYwh0Hm7EcHJ10sE",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1631345516419?e=1710374400&v=beta&t=E4RA6P6BJv6R7C8tHcKvFq1DeRywiBgnxg1VEqvnq2k",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1631345516419?e=1710374400&v=beta&t=g5E0nMTfeysAQp6ZMeQBbPioccNsFI840hoBwiZvMFc",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQHFHXyvr5mk1A/company-logo_"
+                        }
+                    },
+                    "universalName": "unipartners-tilburg",
+                    "dashCompanyUrn": "urn:li:fsd_company:760147",
+                    "trackingId": "p70b7kpeQBWWxxzMIvHd4w=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:760147"
+        },
+        {
+            "role": "Bestuurslid",
+            "companyName": "Baksche Ven ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2016
+                }
+            },
+            "cause": "SOCIAL_SERVICES"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

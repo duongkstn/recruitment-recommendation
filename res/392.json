@@ -1,0 +1,269 @@
+{
+    "summary": "15 years experience in P2P in Shared Service Center/ Outsourcing and as Business Process Owner:\n•\tVendor Invoice Management in both SAP and EBS (Oracle) financial systems\n•\tFinance and Accounting (Accounts Payable)\n•\tPeople Management\n•\tChange Management\n•\tProcess & Continuous Improvement\n•\tProcurement\nInvolved in SAP implementation as process owner on Procure-to-Pay.\nPart of Procurement digitalization program across Europe that implements Coupa.",
+    "industryName": "Building Materials",
+    "lastName": "Parcalabu",
+    "locationName": "Romania",
+    "student": false,
+    "geoCountryName": "Romania",
+    "geoCountryUrn": "urn:li:fs_geo:106670623",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 4,
+        "day": 1
+    },
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Cristiana",
+    "entityUrn": "urn:li:fs_profile:ACoAAAi2iJMB7xrQbbNZwTp7NoO7HzkOnT_sAYs",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:105889820"
+    },
+    "geoLocationName": "Bucharest, Bucharest",
+    "location": {
+        "basicLocation": {
+            "countryCode": "ro"
+        }
+    },
+    "headline": "IT & Applications Integration Lead",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQF38igiEBYDbw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1516932609709?e=1707955200&v=beta&t=4TCJwT7Gva7Qu-Js9j2YrV_1DlKhg9VYTDRCDsx_ypY",
+    "img_200_200": "200_200/0/1516932609731?e=1707955200&v=beta&t=VBT9cGCRBQCTNdo9kJ8u7s0QP1X0IR0JGt5ELF-a_jo",
+    "img_400_400": "400_400/0/1516932609834?e=1707955200&v=beta&t=m3bKU-uiXpps3R-zqh9WzLYbFrsnCU_StVlzV6qyW7U",
+    "img_450_450": "800_800/0/1516932609765?e=1707955200&v=beta&t=RTitHQedQrVoiwZhBLExwxnmxMDC_9vb3WWPdIGLLhk",
+    "profile_id": "ACoAAAi2iJMB7xrQbbNZwTp7NoO7HzkOnT_sAYs",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAi2iJMB7xrQbbNZwTp7NoO7HzkOnT_sAYs",
+    "member_urn": "urn:li:member:146180243",
+    "public_id": "cristiana-pintilie-06bb5740",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAi2iJMB7xrQbbNZwTp7NoO7HzkOnT_sAYs,2062699425)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "IT & Applications Integration Lead",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAi2iJMB7xrQbbNZwTp7NoO7HzkOnT_sAYs,881171058)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "description": "A). Responsibilities:\n• Standardize and transform business processes;\n• Ensure the ERP implementation is successfully realized within P2P area (Procurement and Accounts Payables), by working closely with the Local POs and with SAP consultants;\n• Integrate process design plans into the overall ERP strategic program plan;\n• Work with other BPOs to understand and effectively seek for opportunities arising from:\n     - Cross-business and cross-process standardization;\n     - Sharing of best practices;\n     - Leveraging scale.\n• Recommend, change and integrate business models and processes to support the future state of the organization;\n• Analyse and document processes and develop future business capabilities to ensure the realization of the business strategy.\n\nB). Report to the Central BPO Lead and Project Manager.\n\nC). ERP used: SAP MM (Procurement), SAP Vendor Invoice Management (VIM), Invoice Capture Center (OCR).\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "P2P Business Process Owner",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Global Finance Shared Service",
+            "entityUrn": "urn:li:fs_position:(ACoAAAi2iJMB7xrQbbNZwTp7NoO7HzkOnT_sAYs,824397443)",
+            "geoLocationName": "Global Finance Shared Service",
+            "companyName": "SNC-Lavalin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "description": "A). Responsible for englobing and aligning the Vendor Data Maintenance team under Payables umbrella, here including people & processes;\n-  Manage the recruitment, coordination and development of 3 teams of 15 associates on different activities (Vendor Data Maintenance, OCR Validation & Invoice Entry) and establishing work priorities;\n- Provide people leadership through coaching, on the job training and performance development of the accounts payable team;\n-  Ensure correct use of the financial systems (Kofax/Oracle EBS) and facilitate continuous improvement of processes/systems through the identification of the initiatives. \n\nB). Report to Payables Operations Manager\n\nC). ERP used: Oracle EBS, Kofax (OCR)\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Civil Engineering"
+                ]
+            },
+            "title": "Vendor Data Maintenance & Invoice Entry Supervisor - Global Finance Shared Service Center",
+            "companyUrn": "urn:li:fs_miniCompany:558123",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGwt86Uy6ifdw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAi2iJMB7xrQbbNZwTp7NoO7HzkOnT_sAYs,824401114)",
+            "companyName": "SNC-Lavalin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "description": "- Establish work priorities, supervise and manage an accounts payable team of 10 people;\n- Ensure the timely, efficient and accurate processing and payment of all Accounts Payable transactions;\n- Resolve any issues and internal / external enquiries that cannot be resolved by the payables associates;\n- Develop a Team-Based culture;\n- Measure KPI’s to assess team performance and report achievements or deficiencies to the Payables Process Manager.\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Civil Engineering"
+                ]
+            },
+            "title": "Payables Supervisor - Global Finance Shared Service",
+            "companyUrn": "urn:li:fs_miniCompany:558123",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGwt86Uy6ifdw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAi2iJMB7xrQbbNZwTp7NoO7HzkOnT_sAYs,824400205)",
+            "companyName": "SNC-Lavalin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "description": "In additional to the Process Trainer / Process Owner responsibilities, the below ones were added:\n- Coordinating a Knowledge Management Ownership team of 9 people for keeping up-to-date the training materials and as well preparing for new transitions;\n- Manage the Travel & Expenses team, by ensuring the timely, efficient and accurate auditing of all expense reports for Canada and USA;\n- Ensure SLA were met by measuring  the performance and accuracy of the expense report process.\n\t",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Civil Engineering"
+                ]
+            },
+            "title": "Process Trainer/ Travel & Expenses Supervisor - Global Finance Shared Service Payables",
+            "companyUrn": "urn:li:fs_miniCompany:558123",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGwt86Uy6ifdw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAi2iJMB7xrQbbNZwTp7NoO7HzkOnT_sAYs,97181762)",
+            "grade": "9/10",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "description": "Graduate of the Masters Program in European Integration: Economy and Politics",
+            "degreeName": "Master Degree",
+            "schoolName": "National School of Politics and Administrative Studies SNSPA, Bucharest",
+            "fieldOfStudy": "Economics, Politics"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAi2iJMB7xrQbbNZwTp7NoO7HzkOnT_sAYs,85171727)",
+            "grade": "9.75/10",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "description": "Studies at Masters Program in European Comparative Studies, Babes-Bolyai University of Cluj-Napoca (2006-2007).\nStudies at Faculty of Law, Law section (2002-2004).",
+            "degreeName": "(University) Graduate",
+            "schoolName": "European Studies Faculty, Babes-Bolyai University of Cluj-Napoca",
+            "fieldOfStudy": "Economics, Politics"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAi2iJMB7xrQbbNZwTp7NoO7HzkOnT_sAYs,97187425)",
+            "grade": "Diplôme des Etudes Universitaires Générales DEUG",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            },
+            "degreeName": "Faculty Diploma",
+            "schoolName": "University Professionalized Institute, Faculty of Management and Administration of Enterprises, Auvergne University of Clermont-Ferrand, France",
+            "fieldOfStudy": "Business Administration and Management, General"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "FULL_PROFESSIONAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "by Knightsbridge Human Capital Solutions",
+            "name": "Professional Leadership Development Plan (PLDP)"
+        },
+        {
+            "authority": "Ministère Français de l'Education Nationale",
+            "name": "Diplome Approfondi de Langue Francaise niveau C1",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2002
+                }
+            }
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Volunteer",
+            "companyName": "WNS Care Foundation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2011
+                }
+            },
+            "cause": "CHILDREN"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

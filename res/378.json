@@ -1,0 +1,1374 @@
+{
+    "summary": "Passionate about energy business in all that surrounds it. Sourcing is one of the key areas in which important financial impact can be created in any business. \nAlways interested in networking and hearing from former colleagues, new people, managers, strangers or just interesting creative people, so feel free to contact me if you’d like to connect.",
+    "industryName": "Mining & Metals",
+    "lastName": "D.",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:56",
+    "firstName": "Nelson",
+    "entityUrn": "urn:li:fs_profile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102011674"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Global Lead Buyer Energy at RHI Magnesita",
+    "profile_id": "ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+    "member_urn": "urn:li:member:79332884",
+    "public_id": "delgadonelson",
+    "experience": [
+        {
+            "locationName": "Rotterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,1432196622)",
+            "geoLocationName": "Rotterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:103447814",
+            "companyName": "RHI Magnesita",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "description": "Global Lead Buyer for the energy portfolio of RHI Magnesita. Over 6TWh per year under management including electricity, natural gas, liquid fuels and solid fuels. \nCategory strategy development for the regions EMEA and APAC. \nStakeholder management. \nSupplier relationship management. \nBudget forecast and monitoring in the category of energy.\nEnergy Risk management.\nUtility contracts.\nMaintain data and conducts spend analysis on Energy category to identify potential Renewable opportunities and supports/develops a cost savings opportunity roadmap based on identified projects.\nDevelop and align optimal portfolio strategy with internal stakeholders (Global and Regional Supply Chain- Operations- Procurement- Accounting- Treasury- Finance and ESG teams);\nImplement the agreed portfolio strategy according to business processes in line with global strategy on Renewables\nFacilitate cross-functional cooperation amongst internal stakeholders in order to accomplish target on Renewable Energy commitment\nRun Global or Regional Tenders for PPA Go To Market Strategy\nManage Global Renewable Energy Advisory Partner\nMonitor Renewables Market- Legislation and Industry Analysis and adapt strategy accordingly\nDevelop KPIs for Renewable Project Selection and Negotiation\nDevelop Rituals and Routines for Renewable Portfolio\nArticulates clear status report on execution of PPA Strategy and progress on cost savings targets.\nRegularly consult with and provide information to internal stakeholders regarding market dynamics and Renewable Supply which will impact implementation both short and long-term\nAlign on Marketing Initiatives and Brands to fully capture ESG consumer opportunities\nDevelop Regime and Protocols for PPA contract management > 10yr horizon\nManage price risks linked to Energy markets through the right PPA contract strategy\nManage monthly reporting on PPA contract performance",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Mining & Metals"
+                ]
+            },
+            "title": "Global Lead Buyer Energy",
+            "region": "urn:li:fs_region:(nl,5908)",
+            "companyUrn": "urn:li:fs_miniCompany:39526",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHbY30CNsCD1Q/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,693118290)",
+            "geoLocationName": "Ámsterdam y alrededores, Países Bajos",
+            "geoUrn": "urn:li:fs_geo:101725985",
+            "companyName": "ICL Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2015
+                }
+            },
+            "description": "• Actively participate in the strategic sourcing activities for Indirect Procurement items with the goal of achieving cost reductions, while maintaining or improving service quality or vendor service levels for ICL operating industrial facilities\n• Create business opportunities, develop supplier/vendor sources to stimulate competition, and manage global supply capacity. \n• Negotiate possible hidden costs and minimized risks for critical items. \n• Monitor trends and historical     costs. \n• Identify, evaluate & select suppliers, negotiate and close framework-agreements of Global & EU   region services.\n• Drive product demand optimization throughout ICL via collaboration with the relevant ICL units;\n• Maintain and develop in-depth knowledge of suppliers, markets & trends.\n• Perform best-in-class negotiation processes via analysis of supply & demand trends; \n• Establish and manage global/regional relationships with suppliers.\n• Monitor performances of vendors and their compliance with their commitments;\n• Address & solve operational issues with suppliers;\n• Provide guidance and guidelines to the regional/local procurement personnel within ICL Group. \n• Ensure implementation and support of P2P and P2O process.\n• Embracing and promoting change management through the Global Procurement Organization to local and regional sites.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Biotechnology"
+                ]
+            },
+            "title": "Global Sourcing Manager",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:2226109",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGRAJluRgRqPw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,653313131)",
+            "geoLocationName": "Ámsterdam y alrededores, Países Bajos",
+            "geoUrn": "urn:li:fs_geo:101725985",
+            "companyName": "KH Engineering",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2015
+                }
+            },
+            "description": "Transition from RHDHV to KH Engineering. Executed same functions and responsibilities as in Royal HaskoningDHV. ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Mechanical or Industrial Engineering"
+                ]
+            },
+            "title": "Process Control Engineer",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:75546",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQH6HldJRSOanA/company-logo_"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,157)",
+                "urn:li:fs_course:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,159)"
+            ],
+            "locationName": "Zaanstad Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:101036620",
+            "companyName": "Royal HaskoningDHV",
+            "description": "Developed solutions for several clients (Total E&PNL and Tata Steel IJmuiden) as a consultant by developing FEED in the E&I discipline. Managed projects from a technical perspective. Elaboration of tenders and technical documents and cost estimates. ",
+            "title": "Lead E&I in Oil, Gas and Mining at RHDHV",
+            "companyUrn": "urn:li:fs_miniCompany:2637508",
+            "entityUrn": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,546835640)",
+            "geoLocationName": "Zaanstad y alrededores, Países Bajos",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Civil Engineering"
+                ]
+            },
+            "region": "urn:li:fs_region:(nl,5692)",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEXY5RnsEADnQ/company-logo_"
+        },
+        {
+            "locationName": "Valencia, Venezuela",
+            "projects": [
+                "urn:li:fs_project:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,29)"
+            ],
+            "entityUrn": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,300169981)",
+            "geoLocationName": "Valencia, Venezuela",
+            "companyName": "PDVSA Petroleos de Venezuela S.A.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2012
+                }
+            },
+            "description": "Supervision of a Multidiscipline engineering team (Civil, Mechanical, Process, Instrumentation and Electrical) fot projects related to the Gas Infrastructure for the Energy Sector. Main Activities coordinate team activities related to the FEED and detail engineering for the different projects for Thermoelectric Gas Plants, mainly Primary Regulating Stations, Measurement and Regulating Stations, Gas pipelines. Design, supervise, follow procurement of the materials and follow construction for each project. Manage the engineering team for different projects. Coordinate meetings with clients and contractors.Follow up on the tenders for the projects. Assist on procurement activities, contracting activities and cost estimation. Budget planning for the each project assigned by the Main Manager. Revised the working procedures of the contractors for every construction related activity. Ensure company's policy and HSE standards and rules are follow by the contractor. Review and check technical specifications and deliver them to the Contract and Cost Estimation department. Coordinate certain Administration Activities.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Oil & Energy"
+                ]
+            },
+            "title": "Engineering Supervisor",
+            "companyUrn": "urn:li:fs_miniCompany:448977",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQG6QzdZ2nXQhg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,206842381)",
+            "school": {
+                "objectUrn": "urn:li:school:19929",
+                "entityUrn": "urn:li:fs_miniSchool:19929",
+                "active": true,
+                "schoolName": "Rotterdam School of Management, Erasmus University",
+                "trackingId": "qSE0Vxn9TiSHQoUcgLpVMw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGxI95CurHtdA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "degreeName": "Executive Master Business Administration",
+            "schoolName": "Rotterdam School of Management, Erasmus University",
+            "fieldOfStudy": "International Business",
+            "schoolUrn": "urn:li:fs_miniSchool:19929"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,206843127)",
+            "school": {
+                "objectUrn": "urn:li:school:19929",
+                "entityUrn": "urn:li:fs_miniSchool:19929",
+                "active": true,
+                "schoolName": "Rotterdam School of Management, Erasmus University",
+                "trackingId": "+7Xzf2oNQC+5jb2XjI5vJw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGxI95CurHtdA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "degreeName": "EMBA - Executive Masters Business Administration",
+            "schoolName": "Rotterdam School of Management, Erasmus University",
+            "fieldOfStudy": "Business Administration and Management, General",
+            "schoolUrn": "urn:li:fs_miniSchool:19929"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,164694615)",
+            "school": {
+                "objectUrn": "urn:li:school:15451",
+                "entityUrn": "urn:li:fs_miniSchool:15451",
+                "active": true,
+                "schoolName": "University of Amsterdam",
+                "trackingId": "PD7yDobOR0KH6+Msux33uw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "description": "Dutch Beginners A1",
+            "degreeName": "Dutch Begginers",
+            "schoolName": "University of Amsterdam",
+            "fieldOfStudy": "Foreign Languages and Literatures, General",
+            "schoolUrn": "urn:li:fs_miniSchool:15451"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Arabic",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Dutch",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,300169981)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Nelson",
+                        "lastName": "D.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "occupation": "Global Lead Buyer Energy at RHI Magnesita",
+                        "objectUrn": "urn:li:member:79332884",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1516978957844?e=1707955200&v=beta&t=2wWmrk7NA3TEyZezn_z3YFOCZuKqWZdKG_0OPyaKpU0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    },
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1516978958142?e=1707955200&v=beta&t=MGUckHEWnmXTpbCagEFSleiM3LMVp0AEfiHt6Vhjf_c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH4co4J5oWW2Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "delgadonelson",
+                        "trackingId": "YXsyNIGjS3mFXBmZS+3o2g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,29,30)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg"
+                },
+                {
+                    "member": {
+                        "firstName": "Danis",
+                        "lastName": "Vargas",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABCGcAoB9Rfk_PZoJXtCke-yTlvzHz_S7Kc",
+                        "occupation": "Planificador de Obras.",
+                        "objectUrn": "urn:li:member:277245962",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABCGcAoB9Rfk_PZoJXtCke-yTlvzHz_S7Kc",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 720,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1673179202936?e=1707955200&v=beta&t=5LZQfcrio0ox0530ZJ2DMQuCjjmNegtysrpuWZMe_So",
+                                        "expiresAt": 1707955200000,
+                                        "height": 180
+                                    },
+                                    {
+                                        "width": 720,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1673179202936?e=1707955200&v=beta&t=7wdc7uitTbSzSBijC2GWr1wysXDJJWQxoobWZSUexTY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 180
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4E16AQH98T0lBLw3KA/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "danis-vargas-322a2378",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1520998730118?e=1707955200&v=beta&t=kio4JQIT9pnvDFaxCqyJWpv1_3DjuOQe6hAfUU2zs0U",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 129,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1520998730260?e=1707955200&v=beta&t=MjFA5S7MhEk0Dm3Y_oT131TnRwf4NJ2-v5ZjKT2YIUQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 129
+                                    },
+                                    {
+                                        "width": 129,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1520998729982?e=1707955200&v=beta&t=kDzvRCmXxewGOP-MUUPOfW43jmNn6Q7v2bo-j1PCY2I",
+                                        "expiresAt": 1707955200000,
+                                        "height": 129
+                                    },
+                                    {
+                                        "width": 129,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1520998730089?e=1707955200&v=beta&t=hL8BOyzYH6t_ltXN-08alTC2_DIHXIqEwWnhRjxW59Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 129
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQFgIkaRfGAPdA/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "iDGKczFtTQGiCu6Trc5hyw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,29,148)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABCGcAoB9Rfk_PZoJXtCke-yTlvzHz_S7Kc"
+                },
+                {
+                    "member": {
+                        "firstName": "Enrique Alberto",
+                        "lastName": "Maldonado Garcia",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABL18B0BTvpskqwKDGNFu_Txv4TumwfCM-U",
+                        "occupation": "Project engineer & Control in Inprolec S.A",
+                        "objectUrn": "urn:li:member:318107677",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABL18B0BTvpskqwKDGNFu_Txv4TumwfCM-U",
+                        "publicIdentifier": "maldonadoenrique",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517278960056?e=1707955200&v=beta&t=y7H4nwbrUVinn3PB_tIlP4xh37xar-FmotY0bTR4xBw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517278959652?e=1707955200&v=beta&t=NwlyOTa5sde7h_PsbNqifDJR51paTV6JB32X0y_JSaU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 325,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517278959772?e=1707955200&v=beta&t=bAQ7ysHb7MIZy16gEL6G9CzWKo3by8LzrmIpqpaxaMI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 325
+                                    },
+                                    {
+                                        "width": 325,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517278959610?e=1707955200&v=beta&t=YRkgsfQZQyo_XNhc6YDAM1lAWyYyRUdEgwDbEK2dezQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 325
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQFLqd7hAuqe-A/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "8dHnm+qXQu2asZaG0P2WVQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,29,149)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABL18B0BTvpskqwKDGNFu_Txv4TumwfCM-U"
+                },
+                {
+                    "member": {
+                        "firstName": "Gustavo",
+                        "lastName": "Torrealba",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAA2TldgBiqNBzZl10Htd0KV4uaG2b1-kFTA",
+                        "occupation": "Director Técnico, Auditoría, Seguridad y Proyectos Especiales en Grupo Trenco",
+                        "objectUrn": "urn:li:member:227775960",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAA2TldgBiqNBzZl10Htd0KV4uaG2b1-kFTA",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 798,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1655426501346?e=1707955200&v=beta&t=xUUwxyHLr4Z0t7P0vSO4F9KRVXxb1oIl2igY8HPuPoc",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1170,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1655426501346?e=1707955200&v=beta&t=yJFneynLMY9_tIFcadqovK31SI-Q4QfBwjX_vJ8Xlxo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 293
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5616AQELb9XEru8fXQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "gustavo-torrealba-96034664",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1655426374465?e=1707955200&v=beta&t=gR7ZYRhWKJBFSn6Kj38gW8-5RHw4qvOD6jbEjofY5b0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1655426374465?e=1707955200&v=beta&t=utL-2sGwGLP03EjvA8aaM7ufJol2qpt5AIbju7K7FzQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1655426374465?e=1707955200&v=beta&t=o4MGndyGGUHnEEL3rTbZe-e2u3o0yB71BQs1oHmL0wY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1655426374465?e=1707955200&v=beta&t=ENktFDEYUT6Q5dcCEo-ER_U70MjStt0KpldrFh8vmSE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQHSjpx1rekaJg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "HZap7iVuRHGlSw10qui2ow=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,29,153)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAA2TldgBiqNBzZl10Htd0KV4uaG2b1-kFTA"
+                },
+                {
+                    "member": {
+                        "firstName": "Ernesto",
+                        "lastName": "Rosas Seijas",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAABVVbQQB4jSFqsHn1a6ChEGFTYlq1Yc9omY",
+                        "occupation": "Mechanical Engineer",
+                        "objectUrn": "urn:li:member:357920004",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAABVVbQQB4jSFqsHn1a6ChEGFTYlq1Yc9omY",
+                        "publicIdentifier": "ernesto-rosas-seijas-ar",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1675508618255?e=1702972800&v=beta&t=KzsvUIGGm8uJGhbNlOpajB4zwbPJd-ZZNtqOT0TLfvU",
+                                        "expiresAt": 1702972800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1675508618255?e=1702972800&v=beta&t=kGtAHf1qxLDqiZwVtT_nd3JqzNoshfptjcDTJo4wtjo",
+                                        "expiresAt": 1702972800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1675508618255?e=1702972800&v=beta&t=52jC-ZxDn5MUvHNwIpIMOoHkSTOvV_uIy4fkqxqi7vI",
+                                        "expiresAt": 1702972800000,
+                                        "height": 800
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1675508618255?e=1702972800&v=beta&t=K1FkELAo9DpMLfrZ9IYcf5gu5-5rzY5vxw-0fFmXVRc",
+                                        "expiresAt": 1702972800000,
+                                        "height": 100
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5635AQHpfKrFzDmsBQ/profile-framedphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "CcGtg51uQL6qmkFgknr/iA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,29,154)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAABVVbQQB4jSFqsHn1a6ChEGFTYlq1Yc9omY"
+                },
+                {
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,29,155)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAaBueYBKj115Rlbe_MECf1jIrqdOZj8wlo"
+                },
+                {
+                    "member": {
+                        "firstName": "Josue",
+                        "lastName": "Nieto",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAwGW9QBP0FV035PCQN-cyfDnp6Ap0U20_Q",
+                        "occupation": "Economist / Oil &Gas Specialist",
+                        "objectUrn": "urn:li:member:201743316",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAwGW9QBP0FV035PCQN-cyfDnp6Ap0U20_Q",
+                        "publicIdentifier": "josuegnieto",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1595266043475?e=1707955200&v=beta&t=73lZSD2yH2q5TvUaEP50KiHQ0BOMQnJ9A6CLM0Gn_Lo",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 176,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1595266043475?e=1707955200&v=beta&t=pteIO578qvhR4mayZiFOOyQ28kySw3zSkMaxv4tL5-o",
+                                        "expiresAt": 1707955200000,
+                                        "height": 176
+                                    },
+                                    {
+                                        "width": 176,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1595266043475?e=1707955200&v=beta&t=B9c3XQ0q6ON9pUEHrbXENi96zOoDYnz63COI-CoC5S4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 176
+                                    },
+                                    {
+                                        "width": 176,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1595266043475?e=1707955200&v=beta&t=4yImvDNtrW8n_OuInCp5szNIbIwxAcD4WpSFhP2z8PA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 176
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQFlm3_bVYky7g/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "QAaucxSXTwqrgvXXwxO6Mw=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,29,156)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAwGW9QBP0FV035PCQN-cyfDnp6Ap0U20_Q"
+                }
+            ],
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2012
+                }
+            },
+            "description": "Design and Build Gas infrastructure for the electrical sector in the country. This project belongs in the main strategic government project is conducted nation wide in Venezuela to increase the Electrical Output and supply of Electricity in the country. Contemplates the designing and building of Primary Gas Regulation Stations, Measurement and Control Stations, Main and Distribution Gas Pipelines. In order to supply Gas to Thermoelectric gas plant clients, mainly deliver gas at manageable pressures for the clients in order for them to generate electricity for the local market. manageable for customers in this case specifically the Thermoelectric Power Sector. Follow procurement of the materials of each project. Manage logisctics of the material and equipment. Meetings with contractors, coordinate activities with contractors. Manage and supervise a multi discipline team of project engineers in different disciplines. Conduct planning and budgeting also, must deliver monthly reports on budgeting and weekly planning reports on the advance on each project.",
+            "title": "Gas Infrastructure for the Electrical Sector - Nation wide project",
+            "url": "http://www.pdvsa.com/"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,128193600)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Nelson",
+                        "lastName": "D.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "occupation": "Global Lead Buyer Energy at RHI Magnesita",
+                        "objectUrn": "urn:li:member:79332884",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1516978957844?e=1707955200&v=beta&t=2wWmrk7NA3TEyZezn_z3YFOCZuKqWZdKG_0OPyaKpU0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    },
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1516978958142?e=1707955200&v=beta&t=MGUckHEWnmXTpbCagEFSleiM3LMVp0AEfiHt6Vhjf_c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH4co4J5oWW2Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "delgadonelson",
+                        "trackingId": "YXsyNIGjS3mFXBmZS+3o2g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,128,129)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg"
+                },
+                {
+                    "member": {
+                        "firstName": "Ibrahim",
+                        "lastName": "Modrek",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAdg2CcBV91Lf-KZvK88PgjrwSnCPDPdQn4",
+                        "occupation": "General Manager at EESCEG",
+                        "objectUrn": "urn:li:member:123787303",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAdg2CcBV91Lf-KZvK88PgjrwSnCPDPdQn4",
+                        "publicIdentifier": "ibrahim-modrek-20755835",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516588504791?e=1707955200&v=beta&t=zoGbx1nW6OKjFYZxzlfVlX3E1pP8ruizdN3R_Ikq8fs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516588504651?e=1707955200&v=beta&t=mhU7sIbiHa9opY3ROu6CyaYdi6MW2NTfjXJqXIkajAg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 319,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516588504652?e=1707955200&v=beta&t=I_-07MJska5raMO6otlYs2tI1sdJnuY6wZ-NKM_r_N8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 319
+                                    },
+                                    {
+                                        "width": 319,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516588504699?e=1707955200&v=beta&t=6NqnxAeXMSWbYmn89X_earOSb77_uBB1dpykDCMTNFk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 319
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQE0xeONNVHTLg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "IhUZWlXOSOyjY6eBpb8rww=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,128,145)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAdg2CcBV91Lf-KZvK88PgjrwSnCPDPdQn4"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2008
+                }
+            },
+            "description": "Coordinate engineering activities and administrative activities as well with vendor and contractor ENPPI in Cairo. Review and revised the FEED and detailed engineering for the project. Schematics, I/O's of the Systems. Verifying the standards followed the NFPA standards along with PDVSA standars as well. Communicated the recomendations needed for the systems, check the observations and requirement were implemented as the client PDVSA requested. Assisted FAT's, and design the Control Room Equipment for monitoring.",
+            "title": "ABB - Fire ang Gas System for PDVSA PAGMI Project",
+            "url": "http://www.pdvsa.com/"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,128193600)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Nelson",
+                        "lastName": "D.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "occupation": "Global Lead Buyer Energy at RHI Magnesita",
+                        "objectUrn": "urn:li:member:79332884",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1516978957844?e=1707955200&v=beta&t=2wWmrk7NA3TEyZezn_z3YFOCZuKqWZdKG_0OPyaKpU0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    },
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1516978958142?e=1707955200&v=beta&t=MGUckHEWnmXTpbCagEFSleiM3LMVp0AEfiHt6Vhjf_c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH4co4J5oWW2Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "delgadonelson",
+                        "trackingId": "YXsyNIGjS3mFXBmZS+3o2g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,130,131)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2008
+                }
+            },
+            "description": "As a Lead Instrumentation and Control Engineer I supported other disciplines in the project and with knowledge on Electrical Power Systems I review and revised all the Engineering related to a Power Supervisory Control System that controls a Power Distribution Control Center for all the Motors AC/DC belonging to the PAGMI plant a 600MMSCF Gas Dehydration Plant. Main activities were check the engineering along with the Contractor ENPPI and vendor AREVA - Colombia. Supervised and assisted the FAT's on the Vendors facilities were observations were made related to the graphics shown on the control systems and check all the actions that needed to be executed remotely from the PSCS to the Power Control Center 460V and de 34.5kV Switchgear.",
+            "title": "AREVA - Power Supervisory Control Systems for a 460V and 34.5kV switchgear belonging to PAGMI Plant - PDVSA",
+            "url": "http://www.pdvsa.com/"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,128193600)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Nelson",
+                        "lastName": "D.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "occupation": "Global Lead Buyer Energy at RHI Magnesita",
+                        "objectUrn": "urn:li:member:79332884",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1516978957844?e=1707955200&v=beta&t=2wWmrk7NA3TEyZezn_z3YFOCZuKqWZdKG_0OPyaKpU0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    },
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1516978958142?e=1707955200&v=beta&t=MGUckHEWnmXTpbCagEFSleiM3LMVp0AEfiHt6Vhjf_c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH4co4J5oWW2Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "delgadonelson",
+                        "trackingId": "YXsyNIGjS3mFXBmZS+3o2g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,136,137)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2008
+                }
+            },
+            "description": "Along with ECIS Group - Italy, Design according to Venezuelan Gas Hidrocarbons Laws and Ministry requirements the LACT unit for Measurement and Fiscal unit for the incomming Gas from the Offshore fields as well as the outgoing to the Main Client SINORGAS project, in order to have an accute measurement of the amount and quality of the Gas comming in the plant and going out. This involved choosing the GC system and choosing the best arrangement for a precise measuremente Unit. Inspected Manufacturing as well and used Ultrasonic Flow Measurement systems and Daniel computers.",
+            "title": "ECIS Group - LACT ( Leased Automatic Custody Transfer) - PAGMI"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,128193600)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Nelson",
+                        "lastName": "D.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "occupation": "Global Lead Buyer Energy at RHI Magnesita",
+                        "objectUrn": "urn:li:member:79332884",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1516978957844?e=1707955200&v=beta&t=2wWmrk7NA3TEyZezn_z3YFOCZuKqWZdKG_0OPyaKpU0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    },
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1516978958142?e=1707955200&v=beta&t=MGUckHEWnmXTpbCagEFSleiM3LMVp0AEfiHt6Vhjf_c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH4co4J5oWW2Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "delgadonelson",
+                        "trackingId": "YXsyNIGjS3mFXBmZS+3o2g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,134,135)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg"
+                },
+                {
+                    "member": {
+                        "firstName": "Jesús lionel",
+                        "lastName": "Mondragón Alexis",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAARFU88B56n9Nd6vvoqHoX0bGsvMzEdwrNM",
+                        "occupation": "Senior project Engineer",
+                        "objectUrn": "urn:li:member:71652303",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAARFU88B56n9Nd6vvoqHoX0bGsvMzEdwrNM",
+                        "publicIdentifier": "jesús-lionel-mondragón-alexis-553bb51b",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1580788922349?e=1707955200&v=beta&t=rdgzBXmvaZ0t98kCgIpmFfIqQMkStFamn8uB0kXZ8Mw",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 131,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1580788922320?e=1707955200&v=beta&t=Svj-fYtcDw3bHOfZ8_sPN32uKZ1pIGGiQi_P6PNVpow",
+                                        "expiresAt": 1707955200000,
+                                        "height": 131
+                                    },
+                                    {
+                                        "width": 131,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1580788922376?e=1707955200&v=beta&t=AIuME_0Fju1W0UVkNQ5xx3ld0ky6LR2FkZUJztQDAUQ",
+                                        "expiresAt": 1707955200000,
+                                        "height": 131
+                                    },
+                                    {
+                                        "width": 131,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1580788922400?e=1707955200&v=beta&t=Sp_6-X0ETVemPDI7CSKsqkM-t4aMTrByPa-MTqKumTg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 131
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E03AQHv7rxnexvDZw/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "NwaSFKWGS9yNe4Oz9CGG/Q=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,134,147)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAARFU88B56n9Nd6vvoqHoX0bGsvMzEdwrNM"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2008
+                }
+            },
+            "description": "Revised the documents and drawings for manufacturing and assembly of the Control Valves along with Contractor EMERSON and ENPPI.",
+            "title": "Emerson - Control Valves - PAGMI",
+            "url": "http://www.pdvsa.com/"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,128193600)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Nelson",
+                        "lastName": "D.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "occupation": "Global Lead Buyer Energy at RHI Magnesita",
+                        "objectUrn": "urn:li:member:79332884",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1516978957844?e=1707955200&v=beta&t=2wWmrk7NA3TEyZezn_z3YFOCZuKqWZdKG_0OPyaKpU0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    },
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1516978958142?e=1707955200&v=beta&t=MGUckHEWnmXTpbCagEFSleiM3LMVp0AEfiHt6Vhjf_c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH4co4J5oWW2Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "delgadonelson",
+                        "trackingId": "YXsyNIGjS3mFXBmZS+3o2g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,132,133)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg"
+                },
+                {
+                    "member": {
+                        "firstName": "Mercedes",
+                        "lastName": "Cavani",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAbwq9ABCuFA_YwBzQgfN1cT2VZybPrHc-s",
+                        "occupation": "Ingeniero de Procesos en PDVSA Petroleos de Venezuela S.A.",
+                        "objectUrn": "urn:li:member:116435920",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAbwq9ABCuFA_YwBzQgfN1cT2VZybPrHc-s",
+                        "publicIdentifier": "mercedes-cavani-a94bb132",
+                        "trackingId": "NZTztf69TkCVLP0qGj5udQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,132,146)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAbwq9ABCuFA_YwBzQgfN1cT2VZybPrHc-s"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2008
+                }
+            },
+            "description": "Participated on the creation and reviewing of the PFD's, P&ID'S and Hazop studies related to the 600MMSCF Gas Dehydration Plant along with contractor ENPPI and Licensed vendor PROSERNAT (France). Review and check of the Drawings as well as the Control Philosophy of the plant, Emergency Shutdown Philosophy, Molecular Sieve technology among other facilities needed for the process of the plant.",
+            "title": "PROSERNAT - PAGMI Project PDVSA",
+            "url": "http://www.pdvsa.com/"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,128193600)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Nelson",
+                        "lastName": "D.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "occupation": "Global Lead Buyer Energy at RHI Magnesita",
+                        "objectUrn": "urn:li:member:79332884",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1516978957844?e=1707955200&v=beta&t=2wWmrk7NA3TEyZezn_z3YFOCZuKqWZdKG_0OPyaKpU0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    },
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1516978958142?e=1707955200&v=beta&t=MGUckHEWnmXTpbCagEFSleiM3LMVp0AEfiHt6Vhjf_c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH4co4J5oWW2Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "delgadonelson",
+                        "trackingId": "YXsyNIGjS3mFXBmZS+3o2g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,126,127)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg"
+                },
+                {
+                    "member": {
+                        "firstName": "Mohamed",
+                        "lastName": "Magdy",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAJSgEgBprgWqQ9VspL-zmZOdKPVvSgpbm0",
+                        "occupation": "Senior DCS Engineer at Yokogawa Engineering Bahrain (YEB)",
+                        "objectUrn": "urn:li:member:38961224",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAJSgEgBprgWqQ9VspL-zmZOdKPVvSgpbm0",
+                        "publicIdentifier": "mohamed-magdy-00806b11",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517744921185?e=1707955200&v=beta&t=_U6oTU2dZ_p7xj97vnu3wY2TaJwnCIljy7yv_h7f0bs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517744921362?e=1707955200&v=beta&t=sWT1gXPqbJd2dFzJ1ygpftdgOZ83XNqdxqL-_gha8iI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 330,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517744921171?e=1707955200&v=beta&t=YRzdP2SYNzHpah5GSxc6fmqp2c0yGM2JVB3GUQkN1W8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 330
+                                    },
+                                    {
+                                        "width": 330,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517744921174?e=1707955200&v=beta&t=xbDPee_94eDj5e_YoGZYmr2jGIIA_KbZTnjLoh1byL8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 330
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQFIFC2Sg3rQ2A/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "gTmxY+zURt2Jx/NP4gLbow=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,126,142)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAJSgEgBprgWqQ9VspL-zmZOdKPVvSgpbm0"
+                },
+                {
+                    "member": {
+                        "firstName": "Tamer",
+                        "lastName": "Fahmy",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUIBR8Bb0fgaAfyWnU2fFAxML28lwlOaKU",
+                        "occupation": "Project Manager at Yokogawa",
+                        "objectUrn": "urn:li:member:84411679",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAUIBR8Bb0fgaAfyWnU2fFAxML28lwlOaKU",
+                        "publicIdentifier": "tamer-fahmy-42732924",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517070364233?e=1707955200&v=beta&t=0LKpCtiP4MSUmMNa4gjKvOJ3XchHzvFaxJuLVtZyxkg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517070364298?e=1707955200&v=beta&t=_zAKpsmU5m7TXZW9jkuALWI8souK6o1NLBdw6QwQJGk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 382,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517070364403?e=1707955200&v=beta&t=g2fM-c5Uct6gvqcW60iw9JehKlNsunJrh2suutsPQe4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 382
+                                    },
+                                    {
+                                        "width": 382,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517070364252?e=1707955200&v=beta&t=1-iAmLwYsbxd4sVBz1EMld-Cu_fLzACDXvpwXCw0Y_Q",
+                                        "expiresAt": 1707955200000,
+                                        "height": 382
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQEEsEt8xp3Zbg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "d2D0Ls10QTKWODL9nWEzCg=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,126,143)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAUIBR8Bb0fgaAfyWnU2fFAxML28lwlOaKU"
+                },
+                {
+                    "member": {
+                        "firstName": "Alaaeldin",
+                        "lastName": "Abdalla",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAJO-MMBYrPE3lnqktn6hWWYzzEPFl5Zat0",
+                        "occupation": "Cyber Security & Process Control Program Manager",
+                        "objectUrn": "urn:li:member:38729923",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAJO-MMBYrPE3lnqktn6hWWYzzEPFl5Zat0",
+                        "publicIdentifier": "alaaeldin-abdalla-197b7910",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1522747474016?e=1707955200&v=beta&t=cCTRPOIyT-KKB6qqB0BG-2BKOW0C2ZZcvyj4vTmXJc8",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1522747474123?e=1707955200&v=beta&t=-Nt5LWUOJEEHDXGExcYHba_O_3L1BzA5OFb6YyUBrGE",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1522747474264?e=1707955200&v=beta&t=39MHTZ2Z7jBIYaQW3-aydVe--K6SUIaf7Mo0WRM_PVU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 500,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1522747473968?e=1707955200&v=beta&t=HecfQwD8tp3TkA96jw2AdkXzUGy14m4UBYm0IW7dzow",
+                                        "expiresAt": 1707955200000,
+                                        "height": 500
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5103AQHvIe52NUX4AQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "QZuK43jDTECBKyOg5B1TaQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,126,144)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAJO-MMBYrPE3lnqktn6hWWYzzEPFl5Zat0"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2008
+                }
+            },
+            "description": "Review and revised all the FEED, Data Sheets, MRQ's, MRP's related to this project. Coordinate the FAT's, Check I/O's, along with vendor Giza Systems and Yokogawa Middle East personal. Follow the logistics and procurement activities as well. Technical meetings, check list among other activities.",
+            "title": "Yokogawa DCS, ProSafe RS for PDVSA Projects in Venezuela (PAGMI Project) through the EPC contractor “ENPPI” and Giza Systems",
+            "url": "http://www.pdvsa.com/"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,128193600)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Nelson",
+                        "lastName": "D.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "occupation": "Global Lead Buyer Energy at RHI Magnesita",
+                        "objectUrn": "urn:li:member:79332884",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1516978957844?e=1707955200&v=beta&t=2wWmrk7NA3TEyZezn_z3YFOCZuKqWZdKG_0OPyaKpU0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    },
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1516978958142?e=1707955200&v=beta&t=MGUckHEWnmXTpbCagEFSleiM3LMVp0AEfiHt6Vhjf_c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH4co4J5oWW2Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "delgadonelson",
+                        "trackingId": "YXsyNIGjS3mFXBmZS+3o2g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,27,28)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg"
+                },
+                {
+                    "member": {
+                        "firstName": "Haitham",
+                        "lastName": "Boughannam",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAP8WMQByqhpNgGCIfV1Y-jVQ2yesoDLkdk",
+                        "occupation": "Site Civil Engineer en PDVSA Petroleos de Venezuela S.A.",
+                        "objectUrn": "urn:li:member:66869444",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAP8WMQByqhpNgGCIfV1Y-jVQ2yesoDLkdk",
+                        "publicIdentifier": "haitham-boughannam-7184891a",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516845008249?e=1707955200&v=beta&t=NJTofqyHZp6j1JHU3Jr_ViGzLPW3OJol0fIauuIQAi0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 131,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516845008033?e=1707955200&v=beta&t=LC7QN7hTa7Nli9mTEO4CO6wdOeGfMeGwhNg90q2v5i4",
+                                        "expiresAt": 1707955200000,
+                                        "height": 131
+                                    },
+                                    {
+                                        "width": 131,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516845008097?e=1707955200&v=beta&t=9Z6n2c_wqcnuJUbkQvHN0XjaMLBNPUT1_CqoPFhlQCk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 131
+                                    },
+                                    {
+                                        "width": 131,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516845008033?e=1707955200&v=beta&t=ARX0d-W0kk9ebqnZdTJnJgB2e73dKX_5mGU1BkmGjaU",
+                                        "expiresAt": 1707955200000,
+                                        "height": 131
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQH311iee7zBog/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "03pGXdvsTOWQ2NlfSQ/iOA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,27,138)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAP8WMQByqhpNgGCIfV1Y-jVQ2yesoDLkdk"
+                },
+                {
+                    "name": "jesus mondragon",
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,27,139)"
+                },
+                {
+                    "member": {
+                        "firstName": "Ricardo",
+                        "lastName": "Moreno",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAA7NeIMBTGkovEKtFLYxxaUxbIcpeeSMcao",
+                        "occupation": "Mechanical Engineer (oil and Gas projects)",
+                        "objectUrn": "urn:li:member:248346755",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAA7NeIMBTGkovEKtFLYxxaUxbIcpeeSMcao",
+                        "publicIdentifier": "ricardo-moreno-22b2076b",
+                        "trackingId": "uQG46mZ9QcSpwWpMjPQFEQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,27,140)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAA7NeIMBTGkovEKtFLYxxaUxbIcpeeSMcao"
+                },
+                {
+                    "member": {
+                        "firstName": "Mercedes",
+                        "lastName": "Cavani",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAbwq9ABCuFA_YwBzQgfN1cT2VZybPrHc-s",
+                        "occupation": "Ingeniero de Procesos en PDVSA Petroleos de Venezuela S.A.",
+                        "objectUrn": "urn:li:member:116435920",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAbwq9ABCuFA_YwBzQgfN1cT2VZybPrHc-s",
+                        "publicIdentifier": "mercedes-cavani-a94bb132",
+                        "trackingId": "NZTztf69TkCVLP0qGj5udQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,27,141)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAbwq9ABCuFA_YwBzQgfN1cT2VZybPrHc-s"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2007
+                }
+            },
+            "description": "FEED and detailed engineering of gas conditioning plant of 600 MMSCF, the gas comes from an Offshore gas source to supply the Venezuelan domestic and local market. The gas conditioning plant dehydrates the gas through Molecular Sieve technology. Conducted all the FEED (Front End Engineering Design) of the plant in the city of Cairo - Egypt. The main activities focus in the area of ​​automation, instrumentation and control, jointly supporting other project disciplines within the project (civil, mechanical, electrical, process, cathodic). Assisted procuremente activities like quality inspections with the equipment related to the discipline like BPCS, F&G, SIS, BMS, PSCS, control valves etc. Join FAT's along with the contractor and vendor. Review , check and approbed engineering deliverables related to the discipline I&C. Travelled to Egypt, Italy, France and Colombia to assist diffrent meetings, inspections and follow up's.",
+            "title": "600MMSCF Dehydration Gas Plant -PAGMI Planta de Acondicionamiento de Gas para el Mercado Interno",
+            "url": "http://www.pdvsa.com/"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,409552641)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Nelson",
+                        "lastName": "D.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "occupation": "Global Lead Buyer Energy at RHI Magnesita",
+                        "objectUrn": "urn:li:member:79332884",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1516978957844?e=1707955200&v=beta&t=2wWmrk7NA3TEyZezn_z3YFOCZuKqWZdKG_0OPyaKpU0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    },
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1516978958142?e=1707955200&v=beta&t=MGUckHEWnmXTpbCagEFSleiM3LMVp0AEfiHt6Vhjf_c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH4co4J5oWW2Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "delgadonelson",
+                        "trackingId": "YXsyNIGjS3mFXBmZS+3o2g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,25,26)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2006
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2006
+                }
+            },
+            "description": "Keep gas production infrastructure for the operation by designing the production infrastructure for future activities to be performed by the San Tome Gas Production Department. This implies oil and gas pipelines, flow stations, pump station, multiple, separators, production planning operations of gas wells, gas lift wells exploration. Designing infrastructure for oil and gas transportation",
+            "title": "Gas Infrastructure projects in PDVSA GAS",
+            "url": "http://www.pdvsa.com/"
+        },
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,139458186)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Nelson",
+                        "lastName": "D.",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "occupation": "Global Lead Buyer Energy at RHI Magnesita",
+                        "objectUrn": "urn:li:member:79332884",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1516978957844?e=1707955200&v=beta&t=2wWmrk7NA3TEyZezn_z3YFOCZuKqWZdKG_0OPyaKpU0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    },
+                                    {
+                                        "width": 730,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1516978958142?e=1707955200&v=beta&t=MGUckHEWnmXTpbCagEFSleiM3LMVp0AEfiHt6Vhjf_c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 182
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQH4co4J5oWW2Q/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "delgadonelson",
+                        "trackingId": "YXsyNIGjS3mFXBmZS+3o2g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg,31,32)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAS6hhQB7lq1ypKVhceIqBelpyqER4i_uLg"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2006
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2006
+                }
+            },
+            "description": "The main goal was to keep the maintenance of the power transformers belonging to the network of ELECAR using continuous maintenance program, coordinating maintenance activities. Coordinating logistics to Power Transformers, Identifying each new transformer adquire by the company, manage the inventory of Power Transformers in the different storage facilities. Analyze the Oil Lab Gas and Liquid Chromotography related to the each transformer under maintenance.",
+            "title": "Maintenance of Power Transformers in the power grid in ELECAR"
+        }
+    ]
+}

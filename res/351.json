@@ -1,0 +1,518 @@
+{
+    "summary": "I am a graduate from the Erasmus University Rotterdam, with a Master's Degree in Work and Organisational Psychology. I have over two years of experience in Talent Management for a Global NGO and as a Recruiter in a recruiting agency, working on a wide range of specialist and tech positions. Open to work, seeking opportunities within international teams in Human Resources and Recruitment roles.\n\nPassionate about organizational culture, people development and employees' well-being, eager to learn and contribute with a hands-on, practical approach, to accelerate the success of a dynamic organisation.",
+    "industryName": "Staffing & Recruiting",
+    "lastName": "Stasevich",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 9,
+        "day": 30
+    },
+    "industryUrn": "urn:li:fs_industry:104",
+    "firstName": "Volha",
+    "entityUrn": "urn:li:fs_profile:ACoAABf1EecBANXYvyQYN0a7f8gO26XI5VsYFys",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103447814"
+    },
+    "geoLocationName": "Rotterdam, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "IT Recruiter",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQGbVOmztSyhQQ/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1663523461746?e=1707955200&v=beta&t=8uBfsHn2EuKdV7qfuNj5lh4rBGtcx08Qx6p62ONN0cY",
+    "img_200_200": "200_200/0/1663523461747?e=1707955200&v=beta&t=hqtNes0ebC43AzglIV2BrZHNaQYG2oJmRS3fX6fZHs8",
+    "img_400_400": "400_400/0/1663523461747?e=1707955200&v=beta&t=KWzI8jaiKlnoMZwOk2T2eKJkg7SZqkXgTx9Kw89WDws",
+    "img_800_800": "800_800/0/1663523461747?e=1707955200&v=beta&t=BbbFLXqbMkjwjI6yicsE9G0dGc3RLdu7fmQ_brXAGXA",
+    "profile_id": "ACoAABf1EecBANXYvyQYN0a7f8gO26XI5VsYFys",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABf1EecBANXYvyQYN0a7f8gO26XI5VsYFys",
+    "member_urn": "urn:li:member:401936871",
+    "public_id": "volhastasevich",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABf1EecBANXYvyQYN0a7f8gO26XI5VsYFys,2189162310)",
+            "companyName": "Experis Nederland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Staffing and Recruiting"
+                ]
+            },
+            "title": "IT Recruiter",
+            "companyUrn": "urn:li:fs_miniCompany:7358",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEyyWfTt1Rv2Q/company-logo_"
+        },
+        {
+            "locationName": "Riga, Latvia",
+            "entityUrn": "urn:li:fs_position:(ACoAABf1EecBANXYvyQYN0a7f8gO26XI5VsYFys,1940312953)",
+            "geoLocationName": "Riga, Latvia",
+            "geoUrn": "urn:li:fs_geo:106491660",
+            "companyName": "Stafferty Latvia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "description": "On July 20th 2022 Ancor Baltic exited the Ancor group of companies. From now on the company is operating under the new name of Stafferty in Lithuania, Latvia, Estonia, and Ukraine. \n\nKey responsibilities:\n- Sourcing, attracting and interviewing candidates for tech roles (Java, C# Developers, Cloud Data Engineers);\n- Conducting intake and follow up meetings with clients from Product and Service-based companies.\n\nCreated and facilitated online meetings “IT Digest” with fellow colleagues where we shared knowledge and new trends in an IT Recruitment.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "IT Recruiter for Baltic States",
+            "region": "urn:li:fs_region:(lv,0)",
+            "companyUrn": "urn:li:fs_miniCompany:22330755",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQF6F39VGZK1EA/company-logo_"
+        },
+        {
+            "locationName": "Minsk, Belarus",
+            "entityUrn": "urn:li:fs_position:(ACoAABf1EecBANXYvyQYN0a7f8gO26XI5VsYFys,1745143950)",
+            "geoLocationName": "Minsk, Belarus",
+            "geoUrn": "urn:li:fs_geo:107069690",
+            "companyName": "Stafferty Latvia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "description": "Joined ANCOR - one of the leading HR providers in the CIS and specializes in recruitment, outsourcing and consulting.\n\nKey responsibilities: \n- Sourcing and attracting talents through proactive search, headhunting, job ads, networking etc.;\n- Phone pre-screening, (video) interviewing for various specialist and tech positions;\n- Building and maintaining relationships with clients and candidates;\n- Scheduling interviews, preparing candidates for client interviews and debriefing candidate afterwards;\n- Conducting intake meetings with clients to discuss their requirements, e.g.  packages and qualifications criteria for candidates;\n- Screening resumes and managing internal database.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Human Resources"
+                ]
+            },
+            "title": "Junior Recruiter",
+            "region": "urn:li:fs_region:(by,0)",
+            "companyUrn": "urn:li:fs_miniCompany:22330755",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQF6F39VGZK1EA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABf1EecBANXYvyQYN0a7f8gO26XI5VsYFys,1679481201)",
+            "companyName": "Ingenious Faces",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Education Management"
+                ]
+            },
+            "title": "Brand Ambassador",
+            "companyUrn": "urn:li:fs_miniCompany:14375686",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFeBlnaK7SByQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAABf1EecBANXYvyQYN0a7f8gO26XI5VsYFys,1674545880)",
+            "geoLocationName": "Utrecht, Netherlands",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "ADAMS UNIVERSAL PRODUCTION & EVENTS MANAGEMENT LTD",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "description": "Part-time job for 5 weeks in Dutch Language School.\n\nResponsibilities:\n - Managing Academy’s Facebook page\n - Knowledge on DUO and Blik op Werk regulations\n - Network and communication with teachers, other Facebook groups and potential clients\n - Arranging, proposing and planning Field Marketing campaigns  \n\nAchievements:\n - Successfully negotiated with 2 teachers on promoting Adams Universal and their services\n - Regularly posted on Facebook page of Academy about its services and teachers\n - Promoted Adams Universal in other Facebook groups (for expats, refugees etc)\n - For the period of August company’s page got 36 likes and followers, which is 500% of growth in comparison with previous month. Also it got 290% of growth in Page Views. \n",
+            "company": {
+                "industries": [
+                    "Marketing and Advertising"
+                ]
+            },
+            "title": "Marketing Assistant",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:20181577",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFnU5EV0K8tDw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABf1EecBANXYvyQYN0a7f8gO26XI5VsYFys,264181555)",
+            "school": {
+                "objectUrn": "urn:li:school:15415",
+                "entityUrn": "urn:li:fs_miniSchool:15415",
+                "active": true,
+                "schoolName": "Erasmus University Rotterdam",
+                "trackingId": "hZrl6AIxSC+NXrbmjGFvRA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "description": "Courses:\nAttitudes and Emotions in Organizations, Groups at Work, Management and mediation, Personnel selection and Assessment, Applied Multivariate Data Analysis. Thesis topic: “Autonomy and crafting during work and leisure: The moderating role of work and leisure centrality”. \n",
+            "degreeName": "Master's Degree",
+            "schoolName": "Erasmus University Rotterdam",
+            "fieldOfStudy": "Industrial and Organizational Psychology",
+            "schoolUrn": "urn:li:fs_miniSchool:15415"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABf1EecBANXYvyQYN0a7f8gO26XI5VsYFys,264305284)",
+            "activities": "Member of the University Theatrical Circle",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "degreeName": "Bachelor's Degree",
+            "schoolName": "Maxim Tank Belarusian State Pedagogical University (BSPU)",
+            "fieldOfStudy": "Psychology of Enterprise Activity"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABf1EecBANXYvyQYN0a7f8gO26XI5VsYFys,785597711)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "description": "HRPR - IT Recruiting course. \nhttps://www.linkedin.com/company/hrprby/",
+            "schoolName": "Skademy.by",
+            "fieldOfStudy": "IT Recruitment"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Belarusian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Dutch",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "French",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Russian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "LinkedIn",
+            "name": "Organizational Learning and Development",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "3OjCVT/KTY+Mqpw+uRDiEg=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/ac10619b24c22de00ffce39519057ec7748a999e7b0e49778bc16d3ad3b17870?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Finding and Retaining High Potentials",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "Wm7cFgVzSxaaSIWBxVPM+g=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/852155be44aa75156832729241bf3b813746e30098022c3eea7da01e9d9cab65?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "Data-Driven Learning Design",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "FA/JPOYBTgOeafTPcXfT7Q=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/7705f60d1c09abcc0ebfa6a4bae90eb0f91fb44ad1695f28f48c2fc916d3402d?trk=backfilled_certificate"
+        },
+        {
+            "authority": "LinkedIn",
+            "name": "People Analytics",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "gzoQFKroQvev69kNTokoRg=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/688ff46f12fd5e538a3c29226af3b2212de2d93b141114f8877852e8d9e490b6?trk=backfilled_certificate"
+        }
+    ],
+    "volunteer": [
+        {
+            "role": "Member of the Volunteer Club at BSPU",
+            "companyName": "2nd City Children's Clinical Hospital",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2007
+                }
+            },
+            "cause": "CHILDREN",
+            "description": "Organization, participation and managing of special holidays and New Year parties for hospitalised children. Toy-collection for little patients. Visits took place once a month, for 2-3 hours."
+        },
+        {
+            "role": "Ambassador",
+            "companyName": "Venture Café Rotterdam",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:10126728",
+                    "entityUrn": "urn:li:fs_miniCompany:10126728",
+                    "name": "Venture Café Rotterdam",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1645710011386/venturecaferotterdam_logo?e=1710374400&v=beta&t=TSglOHV80fvhr6sbjScyppAl6r5pJDB2ToG4E3hErWg",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1645710011386/venturecaferotterdam_logo?e=1710374400&v=beta&t=HC_JUetK9kKcI5h_3g2RancjCyXvtS84TCJ-jQ7itMc",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1645710011386/venturecaferotterdam_logo?e=1710374400&v=beta&t=w25CZyR5-ebjCOjN7_LjXE1IeX7UOJGQ1a0mc_zfS4o",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQG57hDnDpUqgg/company-logo_"
+                        }
+                    },
+                    "universalName": "venturecaferotterdam",
+                    "dashCompanyUrn": "urn:li:fsd_company:10126728",
+                    "trackingId": "uBd8E/taS7uSBJvRGOQiXA=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:10126728"
+        }
+    ],
+    "honors": [],
+    "projects": []
+}

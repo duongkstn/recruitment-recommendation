@@ -1,0 +1,253 @@
+{
+    "industryName": "Building Materials",
+    "lastName": "Piso Cortes",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Ricardo",
+    "entityUrn": "urn:li:fs_profile:ACoAAC2wB4wBmfMD90qy6udpKDyJCCWEwm2E4AU",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101053799"
+    },
+    "geoLocationName": "Purmerend, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Mobile device management engineer",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQFeUgLlTEolWw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1675247319044?e=1707955200&v=beta&t=Cz9Y_agriguPNsrFp3O0lmrMLBE-Scocd9Pa-XDzMf4",
+    "img_200_200": "200_200/0/1675247319044?e=1707955200&v=beta&t=2Oad-OsH3krnsSksI3aO55PNiPbWaxQxtlcdWccVGi8",
+    "img_400_400": "400_400/0/1675247319044?e=1707955200&v=beta&t=o7fptuJ4TI2Bj0ORnaqsQ11aVTLw0xMjGaI1Up_n2yA",
+    "img_800_800": "800_800/0/1675247319044?e=1707955200&v=beta&t=AUQvlEIJ2M1x4grS6PTUSXgcQhRfd6lhpI8n7FSl1xI",
+    "profile_id": "ACoAAC2wB4wBmfMD90qy6udpKDyJCCWEwm2E4AU",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAC2wB4wBmfMD90qy6udpKDyJCCWEwm2E4AU",
+    "member_urn": "urn:li:member:766510988",
+    "public_id": "ricardo-piso-cortes-8b8852194",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAC2wB4wBmfMD90qy6udpKDyJCCWEwm2E4AU,2029605450)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Mobile device management engineer",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAC2wB4wBmfMD90qy6udpKDyJCCWEwm2E4AU,1995800195)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "ICT-servicedesk Internship",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAC2wB4wBmfMD90qy6udpKDyJCCWEwm2E4AU,1854685622)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "CRH",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Local IT internship",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:163259",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQEvClar2Xw3Eg/company-logo_"
+        },
+        {
+            "locationName": "Purmerend, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAC2wB4wBmfMD90qy6udpKDyJCCWEwm2E4AU,1865326782)",
+            "geoLocationName": "Purmerend, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:101053799",
+            "companyName": "De Snuffelaar",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2017
+                }
+            },
+            "title": "Retail Salesperson",
+            "region": "urn:li:fs_region:(nl,0)"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAC2wB4wBmfMD90qy6udpKDyJCCWEwm2E4AU,753941279)",
+            "school": {
+                "objectUrn": "urn:li:school:466011",
+                "entityUrn": "urn:li:fs_miniSchool:466011",
+                "active": true,
+                "schoolName": "Regio College",
+                "trackingId": "ySJeZblOSja20QwtHSNpuw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQEPKaKA_rC3Nw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101041",
+            "degreeName": "Expert IT system and devices",
+            "schoolName": "Regio College",
+            "fieldOfStudy": "ICT-beheer / ICT-beheerder",
+            "schoolUrn": "urn:li:fs_miniSchool:466011"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAC2wB4wBmfMD90qy6udpKDyJCCWEwm2E4AU,617469271)",
+            "school": {
+                "objectUrn": "urn:li:school:466011",
+                "entityUrn": "urn:li:fs_miniSchool:466011",
+                "active": true,
+                "schoolName": "Regio College",
+                "trackingId": "x9OOs4JsSS6yP9Q1qe9fUQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQEPKaKA_rC3Nw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101443",
+            "degreeName": "Student",
+            "schoolName": "Regio College",
+            "fieldOfStudy": "Financieel management (Financial management)",
+            "schoolUrn": "urn:li:fs_miniSchool:466011"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Engels"
+        },
+        {
+            "name": "Nederlands"
+        },
+        {
+            "name": "Spaans"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Microsoft",
+            "name": "MTA: Security Fundamentals - Certified 2022",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "WRLasOYsQRiWLK4gUtksrg=="
+            },
+            "displaySource": "credly.com",
+            "companyUrn": "urn:li:fs_miniCompany:1035",
+            "url": "https://www.credly.com/badges/16259b2c-28c8-4154-bb4c-bae6322f79cf?source=linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

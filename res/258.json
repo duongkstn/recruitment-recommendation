@@ -1,0 +1,243 @@
+{
+    "industryName": "Financial Services",
+    "lastName": "Verburgh",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:43",
+    "firstName": "Roos",
+    "entityUrn": "urn:li:fs_profile:ACoAABd_yAcBU59tH8TfSE1QAif9zLYhYQZMQJM",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:103100785"
+    },
+    "geoLocationName": "Amsterdam, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Senior Financial Controller at Rituals",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4E03AQEwf59lNTFqSA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1680209387344?e=1707955200&v=beta&t=xXN0_60aYPjkHZURbRl2Z9UzHkQ2W_B9kIssQknkw4U",
+    "img_200_200": "200_200/0/1680209387344?e=1707955200&v=beta&t=6AB34-jCsyf7KLwhXqnrGg14z7lhXiiv3C7H4R5yLt4",
+    "img_400_400": "400_400/0/1680209387344?e=1707955200&v=beta&t=VKJ3oeu623VOOxz-GgXtODwuuYfpCGcoYiCxF-StFiA",
+    "img_800_800": "800_800/0/1680209387344?e=1707955200&v=beta&t=v6IRYBx2nzNozBpltBAosPEnmf9oUMz5d17ZWnidcT0",
+    "profile_id": "ACoAABd_yAcBU59tH8TfSE1QAif9zLYhYQZMQJM",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABd_yAcBU59tH8TfSE1QAif9zLYhYQZMQJM",
+    "member_urn": "urn:li:member:394250247",
+    "public_id": "roos-verburgh-0b304ab0",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABd_yAcBU59tH8TfSE1QAif9zLYhYQZMQJM,2054165080)",
+            "companyName": "Rituals",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Cosmetics"
+                ]
+            },
+            "title": "Senior Financial Controller",
+            "companyUrn": "urn:li:fs_miniCompany:65420",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQExp86EbOZHCA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, Noord-Holland, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAABd_yAcBU59tH8TfSE1QAif9zLYhYQZMQJM,1812870543)",
+            "geoLocationName": "Amsterdam, Noord-Holland, Nederland",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Rituals",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Cosmetics"
+                ]
+            },
+            "title": "Financial Controller",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:65420",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQExp86EbOZHCA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABd_yAcBU59tH8TfSE1QAif9zLYhYQZMQJM,1678663838)",
+            "companyName": "PwC",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Associate - Senior Associate",
+            "companyUrn": "urn:li:fs_miniCompany:1044",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQH3qXh7nyImoQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABd_yAcBU59tH8TfSE1QAif9zLYhYQZMQJM,1662197694)",
+            "companyName": "PwC",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Intern Assurance",
+            "companyUrn": "urn:li:fs_miniCompany:1044",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQH3qXh7nyImoQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAABd_yAcBU59tH8TfSE1QAif9zLYhYQZMQJM,1642970629)",
+            "companyName": "Ready to school",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "description": "Economics and Management & Organisation",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Primary/Secondary Education"
+                ]
+            },
+            "title": "Tutor High School Students",
+            "companyUrn": "urn:li:fs_miniCompany:648917",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEXGA0lyUJK7Q/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABd_yAcBU59tH8TfSE1QAif9zLYhYQZMQJM,600127409)",
+            "school": {
+                "objectUrn": "urn:li:school:15452",
+                "entityUrn": "urn:li:fs_miniSchool:15452",
+                "active": true,
+                "schoolName": "Tilburg University",
+                "trackingId": "W70yzQuYT5aIdxkN+ZZiuQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "degreeName": "Post Master Accountancy",
+            "schoolName": "Tilburg University",
+            "fieldOfStudy": "Theoretische opleiding tot Register Accountant (RA)",
+            "schoolUrn": "urn:li:fs_miniSchool:15452"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABd_yAcBU59tH8TfSE1QAif9zLYhYQZMQJM,449641036)",
+            "school": {
+                "objectUrn": "urn:li:school:15452",
+                "entityUrn": "urn:li:fs_miniSchool:15452",
+                "active": true,
+                "schoolName": "Tilburg University",
+                "trackingId": "3sGjK37cTteeurtbEypkkw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_"
+            },
+            "activities": "Asset Accounting & Finance: Accounting and Controlling Expedition and Editorial Board ",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "degreeName": "Master of Science (MSc)",
+            "schoolName": "Tilburg University",
+            "fieldOfStudy": "Accountancy",
+            "degreeUrn": "urn:li:fs_degree:500",
+            "schoolUrn": "urn:li:fs_miniSchool:15452"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABd_yAcBU59tH8TfSE1QAif9zLYhYQZMQJM,449641078)",
+            "school": {
+                "objectUrn": "urn:li:school:42230",
+                "entityUrn": "urn:li:fs_miniSchool:42230",
+                "active": true,
+                "schoolName": "Luiss Guido Carli University",
+                "trackingId": "CduZwtkVRsKTCUaIbDw+Uw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQEqCsaHNonl7Q/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101426",
+            "degreeName": "Erasmus Exchange program (Minor)",
+            "schoolName": "Luiss Guido Carli University",
+            "fieldOfStudy": "Money and Banking",
+            "schoolUrn": "urn:li:fs_miniSchool:42230"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

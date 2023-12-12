@@ -1,0 +1,359 @@
+{
+    "summary": "Solutions driven and result oriented full stack lead with more than 18 years of experience in IT with a strong understanding of SDLC, active involvement in requirement analysis, low level technical design, data modeling, development, testing, code review, meeting pre-production requirements and migrating workloads from on premises environments to cloud platforms.\n\nExpertise in designing and developing rich UI in behavior driven environment, using front end technologies like Angular, VueJs, React, Nuxt, Lit element, NgRx, RxJs, HTML5, css3, typescript, webpack, NodeJs, GraphQL, Jest, Cucumber etc.\nExpertise in designing and developing scaleable backend applications and APIs using Java, J2EE, JAX-RS, Hibernate in test driven environment. \n\nExperience in designing, developing and deploying solutions on Azure and monitoring performance and analytics using latest tools. Experience in full DevOps and running solutions in containers and orchestrating the containers.\n\nExposure to the inter framework integration, performance tuning and implementing design strategies. Vast exposure of working on the global platform leading multiple technical teams majorly for finTech, telecom and aviation domain.\n\nExcellent work ethics, agile mindset, go-getter, self-motivated, quick learner, inherent focus on high quality, rapport and relationship building, meeting deadlines under work pressures while taking initiatives, individual and team player.\n\nDetail oriented and resourceful in handling assignments with strong abilities and skill sets to multi-task.\nExtensive exposure to client interaction. Coaching, mentoring and leading are the core constituents of my DNA.",
+    "industryName": "Banking",
+    "lastName": "Dixit",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 8,
+        "day": 8
+    },
+    "industryUrn": "urn:li:fs_industry:41",
+    "firstName": "Amit",
+    "entityUrn": "urn:li:fs_profile:ACoAAAKeDicBkrHcVNCQy1DSoSasBHU0s3wBa2U",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102434816"
+    },
+    "geoLocationName": "Utrecht, Utrecht",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Engineering Manager | Consumer Loans | Full Stack",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQFljnXSnKrb2w/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1611603546987?e=1707955200&v=beta&t=WGPWw2RsTWXBZgHSvjVJ-agzOUr-XxPrl4qUf2wJYt8",
+    "img_200_200": "200_200/0/1611603546987?e=1707955200&v=beta&t=47uG1-kafzMWdwDR7qLH_i4twP7g3dgq0ZZw8PG66ks",
+    "img_380_380": "800_800/0/1611603546987?e=1707955200&v=beta&t=PzvBZoys2muK-rkL9HDQP604geghz8fZd2M8r_ZvYx0",
+    "profile_id": "ACoAAAKeDicBkrHcVNCQy1DSoSasBHU0s3wBa2U",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAKeDicBkrHcVNCQy1DSoSasBHU0s3wBa2U",
+    "member_urn": "urn:li:member:43912743",
+    "public_id": "amitdxt",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKeDicBkrHcVNCQy1DSoSasBHU0s3wBa2U,2298378076)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "ING Nederland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Engineering Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:215713",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHB_xMo5kWjEA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKeDicBkrHcVNCQy1DSoSasBHU0s3wBa2U,1547631365)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "ABN AMRO Bank N.V.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "description": "I worked as a full stack chapter lead to design and develop the solutions to realize the bank motive of digitisation on Azure cloud platform. Leading mid size teams of developers based in Netherlands and India. \n\n• Leading development teams and collaborate with product owners to ideate software solutions\n• Responsible to design, develop and deliver the technical solutions of business wishes\n• First point of contact for developers, product owners and stakeholders for technical and operational issues\n• Solve complex technical and performance problems and architectural challenges\n• Ensuring clean, functional code on the front-end and back-end\n• Enforcing adherence of best practices and bank wide standard IT guidelines\n• Creating the solution sketch and planning the migration strategy of workloads from on prem to Azure\n• Coach, mentor, collaborate and influence colleagues towards technical excellence.\n• Ensuring cross-platform optimization and responsiveness of applications\n• Coordinate on tech debt reduction and ensure product is maintainable.\n• Seeing through a project from conception to finished product.\n• Regular brainstorming with other principal and domain architects to improve the products and IT eco system of the bank.\n• Performing impact analysis on other products due to change in solution intent\n• Stakeholder management and resource handling\n• Meeting both technical and consumer needs.\n• Staying abreast of developments in web applications and programming languages.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Chapter Lead - Full stack | Solution Engineer",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:1173",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGbBCf7qCSy2g/company-logo_"
+        },
+        {
+            "locationName": "Vianen, Utrecht Province, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKeDicBkrHcVNCQy1DSoSasBHU0s3wBa2U,992121612)",
+            "geoLocationName": "Vianen, Utrecht Province, Netherlands",
+            "companyName": "Sogeti Netherlands",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior Technology Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:1956",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGlAxNv0QOauw/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKeDicBkrHcVNCQy1DSoSasBHU0s3wBa2U,1547631322)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "de Volksbank",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2013
+                }
+            },
+            "description": "• Worked as a senior technical consultant to migrate the bank wide IT landscape from monolith architecture to microfrontend and microservices.\n• Technically led a big offshore team based in India to deliver suites of client-server applications\n• Responsible to design, develop and deploy the applications using DevOps.\n• Created low level design to be used by other developers to implement business user stories \n• Migrated multiple monolith applications from vanilla javascript to micro frontend architecture.\n• Developed corresponding rest based api using jax-rs specification.\n• Developed node based project generator to be leveraged by feature teams\n• Built technical capabilities, integration strategy , and service governance.\n• Followed and enforced best web development practices with high rapport on  documentation.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Senior Technical Consultant",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:8887067",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQG3TjkSLCCeZg/company-logo_"
+        },
+        {
+            "locationName": "Utrecht Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAKeDicBkrHcVNCQy1DSoSasBHU0s3wBa2U,717617365)",
+            "geoLocationName": "Utrecht Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "Capgemini",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior Consultant",
+            "region": "urn:li:fs_region:(nl,5690)",
+            "companyUrn": "urn:li:fs_miniCompany:157240",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D560BAQF_q1awsuPNAg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAKeDicBkrHcVNCQy1DSoSasBHU0s3wBa2U,31878152)",
+            "activities": "debate and fun activities",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "degreeName": "MCA",
+            "schoolName": "HBTI Kanpur",
+            "fieldOfStudy": "Programming languages, OS and algorithms"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Hindi",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "IBM",
+            "name": "IBM websphere portal server 7.0 solution development",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2012
+                }
+            },
+            "licenseNumber": "SR8193256",
+            "company": {
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=fI4woEfiR66RXckDzHXcuXmwuHY_AhFm3YJ1UTl7Jn0",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=Furn0vXql4qh6cesBQ3Ncf3zVolROT2u95LMYdmK-L8",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688684715866/ibm_logo?e=1710374400&v=beta&t=Hn00ybJ0iaIXWo7XRrjg0_wLY0PDvc4-Vyj2MAVEo1Y",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_"
+                    }
+                },
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "w/hMkJgpSM6uMx8+Bzp+nA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1009"
+        },
+        {
+            "authority": "AXELOS Global Best Practice",
+            "name": "ITIL Foundation Level",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:4999764",
+                "entityUrn": "urn:li:fs_miniCompany:4999764",
+                "name": "AXELOS Global Best Practice",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1635436804635/axelos_global_best_practice_logo?e=1710374400&v=beta&t=C6Y-Tt6R3bvCEnEXhbh2lNHx0laKOH4vlxkAWLcXjOo",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1635436804635/axelos_global_best_practice_logo?e=1710374400&v=beta&t=4PrQFIot5yK_EiWOzSVGDVKdn-hc8RCcjbofsZWXx5U",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1635436804635/axelos_global_best_practice_logo?e=1710374400&v=beta&t=GsGHr9JTPnz5uRS09b8vSyP9QxvCivpL1nRBlNaw9x8",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGo_FHY0vki5A/company-logo_"
+                    }
+                },
+                "universalName": "axelos-global-best-practice",
+                "dashCompanyUrn": "urn:li:fsd_company:4999764",
+                "trackingId": "Gy+5Z2iJS4+GE8LsCEni2A=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:4999764"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "Microsoft Certified: Azure Fundamentals",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "991217631",
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "MU1tx8xjQYiL6cdgxv7vZA=="
+            },
+            "displaySource": "youracclaim.com",
+            "companyUrn": "urn:li:fs_miniCompany:1035",
+            "url": "https://www.youracclaim.com/badges/aed8038c-c3b1-4294-8960-3dd0b9b14002?source=linked_in_profile"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

@@ -1,0 +1,307 @@
+{
+    "summary": "A versatile, determined and results-driven Procurement professional combined with a background in Engineering. Working in Global sourcing and procurement environment for multi-million dollar operations. Experienced in managing procurement for both MRO and Capex in Industrial manufacturing environment . Proven experience of working with regional and Global Procurement team structures. I am able to deliver measurable results  with my strong analytical skills combined with my strong techno-commercial experience.  \n\nAccomplished in executing programs, projects, and operations from concept to launch with cross-organizational and cross-cultural teams spread in multiple geographical regions. Excellent communicator with the ability to stimulate long-term relationships with clients, stakeholders, and suppliers. \n",
+    "industryName": "Pharmaceuticals",
+    "lastName": "Pushkarna",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 7,
+        "day": 9
+    },
+    "industryUrn": "urn:li:fs_industry:15",
+    "firstName": "Nikhil",
+    "entityUrn": "urn:li:fs_profile:ACoAAAOSec0B2WI9ThE06x-0j6RWEG4u3F54bYo",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102890719"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Global Category Manager - Procurement & Contracting (CapEx & OpEx) Pharmaceutical, Chemicals, Oil and Gas, Steel & Consultancy",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQE6lIWnWBZeiQ/profile-displayphoto-shrink_",
+    "img_99_100": "100_100/0/1571255332216?e=1707955200&v=beta&t=BG7IqC6ZPmd1cG3YjqFChzXX_OHnbtEJ5NAyrvwsyjk",
+    "img_199_200": "200_200/0/1571255332114?e=1707955200&v=beta&t=_7YUi5wKPlvdeiwbUU3nk4_eMnB8WRrQYU0ivDLTJ7g",
+    "img_399_400": "400_400/0/1571255332253?e=1707955200&v=beta&t=2Iqjyqy_0iA6WcMLAd7Wh77pq__hakFDfeuT8a78HhY",
+    "img_668_668": "800_800/0/1571255332324?e=1707955200&v=beta&t=q9mjInlrKzQIG1atrxen2bCGdo6ldAd2RqgCbZvuCvw",
+    "profile_id": "ACoAAAOSec0B2WI9ThE06x-0j6RWEG4u3F54bYo",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAOSec0B2WI9ThE06x-0j6RWEG4u3F54bYo",
+    "member_urn": "urn:li:member:59931085",
+    "public_id": "nikhil-pushkarna-4110a218",
+    "experience": [
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAOSec0B2WI9ThE06x-0j6RWEG4u3F54bYo,2246774021)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Teva Pharmaceuticals",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ]
+            },
+            "title": "Global Category Manager - MRO ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:5239",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEXUmrJ-CwcuA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAOSec0B2WI9ThE06x-0j6RWEG4u3F54bYo,1821022302)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Teva Pharmaceuticals",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "description": "- Strategy building, implementation & governance for optimization of procurement spend. \n\n - Leading CAPEXs for procurement strategy, execution and governance in collaboration with engineering and projects.\n\n - Leading Direct Procurement and support Supply chain",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ]
+            },
+            "title": "Regional Procurement Manager - Indirect (Including CAPEX) and Direct ",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:5239",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQEXUmrJ-CwcuA/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAOSec0B2WI9ThE06x-0j6RWEG4u3F54bYo,1331914657)",
+            "geoLocationName": "Amsterdam Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:90009706",
+            "companyName": "ICL Group",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "description": "Responsible for the MRO and CAPEX procurement across ICL site in Israel and Europe. optimizing Procurement processes by measuring turn-arounds and reducing processing costs. \nPlaying a key role in efforts for continuous process improvement by driving operational excellence for MRO procurement. Lead planning, procurement, co-ordination with site/technical stakeholders by streamlining operations by transforming decentralized procurement to centralized procurement. \nResponsibilities and achievements: \n\n - Triggered average 7% in savings through effective negotiation, resulting in securing framework contracts and conclusion of multiple sourcing events through consolidations, negotiations and improving vendor-purchaser relations.  \n\n - Conducting Knowledge sharing sessions for new joiners in procurement organisations and other teams. \n\n - Leveraging techno-commercial expertise in Procurement Consultancy & Project management to implement more effective procurement strategy.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Biotechnology"
+                ]
+            },
+            "title": "Global Buyer",
+            "region": "urn:li:fs_region:(nl,5664)",
+            "companyUrn": "urn:li:fs_miniCompany:2226109",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGRAJluRgRqPw/company-logo_"
+        },
+        {
+            "locationName": "Gurgaon, India",
+            "entityUrn": "urn:li:fs_position:(ACoAAAOSec0B2WI9ThE06x-0j6RWEG4u3F54bYo,972091995)",
+            "geoLocationName": "Gurgaon, India",
+            "geoUrn": "urn:li:fs_geo:100899423",
+            "companyName": "Cairn Oil and Gas",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "description": "Responsible for Operational Procurement of the upstream processing terminal and catering to all the requirement of the running units. \n\nResponsibilities and achievements: \n - Procurement of equipment and services for Oil & Gas and Enhanced Oil recovery (EOR) Projects.\n\n - Plan & implement key procurement strategies, contingency plans and ensure that strategies & plans are aligned with the Operations plans. \n\n  - Devise and establish procurement strategy for capital projects considering project specific requirements, demand & supply scenario and global supplier landscape.\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Oil & Energy"
+                ]
+            },
+            "title": "Assistant Manager",
+            "region": "urn:li:fs_region:(in,7391)",
+            "companyUrn": "urn:li:fs_miniCompany:2540932",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQGrqg-TSxrlhQ/company-logo_"
+        },
+        {
+            "locationName": "New delhi",
+            "entityUrn": "urn:li:fs_position:(ACoAAAOSec0B2WI9ThE06x-0j6RWEG4u3F54bYo,629328934)",
+            "geoLocationName": "New delhi",
+            "companyName": "Accenture",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "description": "Responsible for CAPEX & MRO procurement spends for various clients in the Asia Pacific region. and implement best practices for sourcing and reducing Cost and optimizing cycle time for processing. Delivered various projects across various segments such as from Oil and Gas, Foods, Mining, Automobile, etc.\n\nResponsibilities and achievements: \n - Strategy building, implementation & governance for optimizing procurement spend across various clients. \n\n - Delivered contractual savings (10-12% range) significantly above the agreed targets for the clients while closing Sourcing projects within stipulated timelines.\n\n - Handled strategic sourcing initiatives including market assessment, supplier relationship management. ",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Strategic Sourcing Lead",
+            "companyUrn": "urn:li:fs_miniCompany:1033",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAOSec0B2WI9ThE06x-0j6RWEG4u3F54bYo,42964676)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "description": "Aggregate percentage                         76.2%",
+            "degreeName": "Bachelors of Technology",
+            "schoolName": "Chandigarh Engineering College",
+            "fieldOfStudy": "Mechanical stream"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAOSec0B2WI9ThE06x-0j6RWEG4u3F54bYo,42964680)",
+            "activities": "aggregate percentage- 78%",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            },
+            "description": "ISC board",
+            "degreeName": "Senior Seconadry",
+            "schoolName": "The Frank Anthony Public School"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAOSec0B2WI9ThE06x-0j6RWEG4u3F54bYo,42964659)",
+            "grade": "87%",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 1991
+                }
+            },
+            "degreeName": "high School",
+            "schoolName": "The Frank Anthony Public School, New Delhi"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Hindi",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Punjabi",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "LinkedIn",
+            "name": "Negotiating the Nonnegotiable (Blinkist Summary)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "2TGt5Hx1RSeO1KvI72Dv4Q=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/07ae044c8e29d0935effe9981a337f507519359f3a593e1d53d5f2ddbdffbff7?trk=backfilled_certificate"
+        }
+    ],
+    "volunteer": [],
+    "honors": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAOSec0B2WI9ThE06x-0j6RWEG4u3F54bYo,278036186)",
+            "description": "Business Executive of the year for 2011-12",
+            "title": "Business Executive of the year",
+            "issueDate": {
+                "month": 11,
+                "year": 2012
+            },
+            "issuer": "Jindal Steel and Power Ltd"
+        }
+    ],
+    "projects": []
+}

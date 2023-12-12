@@ -1,0 +1,823 @@
+{
+    "summary": "• Microsoft Cloud Services (Microsoft Azure, Microsoft 365,  AzureAD and Intune)\n• Microsoft Cloud Security Services (Azure Network Security, Microsoft Defender, Azure Sentinel)\n• Oracle Cloud Infrastructure (OCI)\n• Amazon Web Services (AWS)\n• Microsoft System Center Configuration Manager 2007, 2012 & CB (SCCM)\n• Microsoft System Center Operations Manager 2012 (SCOM)\n• Microsoft Windows NT, 2000, 2003, 2008, 2012, 2016 & 2019 Server Systems\n• Microsoft Internet Information Services\n• Microsoft SQL Server 2000, 2005, 2008, 2012 & 2016\n• Microsoft Exchange Server 2000, 2003, 2007, 2010, 2013 & 2016\n• Microsoft Cluster Services & WLBS\n• Microsoft Active Directory Services\n• Citrix XenServer, XenDesktop, XenApp & VDI-In-A-Box\n• VMWare vSphere 4/5 & VMWare View/Horizon\n• Networking\n\nCertifications:\nMCP – Microsoft Certified Professional\nMCSA 2003 – Microsoft Certified Systems Administrator\nMCSE 2003 – Microsoft Certified Systems Engineer\nMCSA 2008 - Microsoft Certified Solutions Associate\nMCITP EA 2008 - Microsoft Certified IT Professional Enterprise Administrator\nMCSA 2012 - Microsoft Certified Solutions Associate\nMCSE 2012 - Microsoft Certified Solutions Expert in Server Infrastructure\nMCSA 2016 - Microsoft Certified Solutions Associate Windows Server 2016\nMCSA O365 - Microsoft Certified Solutions Associate Office 365\nMCSE Messaging - Microsoft Certified Solutions Expert Messaging (Exchange 2013)\nMCSA Cloud - Microsoft Certified Solutions Associate Cloud Platform\nMCSE Cloud - Microsoft Certified Solutions Expert Cloud Platform and Infrastructure\nMicrosoft Certified - Azure Administrator\nMicrosoft Certified - Azure Solutions Architect\nMicrosoft Certified - Azure Security Engineer\nMicrosoft Certified - Security Operations Analyst\nMicrosoft Certified - Identity and Access Administrator\nMicrosoft Certified - Azure Stack Hub Operator Associate\nMicrosoft Certified - Cybersecurity Architect Expert\nMicrosoft Certified - Azure Network Engineer\nMicrosoft 365 Certified - Security Administrator\nMCTS - Microsoft Certified Technology Specialist\nSTS - Symantec Technical Specialist\nVCP - VMware Certified Professional (vSphere 5) \nCCA - Citrix Certified Administrator (Citrix XenApp 6 & XenDesktop 5)\nOCI - Oracle Cloud Infrastructure Certified Architect Associate\nOCI - Oracle Cloud Infrastructure Certified Security Associate\nOCI - Oracle Cloud Infrastructure Certified Foundations Associate",
+    "industryName": "Information Technology & Services",
+    "lastName": "Carvalho",
+    "locationName": "Ireland",
+    "student": false,
+    "geoCountryName": "Ireland",
+    "geoCountryUrn": "urn:li:fs_geo:104738515",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 5,
+        "day": 27
+    },
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Bruno",
+    "entityUrn": "urn:li:fs_profile:ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:104738515"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "ie"
+        }
+    },
+    "headline": "Senior Cloud Solution Architect at Microsoft",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQFqvdoIRb3sDg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1516904097600?e=1707955200&v=beta&t=WIGul0MR2k8kQ-1niQghdy_nrYGMoz1oUmVEz_qZx4o",
+    "img_200_200": "200_200/0/1516904097564?e=1707955200&v=beta&t=6DZXhz6t5wLEqSjPbBc0vxnlbJZESt3X_O3oIxGcUvM",
+    "img_400_400": "400_400/0/1516904097467?e=1707955200&v=beta&t=R-9NIWZc9guLK2F1zzNc6t_C4RlTAF2SUkt0NGH1X0c",
+    "img_450_450": "800_800/0/1516904097694?e=1707955200&v=beta&t=zbmIKBiYnoO13xz4x1Cx6dWeocxHYBPJApAaJYvnb3M",
+    "profile_id": "ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s",
+    "member_urn": "urn:li:member:73855468",
+    "public_id": "brunoamcarvalho",
+    "experience": [
+        {
+            "locationName": "County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s,2073582098)",
+            "geoLocationName": "County Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:103810046",
+            "companyName": "Microsoft",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Senior Cloud Solution Architect",
+            "region": "urn:li:fs_region:(ie,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1035",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+        },
+        {
+            "locationName": "Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s,1878115855)",
+            "geoLocationName": "Dublin, Ireland",
+            "companyName": "Oracle",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2021
+                }
+            },
+            "description": "* All views are my own and not that of Oracle *",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior Cloud Solution Architect",
+            "companyUrn": "urn:li:fs_miniCompany:1028",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHYCgYovUuPtQ/company-logo_"
+        },
+        {
+            "locationName": "Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s,1606850604)",
+            "geoLocationName": "Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:103810046",
+            "companyName": "Logicalis UK&I",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Senior Cloud Solution Architect",
+            "region": "urn:li:fs_region:(ie,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2425150",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQEo9Ra6DiH0fA/company-logo_"
+        },
+        {
+            "locationName": "County Dublin, Ireland",
+            "entityUrn": "urn:li:fs_position:(ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s,1491635905)",
+            "geoLocationName": "County Dublin, Ireland",
+            "geoUrn": "urn:li:fs_geo:90009824",
+            "companyName": "Arkphire",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Principal Cloud Consultant",
+            "region": "urn:li:fs_region:(ie,10161)",
+            "companyUrn": "urn:li:fs_miniCompany:7771",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQEEaQU0C9e7Dw/company-logo_"
+        },
+        {
+            "locationName": "Dublin, Ireland ",
+            "entityUrn": "urn:li:fs_position:(ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s,1393212159)",
+            "geoLocationName": "Dublin, Ireland ",
+            "companyName": "Davidson Kempner Capital Management",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Financial Services"
+                ]
+            },
+            "title": "Senior Cloud Engineer & Architect",
+            "companyUrn": "urn:li:fs_miniCompany:68245",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQH4_xFovd_eZQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s,48555554)",
+            "grade": "14",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            },
+            "description": "Programming Languages: Visual Basic, Turbo Pascal, PHP, ASP, SQL, VBScript, JavaScript\nDatabases: Design, Implementation and Support of SQL Server, MSAccess and MYSQL Databases\nIT Infrastructures: Design, Implementation and Support of Windows and Linux Infrastructures\nNetworking: Design, Implementation and Support of Routers, Switch’s, Hub’s and wiring\nWeb development: ASP, PHP, HTML, FLASH Web pages\nMicrosoft Software: Advanced Level at Microsoft Visio, Microsoft Project and Microsoft Office\nHardware: Installation and Support of Desktop and Server Hardware\nMultimedia: Flash / Swish, Corel, Adobe Photoshop, Fireworks, Freehand, Director\nOperating Systems: Microsoft Windows 98/ME/XP/2000 and Linux RedHat",
+            "degreeName": "Applied IT Technician - EQF Level 4 (European Qualification Framework)",
+            "schoolName": "Zendensino - Escola Profissional de Esposende",
+            "fieldOfStudy": "Information Technology"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Inglês",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "Português",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Microsoft",
+            "name": "MCP: Microsoft Certified Professional",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2006
+                }
+            },
+            "licenseNumber": "3797546",
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "tU/wMPH5Qry5asg3ZQDiEA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1035"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "MCSA: Microsoft Certified Systems Administrator Messaging",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2007
+                }
+            },
+            "licenseNumber": "3797546",
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "RE/NImJ0TXSouQqnXUi1gg=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1035"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "MCSA: Microsoft Certified Systems Administrator",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2007
+                }
+            },
+            "licenseNumber": "3797546",
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "Y0d5gsIWQ6KkQxuZdqf81g=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1035"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "MCSE: Microsoft Certified Systems Engineer",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2007
+                }
+            },
+            "licenseNumber": "3797546",
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "ZadQvYH6TY+1czuawN9bDQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1035"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "MCTS: Microsoft Certified Technology Specialist",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2010
+                }
+            },
+            "licenseNumber": "3797546",
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "7q2exNXDRsyAJD7yhmS3SA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1035"
+        },
+        {
+            "authority": "Microsoft",
+            "name": "MCITP EA: Microsoft Certified IT Professional Enterprise Administrator",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2011
+                }
+            },
+            "licenseNumber": "3797546",
+            "company": {
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=fU3MstX2wrPand5reyImPw1wTJfAzLzT-_1sHoip57U",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=bxZEYB5wmYxJjsCtgNmE5xetj5QYKM7cLSmotwt1SSQ",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630652622688/microsoft_logo?e=1710374400&v=beta&t=rPA9g3B-CiM_ydB_7_HdDQJuM0U74_IXZhNzgvCOQqQ",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                    }
+                },
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "sGsNACdZTt+YeZ+kYDP/7Q=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1035"
+        },
+        {
+            "authority": "Symantec",
+            "name": "STS - Symantec Technical Specialist",
+            "licenseNumber": "ST0-134",
+            "company": {
+                "objectUrn": "urn:li:company:1231",
+                "entityUrn": "urn:li:fs_miniCompany:1231",
+                "name": "Symantec",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1701463063676/symantec_logo?e=1710374400&v=beta&t=GbGPKnviqeW2f_AgfsY2d1C3ODt4g4dCgoy_M1ZwSh4",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1701463063676/symantec_logo?e=1710374400&v=beta&t=QDWGTzY-fOdf66PMoPnrNtGOEkMbIzp69nR_7dJlhgM",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1701463063676/symantec_logo?e=1710374400&v=beta&t=rg7iEKEXPvNeTBM83_513Yewadn2G4sW5egQE2IanU0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFm82qOu837YA/company-logo_"
+                    }
+                },
+                "universalName": "symantec",
+                "dashCompanyUrn": "urn:li:fsd_company:1231",
+                "trackingId": "h0Xc2rvvQZCJQ6Roc0ylbQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1231"
+        },
+        {
+            "authority": "Citrix",
+            "name": "Citrix - Getting Started with Citrix VDI-in-a-Box 5",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2012
+                }
+            },
+            "licenseNumber": "CVB-200-1W",
+            "company": {
+                "objectUrn": "urn:li:company:2641",
+                "entityUrn": "urn:li:fs_miniCompany:2641",
+                "name": "Citrix",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688398330967/citrix_logo?e=1710374400&v=beta&t=UOP4OrQWu5mA6Tt_tPHjooy7nPYYd6NgA6stjx50w6I",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688398330967/citrix_logo?e=1710374400&v=beta&t=WaQ_7Rzyj2C2pQgIqzRTrxSjjZvqGy2We7OndYiDNpc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688398330967/citrix_logo?e=1710374400&v=beta&t=a0nxGcs-uhALg-b_0VzMLR8ycTUThuWrO-QydwJkPJM",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFvKR6YlGAsvA/company-logo_"
+                    }
+                },
+                "universalName": "citrix",
+                "dashCompanyUrn": "urn:li:fsd_company:2641",
+                "trackingId": "pg+AUVzoQWWfaLsfvbSjfA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2641"
+        },
+        {
+            "authority": "Citrix",
+            "name": "Citrix - Selling VDI to SMBs",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2012
+                }
+            },
+            "licenseNumber": "CVB-001-1W",
+            "company": {
+                "objectUrn": "urn:li:company:2641",
+                "entityUrn": "urn:li:fs_miniCompany:2641",
+                "name": "Citrix",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688398330967/citrix_logo?e=1710374400&v=beta&t=UOP4OrQWu5mA6Tt_tPHjooy7nPYYd6NgA6stjx50w6I",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688398330967/citrix_logo?e=1710374400&v=beta&t=WaQ_7Rzyj2C2pQgIqzRTrxSjjZvqGy2We7OndYiDNpc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688398330967/citrix_logo?e=1710374400&v=beta&t=a0nxGcs-uhALg-b_0VzMLR8ycTUThuWrO-QydwJkPJM",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFvKR6YlGAsvA/company-logo_"
+                    }
+                },
+                "universalName": "citrix",
+                "dashCompanyUrn": "urn:li:fsd_company:2641",
+                "trackingId": "BxP/X56FT9+j0igjWAQ43w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2641"
+        },
+        {
+            "authority": "Citrix",
+            "name": "CCA - Citrix Certified Administrator XenApp 6",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2012
+                }
+            },
+            "licenseNumber": "1Y0-A20",
+            "company": {
+                "objectUrn": "urn:li:company:2641",
+                "entityUrn": "urn:li:fs_miniCompany:2641",
+                "name": "Citrix",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1688398330967/citrix_logo?e=1710374400&v=beta&t=UOP4OrQWu5mA6Tt_tPHjooy7nPYYd6NgA6stjx50w6I",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1688398330967/citrix_logo?e=1710374400&v=beta&t=WaQ_7Rzyj2C2pQgIqzRTrxSjjZvqGy2We7OndYiDNpc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1688398330967/citrix_logo?e=1710374400&v=beta&t=a0nxGcs-uhALg-b_0VzMLR8ycTUThuWrO-QydwJkPJM",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/D560BAQFvKR6YlGAsvA/company-logo_"
+                    }
+                },
+                "universalName": "citrix",
+                "dashCompanyUrn": "urn:li:fsd_company:2641",
+                "trackingId": "V+OacBDlRh6562tck7ar7A=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2641"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s,307845926)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Bruno",
+                        "lastName": "Carvalho",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s",
+                        "occupation": "Senior Cloud Solution Architect at Microsoft",
+                        "objectUrn": "urn:li:member:73855468",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1592391686926?e=1707955200&v=beta&t=cfs7_gCSuo0bcXS1ve9w-vinoEw5Nyjj9-uYVcOUvtA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1592391686926?e=1707955200&v=beta&t=DIugp4C1IBAjzLfw0FuYu-Ls63TPIdowtjU9bAkE77k",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D16AQEc7VRw6HAiHg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "brunoamcarvalho",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1516904097600?e=1707955200&v=beta&t=WIGul0MR2k8kQ-1niQghdy_nrYGMoz1oUmVEz_qZx4o",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1516904097564?e=1707955200&v=beta&t=6DZXhz6t5wLEqSjPbBc0vxnlbJZESt3X_O3oIxGcUvM",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1516904097467?e=1707955200&v=beta&t=R-9NIWZc9guLK2F1zzNc6t_C4RlTAF2SUkt0NGH1X0c",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 450,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1516904097694?e=1707955200&v=beta&t=zbmIKBiYnoO13xz4x1Cx6dWeocxHYBPJApAaJYvnb3M",
+                                        "expiresAt": 1707955200000,
+                                        "height": 450
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQFqvdoIRb3sDg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "fx4UMFhdThWD0OHiUS7U+g=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s,54,55)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s"
+                },
+                {
+                    "member": {
+                        "firstName": "Rui",
+                        "lastName": "Caeiro",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAABkK-0B_UCrK4VUdFc-eWgY-m2XwCn0-Bc",
+                        "occupation": "Business Manager",
+                        "objectUrn": "urn:li:member:6564845",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAABkK-0B_UCrK4VUdFc-eWgY-m2XwCn0-Bc",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1516254216365?e=1707955200&v=beta&t=sdo1PSsDk7qhPnWy7DyaKtPcjXPodZ-Vh0ThkfWVzAg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1516254216301?e=1707955200&v=beta&t=Fz8nV9HW1pGCvCySWqKdAs-3_44Ja4fENl8q1I8UBEA",
+                                        "expiresAt": 1707955200000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5616AQEf5WL0rfWWTA/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "ruicaeiro",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1639043779092?e=1707955200&v=beta&t=P4Fbsorz2VFcsGW54UiPCcBJlM5zbdAgt1sGC-q5wa0",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1639043779092?e=1707955200&v=beta&t=iOICyAci6TmPbNNqmsQcaQgdpr6lK455_jRFl5arP1Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1639043779092?e=1707955200&v=beta&t=2mdjyulggwTztUUbNCFXL307V3iWsVnOcCa9hwZNnTY",
+                                        "expiresAt": 1707955200000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 496,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1639043779092?e=1707955200&v=beta&t=g4P9ho4408SUOU7Kl11-4-0w2LxSpCCJCCvTcWeJz30",
+                                        "expiresAt": 1707955200000,
+                                        "height": 496
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D4D03AQFarn5e3-DrFg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "0KwPpIC2TgmcWLUqwNPbWQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAARm8ewBB-wzmKcWfB1OHCXH49ZV5J_cA-s,54,56)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAABkK-0B_UCrK4VUdFc-eWgY-m2XwCn0-Bc"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2012
+                }
+            },
+            "description": "Banking Industry - 9000+ Desktops\nSCCM Consultant and Technical Project Manager\n\nPlanning and Management for :\n- Vision and Scope\n- Design and Implementation\n- Compatibility and Remediation\n- Migration and Roll-Out",
+            "title": "Migration to Windows 7 and Office 2010"
+        }
+    ]
+}

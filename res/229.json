@@ -1,0 +1,203 @@
+{
+    "industryName": "Consumer Goods",
+    "lastName": "Plender",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:25",
+    "firstName": "Robert",
+    "entityUrn": "urn:li:fs_profile:ACoAAAEoxlwBX1-M5qWQm1ltjdxAX8cqTGqhpqk",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100788090"
+    },
+    "geoLocationName": "Haarlem, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Director Marketplace Bol.com at Ahold Delhaize",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQGVBNAu122n3g/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1657948252325?e=1707955200&v=beta&t=4H5X_iOZYcrmkJjQBDRUMV8fNmKGEnKtet7c8U-akmg",
+    "img_200_200": "200_200/0/1657948252325?e=1707955200&v=beta&t=G41f1atJ0Kgbi18DYooe8Apb8f8YlaEEbm0ELkJQfMM",
+    "img_400_400": "400_400/0/1657948252325?e=1707955200&v=beta&t=ktMqnxMEv-f1d2ncu8FeK5Yk-Os9flhp-6ln054PMns",
+    "img_800_800": "800_800/0/1657948252325?e=1707955200&v=beta&t=XSV-SX_WIUDiFqWnMHFKf2quP8wOztONEUwxJu8pRvI",
+    "profile_id": "ACoAAAEoxlwBX1-M5qWQm1ltjdxAX8cqTGqhpqk",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAEoxlwBX1-M5qWQm1ltjdxAX8cqTGqhpqk",
+    "member_urn": "urn:li:member:19449436",
+    "public_id": "robert-plender-56461b6",
+    "experience": [
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEoxlwBX1-M5qWQm1ltjdxAX8cqTGqhpqk,2038894817)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "description": "Bol.com is a retail tech platform company that generates platform revenue via own retail (1P) and as marketplace via selling partners (3P). Responsible for developing the network of selling partners on bol.com platform (mid 2022: 50.000 partners). Lead Network department which consist of 5 multi-functional sub departments (90fte). Reporting into bol.com executive board",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Director Marketplace Bol.com at Ahold Delhaize",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "locationName": "Utrecht, Nederland",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEoxlwBX1-M5qWQm1ltjdxAX8cqTGqhpqk,1857021939)",
+            "geoLocationName": "Utrecht, Nederland",
+            "geoUrn": "urn:li:fs_geo:100163908",
+            "companyName": "bol.com",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "description": "Bol.com is a retail tech platform company that generates platform revenue via own retail (1P) and as marketplace via selling partners (3P). Responsible for bol.com's own retail buying, trading & merchandising (60fte).",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Head of Retail Bol.com at Ahold Delhaize",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:11699",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHZEY75GRA7uQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAEoxlwBX1-M5qWQm1ltjdxAX8cqTGqhpqk,1581266775)",
+            "companyName": "Procter & Gamble",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "description": "Responsible for P&G's Global e-commerce business with the world's largest health & beauty retailer. Head of multifunctional business and capability team covering >35 countries.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "e-Commerce Director Global - Global Customer Team",
+            "companyUrn": "urn:li:fs_miniCompany:1116",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGGCd-fMXfRWw/company-logo_"
+        },
+        {
+            "locationName": "EU",
+            "entityUrn": "urn:li:fs_position:(ACoAAAEoxlwBX1-M5qWQm1ltjdxAX8cqTGqhpqk,1696394599)",
+            "geoLocationName": "EU",
+            "companyName": "Procter & Gamble",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "description": "Responsible for P&G's Europe business with the world's largest health & beauty retailer. Head of multifunctional team covering >15 countries.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "Sales Director Europe - Global Customer Team",
+            "companyUrn": "urn:li:fs_miniCompany:1116",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGGCd-fMXfRWw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAEoxlwBX1-M5qWQm1ltjdxAX8cqTGqhpqk,1169662458)",
+            "companyName": "Procter & Gamble",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2017
+                }
+            },
+            "description": "Responsible for total P&G portfolio at AS Watson Benelux (#1 retailer for P&G BNL). Head of multifunctional team of 15 fte. Member of commercial lead team NL.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ]
+            },
+            "title": "Sales Director ASWatson Benelux",
+            "companyUrn": "urn:li:fs_miniCompany:1116",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGGCd-fMXfRWw/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAEoxlwBX1-M5qWQm1ltjdxAX8cqTGqhpqk,15871195)",
+            "school": {
+                "objectUrn": "urn:li:school:15441",
+                "entityUrn": "urn:li:fs_miniSchool:15441",
+                "active": true,
+                "schoolName": "University of Groningen",
+                "trackingId": "7iUVhmH6TmuWZMJ1X/cWEg==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "degreeName": "Master of Science (MSc)",
+            "schoolName": "University of Groningen",
+            "fieldOfStudy": "Real Estate (Finance)",
+            "schoolUrn": "urn:li:fs_miniSchool:15441"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

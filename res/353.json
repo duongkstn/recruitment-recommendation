@@ -1,0 +1,248 @@
+{
+    "summary": "As IT Architect and Information Security professional with over 25 years of experience in the area of IT Architecture, design, development and implementation, infrastructure design, data security architecting & consulting and project management.\n\nFunctional experience on business front - IT architecture development in terms of conceptual design, technology selection and deployment, infrastructure assessment, requirement analysis, resources consolidation, procurement strategy and planning, RFPs and trend analysis & mapping.\n\nFunctional experience on consultancy front and technical project management front – Systems, Network & Internet/Intranet Security, Policies & Procedures, Data Classification, Risk Profiling, Internet & Intranet Vulnerability Assessment, Penetration Testing, (Network and System) Security Architecture Designing & Deployment, Application Security Consulting, Security Architecture and Product selection, Technology Due Diligence, Business Continuity & Disaster Recovery Plans, Have been responsible to design solutions and present the business case to management. Experienced across vertical business domains of corporate, and Telecommunications and Government.\n\nSpecialties: -Information Security Policies, performing risk assessment, computer security incident response planning, DR, BCP\n- Designed, developed and implemented large infrastructures\n- Security testing of large system, network and application infrastructure, handling critical data\n- Security review of a security architecture concept\n- Has performed risk analysis of a large infrastructure\n- System and network audits (white-grey box)\n- Designed and implemented lawful interception solutions",
+    "industryName": "Computer & Network Security",
+    "lastName": "Vermeulen",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 5,
+        "day": 15
+    },
+    "industryUrn": "urn:li:fs_industry:118",
+    "firstName": "Hans",
+    "entityUrn": "urn:li:fs_profile:ACoAAAAaAlQBK5KmDPIWvQLEcjFEri4aU01OBbc",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101461601"
+    },
+    "geoLocationName": "The Hague, South Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Enterprise Security Architect - Cloud Security Evangelist - Security & Technology Evangelist",
+    "profile_id": "ACoAAAAaAlQBK5KmDPIWvQLEcjFEri4aU01OBbc",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAAaAlQBK5KmDPIWvQLEcjFEri4aU01OBbc",
+    "member_urn": "urn:li:member:1704532",
+    "public_id": "hansv1964",
+    "experience": [
+        {
+            "locationName": "Düsseldorf, North Rhine-Westphalia, Germany",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAaAlQBK5KmDPIWvQLEcjFEri4aU01OBbc,1684693983)",
+            "geoLocationName": "Düsseldorf, North Rhine-Westphalia, Germany",
+            "geoUrn": "urn:li:fs_geo:104008204",
+            "companyName": "Vodafone",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Architect Platform Security -   Architecture and Design, Vodafone Group Services",
+            "region": "urn:li:fs_region:(de,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1217",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGAjVTnzEmlYQ/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAAaAlQBK5KmDPIWvQLEcjFEri4aU01OBbc,80004090)",
+            "companyName": "Grinder Knowledge",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2009
+                }
+            },
+            "title": "Owner"
+        },
+        {
+            "locationName": "Düsseldorf, North Rhine-Westphalia, Germany",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAaAlQBK5KmDPIWvQLEcjFEri4aU01OBbc,1650866540)",
+            "geoLocationName": "Düsseldorf, North Rhine-Westphalia, Germany",
+            "geoUrn": "urn:li:fs_geo:104008204",
+            "companyName": "Vodafone",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Security Architect - Secure by Design, Vodafone Group Services",
+            "region": "urn:li:fs_region:(de,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1217",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGAjVTnzEmlYQ/company-logo_"
+        },
+        {
+            "locationName": "The Hague Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAaAlQBK5KmDPIWvQLEcjFEri4aU01OBbc,968311712)",
+            "geoLocationName": "The Hague Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "DXC Technology",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Enterprise Security Architecture and NCE Lead Security Architect - Security Advisory Services",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:16198010",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFt7orYWPc9MQ/company-logo_"
+        },
+        {
+            "locationName": "The Hague Area, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAaAlQBK5KmDPIWvQLEcjFEri4aU01OBbc,969275065)",
+            "geoLocationName": "The Hague Area, Netherlands",
+            "geoUrn": "urn:li:fs_geo:101461601",
+            "companyName": "DXC Technology",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Enterprise Security Architect",
+            "region": "urn:li:fs_region:(nl,5688)",
+            "companyUrn": "urn:li:fs_miniCompany:16198010",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQFt7orYWPc9MQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAaAlQBK5KmDPIWvQLEcjFEri4aU01OBbc,9446158)",
+            "school": {
+                "objectUrn": "urn:li:school:15447",
+                "entityUrn": "urn:li:fs_miniSchool:15447",
+                "active": true,
+                "schoolName": "Leiden University",
+                "trackingId": "hn/T2s0FRoq0dnWea5DfmQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 1987
+                },
+                "startDate": {
+                    "year": 1982
+                }
+            },
+            "degreeName": "bachelor",
+            "schoolName": "Leiden University",
+            "fieldOfStudy": "computer science",
+            "schoolUrn": "urn:li:fs_miniSchool:15447"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "German"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "LinkedIn",
+            "name": "Using SABSA to Architect Cloud Security",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=aE8KjnIZK5GPk202Ka2TE1yFiwg4Mwi7dxGt3B2gu8k",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=gvCBdoFcynvhyvB2ueXdugRGrDd5zx2Z65NaMWEE5jk",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                    }
+                },
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "NOsS5nW5RMyCrzFxN6uSow=="
+            },
+            "displaySource": "linkedin.com",
+            "companyUrn": "urn:li:fs_miniCompany:1337",
+            "url": "https://www.linkedin.com/learning/certificates/87aeffa8c03bf5705af312596b9186bc94d43e6163aae55f33dbfb49273f5e7d?trk=backfilled_certificate"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}

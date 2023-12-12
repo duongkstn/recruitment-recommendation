@@ -1,0 +1,377 @@
+{
+    "summary": "A self-driven professional with 10 years of experience in supply chain, optimization, procurement, project management & category management. Building business relations through strong communication skills with the ability to adapt in a diverse and multicultural environment with international teams.\n\nSpecialties: \nProcurement & Category Management\nTechnical Services Procurement (MRO)\nBusiness Analytics\nOperational Excellence\nProject Management\nLean Six Sigma\n",
+    "industryName": "Building Materials",
+    "lastName": "Buijtenhuijs",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:49",
+    "firstName": "Wout",
+    "entityUrn": "urn:li:fs_profile:ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009706"
+    },
+    "geoLocationName": "The Randstad, Netherlands",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Head Of Purchasing NWE at Xella Group",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4E03AQFAAP0IPzkqcA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1655838099306?e=1707955200&v=beta&t=ef0Jkm3FbbpUNKNn91_MNsmVuYAkSpdaZbuJwl_uQ-0",
+    "img_200_200": "200_200/0/1655838099306?e=1707955200&v=beta&t=hFjU_oI6Zw8-pYeDwbsst6Y43wy9wlLGHwDXNHVGNN4",
+    "img_400_400": "400_400/0/1655838099306?e=1707955200&v=beta&t=67ZEjyhJjw5qUkJ6Rw_R3NNEQcOEwLzO2fYmZsbVJbA",
+    "img_416_416": "800_800/0/1655838099306?e=1707955200&v=beta&t=zkB9fCQmUt-aA3uLC4djPZsZVLPSvTOEIGrFqNu9vN8",
+    "profile_id": "ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI",
+    "member_urn": "urn:li:member:87429767",
+    "public_id": "wout-buijtenhuijs-b1b34325",
+    "experience": [
+        {
+            "locationName": "Vuren, Gelderland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,1613287152)",
+            "geoLocationName": "Vuren, Gelderland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102726506",
+            "companyName": "Xella Group",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "description": "Head of Purchasing for NWE (Netherlands, Belgium, France, UK)\nResponsible for the Purchasing function of Xella NWE, with 10 production locations and 10 buyers. Responsible for all product categories including product related (PR) en non product related (NPR) categories for the region. Main focus to further professionalize the purchasing function by improving the processes and drive total cost of ownership through continuous improvement. The advantage of being responsible for the region allows for the opportunity to consolidate and optimize our processes across these countries and leverage our volumes. Further standardization in requirements and our way of working will allow us to be sustainable in the future.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Building Materials"
+                ]
+            },
+            "title": "Head Of Purchasing NWE",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:87268",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGT3h0C2fkd-g/company-logo_"
+        },
+        {
+            "locationName": "Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,1380190301)",
+            "geoLocationName": "Netherlands",
+            "geoUrn": "urn:li:fs_geo:102890719",
+            "companyName": "Nouryon",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "description": "Manager of Tactical Site Buyers team for the Netherlands & Denmark where Nouryon has 9 production locations and 10 tactical buyers. Non product related spend is the main focus of the team. To continuously improve our procurement process on site and implement our category strategies, including, Technical Services, QHSE, PPE, Gasses & MRO. Having multiple sites in one country we have the opportunity to leverage spend across the sites and improve our companies Total Cost of Ownership. This is driven by leveraging volume, working closely together, aligning our demand by standardizing our requirements and simply working smarter.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Chemicals"
+                ]
+            },
+            "title": "NPR procurement Sites Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:18819143",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQF4LDM2FpiwNA/company-logo_"
+        },
+        {
+            "locationName": "Arnhem/Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,1080360920)",
+            "geoLocationName": "Arnhem/Amsterdam",
+            "companyName": "AkzoNobel",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2017
+                }
+            },
+            "description": "Developing global Sourcing strategies for AkzoNobel’s Technical spend\nDriving synergies and leveraging the technical spend across all 3 BAs globally\nBuyer for Maintenance repairs and operations (MRO) and technical services related spend. \nDeveloping standardized process and tools and implementing them globally.\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Chemicals"
+                ]
+            },
+            "title": "Global Sourcing Manager Capex, Technical Services and MRO ",
+            "companyUrn": "urn:li:fs_miniCompany:3222",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFjkM3cn-xR1A/company-logo_"
+        },
+        {
+            "locationName": "Arnhem/Amsterdam",
+            "entityUrn": "urn:li:fs_position:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,1080363152)",
+            "geoLocationName": "Arnhem/Amsterdam",
+            "companyName": "AkzoNobel",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2015
+                }
+            },
+            "description": "Driving synergies and leveraging the technical spend across all 3 BAs in The Netherlands & Germany\nBuyer for Maintenance repairs and operations (MRO) related spend. Developing standardized process and tools.\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Chemicals"
+                ]
+            },
+            "title": "Sourcing Manager MRO NL DE",
+            "companyUrn": "urn:li:fs_miniCompany:3222",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFjkM3cn-xR1A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,172774236)",
+            "companyName": "Akzo Nobel",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "description": "Sourcing Analyst at AkzoNobel Sourcing. Responsible for the raw material categories Chemicals & Intermediates, Solvents & Titanium dioxide\n",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Chemicals"
+                ]
+            },
+            "title": "Sourcing Analyst",
+            "companyUrn": "urn:li:fs_miniCompany:3222",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFjkM3cn-xR1A/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,452300574)",
+            "school": {
+                "objectUrn": "urn:li:school:3155010",
+                "entityUrn": "urn:li:fs_miniSchool:3155010",
+                "active": true,
+                "schoolName": "Leeds University Business School",
+                "trackingId": "xsmy5BwJSq2O49MDb+UeQA==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQE9T70jhOEBnw/company-logo_"
+            },
+            "grade": "First",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101465",
+            "degreeName": "Master's degree",
+            "schoolName": "Leeds University Business School",
+            "fieldOfStudy": "International Business",
+            "degreeUrn": "urn:li:fs_degree:500",
+            "schoolUrn": "urn:li:fs_miniSchool:3155010"
+        },
+        {
+            "courses": [
+                "urn:li:fs_course:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,683105433)",
+                "urn:li:fs_course:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,683186459)",
+                "urn:li:fs_course:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,683216011)",
+                "urn:li:fs_course:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,683259403)",
+                "urn:li:fs_course:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,683320911)",
+                "urn:li:fs_course:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,683355468)",
+                "urn:li:fs_course:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,683386613)",
+                "urn:li:fs_course:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,683457102)"
+            ],
+            "entityUrn": "urn:li:fs_education:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,66294581)",
+            "school": {
+                "objectUrn": "urn:li:school:12675",
+                "entityUrn": "urn:li:fs_miniSchool:12675",
+                "active": true,
+                "schoolName": "The University of Sheffield",
+                "trackingId": "NNgN1lQPQtqIKLqzJ9lW6g==",
+                "logoUrl": "https://media.licdn.com/dms/image/D4E0BAQEORSKOZDnu4A/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "schoolName": "The University of Sheffield",
+            "fieldOfStudy": "Economics and Management",
+            "schoolUrn": "urn:li:fs_miniSchool:12675"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAU2EocBNfPSxMCHeplOGEb-ZNq4mfUEjTI,84072285)",
+            "school": {
+                "objectUrn": "urn:li:school:21176",
+                "entityUrn": "urn:li:fs_miniSchool:21176",
+                "active": true,
+                "schoolName": "International School of Brussels",
+                "trackingId": "mj9G8GlNQmm9M859lKvzBQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQHwAd3gNDfvzg/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "schoolName": "International School of Brussels",
+            "schoolUrn": "urn:li:fs_miniSchool:21176"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Dutch",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "AkzoNobel",
+            "name": "lean six sigma Black belt",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3222",
+                "entityUrn": "urn:li:fs_miniCompany:3222",
+                "name": "AkzoNobel",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1631349979522?e=1710374400&v=beta&t=HYhkmLzq5r6EqollayiyVeCT8xfqe9DK9jA_TKIt14c",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1631349979522?e=1710374400&v=beta&t=r0kLzhmQh09NCvuNO4QKFqUopn18rpEueopTSY2aYIU",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1631349979522?e=1710374400&v=beta&t=-l7uY6xNtUdnYDkpWHSeQf1Djd9ksaz9GeErXfbCr6I",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFjkM3cn-xR1A/company-logo_"
+                    }
+                },
+                "universalName": "akzonobel",
+                "dashCompanyUrn": "urn:li:fsd_company:3222",
+                "trackingId": "yQ8cwq5PS4i9vzpfA6Byow=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:3222"
+        },
+        {
+            "authority": "Kienbaum",
+            "name": "lean six sigma Green belt",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:10690",
+                "entityUrn": "urn:li:fs_miniCompany:10690",
+                "name": "Kienbaum",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630644585065/kienbaum_logo?e=1710374400&v=beta&t=lUQeKl3dLlfORzSfWtc8-r6ZNbvGbV8waO9K3qcc1qM",
+                                "expiresAt": 1710374400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630644585065/kienbaum_logo?e=1710374400&v=beta&t=aFgMNhHHKe01914xJND9iQICVN_q3iQi11YGhfaLftY",
+                                "expiresAt": 1710374400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630644585065/kienbaum_logo?e=1710374400&v=beta&t=jCt_UdXrvF-jn2ELWxj1QkX6sAV8vlygusjoYELqTU0",
+                                "expiresAt": 1710374400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQEo-zPp-0Bk6g/company-logo_"
+                    }
+                },
+                "universalName": "kienbaum",
+                "dashCompanyUrn": "urn:li:fsd_company:10690",
+                "trackingId": "nTRpaU9fROeQazbaaTIC0w=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:10690"
+        }
+    ],
+    "volunteer": [],
+    "honors": [
+        {
+            "description": "Graduated top of my class for International Bussiness",
+            "title": "Valedictorian class 2014",
+            "issueDate": {
+                "month": 12,
+                "year": 2014
+            },
+            "issuer": "Leeds Bussiness school"
+        }
+    ],
+    "projects": []
+}

@@ -1,0 +1,491 @@
+{
+    "summary": "Almost 2 decades of experience on climate change mitigation and adaptation,\ncarbon markets and ecosystem restoration; \nExpert in project, methodology and policy development; monitoring; validation; verification; in the climate change mitigation and adaptation\nExpert on methodologies including methodology validations of environmental indicators and data validation process on the air and climate change based on European ETS/non-ETS, UNFCCC, ISO and voluntary carbon standards. \nExpert on AFOLU-, Renewable Energy-, Transportation-, Energy Efficiency mitigation projects/methodologies and policies. \nAdaptation expert, especially on ecosystem services and human health aspects.\nWorking experience in Hungary, USA, Switzerland, UK, Romania, India, Moldova and Bulgaria. \nProject developments and reviews Vietnam, South-Africa, Peru, Chile, Vietnam, Serbia, Turkey, Ukraine and Belarus.\nMD with European diploma and USMLE exams expertise including women health, design - and cost analysis of health programs, and climate change health impact assessment",
+    "industryName": "Environmental Services",
+    "lastName": "Gazdag",
+    "locationName": "Netherlands",
+    "student": false,
+    "geoCountryName": "Netherlands",
+    "geoCountryUrn": "urn:li:fs_geo:102890719",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:86",
+    "firstName": "David",
+    "entityUrn": "urn:li:fs_profile:ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100788090"
+    },
+    "geoLocationName": "Haarlem, North Holland",
+    "location": {
+        "basicLocation": {
+            "countryCode": "nl"
+        }
+    },
+    "headline": "Climate Change Mitigation/Carbon Market and Ecosystem Services Monetization Expert",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5603AQHtwH9cbcxbsg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1517748509575?e=1707955200&v=beta&t=ypQzY3JXElbDUWLwhxIQmfTm7VmFVBC51tMrXMB-fMI",
+    "img_200_200": "200_200/0/1517748509546?e=1707955200&v=beta&t=eqtRZ4BgQWv1N6BQ2p4avrWreZCwQ_DRNXqPzU2_sKs",
+    "img_333_333": "800_800/0/1517748509572?e=1707955200&v=beta&t=D-2Lk1nr6Ah--ZVVZH-gwoFQoDkuXjuAigEEHCA5e_Y",
+    "profile_id": "ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY",
+    "member_urn": "urn:li:member:39283380",
+    "public_id": "davidgazdag",
+    "experience": [
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY,2185362105)",
+            "companyName": "ecobase.earth",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "description": "-\tVERRA/VCS ARR project validation and verification trip covering:\no\tDenmark\no\tEstonia\no\tLatvia\n-\tMonitoring Plan redesign and implementation, including verification and VVB consultation,\n-\tProject Design Document update for the European multiple country VCS ARR project\n-\tGlobal Public consultation \n-\tEU improved forest management project preparation including comparative analysis of the VERRA IFM methodologies (VM0003, VM0010, VM0012, VM0045) and communicating with the VCS/VERRA IFM review team;\n-\tInternal trainings",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Environmental Services"
+                ]
+            },
+            "title": "Head of Project",
+            "companyUrn": "urn:li:fs_miniCompany:74706632",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/D4D0BAQGO-_1wpDh3bw/company-logo_"
+        },
+        {
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "entityUrn": "urn:li:fs_position:(ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY,1804066810)",
+            "geoLocationName": "Amsterdam, North Holland, Netherlands",
+            "geoUrn": "urn:li:fs_geo:102011674",
+            "companyName": "Land Life Company",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "description": "-\tVERRA/VCS requirements and project registration\n-\tCarbon removal Monitoring Reporting and Verification development \n-\tFirst VERRA VCS afforestation project registration in the EU\n-\tManagement of the validation of Land Life’s FastTrack carbon sequestration model\n-\tValidation trip organization and implementation (Spain)\n-\tVCS project development including PD editing: Spain, Iceland, Texas (USA), British Columbia (Canada), Australia\n-\tInternal quality control covering 3 continents including project instance checklist development;\n-\tGhana VCS project evaluation including on-site trip\n-\tCarbon sequestration modelling\n-\tSoil degradation and restoration analysis\n-\tGIS and data management\n-\tPublic consultations, including VERRA, IETA, EU\n-\tInternal trainings and capacity building\n-\tCustomer relations\n-\tVVB selection and communication\n-\tInnovate for Climate Conference Participation\n-\tIFM project preparation\n-\tEcosystem services valuation integration",
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Environmental Services"
+                ]
+            },
+            "title": "Natural Climate Solutions Manager",
+            "region": "urn:li:fs_region:(nl,0)",
+            "companyUrn": "urn:li:fs_miniCompany:5012520",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGZqiskpkZh-w/company-logo_"
+        },
+        {
+            "locationName": "EU",
+            "entityUrn": "urn:li:fs_position:(ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY,957678477)",
+            "geoLocationName": "EU",
+            "companyName": "Wild Power",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2016
+                }
+            },
+            "description": "Wild Power is a voluntary certification scheme for biodiversity at renewable energy plants. Its goal is to encourage biodiversity at energy sites through assessment and recognition of pro-biodiversity land management.\n-\tDeveloping indicators/accounting for solar farm natural capital enhancement, nature based GHG removal and adaptation measures,\n-\tSolar Biodiversity Scorecard development for the biodiversity enhancement and ecosystem services measurements of restored solar farms,\n-\tValuation for ecosystems services using SPIES online tool\n-\tWild Power business plan development for multiple scenarios including certification fees, supplier company, REC/REGO/GO revenue stream and biodiversity credits.\n-\tDevelopment of the independently verifiable Wild Power Guidelines\n-\tChapter author in the Climate Change and Biodiversity Handbook by Springer \n-\tGHG emission reporting\n-\tWater- and soil protection\n-\tSPIES workshops, contributing for the ecosystem services online tool \n-\tIndustry, NGO and Academic consultation\n-\tEUGIC Pitch Presentation\n-\tInnovate4Climate, STA Workshop Industry Presentations\n-\tWorld Symposium on Climate Change and Biodiversity Presentation, contribution for international long term biodiversity plans including integration to NDCs (Manchester University)",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Business Development Manager",
+            "companyUrn": "urn:li:fs_miniCompany:68269022",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHV86KrzAjtEw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY,62368900)",
+            "companyName": "GD CO2 CONSULTING Ltd.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2010
+                }
+            },
+            "description": "-\tFinancial products (including Bloomberg FiRe program Champion of the \nSME GREEN FUND that provides know-how, co-finance and transparent monitoring – invited to the Bloomberg The Future of Energy Summit)\n-\tEcosystem credits (including working with Eco-Asset Solutions & Innovations - USA, and development of the Climate Power Certification Guidelines - Switzerland)\n-\tOcean climate change mitigation/adaptation (including developing the framework for the ocean ecosystem restoration GHG methodology for the Haida Salmon Restoration Corporation - Canada)\n-\tEU grant applications (including Horizon 2020, EuropeAid, ELENA etc.)\n-\tPolicy development (including Green Development Policy for Hungary created for the former Hungarian Minister of Environment for the 2014 elections)\n",
+            "title": "Managing director"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY,1364990125)",
+            "companyName": "Eco-Asset Solutions & Innovations",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2014
+                }
+            },
+            "description": "-\tGIS and DCF based ecosystem- and adaptation- land asset valuation\n-\tNatural capital accounting, valuation for ecosystems services based on market indicators\n-\tMultiple State Compensatory Mitigation Credit Price Research\n-\tBiodiversity and ecosystem mitigation credit introduction into the European market with MCPR database justification (UK, France, Germany)\n-\tPresentation for multiple stakeholders\n-\tEcosystem credits (UK, Switzerland and USA) methodologies for developing of environmental indicators and data validation process\n-\tGIS based wetland-, water- and species data implementation",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Environmental Services"
+                ]
+            },
+            "title": "Research And Development Specialist",
+            "companyUrn": "urn:li:fs_miniCompany:7585207",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFr8bktwL8-DQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY,29238930)",
+            "school": {
+                "objectUrn": "urn:li:school:12912",
+                "entityUrn": "urn:li:fs_miniSchool:12912",
+                "active": true,
+                "schoolName": "Semmelweis University",
+                "trackingId": "yZ6mfQyyTfOmw0G1wxRzuw==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEmFPON2tk3wA/company-logo_"
+            },
+            "activities": "Research: Heat shock proteins (HSPs), at the Molecular Biology Department working with Western-blot technique of the IL-6 effect on IL6 receptor – gp130 - RAS - enzyme phosphorylation cascade. (1995. – 1996.)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1992
+                }
+            },
+            "description": "Thesis: Comparative analysis of financial structures of Healthcare systems in Germany, Great Britain, Hungary and United States of America. (1998.)\n\n",
+            "degreeName": "Doctor of Medicine (M.D.)",
+            "schoolName": "Semmelweis University",
+            "fieldOfStudy": "Thesis: Medical financial systems ",
+            "schoolUrn": "urn:li:fs_miniSchool:12912"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY,370163757)",
+            "school": {
+                "objectUrn": "urn:li:school:12912",
+                "entityUrn": "urn:li:fs_miniSchool:12912",
+                "active": true,
+                "schoolName": "Semmelweis University",
+                "trackingId": "s/KPZmYFQw+Gog/6ZMf07A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQEmFPON2tk3wA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1992
+                }
+            },
+            "degreeName": "MD",
+            "schoolName": "Semmelweis University",
+            "degreeUrn": "urn:li:fs_degree:0",
+            "schoolUrn": "urn:li:fs_miniSchool:12912"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Bulgarian",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Dutch",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "German",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Hungarian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Russian",
+            "proficiency": "ELEMENTARY"
+        }
+    ],
+    "publications": [
+        {
+            "date": {
+                "month": 9,
+                "year": 2018,
+                "day": 1
+            },
+            "name": "Wild Power, Biodiversity and Solar Farms: A Business Model to Encourage Climate Change Mitigation and Adaptation at Scale - Handbook of Climate Change and Biodiversity Chapter",
+            "publisher": "Springer",
+            "description": "The intent is to encourage RE as a means of mitigating CC and promote adaptation through the creation of biodiversity-rich sites that should also enhance ecosystem services delivery.",
+            "url": "https://www.springer.com/us/book/9783319986807",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "David",
+                        "lastName": "Gazdag",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY",
+                        "occupation": "Climate Change Mitigation/Carbon Market and Ecosystem Services Monetization Expert",
+                        "objectUrn": "urn:li:member:39283380",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 737,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1637086383053?e=1707955200&v=beta&t=pfMfKvq09kNhWFy_i7kKS2uFCZor0C1KnR8qjVLPd2w",
+                                        "expiresAt": 1707955200000,
+                                        "height": 184
+                                    },
+                                    {
+                                        "width": 737,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1637086383053?e=1707955200&v=beta&t=-09qnuHbHle23763su8hvpag6EeULDWizBxLdl1Eunk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 184
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQFIgzWTicfPlw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "davidgazdag",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517748509575?e=1707955200&v=beta&t=ypQzY3JXElbDUWLwhxIQmfTm7VmFVBC51tMrXMB-fMI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517748509546?e=1707955200&v=beta&t=eqtRZ4BgQWv1N6BQ2p4avrWreZCwQ_DRNXqPzU2_sKs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 333,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517748509539?e=1707955200&v=beta&t=mieOklQEu3SCvzNioSdoNECnsSlB5Mi9NTG6I0Gtbtg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 333
+                                    },
+                                    {
+                                        "width": 333,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517748509572?e=1707955200&v=beta&t=D-2Lk1nr6Ah--ZVVZH-gwoFQoDkuXjuAigEEHCA5e_Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 333
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQHtwH9cbcxbsg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "AT67z5wCRFG95lgvVLQjXA=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY"
+                }
+            ]
+        }
+    ],
+    "certifications": [],
+    "volunteer": [
+        {
+            "role": "Member of the Supervisory Board",
+            "companyName": "Hungarian Association of NGOs for Development and Humanitarian Aid",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2004
+                }
+            },
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:3076672",
+                    "entityUrn": "urn:li:fs_miniCompany:3076672",
+                    "name": "Hungarian Association of NGOs for Development and Humanitarian Aid",
+                    "showcase": false,
+                    "active": false,
+                    "universalName": "hungarian-association-of-ngos-for-development-and-humanitarian-aid",
+                    "dashCompanyUrn": "urn:li:fsd_company:3076672",
+                    "trackingId": "J15FGzWYQ22+7ZEvXfQBLw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:3076672"
+        },
+        {
+            "role": "Member of the COTONOU Working Group",
+            "companyName": "CONCORD Europe",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2005
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2003
+                }
+            },
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "company": {
+                "miniCompany": {
+                    "objectUrn": "urn:li:company:2512398",
+                    "entityUrn": "urn:li:fs_miniCompany:2512398",
+                    "name": "CONCORD",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1663931122092/concord_europe_logo?e=1710374400&v=beta&t=jLb34G4ibg2qG4iqiibbLtq_c440icVaP4CRUqnVs8w",
+                                    "expiresAt": 1710374400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1663931122092/concord_europe_logo?e=1710374400&v=beta&t=0iDy53aIU12ztthsIT4S3n6lYdd6vdFvt65GbshUwx4",
+                                    "expiresAt": 1710374400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1663931122092/concord_europe_logo?e=1710374400&v=beta&t=vMWZjOABYzO6UtEu9JjW1aSEi4-Lbov82PROBwlLLP0",
+                                    "expiresAt": 1710374400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGGobYcBEAUuw/company-logo_"
+                        }
+                    },
+                    "universalName": "concord-europe",
+                    "dashCompanyUrn": "urn:li:fsd_company:2512398",
+                    "trackingId": "rErZuO4HTt+92GAOgyXLAw=="
+                }
+            },
+            "companyUrn": "urn:li:fs_miniCompany:2512398"
+        }
+    ],
+    "honors": [],
+    "projects": [
+        {
+            "occupation": "urn:li:fs_position:(ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY,169214960)",
+            "members": [
+                {
+                    "member": {
+                        "firstName": "David",
+                        "lastName": "Gazdag",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY",
+                        "occupation": "Climate Change Mitigation/Carbon Market and Ecosystem Services Monetization Expert",
+                        "objectUrn": "urn:li:member:39283380",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 737,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1637086383053?e=1707955200&v=beta&t=pfMfKvq09kNhWFy_i7kKS2uFCZor0C1KnR8qjVLPd2w",
+                                        "expiresAt": 1707955200000,
+                                        "height": 184
+                                    },
+                                    {
+                                        "width": 737,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1637086383053?e=1707955200&v=beta&t=-09qnuHbHle23763su8hvpag6EeULDWizBxLdl1Eunk",
+                                        "expiresAt": 1707955200000,
+                                        "height": 184
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQFIgzWTicfPlw/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "davidgazdag",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517748509575?e=1707955200&v=beta&t=ypQzY3JXElbDUWLwhxIQmfTm7VmFVBC51tMrXMB-fMI",
+                                        "expiresAt": 1707955200000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517748509546?e=1707955200&v=beta&t=eqtRZ4BgQWv1N6BQ2p4avrWreZCwQ_DRNXqPzU2_sKs",
+                                        "expiresAt": 1707955200000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 333,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517748509539?e=1707955200&v=beta&t=mieOklQEu3SCvzNioSdoNECnsSlB5Mi9NTG6I0Gtbtg",
+                                        "expiresAt": 1707955200000,
+                                        "height": 333
+                                    },
+                                    {
+                                        "width": 333,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517748509572?e=1707955200&v=beta&t=D-2Lk1nr6Ah--ZVVZH-gwoFQoDkuXjuAigEEHCA5e_Y",
+                                        "expiresAt": 1707955200000,
+                                        "height": 333
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5603AQHtwH9cbcxbsg/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "AT67z5wCRFG95lgvVLQjXA=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY,1737017168,197197361)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAJXarQBH6z3Q1v8tGs5Msq03RrlUNepNxY"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2010
+                }
+            },
+            "description": "The modullar REDD+ Methodology Framework (REDD-MF) has provided the much needed methodological tool for quantifying and verifying GHG emission reductions from deforestation and forest degradation, and thus significantly has contributed to climate change mitigation and protection of forest ecosystems globally.\nIt has been a vital step for the  global climate change mitigation policies, to show that additional, monitored REDD projects are achievable - I am very proud to be part of its first validation.",
+            "title": "First validation of the REDD+ Methodology Framework (REDD-MF) ",
+            "url": "https://verra.org/wp-content/uploads/2017/10/VM0007v1.0FirstAssessmentReport.pdf"
+        }
+    ]
+}
