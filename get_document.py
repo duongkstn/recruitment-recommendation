@@ -1,4 +1,6 @@
 import json, os, re
+import time
+
 import pandas as pd
 from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModel
@@ -118,7 +120,7 @@ if __name__ == "__main__":
 
     def print_profile(id):
         return input_texts[id]
-    put_markdown('## Hello there')
+    put_markdown('## DEMO RESULT')
 
     accept_i = []
     reject_i = []
@@ -128,11 +130,16 @@ if __name__ == "__main__":
             accept_i.append(i)
         elif x == "Reject":
             reject_i.append(i)
+        with use_scope(f"{x}-{i}"):
+            clear()
+            put_buttons([
+                {"label": f"{x}ed", "value": x, "color": "success"}], onclick=partial(Onclick, i=i))
         return x
 
     def Apply(x):
         global ids, accept_i, reject_i
-
+        with use_scope('loading'):
+            put_loading(shape="border", color="dark")
         if len(accept_i) > 0 or len(reject_i) > 0:
             id2score = {}
             for i in accept_i:
@@ -157,14 +164,21 @@ if __name__ == "__main__":
         
         with use_scope('table'):
             clear()  # clear old table
+
         print(ids)
         accept_i = []
         reject_i = []
         L = [["id", "Data"]]
         for i, id in enumerate(ids):
-            L.append([i, f"This is profile {id}"])
-            L.append(["text", print_profile(id)])
-            L.append(['', put_buttons([f'Accept', f'Reject'], onclick=partial(Onclick, i=i))])
+            L.append([i, put_html(f'<h3 style="background-color:cyan;"> Profile {id} </h3>')])
+            L.append(["", print_profile(id)])
+            L.append(['', put_scope(f'Accept-{i}', put_buttons([
+                {"label": f'Accept', "value": f'Accept', "color": "info"}], onclick=partial(Onclick, i=i)))]),
+            L.append(['', put_scope(f'Reject-{i}', put_buttons([
+                {"label": f'Reject', "value": f'Reject', "color": "dark"}], onclick=partial(Onclick, i=i)))]),
+        with use_scope('loading'):
+            time.sleep(2)
+            clear()
         with use_scope('table'):
             put_table(L)
         return x
