@@ -86,6 +86,7 @@ if __name__ == "__main__":
 
     df['text'] = df.apply(lambda x: get_text(x),axis=1)
     input_texts = df['text'].values.tolist()
+    df.to_csv("data.csv", index=False)
     print(df)
 
 
@@ -119,7 +120,26 @@ if __name__ == "__main__":
     dense_searcher = load_and_add_vector_index_faiss(all_embeddings_faiss_filename)
 
     def print_profile(id):
-        return input_texts[id]
+        row = df.iloc[id]
+
+        # experience_table = put_table(pd.DataFrame(row['experience']).t)
+        experience_table = []
+        for x in row['experience']:
+            experience_table.append({
+                "title": x['job-title'],
+                "summary": x['job-summary'],
+                "company": x['job-company'],
+                "industry": x['job-industry']
+            })
+        experience_table = put_table(experience_table)
+
+        return put_table(
+            [["field", "content"],
+             [put_markdown("#### Title"), row['title']],
+             [put_markdown("#### Summary"), row['summary']],
+             [put_markdown("#### Industry"), row['industry']],
+             [put_markdown("#### Experience"), experience_table]]
+        )
     put_markdown('## DEMO RESULT')
 
     accept_i = []
@@ -170,7 +190,7 @@ if __name__ == "__main__":
         reject_i = []
         L = [["id", "Data"]]
         for i, id in enumerate(ids):
-            L.append([i, put_html(f'<h3 style="background-color:cyan;"> Profile {id} </h3>')])
+            L.append([i, put_html(f'<h3 style="background-color:cyan;"> Profile {str(id)} </h3>')])
             L.append(["", print_profile(id)])
             L.append(['', put_scope(f'Accept-{i}', put_buttons([
                 {"label": f'Accept', "value": f'Accept', "color": "info"}], onclick=partial(Onclick, i=i)))]),
@@ -180,7 +200,10 @@ if __name__ == "__main__":
             time.sleep(2)
             clear()
         with use_scope('table'):
+            # put_grid([[put_table(L)]], cell_width='10000px')
+
             put_table(L)
+
         return x
 
     ids = list(range(len(input_texts)))
