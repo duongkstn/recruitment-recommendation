@@ -7,7 +7,11 @@ import numpy as np
 from elasticsearch import Elasticsearch, helpers
 from pywebio.output import *
 from functools import partial
+from datasets import load_dataset, Dataset
+from sentence_transformers.losses import CosineSimilarityLoss
 
+from setfit import SetFitModel, SetFitTrainer
+os.environ['WANDB_DISABLED'] = 'true'
 if __name__ == "__main__":
     df = []
     for file_ in sorted(os.listdir("res")):
@@ -145,6 +149,7 @@ if __name__ == "__main__":
 
     accept_i = []
     reject_i = []
+    model = SetFitModel.from_pretrained('intfloat/e5-large', cache_dir="cache_dir")
 
 
     def Onclick(x, i):
@@ -188,6 +193,30 @@ if __name__ == "__main__":
             id2score = sorted(id2score.items(), key=lambda item: -item[1])
             ids = [x[0] for x in id2score]
             print(id2score)
+
+            df_sparse = pd.DataFrame({
+                "text": [input_texts[id_] for id_ in ids[:10]] + [input_texts[id_] for id_ in ids[-10:]],
+                "label": [1] * len(ids[:10]) + [0] * len(ids[-10:])
+            })
+            train_ds = Dataset.from_pandas(df_sparse)
+            print(df_sparse)
+            trainer = SetFitTrainer(
+                model=model,
+                train_dataset=train_ds,
+                eval_dataset=None,
+                loss_class=CosineSimilarityLoss,
+                batch_size=1,
+                num_iterations=20,  # Number of text pairs to generate for contrastive learning
+                num_epochs=1,  # Number of epochs to use for contrastive learning
+            )
+            trainer.train(end_to_end=False)
+            score = model.predict_proba(input_texts, as_numpy=True, show_progress_bar=True, batch_size=4)
+            id2score = {i: score[i][1] for i in range(len(score))}
+            id2score = sorted(id2score.items(), key=lambda item: -item[1])
+            ids = [x[0] for x in id2score]
+            print(id2score)
+
+
 
         with use_scope('table'):
             clear()  # clear old table

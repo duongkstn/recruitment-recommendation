@@ -12,12 +12,11 @@ print(len(train_ds))
 for x in train_ds:
     print(x)
 print(len(test_ds))
-# exit(0)
 
 
 # Load SetFit model from Hub
-# model = SetFitModel.from_pretrained('intfloat/e5-large', cache_dir="cache_dir")
-model = SetFitModel.from_pretrained('intfloat/multilingual-e5-large', cache_dir="cache_dir")
+model = SetFitModel.from_pretrained('intfloat/e5-large', cache_dir="cache_dir")
+# model = SetFitModel.from_pretrained('intfloat/multilingual-e5-large', cache_dir="cache_dir")
 # model = SetFitModel.from_pretrained('sentence-transformers/paraphrase-mpnet-base-v2', cache_dir="cache_dir")
 
 # Create trainer
@@ -37,4 +36,5 @@ trainer.train(end_to_end=False)
 metrics = trainer.evaluate()
 print(metrics)
 
+print(model.predict(["i am happy", "i am sad"]))
 

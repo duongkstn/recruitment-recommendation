@@ -65,24 +65,44 @@ if __name__ == "__main__":
         },
         'mappings': {
             'properties': {
-                'text': {
+                'title': {
+                    'type': 'text',
+                    'similarity': 'bm25_custom'
+                },
+                'summary': {
+                    'type': 'text',
+                    'similarity': 'bm25_custom'
+                },
+                'industry': {
                     'type': 'text',
                     'similarity': 'bm25_custom'
                 }
             }
         }
     }
-    index = "recruit"
+    index = "recruit2"
     if not es.indices.exists(index=index):
         es.indices.create(index=index, mappings=body['mappings'], settings=body['settings'], request_timeout=60)
 
         bulk_data_create = []
-        for id_, text in enumerate(input_texts):
+        for id_ in range(len(df)):
+            row = df.iloc[id_]
+            s = []
+            for job in row['experience']:
+                s.append(job['job-title'])
+                s.append(job['job-summary'])
+                s.append(job['job-company'])
+                s.append(job['job-industry'])
+            s = [k for k in s if k != ""]
+            s = " . ".join(s)
             bulk_data_elem = {
                 '_op_type': 'create',
                 '_id': id_,
                 '_source': {
-                    'text': text,
+                    'title': row['title'],
+                    'summary': row['summary'],
+                    'industry': row['industry'],
+                    'experience': s
                 }
             }
             bulk_data_create.append(bulk_data_elem)
@@ -92,15 +112,51 @@ if __name__ == "__main__":
         print(f"success = {success}, failed = {failed}")
 
 
-    def search(text):
+    def search(row):
+        s = []
+        for job in row['experience']:
+            s.append(job['job-title'])
+            s.append(job['job-summary'])
+            s.append(job['job-company'])
+            s.append(job['job-industry'])
+        s = [k for k in s if k != ""]
+        s = " . ".join(s)
         try:
             should = [
                 {
                     "match": {
-                        "text": text
+                        "title": {
+                            "query": row["title"],
+                            "boost": 100
+                        }
+                    }
+                },
+                {
+                    "match": {
+                        "summary": {
+                            "query": row["summary"],
+                            "boost": 3
+                        }
+                    }
+                },
+                {
+                    "match": {
+                        "industry": {
+                            "query": row["industry"],
+                            "boost": 50
+                        }
+                    }
+                },
+                {
+                    "match": {
+                        "experience": {
+                            "query": s,
+                            "boost": 1
+                        }
                     }
                 }
             ]
+            print(f"should = {should}")
             response = es.search(index=index, size=1000,
                                     query={
                                         "bool": {
@@ -168,7 +224,7 @@ if __name__ == "__main__":
             id2score = {}
             for i in accept_i:
                 id = ids[i]
-                bm25_result = search(input_texts[id])
+                bm25_result = search(df.iloc[id])
                 for id in bm25_result:
                     score = bm25_result[id]
                     if id not in id2score:
@@ -178,7 +234,7 @@ if __name__ == "__main__":
 
             for i in reject_i:
                 id = ids[i]
-                bm25_result = search(input_texts[id])
+                bm25_result = search(df.iloc[id])
                 for id in bm25_result:
                     score = bm25_result[id]
                     if id not in id2score:
@@ -187,12 +243,10 @@ if __name__ == "__main__":
                         id2score[id] -= score
             id2score = sorted(id2score.items(), key=lambda item: -item[1])
             ids = [x[0] for x in id2score]
-            print(id2score)
 
         with use_scope('table'):
             clear()  # clear old table
 
-        print(ids)
         accept_i = []
         reject_i = []
         L = [["id", "Data"]]

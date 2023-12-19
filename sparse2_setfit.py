@@ -7,7 +7,11 @@ import numpy as np
 from elasticsearch import Elasticsearch, helpers
 from pywebio.output import *
 from functools import partial
-
+from datasets import load_dataset, Dataset
+from sentence_transformers.losses import CosineSimilarityLoss
+import torch
+from setfit import SetFitModel, SetFitTrainer
+os.environ['WANDB_DISABLED'] = 'true'
 if __name__ == "__main__":
     df = []
     for file_ in sorted(os.listdir("res")):
@@ -65,24 +69,44 @@ if __name__ == "__main__":
         },
         'mappings': {
             'properties': {
-                'text': {
+                'title': {
+                    'type': 'text',
+                    'similarity': 'bm25_custom'
+                },
+                'summary': {
+                    'type': 'text',
+                    'similarity': 'bm25_custom'
+                },
+                'industry': {
                     'type': 'text',
                     'similarity': 'bm25_custom'
                 }
             }
         }
     }
-    index = "recruit"
+    index = "recruit2"
     if not es.indices.exists(index=index):
         es.indices.create(index=index, mappings=body['mappings'], settings=body['settings'], request_timeout=60)
 
         bulk_data_create = []
-        for id_, text in enumerate(input_texts):
+        for id_ in range(len(df)):
+            row = df.iloc[id_]
+            s = []
+            for job in row['experience']:
+                s.append(job['job-title'])
+                s.append(job['job-summary'])
+                s.append(job['job-company'])
+                s.append(job['job-industry'])
+            s = [k for k in s if k != ""]
+            s = " . ".join(s)
             bulk_data_elem = {
                 '_op_type': 'create',
                 '_id': id_,
                 '_source': {
-                    'text': text,
+                    'title': row['title'],
+                    'summary': row['summary'],
+                    'industry': row['industry'],
+                    'experience': s
                 }
             }
             bulk_data_create.append(bulk_data_elem)
@@ -92,15 +116,51 @@ if __name__ == "__main__":
         print(f"success = {success}, failed = {failed}")
 
 
-    def search(text):
+    def search(row):
+        s = []
+        for job in row['experience']:
+            s.append(job['job-title'])
+            s.append(job['job-summary'])
+            s.append(job['job-company'])
+            s.append(job['job-industry'])
+        s = [k for k in s if k != ""]
+        s = " . ".join(s)
         try:
             should = [
                 {
                     "match": {
-                        "text": text
+                        "title": {
+                            "query": row["title"],
+                            "boost": 100
+                        }
+                    }
+                },
+                {
+                    "match": {
+                        "summary": {
+                            "query": row["summary"],
+                            "boost": 3
+                        }
+                    }
+                },
+                {
+                    "match": {
+                        "industry": {
+                            "query": row["industry"],
+                            "boost": 50
+                        }
+                    }
+                },
+                {
+                    "match": {
+                        "experience": {
+                            "query": s,
+                            "boost": 1
+                        }
                     }
                 }
             ]
+            print(f"should = {should}")
             response = es.search(index=index, size=1000,
                                     query={
                                         "bool": {
@@ -145,6 +205,19 @@ if __name__ == "__main__":
 
     accept_i = []
     reject_i = []
+    # model = SetFitModel.from_pretrained('intfloat/e5-large', cache_dir="cache_dir")
+    import redis, msgpack
+    redis_db = redis.StrictRedis(
+        host="localhost",
+        port=31000,
+        db=3,
+        password="",
+        ssl=False,
+        decode_responses=False,
+        socket_timeout=10,
+    )
+    for x in input_texts:
+        redis_db.rpush("input_texts", x)
 
 
     def Onclick(x, i):
@@ -168,7 +241,7 @@ if __name__ == "__main__":
             id2score = {}
             for i in accept_i:
                 id = ids[i]
-                bm25_result = search(input_texts[id])
+                bm25_result = search(df.iloc[id])
                 for id in bm25_result:
                     score = bm25_result[id]
                     if id not in id2score:
@@ -178,7 +251,7 @@ if __name__ == "__main__":
 
             for i in reject_i:
                 id = ids[i]
-                bm25_result = search(input_texts[id])
+                bm25_result = search(df.iloc[id])
                 for id in bm25_result:
                     score = bm25_result[id]
                     if id not in id2score:
@@ -187,12 +260,50 @@ if __name__ == "__main__":
                         id2score[id] -= score
             id2score = sorted(id2score.items(), key=lambda item: -item[1])
             ids = [x[0] for x in id2score]
-            print(id2score)
+
+            for x in ids:
+                redis_db.rpush("ids", str(x))
+
+            # df_sparse = pd.DataFrame({
+            #     "text": [input_texts[id_] for id_ in ids[:4]] + [input_texts[id_] for id_ in ids[-4:]],
+            #     "label": [1] * len(ids[:4]) + [0] * len(ids[-4:])
+            # })
+            # train_ds = Dataset.from_pandas(df_sparse)
+            # print(df_sparse)
+            # model.to("cuda")
+            # trainer = SetFitTrainer(
+            #     model=model,
+            #     train_dataset=train_ds,
+            #     eval_dataset=None,
+            #     loss_class=CosineSimilarityLoss,
+            #     batch_size=1,
+            #     num_iterations=10,  # Number of text pairs to generate for contrastive learning
+            #     num_epochs=1,  # Number of epochs to use for contrastive learning
+            # )
+            # trainer.train(end_to_end=False)
+            # model.model_body.zero_grad()
+            # trainer.callback_handler.optimizer.zero_grad()
+            # with torch.no_grad():
+            #     score = model.predict_proba(input_texts, as_numpy=True, show_progress_bar=True, batch_size=4)
+            #     id2score = {i: score[i][1] for i in range(len(score))}
+            #     id2score = sorted(id2score.items(), key=lambda item: -item[1])
+            #     ids = [x[0] for x in id2score]
+            #     print(id2score)
+            #     del score
+            #     torch.cuda.empty_cache()
+            # model.to("cpu")
+            while True:
+                ids = redis_db.lrange("result_ids", 0, -1)
+                if len(ids) == len(input_texts):
+                    ids = [int(x) for x in ids]
+                    print("result_ids = ", ids)
+                    redis_db.delete("ids")
+                    break
+
 
         with use_scope('table'):
             clear()  # clear old table
 
-        print(ids)
         accept_i = []
         reject_i = []
         L = [["id", "Data"]]
