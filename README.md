@@ -2,7 +2,7 @@
 
 Author: duongkstn
 
-## Problem Statement
+## Problem Statement:
 Given profiles, each time user click accept/reject, the system must re-rank the result.
 The format of each profile as follow:
 ```json
@@ -54,6 +54,15 @@ https://redis.io/docs/install/install-redis/
 - Run `python sparse_setfit.py`, it will open a web browser
 
 ![img.png](img.png)
+
+Click Accept/Reject and click Apply then wait...
+
+### 4. Project Structure
+- `res` is profile folders, it includes `224` profiles
+- `data.csv` is dumped dataframe when running
+- `config.yaml` is environment variable config. **Please change these parameters before running**
+- `vector.npy` and `vector.faiss` is dumped dense vector matrix when running method 2
+
 
 
 
