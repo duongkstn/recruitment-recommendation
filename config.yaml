@@ -1,0 +1,8 @@
+hosts: https://localhost:9200
+verify_certs: False
+http_auth_user: elastic
+http_auth_password: h7gh7EFpGmfBckv44v-q
+index: recruit
+redis_host: localhost
+redis_port: 31000
+redis_db: 3
